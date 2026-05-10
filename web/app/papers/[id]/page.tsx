@@ -1,0 +1,118 @@
+"use client";
+
+import { useEffect, useState } from "react";
+import Link from "next/link";
+import { useParams } from "next/navigation";
+
+type Paper = {
+  id: number;
+  doi: string | null;
+  title: string;
+  journal: string | null;
+  year: number | null;
+  date: string | null;
+  volume: string | null;
+  issue: string | null;
+  authors: string[];
+  authors_full: { name: string; affiliation?: string[]; orcid?: string }[];
+  abstract: string | null;
+  url: string | null;
+  pdf_url: string | null;
+  cited_by: number;
+  ai_score: number;
+  domain_score: number;
+  ai_reason: string;
+  tldr: string | null;
+  topic_tags: string[];
+  ai_type_tags: string[];
+};
+
+export default function PaperDetail() {
+  const params = useParams<{ id: string }>();
+  const id = Number(params.id);
+  const [p, setP] = useState<Paper | null>(null);
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    fetch("/data/papers_full.json")
+      .then((r) => r.json())
+      .then((all: Paper[]) => {
+        setP(all.find((x) => x.id === id) || null);
+        setLoading(false);
+      });
+  }, [id]);
+
+  if (loading) return <div className="text-stone-500 text-sm py-20 text-center">加载中…</div>;
+  if (!p) return <div className="text-center py-20"><p className="text-stone-500">未找到。</p><Link href="/" className="text-accent hover:underline mt-4 inline-block">← 返回</Link></div>;
+
+  return (
+    <article className="max-w-3xl mx-auto">
+      <Link href="/" className="text-sm text-accent hover:underline">← 返回列表</Link>
+
+      <div className="mt-4 flex gap-4 text-xs text-stone-500">
+        <span className="font-mono">{p.journal}</span>
+        {p.year && <span>{p.date || p.year}</span>}
+        {p.volume && <span>Vol.{p.volume}{p.issue ? `(${p.issue})` : ""}</span>}
+        <span>引用 {p.cited_by}</span>
+      </div>
+
+      <h1 className="text-2xl font-semibold leading-tight mt-2">{p.title}</h1>
+
+      <div className="text-sm text-stone-700 mt-3">
+        {p.authors_full?.map((a, i) => (
+          <span key={i}>
+            {a.name}
+            {a.affiliation?.length ? <span className="text-stone-400 text-xs"> ({a.affiliation[0]})</span> : null}
+            {i < p.authors_full.length - 1 ? "; " : ""}
+          </span>
+        ))}
+      </div>
+
+      <div className="flex gap-4 mt-3 text-sm">
+        {p.url && <a href={p.url} target="_blank" rel="noopener" className="text-accent hover:underline">原文 ↗</a>}
+        {p.pdf_url && <a href={p.pdf_url} target="_blank" rel="noopener" className="text-accent hover:underline">PDF ↗</a>}
+        {p.doi && <span className="text-stone-400 font-mono text-xs">DOI: {p.doi}</span>}
+      </div>
+
+      {p.tldr && (
+        <section className="mt-6 p-4 bg-accent/5 border-l-4 border-accent rounded-r">
+          <div className="text-xs text-accent font-semibold mb-1">中文 TL;DR</div>
+          <p className="text-stone-800 leading-relaxed">{p.tldr}</p>
+        </section>
+      )}
+
+      <section className="mt-6">
+        <div className="text-xs text-stone-500 font-semibold mb-2">主题标签</div>
+        <div className="flex flex-wrap gap-1.5">
+          {p.topic_tags?.map((t) => <span key={t} className="chip">{t}</span>)}
+          {p.ai_type_tags?.map((t) => <span key={"ai-" + t} className="chip border-accent/40 text-accent">{t}</span>)}
+        </div>
+      </section>
+
+      <section className="mt-6">
+        <div className="text-xs text-stone-500 font-semibold mb-2">LLM 评分</div>
+        <div className="flex gap-6 text-sm">
+          <div>
+            <div className="text-xs text-stone-400">AI 相关性</div>
+            <div className="font-mono text-2xl text-accent">{p.ai_score?.toFixed(0)} <span className="text-xs text-stone-400">/ 5</span></div>
+          </div>
+          <div>
+            <div className="text-xs text-stone-400">领域相关性</div>
+            <div className="font-mono text-2xl text-accent">{p.domain_score?.toFixed(0)} <span className="text-xs text-stone-400">/ 5</span></div>
+          </div>
+          <div className="flex-1">
+            <div className="text-xs text-stone-400">理由</div>
+            <div className="text-stone-700">{p.ai_reason}</div>
+          </div>
+        </div>
+      </section>
+
+      {p.abstract && (
+        <section className="mt-6">
+          <div className="text-xs text-stone-500 font-semibold mb-2">原始摘要 (英文)</div>
+          <p className="text-stone-700 leading-relaxed text-sm whitespace-pre-wrap">{p.abstract}</p>
+        </section>
+      )}
+    </article>
+  );
+}

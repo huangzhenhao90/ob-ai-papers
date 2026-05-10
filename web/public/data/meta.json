@@ -1,0 +1,640 @@
+{
+  "generated_at": "2026-05-10T09:13:02.111278Z",
+  "totals": {
+    "papers_indexed": 10846,
+    "papers_scored": 10846,
+    "papers_ai_relevant": 1564
+  },
+  "journals": [
+    {
+      "abbr": "AMJ",
+      "name_en": "Academy of Management Journal",
+      "name_zh": "管理学会期刊",
+      "publisher": "AOM",
+      "tier": "A",
+      "domain": [
+        "OB",
+        "management"
+      ],
+      "lang": "en",
+      "publisher_toc": "https://journals.aom.org/loi/amj",
+      "papers_indexed": 247,
+      "papers_ai_relevant": 11
+    },
+    {
+      "abbr": "AMR",
+      "name_en": "Academy of Management Review",
+      "name_zh": "管理学会评论",
+      "publisher": "AOM",
+      "tier": "A",
+      "domain": [
+        "OB",
+        "management"
+      ],
+      "lang": "en",
+      "publisher_toc": "https://journals.aom.org/loi/amr",
+      "papers_indexed": 248,
+      "papers_ai_relevant": 21
+    },
+    {
+      "abbr": "ASQ",
+      "name_en": "Administrative Science Quarterly",
+      "name_zh": "管理科学季刊",
+      "publisher": "SAGE",
+      "tier": "A",
+      "domain": [
+        "OB",
+        "management"
+      ],
+      "lang": "en",
+      "publisher_toc": "https://journals.sagepub.com/loi/asq",
+      "papers_indexed": 193,
+      "papers_ai_relevant": 8
+    },
+    {
+      "abbr": "JAP",
+      "name_en": "Journal of Applied Psychology",
+      "name_zh": "应用心理学杂志",
+      "publisher": "APA",
+      "tier": "A",
+      "domain": [
+        "OB",
+        "psychology"
+      ],
+      "lang": "en",
+      "publisher_toc": "https://psycnet.apa.org/PsycARTICLES/journal/apl",
+      "papers_indexed": 473,
+      "papers_ai_relevant": 21
+    },
+    {
+      "abbr": "OrgSci",
+      "name_en": "Organization Science",
+      "name_zh": "组织科学",
+      "publisher": "INFORMS",
+      "tier": "A",
+      "domain": [
+        "OB",
+        "management"
+      ],
+      "lang": "en",
+      "publisher_toc": "https://pubsonline.informs.org/loi/orsc",
+      "papers_indexed": 415,
+      "papers_ai_relevant": 11
+    },
+    {
+      "abbr": "PPsych",
+      "name_en": "Personnel Psychology",
+      "name_zh": "人事心理学",
+      "publisher": "Wiley",
+      "tier": "A",
+      "domain": [
+        "OB",
+        "psychology"
+      ],
+      "lang": "en",
+      "publisher_toc": "https://onlinelibrary.wiley.com/journal/17446570",
+      "papers_indexed": 155,
+      "papers_ai_relevant": 9
+    },
+    {
+      "abbr": "OBHDP",
+      "name_en": "Organizational Behavior and Human Decision Processes",
+      "name_zh": "组织行为与人类决策过程",
+      "publisher": "Elsevier",
+      "tier": "A",
+      "domain": [
+        "OB"
+      ],
+      "lang": "en",
+      "publisher_toc": "https://www.sciencedirect.com/journal/organizational-behavior-and-human-decision-processes",
+      "papers_indexed": 128,
+      "papers_ai_relevant": 2
+    },
+    {
+      "abbr": "JOB",
+      "name_en": "Journal of Organizational Behavior",
+      "name_zh": "组织行为学杂志",
+      "publisher": "Wiley",
+      "tier": "A",
+      "domain": [
+        "OB"
+      ],
+      "lang": "en",
+      "publisher_toc": "https://onlinelibrary.wiley.com/journal/10991379",
+      "papers_indexed": 312,
+      "papers_ai_relevant": 17
+    },
+    {
+      "abbr": "JOM",
+      "name_en": "Journal of Management",
+      "name_zh": "管理学杂志",
+      "publisher": "SAGE",
+      "tier": "A",
+      "domain": [
+        "OB",
+        "management"
+      ],
+      "lang": "en",
+      "publisher_toc": "https://journals.sagepub.com/loi/jom",
+      "papers_indexed": 335,
+      "papers_ai_relevant": 6
+    },
+    {
+      "abbr": "SMJ",
+      "name_en": "Strategic Management Journal",
+      "name_zh": "战略管理杂志",
+      "publisher": "Wiley",
+      "tier": "A",
+      "domain": [
+        "management"
+      ],
+      "lang": "en",
+      "publisher_toc": "https://onlinelibrary.wiley.com/journal/10970266",
+      "papers_indexed": 368,
+      "papers_ai_relevant": 23
+    },
+    {
+      "abbr": "MgmtSci",
+      "name_en": "Management Science",
+      "name_zh": "管理科学",
+      "publisher": "INFORMS",
+      "tier": "A",
+      "domain": [
+        "management"
+      ],
+      "lang": "en",
+      "publisher_toc": "https://pubsonline.informs.org/loi/mnsc",
+      "papers_indexed": 1901,
+      "papers_ai_relevant": 161
+    },
+    {
+      "abbr": "MISQ",
+      "name_en": "MIS Quarterly",
+      "name_zh": "信息系统季刊",
+      "publisher": "MISRC",
+      "tier": "A",
+      "domain": [
+        "management",
+        "IS"
+      ],
+      "lang": "en",
+      "publisher_toc": "https://misq.umn.edu/",
+      "papers_indexed": 261,
+      "papers_ai_relevant": 51
+    },
+    {
+      "abbr": "ISR",
+      "name_en": "Information Systems Research",
+      "name_zh": "信息系统研究",
+      "publisher": "INFORMS",
+      "tier": "A",
+      "domain": [
+        "management",
+        "IS"
+      ],
+      "lang": "en",
+      "publisher_toc": "https://pubsonline.informs.org/loi/isre",
+      "papers_indexed": 464,
+      "papers_ai_relevant": 96
+    },
+    {
+      "abbr": "AOM-Annals",
+      "name_en": "Academy of Management Annals",
+      "name_zh": "管理学会年刊",
+      "publisher": "AOM",
+      "tier": "A",
+      "domain": [
+        "OB",
+        "management"
+      ],
+      "lang": "en",
+      "publisher_toc": "https://journals.aom.org/loi/annals",
+      "papers_indexed": 86,
+      "papers_ai_relevant": 3
+    },
+    {
+      "abbr": "AOM-Discoveries",
+      "name_en": "Academy of Management Discoveries",
+      "name_zh": "管理学会发现",
+      "publisher": "AOM",
+      "tier": "A",
+      "domain": [
+        "OB",
+        "management"
+      ],
+      "lang": "en",
+      "publisher_toc": "https://journals.aom.org/loi/amd",
+      "papers_indexed": 132,
+      "papers_ai_relevant": 11
+    },
+    {
+      "abbr": "JCR",
+      "name_en": "Journal of Consumer Research",
+      "name_zh": "消费者研究杂志",
+      "publisher": "OUP",
+      "tier": "A",
+      "domain": [
+        "marketing",
+        "consumer"
+      ],
+      "lang": "en",
+      "publisher_toc": "https://academic.oup.com/jcr",
+      "papers_indexed": 241,
+      "papers_ai_relevant": 16
+    },
+    {
+      "abbr": "JM",
+      "name_en": "Journal of Marketing",
+      "name_zh": "营销学杂志",
+      "publisher": "SAGE",
+      "tier": "A",
+      "domain": [
+        "marketing"
+      ],
+      "lang": "en",
+      "publisher_toc": "https://journals.sagepub.com/loi/jmx",
+      "papers_indexed": 217,
+      "papers_ai_relevant": 17
+    },
+    {
+      "abbr": "JMR",
+      "name_en": "Journal of Marketing Research",
+      "name_zh": "营销研究杂志",
+      "publisher": "SAGE",
+      "tier": "A",
+      "domain": [
+        "marketing"
+      ],
+      "lang": "en",
+      "publisher_toc": "https://journals.sagepub.com/loi/mrj",
+      "papers_indexed": 208,
+      "papers_ai_relevant": 17
+    },
+    {
+      "abbr": "MktSci",
+      "name_en": "Marketing Science",
+      "name_zh": "营销科学",
+      "publisher": "INFORMS",
+      "tier": "A",
+      "domain": [
+        "marketing"
+      ],
+      "lang": "en",
+      "publisher_toc": "https://pubsonline.informs.org/loi/mksc",
+      "papers_indexed": 307,
+      "papers_ai_relevant": 41
+    },
+    {
+      "abbr": "JCP",
+      "name_en": "Journal of Consumer Psychology",
+      "name_zh": "消费者心理学杂志",
+      "publisher": "Wiley",
+      "tier": "A",
+      "domain": [
+        "marketing",
+        "consumer",
+        "psychology"
+      ],
+      "lang": "en",
+      "publisher_toc": "https://onlinelibrary.wiley.com/journal/15327663",
+      "papers_indexed": 155,
+      "papers_ai_relevant": 15
+    },
+    {
+      "abbr": "JAMS",
+      "name_en": "Journal of the Academy of Marketing Science",
+      "name_zh": "营销科学学会杂志",
+      "publisher": "Springer",
+      "tier": "A",
+      "domain": [
+        "marketing"
+      ],
+      "lang": "en",
+      "publisher_toc": "https://link.springer.com/journal/11747",
+      "papers_indexed": 239,
+      "papers_ai_relevant": 16
+    },
+    {
+      "abbr": "LQ",
+      "name_en": "The Leadership Quarterly",
+      "name_zh": "领导力季刊",
+      "publisher": "Elsevier",
+      "tier": "B",
+      "domain": [
+        "OB",
+        "leadership"
+      ],
+      "lang": "en",
+      "publisher_toc": "https://www.sciencedirect.com/journal/the-leadership-quarterly",
+      "papers_indexed": 154,
+      "papers_ai_relevant": 3
+    },
+    {
+      "abbr": "HR",
+      "name_en": "Human Relations",
+      "name_zh": "人类关系",
+      "publisher": "SAGE",
+      "tier": "B",
+      "domain": [
+        "OB"
+      ],
+      "lang": "en",
+      "publisher_toc": "https://journals.sagepub.com/loi/hum",
+      "papers_indexed": 184,
+      "papers_ai_relevant": 5
+    },
+    {
+      "abbr": "JMS",
+      "name_en": "Journal of Management Studies",
+      "name_zh": "管理学研究杂志",
+      "publisher": "Wiley",
+      "tier": "B",
+      "domain": [
+        "OB",
+        "management"
+      ],
+      "lang": "en",
+      "publisher_toc": "https://onlinelibrary.wiley.com/journal/14676486",
+      "papers_indexed": 488,
+      "papers_ai_relevant": 27
+    },
+    {
+      "abbr": "ROB",
+      "name_en": "Research in Organizational Behavior",
+      "name_zh": "组织行为研究",
+      "publisher": "Elsevier",
+      "tier": "B",
+      "domain": [
+        "OB"
+      ],
+      "lang": "en",
+      "publisher_toc": "https://www.sciencedirect.com/journal/research-in-organizational-behavior",
+      "papers_indexed": 30,
+      "papers_ai_relevant": 1
+    },
+    {
+      "abbr": "HRM",
+      "name_en": "Human Resource Management",
+      "name_zh": "人力资源管理",
+      "publisher": "Wiley",
+      "tier": "B",
+      "domain": [
+        "OB",
+        "HR"
+      ],
+      "lang": "en",
+      "publisher_toc": "https://onlinelibrary.wiley.com/journal/1099050X",
+      "papers_indexed": 243,
+      "papers_ai_relevant": 26
+    },
+    {
+      "abbr": "MW",
+      "name_en": "Management World",
+      "name_zh": "管理世界",
+      "publisher": "国务院发展研究中心",
+      "tier": "A",
+      "domain": [
+        "management"
+      ],
+      "lang": "zh",
+      "publisher_toc": "http://www.mwm.net.cn/",
+      "papers_indexed": 0,
+      "papers_ai_relevant": 0
+    },
+    {
+      "abbr": "JMSC",
+      "name_en": "Journal of Management Sciences in China",
+      "name_zh": "管理科学学报",
+      "publisher": "国家自然科学基金委员会管理科学部",
+      "tier": "A",
+      "domain": [
+        "management"
+      ],
+      "lang": "zh",
+      "publisher_toc": "http://jmsc.tju.edu.cn/",
+      "papers_indexed": 0,
+      "papers_ai_relevant": 0
+    },
+    {
+      "abbr": "NBR",
+      "name_en": "Nankai Business Review",
+      "name_zh": "南开管理评论",
+      "publisher": "南开大学",
+      "tier": "A",
+      "domain": [
+        "management"
+      ],
+      "lang": "zh",
+      "publisher_toc": "http://nbr.nankai.edu.cn/",
+      "papers_indexed": 0,
+      "papers_ai_relevant": 0
+    },
+    {
+      "abbr": "JMSci-CN",
+      "name_en": "Journal of Marketing Science",
+      "name_zh": "营销科学学报",
+      "publisher": "清华大学经济管理学院",
+      "tier": "A",
+      "domain": [
+        "marketing"
+      ],
+      "lang": "zh",
+      "publisher_toc": "http://jms.tsinghua.edu.cn/",
+      "papers_indexed": 0,
+      "papers_ai_relevant": 0
+    },
+    {
+      "abbr": "APS",
+      "name_en": "Acta Psychologica Sinica",
+      "name_zh": "心理学报",
+      "publisher": "中科院心理研究所",
+      "tier": "A",
+      "domain": [
+        "psychology"
+      ],
+      "lang": "zh",
+      "publisher_toc": "https://journal.psych.ac.cn/xlxb/CN/volumn/current.shtml",
+      "papers_indexed": 0,
+      "papers_ai_relevant": 0
+    },
+    {
+      "abbr": "APSci",
+      "name_en": "Advances in Psychological Science",
+      "name_zh": "心理科学进展",
+      "publisher": "中科院心理研究所",
+      "tier": "A",
+      "domain": [
+        "psychology"
+      ],
+      "lang": "zh",
+      "publisher_toc": "https://journal.psych.ac.cn/xlkxjz/CN/volumn/current.shtml",
+      "papers_indexed": 0,
+      "papers_ai_relevant": 0
+    },
+    {
+      "abbr": "arXiv",
+      "name_en": "arXiv preprints",
+      "name_zh": "arXiv 预印本",
+      "publisher": "arXiv",
+      "tier": "—",
+      "domain": [
+        "AI",
+        "preprint"
+      ],
+      "lang": "en",
+      "publisher_toc": "https://arxiv.org/",
+      "papers_indexed": 2662,
+      "papers_ai_relevant": 929
+    }
+  ],
+  "facets": {
+    "years": {
+      "2023": 260,
+      "2024": 354,
+      "2025": 629,
+      "2026": 321
+    },
+    "journals": {
+      "arXiv:cs.HC": 192,
+      "arXiv:cs.CY": 189,
+      "arXiv:cs.AI": 181,
+      "MgmtSci": 161,
+      "arXiv:cs.CL": 118,
+      "ISR": 96,
+      "arXiv:cs.LG": 78,
+      "arXiv:cs.IR": 60,
+      "MISQ": 51,
+      "MktSci": 41,
+      "arXiv:econ.GN": 39,
+      "JMS": 27,
+      "HRM": 26,
+      "SMJ": 23,
+      "AMR": 21,
+      "JAP": 21,
+      "JM": 17,
+      "JMR": 17,
+      "JOB": 17,
+      "JAMS": 16,
+      "JCR": 16,
+      "JCP": 15,
+      "arXiv:cs.SE": 14,
+      "AMJ": 11,
+      "AOM-Discoveries": 11,
+      "OrgSci": 11,
+      "arXiv:cs.CV": 11,
+      "PPsych": 9,
+      "arXiv:cs.MA": 9,
+      "ASQ": 8,
+      "JOM": 6,
+      "arXiv:cs.CR": 5,
+      "arXiv:cs.GT": 5,
+      "HR": 5,
+      "arXiv:eess.SY": 4,
+      "arXiv:stat.ML": 4,
+      "LQ": 3,
+      "AOM-Annals": 3,
+      "OBHDP": 2,
+      "arXiv:cs.RO": 2,
+      "arXiv:cs.SD": 2,
+      "arXiv:physics.soc-ph": 2,
+      "arXiv:cs.SI": 2,
+      "arXiv:cs.NE": 1,
+      "arXiv:q-bio.NC": 1,
+      "arXiv:cs.DB": 1,
+      "arXiv:cs.MM": 1,
+      "arXiv:cs.NI": 1,
+      "arXiv:q-fin.PM": 1,
+      "arXiv:q-fin.RM": 1,
+      "arXiv:q-fin.ST": 1,
+      "ROB": 1,
+      "arXiv:econ.TH": 1,
+      "arXiv:q-fin.GN": 1,
+      "arXiv:eess.IV": 1,
+      "arXiv:math.OC": 1
+    },
+    "topic_tags": {
+      "人机协作": 446,
+      "算法管理": 281,
+      "伦理": 256,
+      "决策": 246,
+      "消费者行为": 226,
+      "公平性": 190,
+      "组织变革": 171,
+      "推荐系统": 166,
+      "算法决策": 155,
+      "创新": 149,
+      "招聘": 136,
+      "信任": 132,
+      "AI治理": 130,
+      "偏见": 129,
+      "教育": 122,
+      "人机交互": 112,
+      "营销": 110,
+      "组织学习": 105,
+      "工作未来": 101,
+      "工作设计": 85,
+      "机器学习": 82,
+      "知识管理": 82,
+      "绩效评估": 69,
+      "HR": 67,
+      "战略": 57,
+      "创意": 49,
+      "培训": 49,
+      "隐私": 47,
+      "创业": 41,
+      "团队": 38,
+      "零工经济": 36,
+      "广告": 36,
+      "员工幸福感": 30,
+      "可解释AI": 30,
+      "领导力": 24,
+      "劳动力市场": 24,
+      "组织行为": 18,
+      "金融": 17,
+      "研究方法": 17,
+      "平台经济": 15,
+      "AI招聘": 13,
+      "生成式AI": 12,
+      "多模态": 12,
+      "算法治理": 12,
+      "风险管理": 11,
+      "品牌": 11,
+      "社交媒体": 10,
+      "预测": 10,
+      "AI伦理": 10,
+      "个性化": 10
+    },
+    "ai_type_tags": {
+      "机器学习": 569,
+      "LLM": 535,
+      "算法决策": 383,
+      "GenAI": 315,
+      "AI治理": 197,
+      "人机交互": 170,
+      "推荐算法": 167,
+      "人机协作": 151,
+      "算法管理": 140,
+      "多模态": 104,
+      "可解释AI": 93,
+      "ChatGPT": 77,
+      "深度学习": 55,
+      "可解释 AI": 45,
+      "机器人": 45,
+      "图像生成": 37,
+      "AI": 36,
+      "自然语言处理": 36,
+      "生成式AI": 32,
+      "AI招聘": 31,
+      "强化学习": 28,
+      "AI决策": 16,
+      "多智能体": 14,
+      "聊天机器人": 13,
+      "AI客服": 13,
+      "AI 治理": 12,
+      "知识图谱": 12,
+      "RAG": 12,
+      "图神经网络": 12,
+      "大语言模型": 11
+    }
+  }
+}
