@@ -2,6 +2,7 @@
 
 import { useEffect, useMemo, useState } from "react";
 import Link from "next/link";
+import { readFavorites, toggleFavorite } from "@/lib/favorites";
 
 export type Paper = {
   id: number;
@@ -41,11 +42,15 @@ export default function PaperList({
   meta,
   title,
   subtitle,
+  banner,
+  rightHeader,
 }: {
   papers: Paper[];
   meta: Meta;
   title?: string;
   subtitle?: string;
+  banner?: React.ReactNode;
+  rightHeader?: React.ReactNode;
 }) {
   // 筛选状态
   const [q, setQ] = useState("");
@@ -196,6 +201,7 @@ export default function PaperList({
       </aside>
 
       <section>
+        {banner}
         <div className="flex flex-col gap-2 md:flex-row md:items-center md:justify-between mb-3">
           <input
             value={q}
@@ -204,6 +210,7 @@ export default function PaperList({
             className="w-full md:w-80 px-3 py-2 border border-stone-300 rounded text-sm focus:outline-none focus:border-accent"
           />
           <div className="flex items-center gap-2 text-sm">
+            {rightHeader}
             <span className="text-stone-500">排序</span>
             <select
               value={sort}
@@ -372,16 +379,29 @@ function JournalChips({
 }
 
 function PaperCard({ p }: { p: Paper }) {
+  const [fav, setFav] = useState(false);
+  useEffect(() => { setFav(readFavorites().has(p.id)); }, [p.id]);
+
   return (
     <li className="border border-stone-200 rounded p-3 bg-white hover:border-accent transition-colors">
       <div className="flex items-start gap-3">
         <div className="flex-1 min-w-0">
-          <Link href={`/papers/${p.id}`} className="block">
-            <h3 className="font-medium leading-snug hover:text-accent">{p.title}</h3>
-            {p.title_zh && (
-              <div className="text-sm text-stone-600 mt-0.5">{p.title_zh}</div>
-            )}
-          </Link>
+          <div className="flex items-start justify-between gap-2">
+            <Link href={`/papers/${p.id}`} className="block flex-1 min-w-0">
+              <h3 className="font-medium leading-snug hover:text-accent">{p.title}</h3>
+              {p.title_zh && (
+                <div className="text-sm text-stone-600 mt-0.5">{p.title_zh}</div>
+              )}
+            </Link>
+            <button
+              onClick={(e) => { e.preventDefault(); setFav(toggleFavorite(p.id)); }}
+              className={`flex-shrink-0 text-lg leading-none p-1 -m-1 ${fav ? "text-amber-500" : "text-stone-300 hover:text-amber-400"}`}
+              title={fav ? "取消收藏" : "加入收藏"}
+              aria-label={fav ? "取消收藏" : "加入收藏"}
+            >
+              {fav ? "★" : "☆"}
+            </button>
+          </div>
           <div className="text-xs text-stone-500 mt-1 flex flex-wrap gap-x-2 gap-y-0.5 items-center">
             <span className="font-mono">{p.journal}</span>
             {p.date && <span>· {p.date}</span>}

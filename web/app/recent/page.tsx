@@ -27,12 +27,25 @@ export default function RecentPage() {
 
   if (loading) return <div className="text-stone-500 text-sm py-20 text-center">加载中…</div>;
 
+  const since = new Date(Date.now() - DAYS * 24 * 3600 * 1000).toISOString().slice(0, 10);
+  const until = new Date().toISOString().slice(0, 10);
+
+  const banner = (
+    <div className="mb-3 p-3 bg-accent/5 border-l-4 border-accent rounded-r">
+      <div className="text-accent font-semibold text-sm">📅 本周新增</div>
+      <div className="text-xs text-stone-600 mt-0.5">
+        过去 {DAYS} 天内发表的论文 · {since} 至 {until} · 共 {papers.length} 篇
+      </div>
+    </div>
+  );
+
   return (
     <PaperList
       papers={papers}
       meta={meta}
       title={`近 ${DAYS} 天新增`}
-      subtitle="按论文实际发表日期"
+      subtitle="按论文发表日期"
+      banner={banner}
     />
   );
 }

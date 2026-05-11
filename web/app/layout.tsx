@@ -1,6 +1,7 @@
 import "./globals.css";
 import type { Metadata } from "next";
 import Link from "next/link";
+import FavLink from "@/components/FavLink";
 
 export const metadata: Metadata = {
   title: "OB × AI Papers — 组织行为学 / 营销学 AI 论文索引",
@@ -16,9 +17,10 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             <Link href="/" className="font-mono font-semibold tracking-tight">
               OB × AI <span className="text-accent">Papers</span>
             </Link>
-            <nav className="flex gap-4 text-sm">
+            <nav className="flex gap-4 text-sm items-center">
               <Link href="/" className="hover:text-accent">全部论文</Link>
               <Link href="/recent" className="hover:text-accent">本周新增</Link>
+              <FavLink />
               <Link href="/about" className="hover:text-accent">关于</Link>
             </nav>
           </div>
