@@ -3,6 +3,7 @@
 import { useEffect, useMemo, useState } from "react";
 import Link from "next/link";
 import { readFavorites, toggleFavorite } from "@/lib/favorites";
+import { readReadIds } from "@/lib/read";
 
 export type Paper = {
   id: number;
@@ -52,6 +53,15 @@ export default function PaperList({
   banner?: React.ReactNode;
   rightHeader?: React.ReactNode;
 }) {
+  // 已读 ID
+  const [readIds, setReadIds] = useState<Set<number>>(new Set());
+  useEffect(() => {
+    setReadIds(new Set(readReadIds()));
+    const update = () => setReadIds(new Set(readReadIds()));
+    window.addEventListener("read-changed", update);
+    return () => window.removeEventListener("read-changed", update);
+  }, []);
+
   // 筛选状态
   const [q, setQ] = useState("");
   const [year, setYear] = useState<number | null>(null);
@@ -135,13 +145,22 @@ export default function PaperList({
     <div className="grid md:grid-cols-[260px_1fr] gap-6">
       <aside className="space-y-4 text-sm">
         <div className="border border-stone-200 rounded p-3 bg-white">
-          {(title || subtitle) && (
+          {(title || subtitle) ? (
             <>
               {title && <div className="text-xs text-stone-500 mb-1">{title}</div>}
               {subtitle && <div className="text-[11px] text-stone-400 mb-2">{subtitle}</div>}
             </>
+          ) : (
+            <>
+              <div className="text-xs text-stone-500 mb-1">OB × AI Papers</div>
+              <div className="text-[11px] text-stone-400 leading-relaxed mb-2">
+                26 本 OB / 营销 / 管理顶刊 + arXiv 中
+                <span className="text-accent">与 AI 相关</span>的论文（2023 至今），
+                LLM 自动打分 + 中文 TL;DR。
+                <Link href="/about" className="text-accent hover:underline ml-1">了解更多</Link>
+              </div>
+            </>
           )}
-          {!title && <div className="text-xs text-stone-500 mb-1">数据范围</div>}
           <div className="text-2xl font-mono font-semibold">{filtered.length}</div>
           <div className="text-xs text-stone-500 mt-1">
             当前筛选 / 共 {papers.length} 篇 / 数据库 {meta.totals.papers_indexed} 篇
@@ -181,11 +200,25 @@ export default function PaperList({
                 key={v}
                 onClick={() => setMinAi(v)}
                 className={`chip ${minAi === v ? "chip-on" : ""}`}
+                title={
+                  v === 3 ? "实质涉及 AI（含背景讨论）"
+                  : v === 4 ? "AI 是主要变量之一"
+                  : "核心议题就是 AI / GenAI / LLM / 算法决策"
+                }
               >
                 {v}
               </button>
             ))}
           </div>
+          <details className="mt-1.5">
+            <summary className="text-[11px] text-stone-400 cursor-pointer hover:text-accent">如何打分？</summary>
+            <div className="text-[11px] text-stone-500 mt-1 leading-relaxed">
+              每篇用 LLM (MiniMax-M2.5) 打两个分（0-5）：
+              <strong>AI 相关性</strong>（论文与 AI 议题的关联度）和
+              <strong>领域相关性</strong>（与 OB / 营销 / 管理的关联度）。默认仅展示双 ≥ 3。
+              满分 5 = 核心议题；4 = 主要变量；3 = 实质涉及；0-2 = 不相关。
+            </div>
+          </details>
         </FilterGroup>
 
         {(year || journal || topicTag || aiType || minAi > 3 || q) && (
@@ -225,12 +258,12 @@ export default function PaperList({
         </div>
 
         <div className="text-xs text-stone-500 mb-3">
-          {filtered.length} 篇 · 默认过滤 AI≥3 且 OB/营销/管理 ≥3
+          {filtered.length} 篇 · 默认仅显示 AI 相关性 ≥ 3 且 领域相关性 ≥ 3
         </div>
 
         <ul className="space-y-3">
           {filtered.slice(0, 200).map((p) => (
-            <PaperCard key={p.id} p={p} />
+            <PaperCard key={p.id} p={p} isRead={readIds.has(p.id)} />
           ))}
         </ul>
         {filtered.length > 200 && (
@@ -378,19 +411,26 @@ function JournalChips({
   );
 }
 
-function PaperCard({ p }: { p: Paper }) {
+function PaperCard({ p, isRead }: { p: Paper; isRead: boolean }) {
   const [fav, setFav] = useState(false);
   useEffect(() => { setFav(readFavorites().has(p.id)); }, [p.id]);
 
   return (
-    <li className="border border-stone-200 rounded p-3 bg-white hover:border-accent transition-colors">
+    <li className={`border rounded p-3 transition-colors ${
+      isRead
+        ? "border-stone-200 bg-stone-50/70 hover:border-accent"
+        : "border-stone-200 bg-white hover:border-accent"
+    }`}>
       <div className="flex items-start gap-3">
         <div className="flex-1 min-w-0">
           <div className="flex items-start justify-between gap-2">
             <Link href={`/papers/${p.id}`} className="block flex-1 min-w-0">
-              <h3 className="font-medium leading-snug hover:text-accent">{p.title}</h3>
+              <h3 className={`font-medium leading-snug hover:text-accent ${isRead ? "text-stone-500" : ""}`}>
+                {isRead && <span className="text-stone-300 mr-1.5 text-xs align-middle" title="已读">●</span>}
+                {p.title}
+              </h3>
               {p.title_zh && (
-                <div className="text-sm text-stone-600 mt-0.5">{p.title_zh}</div>
+                <div className={`text-sm mt-0.5 ${isRead ? "text-stone-400" : "text-stone-600"}`}>{p.title_zh}</div>
               )}
             </Link>
             <button

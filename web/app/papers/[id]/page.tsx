@@ -3,6 +3,7 @@
 import { useEffect, useState } from "react";
 import Link from "next/link";
 import { useParams } from "next/navigation";
+import { markRead } from "@/lib/read";
 
 type Paper = {
   id: number;
@@ -38,8 +39,10 @@ export default function PaperDetail() {
     fetch("/data/papers_full.json")
       .then((r) => r.json())
       .then((all: Paper[]) => {
-        setP(all.find((x) => x.id === id) || null);
+        const found = all.find((x) => x.id === id) || null;
+        setP(found);
         setLoading(false);
+        if (found) markRead(found.id);
       });
   }, [id]);
 

@@ -1,16 +1,6 @@
 "use client";
 
-import { useEffect, useMemo, useState } from "react";
-
-type Gap = {
-  journal: string;
-  year: number;
-  volume: string | null;
-  issue: string | null;
-  crossref: number;
-  openalex: number;
-  notes: string | null;
-};
+import { useEffect, useState } from "react";
 
 type Meta = {
   totals: { papers_indexed: number; papers_scored: number; papers_ai_relevant: number };
@@ -20,23 +10,10 @@ type Meta = {
 
 export default function AboutPage() {
   const [meta, setMeta] = useState<Meta | null>(null);
-  const [gaps, setGaps] = useState<Gap[]>([]);
-  const [showSuspicious, setShowSuspicious] = useState(false);
-  const [showJournalRows, setShowJournalRows] = useState<string | null>(null);
 
   useEffect(() => {
-    Promise.all([
-      fetch("/data/meta.json").then((r) => r.json()),
-      fetch("/data/coverage.json").then((r) => r.json()),
-    ]).then(([m, g]) => { setMeta(m); setGaps(g); });
+    fetch("/data/meta.json").then((r) => r.json()).then(setMeta);
   }, []);
-
-  const filteredGaps = useMemo(() => {
-    let v = gaps;
-    if (showSuspicious) v = v.filter((g) => g.notes);
-    if (showJournalRows) v = v.filter((g) => g.journal === showJournalRows);
-    return v;
-  }, [gaps, showSuspicious, showJournalRows]);
 
   if (!meta) return <div className="text-stone-500 text-sm py-20 text-center">加载中…</div>;
 
@@ -84,79 +61,30 @@ export default function AboutPage() {
         </p>
       </section>
 
-      {/* 覆盖率审计 */}
+      {/* 期刊清单 */}
       <section>
-        <h2 className="text-base font-semibold mb-2">期刊覆盖率审计</h2>
+        <h2 className="text-base font-semibold mb-2">收录期刊清单</h2>
         <p className="text-sm text-stone-600 mb-4">
-          每本期刊×年×卷×期对账双源抓取结果。<span className="text-amber-700">有 notes 的</span>是可疑期，需人工核查。
-          点击期刊卡片可查看具体某期的对账数字。
+          每本期刊点击可跳转到出版商目录页。「共 N」是 2023 至今数据库总论文，「AI N」是经 LLM 判定双≥3 的 AI 相关论文。
         </p>
-
-        <div className="grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-2 mb-6">
+        <div className="grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-2">
           {meta.journals.map((j) => (
-            <button
+            <a
               key={j.abbr}
-              onClick={() => setShowJournalRows(showJournalRows === j.abbr ? null : j.abbr)}
-              className={`text-left p-2 border rounded text-xs ${
-                showJournalRows === j.abbr ? "border-accent bg-accent/5" : "border-stone-200 bg-white hover:border-accent/50"
-              }`}
+              href={j.publisher_toc || "#"}
+              target={j.publisher_toc ? "_blank" : undefined}
+              rel={j.publisher_toc ? "noopener" : undefined}
+              className="text-left p-2 border border-stone-200 bg-white rounded text-xs hover:border-accent/60 transition-colors"
             >
               <div className="font-mono font-semibold">{j.abbr}</div>
-              <div className="text-stone-500 truncate">{j.name_en}</div>
+              <div className="text-stone-500 truncate" title={j.name_en}>{j.name_en}</div>
               <div className="mt-1 flex justify-between">
-                <span>共 {j.papers_indexed}</span>
+                <span className="text-stone-500">共 {j.papers_indexed}</span>
                 <span className="text-accent">AI {j.papers_ai_relevant}</span>
               </div>
-            </button>
+            </a>
           ))}
         </div>
-
-        <div className="flex items-center gap-3 mb-3 text-sm">
-          <button
-            onClick={() => setShowSuspicious(!showSuspicious)}
-            className={`chip ${showSuspicious ? "chip-on" : ""}`}
-          >
-            仅显示可疑期
-          </button>
-          {showJournalRows && (
-            <button onClick={() => setShowJournalRows(null)} className="text-stone-500 underline text-xs">
-              清除期刊筛选
-            </button>
-          )}
-          <span className="text-xs text-stone-500">{filteredGaps.length} 行</span>
-        </div>
-
-        <div className="overflow-x-auto thin-scroll border border-stone-200 rounded bg-white">
-          <table className="w-full text-sm">
-            <thead className="bg-stone-50 text-stone-600 text-xs">
-              <tr>
-                <th className="text-left px-3 py-2">期刊</th>
-                <th className="text-left px-3 py-2">年</th>
-                <th className="text-left px-3 py-2">Vol</th>
-                <th className="text-left px-3 py-2">Issue</th>
-                <th className="text-right px-3 py-2">Crossref</th>
-                <th className="text-right px-3 py-2">OpenAlex</th>
-                <th className="text-left px-3 py-2">Notes</th>
-              </tr>
-            </thead>
-            <tbody>
-              {filteredGaps.slice(0, 500).map((g, i) => (
-                <tr key={i} className="border-t border-stone-100 hover:bg-stone-50">
-                  <td className="px-3 py-1.5 font-mono text-xs">{g.journal}</td>
-                  <td className="px-3 py-1.5">{g.year || "-"}</td>
-                  <td className="px-3 py-1.5">{g.volume || "-"}</td>
-                  <td className="px-3 py-1.5">{g.issue || "-"}</td>
-                  <td className="px-3 py-1.5 text-right font-mono">{g.crossref}</td>
-                  <td className="px-3 py-1.5 text-right font-mono">{g.openalex}</td>
-                  <td className="px-3 py-1.5 text-xs text-amber-700">{g.notes || ""}</td>
-                </tr>
-              ))}
-            </tbody>
-          </table>
-        </div>
-        {filteredGaps.length > 500 && (
-          <div className="text-center text-stone-400 text-xs py-3">仅显示前 500 行</div>
-        )}
       </section>
 
       <section>
