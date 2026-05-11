@@ -40,6 +40,7 @@ def slim_paper(p, score, llm) -> dict:
         "id": p.id,
         "doi": p.doi,
         "title": p.title,
+        "title_zh": p.title_zh,
         "journal": journal,
         "year": p.pub_year,
         "date": p.pub_date,

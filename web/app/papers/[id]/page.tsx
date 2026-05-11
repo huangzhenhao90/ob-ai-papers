@@ -8,6 +8,7 @@ type Paper = {
   id: number;
   doi: string | null;
   title: string;
+  title_zh: string | null;
   journal: string | null;
   year: number | null;
   date: string | null;
@@ -43,20 +44,29 @@ export default function PaperDetail() {
   }, [id]);
 
   if (loading) return <div className="text-stone-500 text-sm py-20 text-center">加载中…</div>;
-  if (!p) return <div className="text-center py-20"><p className="text-stone-500">未找到。</p><Link href="/" className="text-accent hover:underline mt-4 inline-block">← 返回</Link></div>;
+  if (!p) return (
+    <div className="text-center py-20">
+      <p className="text-stone-500">未找到。</p>
+      <Link href="/" className="text-accent hover:underline mt-4 inline-block">← 返回</Link>
+    </div>
+  );
 
   return (
     <article className="max-w-3xl mx-auto">
       <Link href="/" className="text-sm text-accent hover:underline">← 返回列表</Link>
 
-      <div className="mt-4 flex gap-4 text-xs text-stone-500">
+      <div className="mt-4 flex flex-wrap gap-x-3 gap-y-1 text-xs text-stone-500">
         <span className="font-mono">{p.journal}</span>
-        {p.year && <span>{p.date || p.year}</span>}
-        {p.volume && <span>Vol.{p.volume}{p.issue ? `(${p.issue})` : ""}</span>}
-        <span>引用 {p.cited_by}</span>
+        {p.date && <span>· {p.date}</span>}
+        {p.volume && <span>· Vol.{p.volume}{p.issue ? `(${p.issue})` : ""}</span>}
+        <span>· 引用 {p.cited_by}</span>
+        <span className="text-stone-400">· AI {p.ai_score?.toFixed(0)} · 领域 {p.domain_score?.toFixed(0)}</span>
       </div>
 
       <h1 className="text-2xl font-semibold leading-tight mt-2">{p.title}</h1>
+      {p.title_zh && (
+        <h2 className="text-base text-stone-600 mt-1 leading-snug">{p.title_zh}</h2>
+      )}
 
       <div className="text-sm text-stone-700 mt-3">
         {p.authors_full?.map((a, i) => (
@@ -81,31 +91,21 @@ export default function PaperDetail() {
         </section>
       )}
 
-      <section className="mt-6">
-        <div className="text-xs text-stone-500 font-semibold mb-2">主题标签</div>
-        <div className="flex flex-wrap gap-1.5">
-          {p.topic_tags?.map((t) => <span key={t} className="chip">{t}</span>)}
-          {p.ai_type_tags?.map((t) => <span key={"ai-" + t} className="chip border-accent/40 text-accent">{t}</span>)}
-        </div>
-      </section>
+      {(p.topic_tags?.length || p.ai_type_tags?.length) ? (
+        <section className="mt-5">
+          <div className="text-xs text-stone-400 mb-1.5">主题</div>
+          <div className="flex flex-wrap gap-x-3 gap-y-1 text-xs text-stone-500">
+            {p.topic_tags?.map((t) => <span key={t}>#{t}</span>)}
+            {p.ai_type_tags?.map((t) => <span key={"ai-" + t} className="text-accent/80">#{t}</span>)}
+          </div>
+        </section>
+      ) : null}
 
-      <section className="mt-6">
-        <div className="text-xs text-stone-500 font-semibold mb-2">LLM 评分</div>
-        <div className="flex gap-6 text-sm">
-          <div>
-            <div className="text-xs text-stone-400">AI 相关性</div>
-            <div className="font-mono text-2xl text-accent">{p.ai_score?.toFixed(0)} <span className="text-xs text-stone-400">/ 5</span></div>
-          </div>
-          <div>
-            <div className="text-xs text-stone-400">领域相关性</div>
-            <div className="font-mono text-2xl text-accent">{p.domain_score?.toFixed(0)} <span className="text-xs text-stone-400">/ 5</span></div>
-          </div>
-          <div className="flex-1">
-            <div className="text-xs text-stone-400">理由</div>
-            <div className="text-stone-700">{p.ai_reason}</div>
-          </div>
-        </div>
-      </section>
+      {p.ai_reason && (
+        <section className="mt-5 text-xs text-stone-500">
+          <span className="text-stone-400">LLM 评分理由：</span>{p.ai_reason}
+        </section>
+      )}
 
       {p.abstract && (
         <section className="mt-6">

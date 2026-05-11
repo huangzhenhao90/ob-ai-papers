@@ -17,8 +17,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               OB × AI <span className="text-accent">Papers</span>
             </Link>
             <nav className="flex gap-4 text-sm">
-              <Link href="/" className="hover:text-accent">论文</Link>
-              <Link href="/coverage" className="hover:text-accent">覆盖率</Link>
+              <Link href="/" className="hover:text-accent">全部论文</Link>
+              <Link href="/recent" className="hover:text-accent">本周新增</Link>
               <Link href="/about" className="hover:text-accent">关于</Link>
             </nav>
           </div>

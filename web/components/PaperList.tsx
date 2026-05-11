@@ -1,0 +1,414 @@
+"use client";
+
+import { useEffect, useMemo, useState } from "react";
+import Link from "next/link";
+
+export type Paper = {
+  id: number;
+  doi: string | null;
+  title: string;
+  title_zh: string | null;
+  journal: string | null;
+  year: number | null;
+  date: string | null;
+  authors: string[];
+  url: string | null;
+  pdf_url: string | null;
+  cited_by: number;
+  ai_score: number;
+  domain_score: number;
+  ai_reason: string;
+  tldr: string | null;
+  topic_tags: string[];
+  ai_type_tags: string[];
+};
+
+type Meta = {
+  totals: { papers_indexed: number; papers_scored: number; papers_ai_relevant: number };
+  facets: {
+    years: Record<string, number>;
+    journals: Record<string, number>;
+    topic_tags: Record<string, number>;
+    ai_type_tags: Record<string, number>;
+  };
+  generated_at: string;
+};
+
+const ARXIV_PREFIX = "arXiv:";
+
+export default function PaperList({
+  papers,
+  meta,
+  title,
+  subtitle,
+}: {
+  papers: Paper[];
+  meta: Meta;
+  title?: string;
+  subtitle?: string;
+}) {
+  // 筛选状态
+  const [q, setQ] = useState("");
+  const [year, setYear] = useState<number | null>(null);
+  const [journal, setJournal] = useState<string | null>(null);
+  const [arxivOpen, setArxivOpen] = useState(false);
+  const [topicTag, setTopicTag] = useState<string | null>(null);
+  const [aiType, setAiType] = useState<string | null>(null);
+  const [minAi, setMinAi] = useState(3);
+  const [sort, setSort] = useState<"recent" | "ai_score" | "cited">("recent");
+
+  // 应用所有筛选除某一维 —— 用于动态 facets 计算（漏斗逻辑）
+  const filteredExcept = (excludeKey: "year" | "journal" | "topic" | "aiType" | null) => {
+    let res = papers;
+    if (year && excludeKey !== "year") res = res.filter((p) => p.year === year);
+    if (journal && excludeKey !== "journal") {
+      if (journal === "arXiv") {
+        res = res.filter((p) => p.journal?.startsWith(ARXIV_PREFIX) || p.journal === "arXiv");
+      } else {
+        res = res.filter((p) => p.journal === journal);
+      }
+    }
+    if (topicTag && excludeKey !== "topic") res = res.filter((p) => p.topic_tags?.includes(topicTag));
+    if (aiType && excludeKey !== "aiType") res = res.filter((p) => p.ai_type_tags?.includes(aiType));
+    if (minAi > 3) res = res.filter((p) => p.ai_score >= minAi);
+    if (q.trim()) {
+      const qq = q.trim().toLowerCase();
+      res = res.filter(
+        (p) =>
+          p.title?.toLowerCase().includes(qq) ||
+          p.title_zh?.includes(qq) ||
+          p.tldr?.toLowerCase().includes(qq) ||
+          p.authors?.some((a) => a?.toLowerCase().includes(qq)) ||
+          p.topic_tags?.some((t) => t.includes(qq)) ||
+          p.ai_type_tags?.some((t) => t.includes(qq))
+      );
+    }
+    return res;
+  };
+
+  // 实际展示的论文 = 应用所有筛选
+  const filtered = useMemo(() => {
+    let res = filteredExcept(null);
+    if (sort === "ai_score") res = [...res].sort((a, b) => b.ai_score - a.ai_score);
+    else if (sort === "cited") res = [...res].sort((a, b) => b.cited_by - a.cited_by);
+    return res;
+  }, [papers, q, year, journal, topicTag, aiType, minAi, sort]);
+
+  // 动态 facets：基于"应用了其他维度但未应用本维"的子集来计数
+  const facetYears = useMemo(() => countBy(filteredExcept("year"), (p) => p.year), [papers, q, journal, topicTag, aiType, minAi]);
+  const facetJournals = useMemo(() => {
+    // arXiv 子分类要折叠成一个 "arXiv"
+    const base = filteredExcept("journal");
+    const c = new Map<string, number>();
+    for (const p of base) {
+      if (!p.journal) continue;
+      if (p.journal.startsWith(ARXIV_PREFIX)) {
+        c.set("arXiv", (c.get("arXiv") || 0) + 1);
+        c.set(p.journal, (c.get(p.journal) || 0) + 1); // 保留子分类供展开
+      } else {
+        c.set(p.journal, (c.get(p.journal) || 0) + 1);
+      }
+    }
+    return c;
+  }, [papers, q, year, topicTag, aiType, minAi]);
+
+  const facetTopics = useMemo(() => {
+    const base = filteredExcept("topic");
+    const c = new Map<string, number>();
+    for (const p of base) for (const t of p.topic_tags || []) c.set(t, (c.get(t) || 0) + 1);
+    return c;
+  }, [papers, q, year, journal, aiType, minAi]);
+
+  const facetAi = useMemo(() => {
+    const base = filteredExcept("aiType");
+    const c = new Map<string, number>();
+    for (const p of base) for (const t of p.ai_type_tags || []) c.set(t, (c.get(t) || 0) + 1);
+    return c;
+  }, [papers, q, year, journal, topicTag, minAi]);
+
+  return (
+    <div className="grid md:grid-cols-[260px_1fr] gap-6">
+      <aside className="space-y-4 text-sm">
+        <div className="border border-stone-200 rounded p-3 bg-white">
+          {(title || subtitle) && (
+            <>
+              {title && <div className="text-xs text-stone-500 mb-1">{title}</div>}
+              {subtitle && <div className="text-[11px] text-stone-400 mb-2">{subtitle}</div>}
+            </>
+          )}
+          {!title && <div className="text-xs text-stone-500 mb-1">数据范围</div>}
+          <div className="text-2xl font-mono font-semibold">{filtered.length}</div>
+          <div className="text-xs text-stone-500 mt-1">
+            当前筛选 / 共 {papers.length} 篇 / 数据库 {meta.totals.papers_indexed} 篇
+          </div>
+        </div>
+
+        <FilterGroup label="年份">
+          <Chips
+            items={sortedEntries(facetYears, "desc")}
+            active={year ? String(year) : null}
+            onPick={(v) => setYear(v ? Number(v) : null)}
+          />
+        </FilterGroup>
+
+        <FilterGroup label="期刊">
+          <JournalChips
+            counts={facetJournals}
+            active={journal}
+            arxivOpen={arxivOpen}
+            onPick={(v) => setJournal(v)}
+            onToggleArxiv={() => setArxivOpen((o) => !o)}
+          />
+        </FilterGroup>
+
+        <FilterGroup label="主题">
+          <Chips items={topByCount(facetTopics, 20)} active={topicTag} onPick={setTopicTag} />
+        </FilterGroup>
+
+        <FilterGroup label="AI 类型">
+          <Chips items={topByCount(facetAi, 14)} active={aiType} onPick={setAiType} />
+        </FilterGroup>
+
+        <FilterGroup label="AI 相关性 ≥">
+          <div className="flex gap-2">
+            {[3, 4, 5].map((v) => (
+              <button
+                key={v}
+                onClick={() => setMinAi(v)}
+                className={`chip ${minAi === v ? "chip-on" : ""}`}
+              >
+                {v}
+              </button>
+            ))}
+          </div>
+        </FilterGroup>
+
+        {(year || journal || topicTag || aiType || minAi > 3 || q) && (
+          <button
+            onClick={() => {
+              setYear(null); setJournal(null); setTopicTag(null); setAiType(null); setMinAi(3); setQ("");
+            }}
+            className="text-xs text-stone-500 underline hover:text-accent"
+          >
+            清空所有筛选
+          </button>
+        )}
+      </aside>
+
+      <section>
+        <div className="flex flex-col gap-2 md:flex-row md:items-center md:justify-between mb-3">
+          <input
+            value={q}
+            onChange={(e) => setQ(e.target.value)}
+            placeholder="搜索标题、摘要、作者、标签…"
+            className="w-full md:w-80 px-3 py-2 border border-stone-300 rounded text-sm focus:outline-none focus:border-accent"
+          />
+          <div className="flex items-center gap-2 text-sm">
+            <span className="text-stone-500">排序</span>
+            <select
+              value={sort}
+              onChange={(e) => setSort(e.target.value as any)}
+              className="px-2 py-1 border border-stone-300 rounded bg-white"
+            >
+              <option value="recent">最新</option>
+              <option value="ai_score">AI 分数</option>
+              <option value="cited">引用数</option>
+            </select>
+          </div>
+        </div>
+
+        <div className="text-xs text-stone-500 mb-3">
+          {filtered.length} 篇 · 默认过滤 AI≥3 且 OB/营销/管理 ≥3
+        </div>
+
+        <ul className="space-y-3">
+          {filtered.slice(0, 200).map((p) => (
+            <PaperCard key={p.id} p={p} />
+          ))}
+        </ul>
+        {filtered.length > 200 && (
+          <div className="text-center text-stone-400 text-xs py-4">
+            仅展示前 200 条 · 通过筛选缩小范围
+          </div>
+        )}
+        {filtered.length === 0 && (
+          <div className="text-center text-stone-400 text-sm py-12">无符合的论文</div>
+        )}
+      </section>
+    </div>
+  );
+}
+
+// ---------- helpers ----------
+function countBy<T>(arr: T[], keyFn: (x: T) => string | number | null): Map<string, number> {
+  const c = new Map<string, number>();
+  for (const x of arr) {
+    const k = keyFn(x);
+    if (k == null) continue;
+    const ks = String(k);
+    c.set(ks, (c.get(ks) || 0) + 1);
+  }
+  return c;
+}
+function sortedEntries(m: Map<string, number>, order: "asc" | "desc" = "desc"): [string, number][] {
+  const arr = Array.from(m.entries());
+  arr.sort((a, b) => (order === "desc" ? Number(b[0]) - Number(a[0]) : Number(a[0]) - Number(b[0])));
+  return arr;
+}
+function topByCount(m: Map<string, number>, n: number): [string, number][] {
+  return Array.from(m.entries()).sort((a, b) => b[1] - a[1]).slice(0, n);
+}
+
+// ---------- 子组件 ----------
+function FilterGroup({ label, children }: { label: string; children: React.ReactNode }) {
+  return (
+    <div>
+      <div className="text-xs text-stone-500 mb-1.5 font-medium">{label}</div>
+      {children}
+    </div>
+  );
+}
+
+function Chips({
+  items, active, onPick,
+}: { items: [string, number][]; active: string | null; onPick: (v: string | null) => void }) {
+  return (
+    <div className="flex flex-wrap gap-1.5">
+      {items.map(([name, n]) => {
+        const on = active === name;
+        return (
+          <button
+            key={name}
+            onClick={() => onPick(on ? null : name)}
+            className={`chip ${on ? "chip-on" : ""}`}
+          >
+            {name}
+            <span className="ml-1 text-[10px] opacity-60">{n}</span>
+          </button>
+        );
+      })}
+      {items.length === 0 && <span className="text-xs text-stone-400">—</span>}
+    </div>
+  );
+}
+
+function JournalChips({
+  counts, active, arxivOpen, onPick, onToggleArxiv,
+}: {
+  counts: Map<string, number>;
+  active: string | null;
+  arxivOpen: boolean;
+  onPick: (v: string | null) => void;
+  onToggleArxiv: () => void;
+}) {
+  // 分两组：常规期刊 + arXiv 子分类
+  const regular: [string, number][] = [];
+  const arxivSubs: [string, number][] = [];
+  let arxivTotal = 0;
+  for (const [name, n] of counts) {
+    if (name === "arXiv") arxivTotal = n;
+    else if (name.startsWith(ARXIV_PREFIX)) arxivSubs.push([name, n]);
+    else regular.push([name, n]);
+  }
+  regular.sort((a, b) => b[1] - a[1]);
+  arxivSubs.sort((a, b) => b[1] - a[1]);
+
+  // 是否当前选中了 arXiv 或它的子分类
+  const arxivSelected = active === "arXiv" || active?.startsWith(ARXIV_PREFIX);
+
+  return (
+    <div className="flex flex-wrap gap-1.5">
+      {regular.slice(0, 12).map(([name, n]) => {
+        const on = active === name;
+        return (
+          <button
+            key={name}
+            onClick={() => onPick(on ? null : name)}
+            className={`chip ${on ? "chip-on" : ""}`}
+          >
+            {name}
+            <span className="ml-1 text-[10px] opacity-60">{n}</span>
+          </button>
+        );
+      })}
+      {arxivTotal > 0 && (
+        <>
+          <button
+            onClick={() => onPick(active === "arXiv" ? null : "arXiv")}
+            className={`chip ${active === "arXiv" ? "chip-on" : ""}`}
+            title="点击筛选所有 arXiv 论文"
+          >
+            arXiv
+            <span className="ml-1 text-[10px] opacity-60">{arxivTotal}</span>
+          </button>
+          <button
+            onClick={onToggleArxiv}
+            className="text-[11px] text-stone-400 hover:text-accent self-center px-1"
+            title="展开/折叠 arXiv 子分类"
+          >
+            {arxivOpen ? "− 折叠子分类" : "+ 展开子分类"}
+          </button>
+          {arxivOpen && (
+            <div className="basis-full mt-1 pl-3 border-l-2 border-stone-200 flex flex-wrap gap-1.5">
+              {arxivSubs.map(([name, n]) => {
+                const on = active === name;
+                return (
+                  <button
+                    key={name}
+                    onClick={() => onPick(on ? null : name)}
+                    className={`chip text-[11px] ${on ? "chip-on" : ""}`}
+                  >
+                    {name.replace(ARXIV_PREFIX, "")}
+                    <span className="ml-1 text-[10px] opacity-60">{n}</span>
+                  </button>
+                );
+              })}
+            </div>
+          )}
+        </>
+      )}
+    </div>
+  );
+}
+
+function PaperCard({ p }: { p: Paper }) {
+  return (
+    <li className="border border-stone-200 rounded p-3 bg-white hover:border-accent transition-colors">
+      <div className="flex items-start gap-3">
+        <div className="flex-1 min-w-0">
+          <Link href={`/papers/${p.id}`} className="block">
+            <h3 className="font-medium leading-snug hover:text-accent">{p.title}</h3>
+            {p.title_zh && (
+              <div className="text-sm text-stone-600 mt-0.5">{p.title_zh}</div>
+            )}
+          </Link>
+          <div className="text-xs text-stone-500 mt-1 flex flex-wrap gap-x-2 gap-y-0.5 items-center">
+            <span className="font-mono">{p.journal}</span>
+            {p.date && <span>· {p.date}</span>}
+            {!p.date && p.year && <span>· {p.year}</span>}
+            {p.authors?.length ? (
+              <span>· {p.authors.slice(0, 3).join(", ")}{p.authors.length > 3 ? " 等" : ""}</span>
+            ) : null}
+            <span className="text-stone-400">· 引用 {p.cited_by} · AI {p.ai_score?.toFixed(0)}</span>
+          </div>
+          {p.tldr && (
+            <p className="text-sm text-stone-700 mt-2 leading-relaxed">{p.tldr}</p>
+          )}
+          <div className="flex flex-wrap gap-1 mt-2">
+            {p.topic_tags?.slice(0, 5).map((t) => (
+              <span key={t} className="chip">{t}</span>
+            ))}
+            {p.ai_type_tags?.slice(0, 3).map((t) => (
+              <span key={"ai-" + t} className="chip border-accent/40 text-accent">{t}</span>
+            ))}
+          </div>
+          <div className="flex gap-3 mt-2 text-xs">
+            {p.url && <a href={p.url} target="_blank" rel="noopener" className="text-accent hover:underline">原文 ↗</a>}
+            {p.pdf_url && <a href={p.pdf_url} target="_blank" rel="noopener" className="text-accent hover:underline">PDF ↗</a>}
+            {p.doi && <span className="text-stone-400 font-mono">{p.doi}</span>}
+          </div>
+        </div>
+      </div>
+    </li>
+  );
+}
