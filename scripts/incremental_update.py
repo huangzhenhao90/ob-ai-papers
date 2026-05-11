@@ -36,6 +36,7 @@ from src.pipeline.coverage_audit import audit
 from src.pipeline.export_web_data import main as export_data
 from src.pipeline.llm_score_parallel import run as llm_score_run
 from src.pipeline.llm_tldr import run as llm_tldr_run
+from src.pipeline.llm_title_zh import run as llm_title_zh_run
 
 load_dotenv()
 DB_PATH = os.getenv("DB_PATH", "./data/papers.db")
@@ -180,6 +181,9 @@ def step_llm():
 
     print("\n=== LLM TL;DR ===")
     llm_tldr_run(batch_size=3, n_workers=20)
+
+    print("\n=== LLM 中文标题翻译 ===")
+    llm_title_zh_run(batch_size=10, n_workers=50)
 
 
 def step_audit_export():

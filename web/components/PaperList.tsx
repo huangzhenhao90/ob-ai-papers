@@ -66,7 +66,7 @@ export default function PaperList({
   const [q, setQ] = useState("");
   const [year, setYear] = useState<number | null>(null);
   const [journal, setJournal] = useState<string | null>(null);
-  const [arxivOpen, setArxivOpen] = useState(false);
+  // arXiv 子分类是否展开 = 是否选中了 arXiv 或它的子分类
   const [topicTag, setTopicTag] = useState<string | null>(null);
   const [aiType, setAiType] = useState<string | null>(null);
   const [minAi, setMinAi] = useState(3);
@@ -179,9 +179,7 @@ export default function PaperList({
           <JournalChips
             counts={facetJournals}
             active={journal}
-            arxivOpen={arxivOpen}
             onPick={(v) => setJournal(v)}
-            onToggleArxiv={() => setArxivOpen((o) => !o)}
           />
         </FilterGroup>
 
@@ -333,13 +331,11 @@ function Chips({
 }
 
 function JournalChips({
-  counts, active, arxivOpen, onPick, onToggleArxiv,
+  counts, active, onPick,
 }: {
   counts: Map<string, number>;
   active: string | null;
-  arxivOpen: boolean;
   onPick: (v: string | null) => void;
-  onToggleArxiv: () => void;
 }) {
   // 分两组：常规期刊 + arXiv 子分类
   const regular: [string, number][] = [];
@@ -353,8 +349,8 @@ function JournalChips({
   regular.sort((a, b) => b[1] - a[1]);
   arxivSubs.sort((a, b) => b[1] - a[1]);
 
-  // 是否当前选中了 arXiv 或它的子分类
-  const arxivSelected = active === "arXiv" || active?.startsWith(ARXIV_PREFIX);
+  // 选中 arXiv 或它的子分类时，自动展开子分类列表
+  const arxivExpanded = active === "arXiv" || (active?.startsWith(ARXIV_PREFIX) ?? false);
 
   return (
     <div className="flex flex-wrap gap-1.5">
@@ -376,19 +372,12 @@ function JournalChips({
           <button
             onClick={() => onPick(active === "arXiv" ? null : "arXiv")}
             className={`chip ${active === "arXiv" ? "chip-on" : ""}`}
-            title="点击筛选所有 arXiv 论文"
+            title="点击展开 arXiv 子分类"
           >
             arXiv
             <span className="ml-1 text-[10px] opacity-60">{arxivTotal}</span>
           </button>
-          <button
-            onClick={onToggleArxiv}
-            className="text-[11px] text-stone-400 hover:text-accent self-center px-1"
-            title="展开/折叠 arXiv 子分类"
-          >
-            {arxivOpen ? "− 折叠子分类" : "+ 展开子分类"}
-          </button>
-          {arxivOpen && (
+          {arxivExpanded && arxivSubs.length > 0 && (
             <div className="basis-full mt-1 pl-3 border-l-2 border-stone-200 flex flex-wrap gap-1.5">
               {arxivSubs.map(([name, n]) => {
                 const on = active === name;
