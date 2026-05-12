@@ -13,9 +13,14 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     <html lang="zh-CN">
       <body>
         <header className="border-b border-stone-200 bg-white sticky top-0 z-10">
-          <div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between">
-            <Link href="/" className="font-mono font-semibold tracking-tight">
-              OB × AI <span className="text-accent">Papers</span>
+          <div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between gap-4">
+            <Link href="/" className="flex items-baseline gap-2 min-w-0">
+              <span className="font-mono font-semibold tracking-tight">
+                OB × AI <span className="text-accent">Papers</span>
+              </span>
+              <span className="hidden sm:inline text-xs text-stone-500 truncate">
+                组织行为学 / 营销学 AI 相关研究索引
+              </span>
             </Link>
             <nav className="flex gap-4 text-sm items-center">
               <Link href="/recent" className="hover:text-accent">本周新增</Link>

@@ -89,8 +89,6 @@ export default function FavoritesPage() {
     <PaperList
       papers={favPapers}
       meta={meta}
-      title="收藏"
-      subtitle={`共 ${favPapers.length} 篇`}
       banner={banner}
       rightHeader={exports}
     />

@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from "react";
 import Link from "next/link";
-import { useParams } from "next/navigation";
+import { useParams, useRouter } from "next/navigation";
 import { markRead } from "@/lib/read";
 
 type Paper = {
@@ -31,9 +31,19 @@ type Paper = {
 
 export default function PaperDetail() {
   const params = useParams<{ id: string }>();
+  const router = useRouter();
   const id = Number(params.id);
   const [p, setP] = useState<Paper | null>(null);
   const [loading, setLoading] = useState(true);
+  // 检测是否有"上一页"可回，否则 fallback 到 /
+  const [canGoBack, setCanGoBack] = useState(false);
+  useEffect(() => {
+    setCanGoBack(typeof window !== "undefined" && window.history.length > 1);
+  }, []);
+  const goBack = () => {
+    if (canGoBack) router.back();
+    else router.push("/");
+  };
 
   useEffect(() => {
     fetch("/data/papers_full.json")
@@ -50,13 +60,13 @@ export default function PaperDetail() {
   if (!p) return (
     <div className="text-center py-20">
       <p className="text-stone-500">未找到。</p>
-      <Link href="/" className="text-accent hover:underline mt-4 inline-block">← 返回</Link>
+      <button onClick={goBack} className="text-accent hover:underline mt-4 inline-block">← 返回</button>
     </div>
   );
 
   return (
     <article className="max-w-3xl mx-auto">
-      <Link href="/" className="text-sm text-accent hover:underline">← 返回列表</Link>
+      <button onClick={goBack} className="text-sm text-accent hover:underline">← 返回列表</button>
 
       <div className="mt-4 flex flex-wrap gap-x-3 gap-y-1 text-xs text-stone-500">
         <span className="font-mono">{p.journal}</span>

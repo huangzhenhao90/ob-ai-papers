@@ -1,9 +1,10 @@
 "use client";
 
-import { useEffect, useMemo, useState } from "react";
+import { useCallback, useEffect, useMemo, useState } from "react";
 import Link from "next/link";
+import { usePathname, useRouter, useSearchParams } from "next/navigation";
 import { readFavorites, toggleFavorite } from "@/lib/favorites";
-import { readReadIds } from "@/lib/read";
+import { readReadIds, markRead } from "@/lib/read";
 
 export type Paper = {
   id: number;
@@ -62,15 +63,37 @@ export default function PaperList({
     return () => window.removeEventListener("read-changed", update);
   }, []);
 
-  // 筛选状态
-  const [q, setQ] = useState("");
-  const [year, setYear] = useState<number | null>(null);
-  const [journal, setJournal] = useState<string | null>(null);
-  // arXiv 子分类是否展开 = 是否选中了 arXiv 或它的子分类
-  const [topicTag, setTopicTag] = useState<string | null>(null);
-  const [aiType, setAiType] = useState<string | null>(null);
-  const [minAi, setMinAi] = useState(3);
-  const [sort, setSort] = useState<"recent" | "ai_score" | "cited">("recent");
+  // 筛选状态：从 URL querystring 读，写回 URL（不刷新页面）
+  const router = useRouter();
+  const pathname = usePathname();
+  const params = useSearchParams();
+
+  const q = params.get("q") || "";
+  const year = params.get("year") ? Number(params.get("year")) : null;
+  const journal = params.get("journal") || null;
+  const topicTag = params.get("topic") || null;
+  const aiType = params.get("aitype") || null;
+  const minAi = params.get("minai") ? Number(params.get("minai")) : 3;
+  const sort = (params.get("sort") as "recent" | "ai_score" | "cited") || "recent";
+
+  const updateParam = useCallback((key: string, value: string | number | null) => {
+    const sp = new URLSearchParams(params.toString());
+    if (value == null || value === "" || (key === "minai" && value === 3) || (key === "sort" && value === "recent")) {
+      sp.delete(key);
+    } else {
+      sp.set(key, String(value));
+    }
+    const qs = sp.toString();
+    router.replace(qs ? `${pathname}?${qs}` : pathname, { scroll: false });
+  }, [params, pathname, router]);
+
+  const setQ = (v: string) => updateParam("q", v);
+  const setYear = (v: number | null) => updateParam("year", v);
+  const setJournal = (v: string | null) => updateParam("journal", v);
+  const setTopicTag = (v: string | null) => updateParam("topic", v);
+  const setAiType = (v: string | null) => updateParam("aitype", v);
+  const setMinAi = (v: number) => updateParam("minai", v);
+  const setSort = (v: "recent" | "ai_score" | "cited") => updateParam("sort", v);
 
   // 应用所有筛选除某一维 —— 用于动态 facets 计算（漏斗逻辑）
   const filteredExcept = (excludeKey: "year" | "journal" | "topic" | "aiType" | null) => {
@@ -145,25 +168,22 @@ export default function PaperList({
     <div className="grid md:grid-cols-[260px_1fr] gap-6">
       <aside className="space-y-4 text-sm">
         <div className="border border-stone-200 rounded p-3 bg-white">
-          {(title || subtitle) ? (
-            <>
-              {title && <div className="text-xs text-stone-500 mb-1">{title}</div>}
-              {subtitle && <div className="text-[11px] text-stone-400 mb-2">{subtitle}</div>}
-            </>
-          ) : (
-            <>
-              <div className="text-xs text-stone-500 mb-1">OB × AI Papers</div>
-              <div className="text-[11px] text-stone-400 leading-relaxed mb-2">
-                26 本 OB / 营销 / 管理顶刊 + arXiv 中
-                <span className="text-accent">与 AI 相关</span>的论文（2023 至今），
-                LLM 自动打分 + 中文 TL;DR。
+          <div className="text-xs text-stone-500 mb-1">{title || "OB × AI Papers"}</div>
+          <div className="text-[11px] text-stone-400 leading-relaxed mb-2">
+            {subtitle ? (
+              subtitle
+            ) : (
+              <>
+                追踪 26 本 OB / 营销 / 管理顶刊 + arXiv 中
+                <span className="text-accent">与 AI 相关的研究</span>（2023 至今）。
+                每篇用 AI 自动判断相关度、生成 200 字中文摘要。
                 <Link href="/about" className="text-accent hover:underline ml-1">了解更多</Link>
-              </div>
-            </>
-          )}
+              </>
+            )}
+          </div>
           <div className="text-2xl font-mono font-semibold">{filtered.length}</div>
           <div className="text-xs text-stone-500 mt-1">
-            当前筛选 / 共 {papers.length} 篇 / 数据库 {meta.totals.papers_indexed} 篇
+            当前筛选 / 共 {papers.length} 篇
           </div>
         </div>
 
@@ -405,11 +425,13 @@ function PaperCard({ p, isRead }: { p: Paper; isRead: boolean }) {
   useEffect(() => { setFav(readFavorites().has(p.id)); }, [p.id]);
 
   return (
-    <li className={`border rounded p-3 transition-colors ${
-      isRead
-        ? "border-stone-200 bg-stone-50/70 hover:border-accent"
-        : "border-stone-200 bg-white hover:border-accent"
-    }`}>
+    <li
+      onClick={() => { if (!isRead) markRead(p.id); }}
+      className={`border rounded p-3 transition-colors cursor-default ${
+        isRead
+          ? "border-stone-200 bg-stone-50/70 hover:border-accent"
+          : "border-stone-200 bg-white hover:border-accent"
+      }`}>
       <div className="flex items-start gap-3">
         <div className="flex-1 min-w-0">
           <div className="flex items-start justify-between gap-2">

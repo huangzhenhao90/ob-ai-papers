@@ -43,8 +43,6 @@ export default function RecentPage() {
     <PaperList
       papers={papers}
       meta={meta}
-      title={`近 ${DAYS} 天新增`}
-      subtitle="按论文发表日期"
       banner={banner}
     />
   );
