@@ -4,6 +4,7 @@ import { useEffect, useState } from "react";
 import Link from "next/link";
 import { useParams, useRouter } from "next/navigation";
 import { markRead } from "@/lib/read";
+import { track } from "@/lib/analytics";
 
 type Paper = {
   id: number;
@@ -52,7 +53,15 @@ export default function PaperDetail() {
         const found = all.find((x) => x.id === id) || null;
         setP(found);
         setLoading(false);
-        if (found) markRead(found.id);
+        if (found) {
+          markRead(found.id);
+          track("paper_open", {
+            paper_id: found.id,
+            journal: found.journal || "",
+            year: found.year || 0,
+            ai_score: found.ai_score || 0,
+          });
+        }
       });
   }, [id]);
 

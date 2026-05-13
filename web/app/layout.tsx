@@ -2,6 +2,7 @@ import "./globals.css";
 import type { Metadata } from "next";
 import Link from "next/link";
 import FavLink from "@/components/FavLink";
+import { Analytics } from "@vercel/analytics/next";
 
 export const metadata: Metadata = {
   title: "OB × AI Papers — 组织行为学 / 营销学 AI 论文索引",
@@ -35,6 +36,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           数据来源：OpenAlex + Crossref · LLM：MiniMax-M2.5-lightning ·
           构建：<span className="font-mono">ob-ai-papers</span>
         </footer>
+        <Analytics />
       </body>
     </html>
   );

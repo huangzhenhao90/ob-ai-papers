@@ -5,6 +5,7 @@ import Link from "next/link";
 import PaperList, { type Paper } from "@/components/PaperList";
 import { readFavorites } from "@/lib/favorites";
 import { toCsv, toMarkdown, toBibtex, downloadFile } from "@/lib/export";
+import { track } from "@/lib/analytics";
 
 export default function FavoritesPage() {
   const [allPapers, setAllPapers] = useState<Paper[]>([]);
@@ -55,21 +56,30 @@ export default function FavoritesPage() {
     <div className="flex items-center gap-1.5 text-sm">
       <span className="text-stone-400 text-xs mr-1">导出</span>
       <button
-        onClick={() => downloadFile(`favorites-${today}.csv`, toCsv(favPapers), "text/csv;charset=utf-8")}
+        onClick={() => {
+          downloadFile(`favorites-${today}.csv`, toCsv(favPapers), "text/csv;charset=utf-8");
+          track("export", { format: "csv", count: favPapers.length });
+        }}
         className="chip"
         title="导出为 CSV（Excel/Numbers 可打开）"
       >
         CSV
       </button>
       <button
-        onClick={() => downloadFile(`favorites-${today}.md`, toMarkdown(favPapers), "text/markdown;charset=utf-8")}
+        onClick={() => {
+          downloadFile(`favorites-${today}.md`, toMarkdown(favPapers), "text/markdown;charset=utf-8");
+          track("export", { format: "markdown", count: favPapers.length });
+        }}
         className="chip"
         title="导出为 Markdown（Obsidian/Notion 友好）"
       >
         Markdown
       </button>
       <button
-        onClick={() => downloadFile(`favorites-${today}.bib`, toBibtex(favPapers), "application/x-bibtex;charset=utf-8")}
+        onClick={() => {
+          downloadFile(`favorites-${today}.bib`, toBibtex(favPapers), "application/x-bibtex;charset=utf-8");
+          track("export", { format: "bibtex", count: favPapers.length });
+        }}
         className="chip"
         title="导出为 BibTeX（Zotero/EndNote 可导入）"
       >

@@ -5,6 +5,7 @@ import Link from "next/link";
 import { usePathname, useRouter, useSearchParams } from "next/navigation";
 import { readFavorites, toggleFavorite } from "@/lib/favorites";
 import { readReadIds, markRead } from "@/lib/read";
+import { track } from "@/lib/analytics";
 
 export type Paper = {
   id: number;
@@ -85,6 +86,10 @@ export default function PaperList({
     }
     const qs = sp.toString();
     router.replace(qs ? `${pathname}?${qs}` : pathname, { scroll: false });
+    // 埋点：搜索框输入太频繁，跳过
+    if (key !== "q" && value != null && value !== "") {
+      track("filter_apply", { key, value: String(value) });
+    }
   }, [params, pathname, router]);
 
   const setQ = (v: string) => updateParam("q", v);
@@ -445,7 +450,12 @@ function PaperCard({ p, isRead }: { p: Paper; isRead: boolean }) {
               )}
             </Link>
             <button
-              onClick={(e) => { e.preventDefault(); setFav(toggleFavorite(p.id)); }}
+              onClick={(e) => {
+                e.preventDefault();
+                const nowFav = toggleFavorite(p.id);
+                setFav(nowFav);
+                track("favorite_toggle", { paper_id: p.id, action: nowFav ? "add" : "remove" });
+              }}
               className={`flex-shrink-0 text-lg leading-none p-1 -m-1 ${fav ? "text-amber-500" : "text-stone-300 hover:text-amber-400"}`}
               title={fav ? "取消收藏" : "加入收藏"}
               aria-label={fav ? "取消收藏" : "加入收藏"}
