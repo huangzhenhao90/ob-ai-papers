@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-15T06:46:55.007882Z",
+  "generated_at": "2026-05-16T05:30:54.327241Z",
   "totals": {
-    "papers_indexed": 11220,
-    "papers_scored": 11198,
-    "papers_ai_relevant": 1570
+    "papers_indexed": 11237,
+    "papers_scored": 11215,
+    "papers_ai_relevant": 1572
   },
   "journals": [
     {
@@ -33,8 +33,8 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.aom.org/loi/amr",
-      "papers_indexed": 256,
-      "papers_ai_relevant": 21
+      "papers_indexed": 257,
+      "papers_ai_relevant": 22
     },
     {
       "abbr": "ASQ",
@@ -48,7 +48,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/asq",
-      "papers_indexed": 201,
+      "papers_indexed": 202,
       "papers_ai_relevant": 8
     },
     {
@@ -63,7 +63,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://psycnet.apa.org/PsycARTICLES/journal/apl",
-      "papers_indexed": 492,
+      "papers_indexed": 496,
       "papers_ai_relevant": 21
     },
     {
@@ -107,7 +107,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://www.sciencedirect.com/journal/organizational-behavior-and-human-decision-processes",
-      "papers_indexed": 177,
+      "papers_indexed": 178,
       "papers_ai_relevant": 2
     },
     {
@@ -136,7 +136,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/jom",
-      "papers_indexed": 338,
+      "papers_indexed": 340,
       "papers_ai_relevant": 6
     },
     {
@@ -164,7 +164,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/mnsc",
-      "papers_indexed": 1920,
+      "papers_indexed": 1921,
       "papers_ai_relevant": 161
     },
     {
@@ -267,8 +267,8 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/mrj",
-      "papers_indexed": 222,
-      "papers_ai_relevant": 17
+      "papers_indexed": 223,
+      "papers_ai_relevant": 18
     },
     {
       "abbr": "MktSci",
@@ -355,7 +355,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/14676486",
-      "papers_indexed": 496,
+      "papers_indexed": 499,
       "papers_ai_relevant": 27
     },
     {
@@ -384,7 +384,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/1099050X",
-      "papers_indexed": 252,
+      "papers_indexed": 253,
       "papers_ai_relevant": 26
     },
     {
@@ -483,7 +483,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://arxiv.org/",
-      "papers_indexed": 2673,
+      "papers_indexed": 2675,
       "papers_ai_relevant": 931
     }
   ],
@@ -491,6 +491,8 @@
     "years": {
       "2004": 1,
       "2018": 1,
+      "2021": 1,
+      "2022": 1,
       "2023": 260,
       "2024": 354,
       "2025": 629,
@@ -511,10 +513,10 @@
       "JMS": 27,
       "HRM": 26,
       "SMJ": 23,
-      "AMR": 21,
+      "AMR": 22,
       "JAP": 21,
+      "JMR": 18,
       "JM": 17,
-      "JMR": 17,
       "JOB": 17,
       "JAMS": 16,
       "JCR": 16,
@@ -559,7 +561,7 @@
       "算法管理": 283,
       "伦理": 257,
       "决策": 247,
-      "消费者行为": 227,
+      "消费者行为": 228,
       "公平性": 190,
       "组织变革": 173,
       "推荐系统": 167,
@@ -571,7 +573,7 @@
       "偏见": 129,
       "教育": 123,
       "人机交互": 112,
-      "营销": 110,
+      "营销": 111,
       "组织学习": 106,
       "工作未来": 102,
       "工作设计": 85,
@@ -579,7 +581,7 @@
       "知识管理": 82,
       "绩效评估": 69,
       "HR": 67,
-      "战略": 58,
+      "战略": 59,
       "培训": 50,
       "创意": 49,
       "隐私": 47,
@@ -592,22 +594,22 @@
       "领导力": 24,
       "劳动力市场": 24,
       "组织行为": 18,
+      "平台经济": 17,
       "金融": 17,
       "研究方法": 17,
-      "平台经济": 16,
       "AI招聘": 13,
       "生成式AI": 12,
       "多模态": 12,
       "算法治理": 12,
       "风险管理": 11,
       "品牌": 11,
+      "文本分析": 11,
       "社交媒体": 10,
       "预测": 10,
-      "AI伦理": 10,
-      "个性化": 10
+      "AI伦理": 10
     },
     "ai_type_tags": {
-      "机器学习": 569,
+      "机器学习": 570,
       "LLM": 537,
       "算法决策": 384,
       "GenAI": 318,
@@ -622,8 +624,8 @@
       "深度学习": 55,
       "机器人": 46,
       "可解释 AI": 45,
+      "AI": 37,
       "图像生成": 37,
-      "AI": 36,
       "自然语言处理": 36,
       "生成式AI": 32,
       "AI招聘": 31,
