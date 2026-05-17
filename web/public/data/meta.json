@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-16T05:30:54.327241Z",
+  "generated_at": "2026-05-17T05:51:32.201285Z",
   "totals": {
-    "papers_indexed": 11237,
-    "papers_scored": 11215,
-    "papers_ai_relevant": 1572
+    "papers_indexed": 11249,
+    "papers_scored": 11227,
+    "papers_ai_relevant": 1573
   },
   "journals": [
     {
@@ -107,7 +107,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://www.sciencedirect.com/journal/organizational-behavior-and-human-decision-processes",
-      "papers_indexed": 178,
+      "papers_indexed": 179,
       "papers_ai_relevant": 2
     },
     {
@@ -164,7 +164,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/mnsc",
-      "papers_indexed": 1921,
+      "papers_indexed": 1925,
       "papers_ai_relevant": 161
     },
     {
@@ -209,7 +209,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.aom.org/loi/annals",
-      "papers_indexed": 92,
+      "papers_indexed": 93,
       "papers_ai_relevant": 3
     },
     {
@@ -239,7 +239,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://academic.oup.com/jcr",
-      "papers_indexed": 249,
+      "papers_indexed": 250,
       "papers_ai_relevant": 16
     },
     {
@@ -267,7 +267,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/mrj",
-      "papers_indexed": 223,
+      "papers_indexed": 224,
       "papers_ai_relevant": 18
     },
     {
@@ -311,7 +311,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://link.springer.com/journal/11747",
-      "papers_indexed": 247,
+      "papers_indexed": 248,
       "papers_ai_relevant": 16
     },
     {
@@ -340,7 +340,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/hum",
-      "papers_indexed": 191,
+      "papers_indexed": 192,
       "papers_ai_relevant": 6
     },
     {
@@ -384,7 +384,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/1099050X",
-      "papers_indexed": 253,
+      "papers_indexed": 254,
       "papers_ai_relevant": 26
     },
     {
@@ -483,8 +483,8 @@
       ],
       "lang": "en",
       "publisher_toc": "https://arxiv.org/",
-      "papers_indexed": 2675,
-      "papers_ai_relevant": 931
+      "papers_indexed": 2676,
+      "papers_ai_relevant": 932
     }
   ],
   "facets": {
@@ -496,7 +496,7 @@
       "2023": 260,
       "2024": 354,
       "2025": 629,
-      "2026": 325
+      "2026": 326
     },
     "journals": {
       "arXiv:cs.HC": 192,
@@ -536,12 +536,12 @@
       "arXiv:eess.SY": 4,
       "arXiv:stat.ML": 4,
       "LQ": 3,
+      "arXiv:cs.SI": 3,
       "AOM-Annals": 3,
       "OBHDP": 2,
       "arXiv:cs.RO": 2,
       "arXiv:cs.SD": 2,
       "arXiv:physics.soc-ph": 2,
-      "arXiv:cs.SI": 2,
       "arXiv:cs.NE": 1,
       "arXiv:q-bio.NC": 1,
       "arXiv:cs.DB": 1,
@@ -609,9 +609,9 @@
       "AI伦理": 10
     },
     "ai_type_tags": {
-      "机器学习": 570,
+      "机器学习": 571,
       "LLM": 537,
-      "算法决策": 384,
+      "算法决策": 385,
       "GenAI": 318,
       "AI治理": 198,
       "人机交互": 170,
