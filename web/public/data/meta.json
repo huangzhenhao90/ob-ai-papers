@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-17T05:51:32.201285Z",
+  "generated_at": "2026-05-19T06:27:04.095208Z",
   "totals": {
-    "papers_indexed": 11249,
-    "papers_scored": 11227,
-    "papers_ai_relevant": 1573
+    "papers_indexed": 11264,
+    "papers_scored": 11242,
+    "papers_ai_relevant": 1575
   },
   "journals": [
     {
@@ -33,7 +33,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.aom.org/loi/amr",
-      "papers_indexed": 257,
+      "papers_indexed": 259,
       "papers_ai_relevant": 22
     },
     {
@@ -48,7 +48,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/asq",
-      "papers_indexed": 202,
+      "papers_indexed": 204,
       "papers_ai_relevant": 8
     },
     {
@@ -63,7 +63,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://psycnet.apa.org/PsycARTICLES/journal/apl",
-      "papers_indexed": 496,
+      "papers_indexed": 497,
       "papers_ai_relevant": 21
     },
     {
@@ -78,7 +78,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/orsc",
-      "papers_indexed": 442,
+      "papers_indexed": 443,
       "papers_ai_relevant": 11
     },
     {
@@ -121,7 +121,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/10991379",
-      "papers_indexed": 321,
+      "papers_indexed": 323,
       "papers_ai_relevant": 17
     },
     {
@@ -164,8 +164,8 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/mnsc",
-      "papers_indexed": 1925,
-      "papers_ai_relevant": 161
+      "papers_indexed": 1927,
+      "papers_ai_relevant": 162
     },
     {
       "abbr": "MISQ",
@@ -239,7 +239,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://academic.oup.com/jcr",
-      "papers_indexed": 250,
+      "papers_indexed": 251,
       "papers_ai_relevant": 16
     },
     {
@@ -340,7 +340,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/hum",
-      "papers_indexed": 192,
+      "papers_indexed": 193,
       "papers_ai_relevant": 6
     },
     {
@@ -355,7 +355,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/14676486",
-      "papers_indexed": 499,
+      "papers_indexed": 500,
       "papers_ai_relevant": 27
     },
     {
@@ -483,26 +483,27 @@
       ],
       "lang": "en",
       "publisher_toc": "https://arxiv.org/",
-      "papers_indexed": 2676,
-      "papers_ai_relevant": 932
+      "papers_indexed": 2678,
+      "papers_ai_relevant": 933
     }
   ],
   "facets": {
     "years": {
       "2004": 1,
       "2018": 1,
+      "2019": 1,
       "2021": 1,
       "2022": 1,
       "2023": 260,
       "2024": 354,
       "2025": 629,
-      "2026": 326
+      "2026": 327
     },
     "journals": {
       "arXiv:cs.HC": 192,
-      "arXiv:cs.CY": 190,
+      "arXiv:cs.CY": 191,
       "arXiv:cs.AI": 181,
-      "MgmtSci": 161,
+      "MgmtSci": 162,
       "arXiv:cs.CL": 118,
       "ISR": 97,
       "arXiv:cs.LG": 78,
@@ -557,7 +558,7 @@
       "arXiv:math.OC": 1
     },
     "topic_tags": {
-      "人机协作": 448,
+      "人机协作": 449,
       "算法管理": 283,
       "伦理": 257,
       "决策": 247,
@@ -565,16 +566,16 @@
       "公平性": 190,
       "组织变革": 173,
       "推荐系统": 167,
-      "算法决策": 155,
+      "算法决策": 156,
       "创新": 150,
       "招聘": 136,
       "信任": 132,
       "AI治理": 130,
       "偏见": 129,
-      "教育": 123,
+      "教育": 124,
       "人机交互": 112,
       "营销": 111,
-      "组织学习": 106,
+      "组织学习": 107,
       "工作未来": 102,
       "工作设计": 85,
       "机器学习": 82,
@@ -609,15 +610,15 @@
       "AI伦理": 10
     },
     "ai_type_tags": {
-      "机器学习": 571,
-      "LLM": 537,
+      "机器学习": 572,
+      "LLM": 538,
       "算法决策": 385,
-      "GenAI": 318,
+      "GenAI": 319,
       "AI治理": 198,
       "人机交互": 170,
       "推荐算法": 168,
       "人机协作": 153,
-      "算法管理": 142,
+      "算法管理": 143,
       "多模态": 104,
       "可解释AI": 93,
       "ChatGPT": 79,
