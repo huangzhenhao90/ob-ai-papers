@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-23T05:48:02.712947Z",
+  "generated_at": "2026-05-24T06:13:47.987361Z",
   "totals": {
-    "papers_indexed": 11317,
-    "papers_scored": 11295,
-    "papers_ai_relevant": 1580
+    "papers_indexed": 11333,
+    "papers_scored": 11311,
+    "papers_ai_relevant": 1583
   },
   "journals": [
     {
@@ -150,7 +150,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/10970266",
-      "papers_indexed": 384,
+      "papers_indexed": 386,
       "papers_ai_relevant": 23
     },
     {
@@ -164,7 +164,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/mnsc",
-      "papers_indexed": 1933,
+      "papers_indexed": 1935,
       "papers_ai_relevant": 163
     },
     {
@@ -179,8 +179,8 @@
       ],
       "lang": "en",
       "publisher_toc": "https://misq.umn.edu/",
-      "papers_indexed": 266,
-      "papers_ai_relevant": 51
+      "papers_indexed": 267,
+      "papers_ai_relevant": 52
     },
     {
       "abbr": "ISR",
@@ -194,7 +194,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/isre",
-      "papers_indexed": 483,
+      "papers_indexed": 484,
       "papers_ai_relevant": 99
     },
     {
@@ -297,7 +297,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/15327663",
-      "papers_indexed": 163,
+      "papers_indexed": 165,
       "papers_ai_relevant": 15
     },
     {
@@ -311,7 +311,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://link.springer.com/journal/11747",
-      "papers_indexed": 250,
+      "papers_indexed": 252,
       "papers_ai_relevant": 16
     },
     {
@@ -355,7 +355,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/14676486",
-      "papers_indexed": 505,
+      "papers_indexed": 506,
       "papers_ai_relevant": 27
     },
     {
@@ -384,7 +384,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/1099050X",
-      "papers_indexed": 257,
+      "papers_indexed": 258,
       "papers_ai_relevant": 26
     },
     {
@@ -483,8 +483,8 @@
       ],
       "lang": "en",
       "publisher_toc": "https://arxiv.org/",
-      "papers_indexed": 2684,
-      "papers_ai_relevant": 933
+      "papers_indexed": 2688,
+      "papers_ai_relevant": 935
     }
   ],
   "facets": {
@@ -492,23 +492,23 @@
       "2004": 1,
       "2018": 1,
       "2019": 1,
-      "2021": 1,
+      "2021": 2,
       "2022": 1,
       "2023": 260,
       "2024": 354,
       "2025": 629,
-      "2026": 332
+      "2026": 334
     },
     "journals": {
+      "arXiv:cs.CY": 193,
       "arXiv:cs.HC": 192,
-      "arXiv:cs.CY": 191,
       "arXiv:cs.AI": 181,
       "MgmtSci": 163,
       "arXiv:cs.CL": 118,
       "ISR": 99,
       "arXiv:cs.LG": 78,
       "arXiv:cs.IR": 60,
-      "MISQ": 51,
+      "MISQ": 52,
       "MktSci": 42,
       "arXiv:econ.GN": 40,
       "JMS": 27,
@@ -559,27 +559,27 @@
     },
     "topic_tags": {
       "人机协作": 450,
-      "算法管理": 285,
+      "算法管理": 286,
       "伦理": 258,
       "决策": 248,
       "消费者行为": 229,
       "公平性": 190,
-      "组织变革": 173,
+      "组织变革": 174,
       "推荐系统": 167,
       "算法决策": 156,
       "创新": 151,
       "招聘": 136,
-      "AI治理": 132,
+      "AI治理": 133,
       "信任": 132,
       "偏见": 129,
       "教育": 124,
       "人机交互": 112,
       "营销": 111,
-      "组织学习": 107,
-      "工作未来": 102,
+      "组织学习": 108,
+      "工作未来": 103,
       "工作设计": 85,
+      "机器学习": 83,
       "知识管理": 83,
-      "机器学习": 82,
       "绩效评估": 69,
       "HR": 67,
       "战略": 59,
@@ -592,8 +592,8 @@
       "广告": 36,
       "员工幸福感": 30,
       "可解释AI": 30,
+      "劳动力市场": 25,
       "领导力": 24,
-      "劳动力市场": 24,
       "组织行为": 20,
       "平台经济": 18,
       "金融": 17,
@@ -610,16 +610,16 @@
       "AI伦理": 10
     },
     "ai_type_tags": {
-      "机器学习": 574,
-      "LLM": 539,
+      "机器学习": 576,
+      "LLM": 540,
       "算法决策": 387,
       "GenAI": 319,
-      "AI治理": 201,
+      "AI治理": 202,
       "人机交互": 170,
       "推荐算法": 168,
       "人机协作": 153,
-      "算法管理": 143,
-      "多模态": 104,
+      "算法管理": 145,
+      "多模态": 105,
       "可解释AI": 93,
       "ChatGPT": 80,
       "深度学习": 55,
