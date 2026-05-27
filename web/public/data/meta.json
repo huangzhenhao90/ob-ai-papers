@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-26T06:23:16.003312Z",
+  "generated_at": "2026-05-27T06:29:45.708947Z",
   "totals": {
-    "papers_indexed": 11362,
-    "papers_scored": 11340,
+    "papers_indexed": 11368,
+    "papers_scored": 11346,
     "papers_ai_relevant": 1597
   },
   "journals": [
@@ -18,7 +18,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.aom.org/loi/amj",
-      "papers_indexed": 298,
+      "papers_indexed": 299,
       "papers_ai_relevant": 11
     },
     {
@@ -93,7 +93,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/17446570",
-      "papers_indexed": 175,
+      "papers_indexed": 177,
       "papers_ai_relevant": 10
     },
     {
@@ -164,7 +164,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/mnsc",
-      "papers_indexed": 1935,
+      "papers_indexed": 1936,
       "papers_ai_relevant": 163
     },
     {
@@ -297,7 +297,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/15327663",
-      "papers_indexed": 165,
+      "papers_indexed": 166,
       "papers_ai_relevant": 15
     },
     {
@@ -483,7 +483,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://arxiv.org/",
-      "papers_indexed": 2716,
+      "papers_indexed": 2717,
       "papers_ai_relevant": 949
     }
   ],
