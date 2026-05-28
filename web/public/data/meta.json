@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-27T06:29:45.708947Z",
+  "generated_at": "2026-05-28T06:22:49.720026Z",
   "totals": {
-    "papers_indexed": 11368,
-    "papers_scored": 11346,
+    "papers_indexed": 11388,
+    "papers_scored": 11366,
     "papers_ai_relevant": 1597
   },
   "journals": [
@@ -33,7 +33,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.aom.org/loi/amr",
-      "papers_indexed": 260,
+      "papers_indexed": 261,
       "papers_ai_relevant": 22
     },
     {
@@ -78,7 +78,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/orsc",
-      "papers_indexed": 445,
+      "papers_indexed": 447,
       "papers_ai_relevant": 11
     },
     {
@@ -121,7 +121,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/10991379",
-      "papers_indexed": 323,
+      "papers_indexed": 324,
       "papers_ai_relevant": 17
     },
     {
@@ -150,7 +150,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/10970266",
-      "papers_indexed": 386,
+      "papers_indexed": 387,
       "papers_ai_relevant": 23
     },
     {
@@ -164,7 +164,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/mnsc",
-      "papers_indexed": 1936,
+      "papers_indexed": 1939,
       "papers_ai_relevant": 163
     },
     {
@@ -179,7 +179,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://misq.umn.edu/",
-      "papers_indexed": 267,
+      "papers_indexed": 269,
       "papers_ai_relevant": 52
     },
     {
@@ -239,7 +239,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://academic.oup.com/jcr",
-      "papers_indexed": 253,
+      "papers_indexed": 255,
       "papers_ai_relevant": 16
     },
     {
@@ -267,7 +267,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/mrj",
-      "papers_indexed": 225,
+      "papers_indexed": 228,
       "papers_ai_relevant": 19
     },
     {
@@ -340,7 +340,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/hum",
-      "papers_indexed": 197,
+      "papers_indexed": 198,
       "papers_ai_relevant": 6
     },
     {
@@ -355,7 +355,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/14676486",
-      "papers_indexed": 506,
+      "papers_indexed": 509,
       "papers_ai_relevant": 27
     },
     {
@@ -384,7 +384,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/1099050X",
-      "papers_indexed": 258,
+      "papers_indexed": 259,
       "papers_ai_relevant": 26
     },
     {
