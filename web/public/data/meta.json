@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-28T06:22:49.720026Z",
+  "generated_at": "2026-05-29T06:38:56.652580Z",
   "totals": {
-    "papers_indexed": 11388,
-    "papers_scored": 11366,
-    "papers_ai_relevant": 1597
+    "papers_indexed": 11399,
+    "papers_scored": 11377,
+    "papers_ai_relevant": 1599
   },
   "journals": [
     {
@@ -33,7 +33,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.aom.org/loi/amr",
-      "papers_indexed": 261,
+      "papers_indexed": 262,
       "papers_ai_relevant": 22
     },
     {
@@ -48,7 +48,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/asq",
-      "papers_indexed": 205,
+      "papers_indexed": 206,
       "papers_ai_relevant": 8
     },
     {
@@ -78,7 +78,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/orsc",
-      "papers_indexed": 447,
+      "papers_indexed": 448,
       "papers_ai_relevant": 11
     },
     {
@@ -136,7 +136,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/jom",
-      "papers_indexed": 342,
+      "papers_indexed": 344,
       "papers_ai_relevant": 6
     },
     {
@@ -150,7 +150,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/10970266",
-      "papers_indexed": 387,
+      "papers_indexed": 388,
       "papers_ai_relevant": 23
     },
     {
@@ -164,7 +164,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/mnsc",
-      "papers_indexed": 1939,
+      "papers_indexed": 1941,
       "papers_ai_relevant": 163
     },
     {
@@ -194,8 +194,8 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/isre",
-      "papers_indexed": 484,
-      "papers_ai_relevant": 99
+      "papers_indexed": 486,
+      "papers_ai_relevant": 101
     },
     {
       "abbr": "AOM-Annals",
@@ -311,7 +311,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://link.springer.com/journal/11747",
-      "papers_indexed": 252,
+      "papers_indexed": 253,
       "papers_ai_relevant": 16
     },
     {
@@ -497,7 +497,7 @@
       "2023": 260,
       "2024": 354,
       "2025": 629,
-      "2026": 348
+      "2026": 350
     },
     "journals": {
       "arXiv:cs.HC": 202,
@@ -505,7 +505,7 @@
       "arXiv:cs.AI": 182,
       "MgmtSci": 163,
       "arXiv:cs.CL": 120,
-      "ISR": 99,
+      "ISR": 101,
       "arXiv:cs.LG": 78,
       "arXiv:cs.IR": 60,
       "MISQ": 52,
