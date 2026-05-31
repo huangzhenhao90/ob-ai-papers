@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-30T05:50:49.722749Z",
+  "generated_at": "2026-05-31T06:18:44.146170Z",
   "totals": {
-    "papers_indexed": 11430,
-    "papers_scored": 11400,
-    "papers_ai_relevant": 1601
+    "papers_indexed": 11453,
+    "papers_scored": 11423,
+    "papers_ai_relevant": 1606
   },
   "journals": [
     {
@@ -18,7 +18,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.aom.org/loi/amj",
-      "papers_indexed": 300,
+      "papers_indexed": 301,
       "papers_ai_relevant": 11
     },
     {
@@ -33,7 +33,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.aom.org/loi/amr",
-      "papers_indexed": 262,
+      "papers_indexed": 263,
       "papers_ai_relevant": 22
     },
     {
@@ -48,7 +48,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/asq",
-      "papers_indexed": 206,
+      "papers_indexed": 207,
       "papers_ai_relevant": 8
     },
     {
@@ -136,7 +136,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/jom",
-      "papers_indexed": 348,
+      "papers_indexed": 352,
       "papers_ai_relevant": 6
     },
     {
@@ -164,7 +164,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/mnsc",
-      "papers_indexed": 1942,
+      "papers_indexed": 1944,
       "papers_ai_relevant": 163
     },
     {
@@ -224,7 +224,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.aom.org/loi/amd",
-      "papers_indexed": 139,
+      "papers_indexed": 140,
       "papers_ai_relevant": 12
     },
     {
@@ -311,7 +311,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://link.springer.com/journal/11747",
-      "papers_indexed": 253,
+      "papers_indexed": 255,
       "papers_ai_relevant": 16
     },
     {
@@ -355,7 +355,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/14676486",
-      "papers_indexed": 510,
+      "papers_indexed": 512,
       "papers_ai_relevant": 27
     },
     {
@@ -483,8 +483,8 @@
       ],
       "lang": "en",
       "publisher_toc": "https://arxiv.org/",
-      "papers_indexed": 2731,
-      "papers_ai_relevant": 950
+      "papers_indexed": 2740,
+      "papers_ai_relevant": 955
     }
   ],
   "facets": {
@@ -497,12 +497,12 @@
       "2023": 260,
       "2024": 354,
       "2025": 629,
-      "2026": 352
+      "2026": 357
     },
     "journals": {
       "arXiv:cs.HC": 202,
-      "arXiv:cs.CY": 194,
-      "arXiv:cs.AI": 183,
+      "arXiv:cs.CY": 195,
+      "arXiv:cs.AI": 185,
       "MgmtSci": 163,
       "arXiv:cs.CL": 120,
       "ISR": 101,
@@ -510,7 +510,7 @@
       "arXiv:cs.IR": 60,
       "MISQ": 52,
       "MktSci": 42,
-      "arXiv:econ.GN": 40,
+      "arXiv:econ.GN": 42,
       "JMS": 27,
       "HRM": 26,
       "SMJ": 23,
@@ -559,17 +559,17 @@
     },
     "topic_tags": {
       "人机协作": 460,
-      "算法管理": 291,
+      "算法管理": 292,
       "伦理": 262,
       "决策": 252,
-      "消费者行为": 230,
+      "消费者行为": 231,
       "公平性": 192,
-      "组织变革": 178,
+      "组织变革": 179,
       "推荐系统": 167,
       "算法决策": 157,
       "创新": 151,
+      "AI治理": 137,
       "招聘": 137,
-      "AI治理": 135,
       "信任": 134,
       "偏见": 130,
       "教育": 125,
@@ -577,7 +577,7 @@
       "组织学习": 112,
       "营销": 111,
       "工作未来": 104,
-      "工作设计": 88,
+      "工作设计": 90,
       "知识管理": 84,
       "机器学习": 83,
       "绩效评估": 70,
@@ -592,8 +592,8 @@
       "广告": 36,
       "员工幸福感": 31,
       "可解释AI": 30,
+      "劳动力市场": 27,
       "领导力": 25,
-      "劳动力市场": 25,
       "组织行为": 21,
       "平台经济": 18,
       "金融": 17,
@@ -610,19 +610,19 @@
       "心理健康": 10
     },
     "ai_type_tags": {
-      "机器学习": 579,
-      "LLM": 550,
-      "算法决策": 390,
-      "GenAI": 326,
+      "机器学习": 580,
+      "LLM": 555,
+      "算法决策": 393,
+      "GenAI": 329,
       "AI治理": 204,
       "人机交互": 175,
-      "推荐算法": 169,
+      "推荐算法": 170,
       "人机协作": 158,
       "算法管理": 145,
       "多模态": 106,
       "可解释AI": 94,
-      "ChatGPT": 81,
-      "深度学习": 55,
+      "ChatGPT": 83,
+      "深度学习": 56,
       "可解释 AI": 46,
       "机器人": 46,
       "AI": 38,
