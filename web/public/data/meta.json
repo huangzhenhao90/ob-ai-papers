@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-31T06:18:44.146170Z",
+  "generated_at": "2026-06-02T06:44:27.055748Z",
   "totals": {
-    "papers_indexed": 11453,
-    "papers_scored": 11423,
-    "papers_ai_relevant": 1606
+    "papers_indexed": 11479,
+    "papers_scored": 11449,
+    "papers_ai_relevant": 1607
   },
   "journals": [
     {
@@ -48,7 +48,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/asq",
-      "papers_indexed": 207,
+      "papers_indexed": 209,
       "papers_ai_relevant": 8
     },
     {
@@ -150,7 +150,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/10970266",
-      "papers_indexed": 388,
+      "papers_indexed": 389,
       "papers_ai_relevant": 23
     },
     {
@@ -164,8 +164,8 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/mnsc",
-      "papers_indexed": 1944,
-      "papers_ai_relevant": 163
+      "papers_indexed": 1948,
+      "papers_ai_relevant": 164
     },
     {
       "abbr": "MISQ",
@@ -209,7 +209,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.aom.org/loi/annals",
-      "papers_indexed": 94,
+      "papers_indexed": 95,
       "papers_ai_relevant": 3
     },
     {
@@ -239,7 +239,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://academic.oup.com/jcr",
-      "papers_indexed": 255,
+      "papers_indexed": 256,
       "papers_ai_relevant": 16
     },
     {
@@ -267,7 +267,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/mrj",
-      "papers_indexed": 230,
+      "papers_indexed": 231,
       "papers_ai_relevant": 19
     },
     {
@@ -297,7 +297,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/15327663",
-      "papers_indexed": 166,
+      "papers_indexed": 167,
       "papers_ai_relevant": 15
     },
     {
@@ -311,7 +311,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://link.springer.com/journal/11747",
-      "papers_indexed": 255,
+      "papers_indexed": 256,
       "papers_ai_relevant": 16
     },
     {
@@ -340,7 +340,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/hum",
-      "papers_indexed": 198,
+      "papers_indexed": 205,
       "papers_ai_relevant": 6
     },
     {
@@ -483,7 +483,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://arxiv.org/",
-      "papers_indexed": 2740,
+      "papers_indexed": 2747,
       "papers_ai_relevant": 955
     }
   ],
@@ -493,7 +493,7 @@
       "2018": 1,
       "2019": 1,
       "2021": 2,
-      "2022": 1,
+      "2022": 2,
       "2023": 260,
       "2024": 354,
       "2025": 629,
@@ -503,7 +503,7 @@
       "arXiv:cs.HC": 202,
       "arXiv:cs.CY": 195,
       "arXiv:cs.AI": 185,
-      "MgmtSci": 163,
+      "MgmtSci": 164,
       "arXiv:cs.CL": 120,
       "ISR": 101,
       "arXiv:cs.LG": 78,
@@ -561,7 +561,7 @@
       "人机协作": 460,
       "算法管理": 292,
       "伦理": 262,
-      "决策": 252,
+      "决策": 253,
       "消费者行为": 231,
       "公平性": 192,
       "组织变革": 179,
@@ -578,8 +578,8 @@
       "营销": 111,
       "工作未来": 104,
       "工作设计": 90,
+      "机器学习": 84,
       "知识管理": 84,
-      "机器学习": 83,
       "绩效评估": 70,
       "HR": 67,
       "战略": 59,
@@ -604,15 +604,15 @@
       "多模态": 12,
       "风险管理": 11,
       "品牌": 11,
+      "预测": 11,
       "文本分析": 11,
       "社交媒体": 10,
-      "预测": 10,
       "心理健康": 10
     },
     "ai_type_tags": {
-      "机器学习": 580,
+      "机器学习": 581,
       "LLM": 555,
-      "算法决策": 393,
+      "算法决策": 394,
       "GenAI": 329,
       "AI治理": 204,
       "人机交互": 175,
