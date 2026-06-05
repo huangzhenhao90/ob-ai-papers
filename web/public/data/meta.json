@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-04T07:37:20.756032Z",
+  "generated_at": "2026-06-05T06:44:04.309942Z",
   "totals": {
-    "papers_indexed": 11504,
-    "papers_scored": 11474,
-    "papers_ai_relevant": 1607
+    "papers_indexed": 11551,
+    "papers_scored": 11521,
+    "papers_ai_relevant": 1614
   },
   "journals": [
     {
@@ -18,7 +18,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.aom.org/loi/amj",
-      "papers_indexed": 301,
+      "papers_indexed": 302,
       "papers_ai_relevant": 11
     },
     {
@@ -33,7 +33,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.aom.org/loi/amr",
-      "papers_indexed": 264,
+      "papers_indexed": 265,
       "papers_ai_relevant": 22
     },
     {
@@ -48,7 +48,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/asq",
-      "papers_indexed": 210,
+      "papers_indexed": 211,
       "papers_ai_relevant": 8
     },
     {
@@ -63,7 +63,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://psycnet.apa.org/PsycARTICLES/journal/apl",
-      "papers_indexed": 501,
+      "papers_indexed": 503,
       "papers_ai_relevant": 21
     },
     {
@@ -121,7 +121,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/10991379",
-      "papers_indexed": 329,
+      "papers_indexed": 330,
       "papers_ai_relevant": 17
     },
     {
@@ -136,7 +136,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/jom",
-      "papers_indexed": 352,
+      "papers_indexed": 354,
       "papers_ai_relevant": 6
     },
     {
@@ -164,7 +164,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/mnsc",
-      "papers_indexed": 1952,
+      "papers_indexed": 1955,
       "papers_ai_relevant": 164
     },
     {
@@ -239,7 +239,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://academic.oup.com/jcr",
-      "papers_indexed": 257,
+      "papers_indexed": 258,
       "papers_ai_relevant": 16
     },
     {
@@ -267,7 +267,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/mrj",
-      "papers_indexed": 231,
+      "papers_indexed": 232,
       "papers_ai_relevant": 19
     },
     {
@@ -297,7 +297,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/15327663",
-      "papers_indexed": 167,
+      "papers_indexed": 169,
       "papers_ai_relevant": 15
     },
     {
@@ -311,7 +311,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://link.springer.com/journal/11747",
-      "papers_indexed": 256,
+      "papers_indexed": 258,
       "papers_ai_relevant": 16
     },
     {
@@ -340,7 +340,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/hum",
-      "papers_indexed": 205,
+      "papers_indexed": 209,
       "papers_ai_relevant": 6
     },
     {
@@ -355,7 +355,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/14676486",
-      "papers_indexed": 514,
+      "papers_indexed": 515,
       "papers_ai_relevant": 27
     },
     {
@@ -483,8 +483,8 @@
       ],
       "lang": "en",
       "publisher_toc": "https://arxiv.org/",
-      "papers_indexed": 2748,
-      "papers_ai_relevant": 955
+      "papers_indexed": 2773,
+      "papers_ai_relevant": 962
     }
   ],
   "facets": {
@@ -497,17 +497,17 @@
       "2023": 260,
       "2024": 354,
       "2025": 629,
-      "2026": 357
+      "2026": 364
     },
     "journals": {
-      "arXiv:cs.HC": 202,
+      "arXiv:cs.HC": 203,
       "arXiv:cs.CY": 195,
-      "arXiv:cs.AI": 185,
+      "arXiv:cs.AI": 187,
       "MgmtSci": 164,
       "arXiv:cs.CL": 120,
       "ISR": 101,
-      "arXiv:cs.LG": 78,
-      "arXiv:cs.IR": 60,
+      "arXiv:cs.LG": 81,
+      "arXiv:cs.IR": 61,
       "MISQ": 52,
       "MktSci": 42,
       "arXiv:econ.GN": 42,
@@ -558,37 +558,37 @@
       "arXiv:math.OC": 1
     },
     "topic_tags": {
-      "人机协作": 460,
-      "算法管理": 292,
-      "伦理": 262,
-      "决策": 253,
-      "消费者行为": 231,
+      "人机协作": 463,
+      "算法管理": 294,
+      "伦理": 263,
+      "决策": 257,
+      "消费者行为": 232,
       "公平性": 192,
       "组织变革": 179,
-      "推荐系统": 167,
+      "推荐系统": 168,
       "算法决策": 157,
-      "创新": 151,
+      "创新": 153,
       "AI治理": 137,
       "招聘": 137,
       "信任": 134,
       "偏见": 130,
-      "教育": 125,
+      "教育": 126,
       "人机交互": 114,
-      "组织学习": 112,
+      "组织学习": 113,
       "营销": 111,
       "工作未来": 104,
       "工作设计": 90,
       "机器学习": 84,
       "知识管理": 84,
-      "绩效评估": 70,
+      "绩效评估": 73,
       "HR": 67,
       "战略": 59,
+      "培训": 51,
       "创意": 50,
-      "培训": 50,
       "隐私": 50,
       "创业": 42,
-      "团队": 41,
-      "零工经济": 36,
+      "团队": 42,
+      "零工经济": 37,
       "广告": 36,
       "员工幸福感": 31,
       "可解释AI": 30,
@@ -610,17 +610,17 @@
       "心理健康": 10
     },
     "ai_type_tags": {
-      "机器学习": 581,
-      "LLM": 555,
-      "算法决策": 394,
-      "GenAI": 329,
-      "AI治理": 204,
-      "人机交互": 175,
-      "推荐算法": 170,
-      "人机协作": 158,
-      "算法管理": 145,
+      "机器学习": 585,
+      "LLM": 557,
+      "算法决策": 396,
+      "GenAI": 331,
+      "AI治理": 205,
+      "人机交互": 176,
+      "推荐算法": 171,
+      "人机协作": 160,
+      "算法管理": 146,
       "多模态": 106,
-      "可解释AI": 94,
+      "可解释AI": 95,
       "ChatGPT": 83,
       "深度学习": 56,
       "可解释 AI": 46,
