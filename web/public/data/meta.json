@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-05T06:44:04.309942Z",
+  "generated_at": "2026-06-06T05:56:07.620169Z",
   "totals": {
-    "papers_indexed": 11551,
-    "papers_scored": 11521,
-    "papers_ai_relevant": 1614
+    "papers_indexed": 11567,
+    "papers_scored": 11537,
+    "papers_ai_relevant": 1615
   },
   "journals": [
     {
@@ -63,7 +63,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://psycnet.apa.org/PsycARTICLES/journal/apl",
-      "papers_indexed": 503,
+      "papers_indexed": 505,
       "papers_ai_relevant": 21
     },
     {
@@ -78,7 +78,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/orsc",
-      "papers_indexed": 450,
+      "papers_indexed": 451,
       "papers_ai_relevant": 11
     },
     {
@@ -121,7 +121,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/10991379",
-      "papers_indexed": 330,
+      "papers_indexed": 331,
       "papers_ai_relevant": 17
     },
     {
@@ -136,7 +136,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/jom",
-      "papers_indexed": 354,
+      "papers_indexed": 355,
       "papers_ai_relevant": 6
     },
     {
@@ -150,7 +150,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/10970266",
-      "papers_indexed": 389,
+      "papers_indexed": 390,
       "papers_ai_relevant": 23
     },
     {
@@ -179,7 +179,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://misq.umn.edu/",
-      "papers_indexed": 271,
+      "papers_indexed": 273,
       "papers_ai_relevant": 52
     },
     {
@@ -239,7 +239,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://academic.oup.com/jcr",
-      "papers_indexed": 258,
+      "papers_indexed": 259,
       "papers_ai_relevant": 16
     },
     {
@@ -253,7 +253,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/jmx",
-      "papers_indexed": 234,
+      "papers_indexed": 235,
       "papers_ai_relevant": 17
     },
     {
@@ -267,8 +267,8 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/mrj",
-      "papers_indexed": 232,
-      "papers_ai_relevant": 19
+      "papers_indexed": 236,
+      "papers_ai_relevant": 20
     },
     {
       "abbr": "MktSci",
@@ -311,7 +311,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://link.springer.com/journal/11747",
-      "papers_indexed": 258,
+      "papers_indexed": 259,
       "papers_ai_relevant": 16
     },
     {
@@ -340,7 +340,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/hum",
-      "papers_indexed": 209,
+      "papers_indexed": 210,
       "papers_ai_relevant": 6
     },
     {
@@ -497,7 +497,7 @@
       "2023": 260,
       "2024": 354,
       "2025": 629,
-      "2026": 364
+      "2026": 365
     },
     "journals": {
       "arXiv:cs.HC": 203,
@@ -516,7 +516,7 @@
       "SMJ": 23,
       "AMR": 22,
       "JAP": 21,
-      "JMR": 19,
+      "JMR": 20,
       "JM": 17,
       "JOB": 17,
       "JAMS": 16,
@@ -562,10 +562,10 @@
       "算法管理": 294,
       "伦理": 263,
       "决策": 257,
-      "消费者行为": 232,
+      "消费者行为": 233,
       "公平性": 192,
       "组织变革": 179,
-      "推荐系统": 168,
+      "推荐系统": 169,
       "算法决策": 157,
       "创新": 153,
       "AI治理": 137,
@@ -610,13 +610,13 @@
       "心理健康": 10
     },
     "ai_type_tags": {
-      "机器学习": 585,
+      "机器学习": 586,
       "LLM": 557,
       "算法决策": 396,
       "GenAI": 331,
       "AI治理": 205,
       "人机交互": 176,
-      "推荐算法": 171,
+      "推荐算法": 172,
       "人机协作": 160,
       "算法管理": 146,
       "多模态": 106,
