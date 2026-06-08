@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-07T06:25:56.193842Z",
+  "generated_at": "2026-06-08T06:44:26.816301Z",
   "totals": {
-    "papers_indexed": 11588,
-    "papers_scored": 11558,
+    "papers_indexed": 11591,
+    "papers_scored": 11561,
     "papers_ai_relevant": 1617
   },
   "journals": [
@@ -121,7 +121,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/10991379",
-      "papers_indexed": 331,
+      "papers_indexed": 332,
       "papers_ai_relevant": 17
     },
     {
@@ -136,7 +136,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/jom",
-      "papers_indexed": 356,
+      "papers_indexed": 357,
       "papers_ai_relevant": 6
     },
     {
@@ -164,7 +164,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/mnsc",
-      "papers_indexed": 1959,
+      "papers_indexed": 1960,
       "papers_ai_relevant": 166
     },
     {
