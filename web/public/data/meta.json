@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-08T06:44:26.816301Z",
+  "generated_at": "2026-06-09T06:14:35.772390Z",
   "totals": {
-    "papers_indexed": 11591,
-    "papers_scored": 11561,
-    "papers_ai_relevant": 1617
+    "papers_indexed": 11604,
+    "papers_scored": 11574,
+    "papers_ai_relevant": 1618
   },
   "journals": [
     {
@@ -18,7 +18,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.aom.org/loi/amj",
-      "papers_indexed": 302,
+      "papers_indexed": 303,
       "papers_ai_relevant": 11
     },
     {
@@ -63,7 +63,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://psycnet.apa.org/PsycARTICLES/journal/apl",
-      "papers_indexed": 505,
+      "papers_indexed": 508,
       "papers_ai_relevant": 21
     },
     {
@@ -121,7 +121,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/10991379",
-      "papers_indexed": 332,
+      "papers_indexed": 333,
       "papers_ai_relevant": 17
     },
     {
@@ -150,7 +150,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/10970266",
-      "papers_indexed": 390,
+      "papers_indexed": 391,
       "papers_ai_relevant": 23
     },
     {
@@ -239,7 +239,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://academic.oup.com/jcr",
-      "papers_indexed": 260,
+      "papers_indexed": 261,
       "papers_ai_relevant": 16
     },
     {
@@ -281,8 +281,8 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/mksc",
-      "papers_indexed": 322,
-      "papers_ai_relevant": 42
+      "papers_indexed": 324,
+      "papers_ai_relevant": 43
     },
     {
       "abbr": "JCP",
@@ -355,7 +355,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/14676486",
-      "papers_indexed": 516,
+      "papers_indexed": 518,
       "papers_ai_relevant": 27
     },
     {
@@ -384,7 +384,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/1099050X",
-      "papers_indexed": 263,
+      "papers_indexed": 265,
       "papers_ai_relevant": 26
     },
     {
@@ -490,6 +490,7 @@
   "facets": {
     "years": {
       "2004": 1,
+      "2011": 1,
       "2018": 1,
       "2019": 1,
       "2021": 2,
@@ -509,7 +510,7 @@
       "arXiv:cs.LG": 81,
       "arXiv:cs.IR": 61,
       "MISQ": 52,
-      "MktSci": 42,
+      "MktSci": 43,
       "arXiv:econ.GN": 42,
       "JMS": 27,
       "HRM": 26,
@@ -562,10 +563,10 @@
       "算法管理": 295,
       "伦理": 263,
       "决策": 259,
-      "消费者行为": 233,
+      "消费者行为": 234,
       "公平性": 193,
       "组织变革": 179,
-      "推荐系统": 169,
+      "推荐系统": 170,
       "算法决策": 157,
       "创新": 153,
       "招聘": 138,
@@ -575,10 +576,10 @@
       "教育": 126,
       "人机交互": 114,
       "组织学习": 113,
-      "营销": 111,
+      "营销": 112,
       "工作未来": 104,
       "工作设计": 90,
-      "机器学习": 84,
+      "机器学习": 85,
       "知识管理": 84,
       "绩效评估": 73,
       "HR": 67,
@@ -610,13 +611,13 @@
       "心理健康": 10
     },
     "ai_type_tags": {
-      "机器学习": 586,
+      "机器学习": 587,
       "LLM": 557,
       "算法决策": 397,
       "GenAI": 331,
       "AI治理": 205,
       "人机交互": 176,
-      "推荐算法": 172,
+      "推荐算法": 173,
       "人机协作": 161,
       "算法管理": 147,
       "多模态": 106,
