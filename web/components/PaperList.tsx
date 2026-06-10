@@ -6,6 +6,7 @@ import { usePathname, useRouter, useSearchParams } from "next/navigation";
 import { readFavorites, toggleFavorite } from "@/lib/favorites";
 import { readReadIds, markRead } from "@/lib/read";
 import { track } from "@/lib/analytics";
+import { comparePapersByRecent } from "@/lib/paperSort";
 
 export type Paper = {
   id: number;
@@ -132,8 +133,9 @@ export default function PaperList({
   // 实际展示的论文 = 应用所有筛选
   const filtered = useMemo(() => {
     let res = filteredExcept(null);
-    if (sort === "ai_score") res = [...res].sort((a, b) => b.ai_score - a.ai_score);
-    else if (sort === "cited") res = [...res].sort((a, b) => b.cited_by - a.cited_by);
+    if (sort === "ai_score") res = [...res].sort((a, b) => (b.ai_score - a.ai_score) || comparePapersByRecent(a, b));
+    else if (sort === "cited") res = [...res].sort((a, b) => (b.cited_by - a.cited_by) || comparePapersByRecent(a, b));
+    else res = [...res].sort(comparePapersByRecent);
     return res;
   }, [papers, q, year, journal, topicTag, aiType, minAi, sort]);
 

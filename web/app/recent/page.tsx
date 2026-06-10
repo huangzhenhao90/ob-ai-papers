@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from "react";
 import PaperList, { type Paper } from "@/components/PaperList";
+import { comparePapersByRecent } from "@/lib/paperSort";
 
 const DAYS = 7;
 
@@ -18,7 +19,10 @@ export default function RecentPage() {
       // 取近 N 天（按论文 pub_date 实际发表日期）
       const since = new Date(Date.now() - DAYS * 24 * 3600 * 1000);
       const sinceStr = since.toISOString().slice(0, 10);
-      const recent = all.filter((p) => p.date && p.date >= sinceStr);
+      const untilStr = new Date().toISOString().slice(0, 10);
+      const recent = all
+        .filter((p) => p.date && p.date >= sinceStr && p.date <= untilStr)
+        .sort(comparePapersByRecent);
       setPapers(recent);
       setMeta(m);
       setLoading(false);

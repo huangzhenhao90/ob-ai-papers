@@ -1,7 +1,7 @@
 import "./globals.css";
 import type { Metadata } from "next";
 import Link from "next/link";
-import FavLink from "@/components/FavLink";
+import HeaderNav from "@/components/HeaderNav";
 import { Analytics } from "@vercel/analytics/next";
 
 export const metadata: Metadata = {
@@ -23,12 +23,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
                 组织行为学 / 营销学 AI 相关研究索引
               </span>
             </Link>
-            <nav className="flex gap-4 text-sm items-center">
-              <Link href="/recent" className="hover:text-accent">本周新增</Link>
-              <Link href="/" className="hover:text-accent">全部论文</Link>
-              <FavLink />
-              <Link href="/about" className="hover:text-accent">关于</Link>
-            </nav>
+            <HeaderNav />
           </div>
         </header>
         <main className="max-w-6xl mx-auto px-4 py-6">{children}</main>
