@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-09T06:14:35.772390Z",
+  "generated_at": "2026-06-10T06:25:09.749140Z",
   "totals": {
-    "papers_indexed": 11604,
-    "papers_scored": 11574,
-    "papers_ai_relevant": 1618
+    "papers_indexed": 11615,
+    "papers_scored": 11585,
+    "papers_ai_relevant": 1619
   },
   "journals": [
     {
@@ -93,7 +93,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/17446570",
-      "papers_indexed": 178,
+      "papers_indexed": 179,
       "papers_ai_relevant": 11
     },
     {
@@ -121,7 +121,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/10991379",
-      "papers_indexed": 333,
+      "papers_indexed": 335,
       "papers_ai_relevant": 17
     },
     {
@@ -136,7 +136,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/jom",
-      "papers_indexed": 357,
+      "papers_indexed": 359,
       "papers_ai_relevant": 6
     },
     {
@@ -281,7 +281,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/mksc",
-      "papers_indexed": 324,
+      "papers_indexed": 325,
       "papers_ai_relevant": 43
     },
     {
@@ -355,7 +355,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/14676486",
-      "papers_indexed": 518,
+      "papers_indexed": 519,
       "papers_ai_relevant": 27
     },
     {
@@ -483,8 +483,8 @@
       ],
       "lang": "en",
       "publisher_toc": "https://arxiv.org/",
-      "papers_indexed": 2773,
-      "papers_ai_relevant": 962
+      "papers_indexed": 2777,
+      "papers_ai_relevant": 963
     }
   ],
   "facets": {
@@ -498,12 +498,12 @@
       "2023": 260,
       "2024": 354,
       "2025": 629,
-      "2026": 367
+      "2026": 368
     },
     "journals": {
       "arXiv:cs.HC": 203,
       "arXiv:cs.CY": 195,
-      "arXiv:cs.AI": 187,
+      "arXiv:cs.AI": 188,
       "MgmtSci": 166,
       "arXiv:cs.CL": 120,
       "ISR": 101,
@@ -565,7 +565,7 @@
       "决策": 259,
       "消费者行为": 234,
       "公平性": 193,
-      "组织变革": 179,
+      "组织变革": 180,
       "推荐系统": 170,
       "算法决策": 157,
       "创新": 153,
@@ -580,7 +580,7 @@
       "工作未来": 104,
       "工作设计": 90,
       "机器学习": 85,
-      "知识管理": 84,
+      "知识管理": 85,
       "绩效评估": 73,
       "HR": 67,
       "战略": 59,
@@ -618,7 +618,7 @@
       "AI治理": 205,
       "人机交互": 176,
       "推荐算法": 173,
-      "人机协作": 161,
+      "人机协作": 162,
       "算法管理": 147,
       "多模态": 106,
       "可解释AI": 95,
