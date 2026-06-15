@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-14T06:36:30.611956Z",
+  "generated_at": "2026-06-15T07:20:18.738003Z",
   "totals": {
-    "papers_indexed": 11705,
-    "papers_scored": 11665,
-    "papers_ai_relevant": 1626
+    "papers_indexed": 11714,
+    "papers_scored": 11674,
+    "papers_ai_relevant": 1627
   },
   "journals": [
     {
@@ -78,7 +78,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/orsc",
-      "papers_indexed": 455,
+      "papers_indexed": 457,
       "papers_ai_relevant": 12
     },
     {
@@ -121,7 +121,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/10991379",
-      "papers_indexed": 341,
+      "papers_indexed": 342,
       "papers_ai_relevant": 17
     },
     {
@@ -136,7 +136,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/jom",
-      "papers_indexed": 361,
+      "papers_indexed": 363,
       "papers_ai_relevant": 6
     },
     {
@@ -164,7 +164,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/mnsc",
-      "papers_indexed": 1969,
+      "papers_indexed": 1970,
       "papers_ai_relevant": 168
     },
     {
@@ -384,7 +384,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/1099050X",
-      "papers_indexed": 267,
+      "papers_indexed": 268,
       "papers_ai_relevant": 26
     },
     {
@@ -483,8 +483,8 @@
       ],
       "lang": "en",
       "publisher_toc": "https://arxiv.org/",
-      "papers_indexed": 2788,
-      "papers_ai_relevant": 965
+      "papers_indexed": 2790,
+      "papers_ai_relevant": 966
     }
   ],
   "facets": {
@@ -498,7 +498,7 @@
       "2023": 260,
       "2024": 354,
       "2025": 629,
-      "2026": 375
+      "2026": 376
     },
     "journals": {
       "arXiv:cs.HC": 204,
@@ -536,9 +536,9 @@
       "arXiv:cs.CR": 5,
       "arXiv:cs.GT": 5,
       "LQ": 4,
+      "arXiv:cs.SI": 4,
       "arXiv:eess.SY": 4,
       "arXiv:stat.ML": 4,
-      "arXiv:cs.SI": 3,
       "AOM-Annals": 3,
       "OBHDP": 2,
       "arXiv:cs.RO": 2,
@@ -569,8 +569,8 @@
       "推荐系统": 170,
       "算法决策": 157,
       "创新": 156,
+      "招聘": 139,
       "AI治理": 138,
-      "招聘": 138,
       "信任": 135,
       "偏见": 130,
       "教育": 127,
@@ -582,7 +582,7 @@
       "知识管理": 87,
       "机器学习": 85,
       "绩效评估": 74,
-      "HR": 67,
+      "HR": 68,
       "战略": 59,
       "培训": 52,
       "创意": 50,
@@ -611,9 +611,9 @@
       "心理健康": 10
     },
     "ai_type_tags": {
-      "机器学习": 587,
+      "机器学习": 588,
       "LLM": 561,
-      "算法决策": 398,
+      "算法决策": 399,
       "GenAI": 333,
       "AI治理": 206,
       "人机交互": 176,
@@ -623,7 +623,7 @@
       "多模态": 106,
       "可解释AI": 95,
       "ChatGPT": 85,
-      "深度学习": 56,
+      "深度学习": 57,
       "可解释 AI": 46,
       "机器人": 46,
       "AI": 38,
