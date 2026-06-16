@@ -7,6 +7,11 @@ import { Analytics } from "@vercel/analytics/next";
 export const metadata: Metadata = {
   title: "OB × AI Papers — 组织行为学 / 营销学 AI 论文索引",
   description: "聚合 2023 至今 OB / 营销 / 管理顶刊中与 AI 相关的论文，含中文 TL;DR、主题标签与覆盖率审计。",
+  alternates: {
+    types: {
+      "application/rss+xml": "/rss.xml",
+    },
+  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
