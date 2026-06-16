@@ -6,86 +6,9 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 12 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
-      <title>在领导力与管理研究中使用定制化对话式 AI 代理：优势、实践案例与最佳实践</title>
-      <link>https://ob-ai-papers.vercel.app/papers/7112</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/7112</guid>
-      <description>📝 在领导力与管理研究中使用定制化对话式 AI 代理：优势、实践案例与最佳实践
-EN: Using customized, conversational AI agents in leadership and management research: Benefits, practical illustrations, and best practices
-
-💡 针对传统情景实验在生态效度上的局限，研究者利用无需编程的低代码平台定制会话式AI代理，代表领导、同事或下属角色，开展三项实验（N=789）。结果发现，参与者与AI代理的实时互动能够显著影响其感知、态度和行为，证明该方法在组织行为与领导力研究中的可行性与价值。
-
-📚 LQ · 2026 · 引用 0
-👤 Marc Becker, David de Jong, Roman Briker, Kars Mennens, Jonas Heller
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://doi.org/10.1016/j.leaqua.2026.101952</description>
-      
-      <category>领导力</category><category>组织行为</category><category>研究方法</category><category>人机协作</category><category>Conversational AI</category><category>AI Agent</category><category>LLM</category>
-    </item>    <item>
-      <title>ChatGPT，一个具有教育意义的热潮：生成式AI与社交媒体上的技术素养集体积累</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11694</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11694</guid>
-      <description>📝 ChatGPT，一个具有教育意义的热潮：生成式AI与社交媒体上的技术素养集体积累
-EN: ChatGPT, a Hype That Teaches: Generative AI and the Collective Accumulation of Technology Literacy on Social Media
-
-💡 通过分析 ChatGPT 发布后五个月内 215,279 条社交媒体帖子，揭示了 hype 作为集体感知与知识建构的角色：AI 的可及性让技术评估自下而上形成关系公众，知识通过概念原型累积，并在跨越技术素养阈值后 hype 由扩张转为收敛。该过程阐释了社交媒体在新技术扩散中同步共创想象与实践知识的机制。
-
-📚 AMJ · 2026 · 引用 0
-👤 Hassan Md. Hamadi, Anna Brattström
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-      <category>组织学习</category><category>创新</category><category>社交媒体</category><category>知识管理</category><category>GenAI</category><category>ChatGPT</category><category>LLM</category>
-    </item>    <item>
-      <title>AI民主化悖论：来自去中心化知识社区的证据</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11700</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11700</guid>
-      <description>📝 AI民主化悖论：来自去中心化知识社区的证据
-EN: The AI Democratization Paradox: Evidence from Decentralized Knowledge Communities
-
-💡 基于 100 多个维基语言社区部署神经机器翻译的自然实验，发现 AI 降低创作门槛，提升多语言内容产出与质量，且女性传记翻译率提高；但资源丰富社区获益显著高于中低收入社区，形成‘AI 民主化悖论’，表明技术本身难以消除结构性不平等，效益取决于既有社会结构。
-
-📚 MgmtSci · 2026 · 引用 0
-👤 Kai Zhu, D. Walker
-
-AI 分: 5.0 / 领域分: 5.0</description>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-      <category>知识管理</category><category>公平性</category><category>社会结构</category><category>创新</category><category>神经机器翻译</category><category>机器翻译</category>
-    </item>    <item>
-      <title>赛博格队友：生成式AI与团队协作的实地实验</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11695</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11695</guid>
-      <description>📝 赛博格队友：生成式AI与团队协作的实地实验
-EN: The Cybernetic Teammate: A Field Experiment on Generative AI and Teamwork
-
-💡 在宝洁公司 791 名专业人员中进行随机现场实验，考察 AI 对团队合作三大支柱的影响。结果显示：AI 能让个人绩效匹配团队水平；帮助跨越研发与商业职能的壁垒，生成更平衡的方案；语言交互引发更积极的情感反应；AI 主要提升创意生成质量，而人类判断在评估筛选阶段仍具价值。
-
-📚 OrgSci · 2026 · 引用 0
-👤 Fabrizio Dell’Acqua, Charles Ayoubi, Hila Lifshitz‐Assaf, Raffaella Sadun, Ethan Mollick
-
-AI 分: 5.0 / 领域分: 5.0</description>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-      <category>团队</category><category>人机协作</category><category>创新</category><category>绩效评估</category><category>GenAI</category><category>LLM</category>
-    </item>    <item>
-      <title>管理的复兴：当普通员工成为AI代理的多层级管理者</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11651</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11651</guid>
-      <description>📝 管理的复兴：当普通员工成为AI代理的多层级管理者
-EN: The renaissance of management: When regular employees become multi-level managers of AI agents
-
-💡 探讨AI代理广泛应用于工作场所后，普通员工角色的根本性转变。传统层级管理结构被颠覆，员工不仅完成任务，还需管理、监督和协调AI代理的工作表现。研究关注这一新兴管理形态的特征、挑战与影响，涉及人机协作边界重新划定、员工技能需求变化、监督责任增加等议题。管理学面临“文艺复兴”，需重新定义管理者角色、管理幅度及人机团队的有效组织方式。
-
-📚 LQ · 2026 · 引用 0
-👤 Niels Van Quaquebeke, Brooke A. Gazdag, Allan Lee
-
-AI 分: 5.0 / 领域分: 5.0</description>
-      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
-      <category>团队</category><category>人机协作</category><category>组织变革</category><category>工作设计</category><category>AI治理</category><category>人机协作</category>
-    </item>    <item>
       <title>基于图注意力网络和混合密度网络的概率薪资预测</title>
       <link>https://ob-ai-papers.vercel.app/papers/11714</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11714</guid>
@@ -100,170 +23,53 @@ EN: Probabilistic Salary Prediction with Graph Attention Networks and a Mixture 
 AI 分: 5.0 / 领域分: 3.0
 
 📄 PDF: https://arxiv.org/pdf/2606.11663v1</description>
-      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
       <category>招聘</category><category>HR</category><category>机器学习</category><category>深度学习</category><category>算法决策</category>
     </item>    <item>
-      <title>人工串谋：Q学习算法的超额定价研究</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11632</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11632</guid>
-      <description>📝 人工串谋：Q学习算法的超额定价研究
-EN: Artificial Collusion: Examining Supracompetitive Pricing by Q-Learning Algorithms
+      <title>AI民主化悖论：来自去中心化知识社区的证据</title>
+      <link>https://ob-ai-papers.vercel.app/papers/11700</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11700</guid>
+      <description>📝 AI民主化悖论：来自去中心化知识社区的证据
+EN: The AI Democratization Paradox: Evidence from Decentralized Knowledge Communities
 
-💡 研究定价算法（尤其是Q-learning强化学习）是否会自主学习串通以实现超竞争性价格。结果表明Q-learning在实践中难以构成真正的“自主”串通——它只能在与企业目标无关的时间尺度上学习串通均衡，且竞争对手需高度同步（相同算法、同时启动、相同超参数），这种同步程度本身就暗示需要明确的卡特尔协议。研究认为，目前竞争监管机构不必过度怀疑定价算法，除非是“通过算法实施的串通”（即故意编码或用于执行卡特尔协议）。
+💡 基于 100 多个维基语言社区部署神经机器翻译的自然实验，发现 AI 降低创作门槛，提升多语言内容产出与质量，且女性传记翻译率提高；但资源丰富社区获益显著高于中低收入社区，形成‘AI 民主化悖论’，表明技术本身难以消除结构性不平等，效益取决于既有社会结构。
 
 📚 MgmtSci · 2026 · 引用 0
-👤 Arnoud den Boer, Janusz M Meylahn, Maarten Pieter Schinkel
+👤 Kai Zhu, D. Walker
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
+      <category>知识管理</category><category>公平性</category><category>社会结构</category><category>创新</category><category>神经机器翻译</category><category>机器翻译</category>
+    </item>    <item>
+      <title>赛博格队友：生成式AI与团队协作的实地实验</title>
+      <link>https://ob-ai-papers.vercel.app/papers/11695</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11695</guid>
+      <description>📝 赛博格队友：生成式AI与团队协作的实地实验
+EN: The Cybernetic Teammate: A Field Experiment on Generative AI and Teamwork
+
+💡 在宝洁公司 791 名专业人员中进行随机现场实验，考察 AI 对团队合作三大支柱的影响。结果显示：AI 能让个人绩效匹配团队水平；帮助跨越研发与商业职能的壁垒，生成更平衡的方案；语言交互引发更积极的情感反应；AI 主要提升创意生成质量，而人类判断在评估筛选阶段仍具价值。
+
+📚 OrgSci · 2026 · 引用 0
+👤 Fabrizio Dell’Acqua, Charles Ayoubi, Hila Lifshitz‐Assaf, Raffaella Sadun, Ethan Mollick
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
+      <category>团队</category><category>人机协作</category><category>创新</category><category>绩效评估</category><category>GenAI</category><category>LLM</category>
+    </item>    <item>
+      <title>ChatGPT，一个具有教育意义的热潮：生成式AI与社交媒体上的技术素养集体积累</title>
+      <link>https://ob-ai-papers.vercel.app/papers/11694</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11694</guid>
+      <description>📝 ChatGPT，一个具有教育意义的热潮：生成式AI与社交媒体上的技术素养集体积累
+EN: ChatGPT, a Hype That Teaches: Generative AI and the Collective Accumulation of Technology Literacy on Social Media
+
+💡 通过分析 ChatGPT 发布后五个月内 215,279 条社交媒体帖子，揭示了 hype 作为集体感知与知识建构的角色：AI 的可及性让技术评估自下而上形成关系公众，知识通过概念原型累积，并在跨越技术素养阈值后 hype 由扩张转为收敛。该过程阐释了社交媒体在新技术扩散中同步共创想象与实践知识的机制。
+
+📚 AMJ · 2026 · 引用 0
+👤 Hassan Md. Hamadi, Anna Brattström
 
 AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-      <category>算法管理</category><category>反垄断</category><category>定价策略</category><category>Q-learning</category><category>强化学习</category><category>算法决策</category>
-    </item>    <item>
-      <title>前置约束下的马尔可夫搜索：社会感知算法招聘的理论与应用</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11581</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11581</guid>
-      <description>📝 前置约束下的马尔可夫搜索：社会感知算法招聘的理论与应用
-EN: Markovian Search with Ex Ante Constraints: Theory and Applications to Socially Aware Algorithmic Hiring
-
-💡 研究如何在状态序贯搜索问题中融入"事前"约束（即平均意义上的结果约束），以服务于算法招聘中的社会公平目标。基于Weitzman Pandora箱及马尔可夫调度的无约束最优指标策略框架，证明在单一事前约束（如人口均等）下，最优策略仍保持指标结构，但需要对指标进行对偶调整并在两种调整间随机化；多仿射约束情形可通过精确Carathéodory问题约化在多项式时间内求解。
-
-📚 MgmtSci · 2026 · 引用 0
-👤 Mohammad Reza Aminian, Vahideh Manshadi, Rad Niazadeh
-
-AI 分: 5.0 / 领域分: 5.0</description>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-      <category>算法管理</category><category>招聘</category><category>公平性</category><category>决策</category><category>算法决策</category><category>算法管理</category>
-    </item>    <item>
-      <title>评论：汉斯-保罗·伯克纳博士（波士顿咨询公司全球荣誉主席）评杨柳（Cathy Liu）等人的《我的导师、她的人工智能与我：人机协作与投资决策田野实验的证据》（2025）</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11582</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11582</guid>
-      <description>📝 评论：汉斯-保罗·伯克纳博士（波士顿咨询公司全球荣誉主席）评杨柳（Cathy Liu）等人的《我的导师、她的人工智能与我：人机协作与投资决策田野实验的证据》（2025）
-EN: Commentary by Dr. Hans-Paul Bürkner, Global Chair Emeritus of The Boston Consulting Group, on Cathy (Liu) Yang, Kevin Bauer, Xitong Li, and Oliver Hinz (2025) “My Advisor, Her AI, and Me: Evidence from a Field Experiment on Human-AI Collaboration and Investment Decisions”
-
-💡 一篇 BCG 前全球主席针对人机合作与投资决策田野实验的评论文章，探讨人类与 AI 在投资决策场景下的协作模式与效果。
-
-📚 MgmtSci · 2026 · 引用 0
-👤 Hans-Paul Bürkner
-
-AI 分: 5.0 / 领域分: 5.0</description>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>决策</category><category>投资</category><category>人机协作</category>
-    </item>    <item>
-      <title>AI 代理如何重塑知识工作：自主性、效率与范围</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11614</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11614</guid>
-      <description>📝 AI 代理如何重塑知识工作：自主性、效率与范围
-EN: How AI Agents Reshape Knowledge Work: Autonomy, Efficiency, and Scope
-
-💡 通过Perplexity产品数据，研究AI从对话助手向自主代理的转变如何重塑知识工作。发现：1）Computer每会话自主工作26分钟，远超Search的33秒，自动化任务分解与执行；2）Computer将完成时间从269分钟缩至36分钟，效率提升87%，成本降低94%；3）Computer扩展工作边界，用户提问更多跨职业交叉、涉及更高阶认知和复合任务，解锁原本无法开展的工作。表明AI Agent正从辅助工具演变为能独立完成端到端任务的自主系统，显著改变知识工作模式。
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Jeremy Yang, Kate Zyskowski, Noah Yonack, Jerry Ma
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2606.07489v1</description>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-      <category>知识管理</category><category>工作效率</category><category>任务自动化</category><category>组织变革</category><category>AI Agent</category><category>任务自动化</category><category>自主AI系统</category><category>人机协作</category>
-    </item>    <item>
-      <title>修复思维而非动作：通过知识差距定位的可解释AI辅助</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11533</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11533</guid>
-      <description>📝 修复思维而非动作：通过知识差距定位的可解释AI辅助
-EN: Fix the Mind, Not the Move: Interpretable AI Assistance via Knowledge-Gap Localization
-
-💡 提出SENSEI框架，通过知识表征定位用户误解根源并提供精准建议，而非仅纠正单次行为。区别于轨迹级干预，该方法在结构化知识层面解纠缠多个重叠误解。跨三个长时域任务实现零样本组合泛化，用户研究中90%的误解得到有效纠正，提升长期任务表现。
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Ayano Hiranaka, Ya-Chuan Hsu, Stefanos Nikolaidis, Erdem Bıyık, Daniel Seita
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2606.05602v1</description>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>教育</category><category>培训</category><category>可解释AI</category><category>人机交互</category>
-    </item>    <item>
-      <title>基于小样本数据的动态消费者偏好建模：一种元学习方法</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11567</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11567</guid>
-      <description>📝 基于小样本数据的动态消费者偏好建模：一种元学习方法
-EN: EXPRESS: Modeling Dynamic Consumer Preferences from Few-shot Data: A Meta-Learning Approach
-
-💡 研究如何从少量数据中快速捕捉消费者动态偏好。提出Meta-TP框架，结合元学习与Transformer架构，在有限的个体观察下实现规模化个性化。核心贡献：跨任务迁移学习提升数据效率；捕捉会话内序列消费模式；揭示偏好异质性动态演变；支持小样本场景下的产品推荐和排序决策。实证应用于数字产品消费，在few-shot预测任务中显著优于基准方法。
-
-📚 JMR · 2026 · 引用 0
-👤 Mingzhang Yin, Khaled Boughanmi, Anirban Mukherjee
-
-AI 分: 5.0 / 领域分: 5.0</description>
-      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
-      <category>消费者行为</category><category>推荐系统</category><category>个性化营销</category><category>偏好演化</category><category>机器学习</category><category>Transformer</category><category>元学习</category><category>推荐算法</category>
-    </item>    <item>
-      <title>Agent的最后考试</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11537</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11537</guid>
-      <description>📝 Agent的最后考试
-EN: Agents' Last Exam
-
-💡 指出当前AI评测基准与真实经济价值存在巨大鸿沟。提出ALE基准，涵盖55个子领域、13个行业集群、1000+任务，由250+行业专家协作开发。当前主流模型平均通过率仅2.6%，最难层级远未饱和。该基准为动态更新，旨在将AI表现从榜单成功转化为GDP相关影响。
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Yiyou Sun, Xinyang Han, Weichen Zhang, Yuanbo Pang, Tianyu Wang
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2606.05405v1</description>
-      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
-      <category>绩效评估</category><category>决策</category><category>创新</category><category>LLM</category><category>GenAI</category><category>AI治理</category>
-    </item>    <item>
-      <title>信任但不验证：LLM来源评估中的认知盲点</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11527</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11527</guid>
-      <description>📝 信任但不验证：LLM来源评估中的认知盲点
-EN: Trust, but Don't Verify: Epistemic Blind Spots in LLM Source Evaluation
-
-💡 研究大语言模型在多源信息综合时的证据评估能力。实验表明模型孤立时能识别虚假统计数据，但在多源合成中不调动该能力，对统计上不可能的置信区间与有效数据给予相同权重。方法论风格门控机制驱动源影响力，而非数值有效性。即使提供精确统计检查清单的提示也只产生泛化怀疑而非选择性辨别。
-
-📚 arXiv:cs.LG · 2026 · 引用 0
-👤 Rohan N. Pradhan, Steve Goley
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2606.05403v1</description>
-      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
-      <category>决策</category><category>伦理</category><category>人机协作</category><category>LLM</category><category>GenAI</category>
-    </item>    <item>
-      <title>工人效用作为滞后现象：零工市场中交易接受的Preisach模型</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11531</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11531</guid>
-      <description>📝 工人效用作为滞后现象：零工市场中交易接受的Preisach模型
-EN: Worker Utility as Hysteresis: A Preisach Model of Transaction Acceptance in Gig Labour Markets
-
-💡 利用Preisach滞后模型表征零工市场中的工人偏好。研究通过双输出神经网络估计接受与拒绝效用，以价格-阈值编码捕捉决策边界。模型证实价格下降比同等幅度上升更能抑制完成率，即滞后不对称性。应用建议可降低总工资支出21.3%同时提升填充率9.7个百分点。
-
-📚 arXiv:cs.LG · 2026 · 引用 0
-👤 Piotr Frydrych
-
-AI 分: 3.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2606.04916v1</description>
-      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
-      <category>零工经济</category><category>算法管理</category><category>绩效评估</category><category>算法管理</category><category>机器学习</category>
-    </item>    <item>
-      <title>SocialCoach：基于强化学习的智能导师辅导与个性化社交技能练习</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11683</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11683</guid>
-      <description>📝 SocialCoach：基于强化学习的智能导师辅导与个性化社交技能练习
-EN: SocialCoach: Personalized Social Skill Learning with RL-based Agentic Tutoring and Practice
-
-💡 社交技能训练面临专家稀缺、规模化难题。SocialCoach 构建多智能体 LLM 知识库，采用强化学习在模拟学习者环境中优化自适应练习排程，并整合沉浸式实践、因果式评估与反思式辅导，实现个性化社交技能提升。实验显示路径质量与指导质量提升，用户感知参与度和实用性良好。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Tianfu Wang, Max Xiong, Jianxun Lian, Hongyuan Zhu, Zhengyu Hu
-
-AI 分: 4.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2606.04155v1</description>
-      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-      <category>教育</category><category>培训</category><category>人机协作</category><category>LLM</category><category>强化学习</category><category>人机协作</category>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
+      <category>组织学习</category><category>创新</category><category>社交媒体</category><category>知识管理</category><category>GenAI</category><category>ChatGPT</category><category>LLM</category>
     </item>    <item>
       <title>制度信任与本土AI优势：基于中国DeepSeek和ChatGPT用户的证据</title>
       <link>https://ob-ai-papers.vercel.app/papers/11685</link>
@@ -279,172 +85,132 @@ EN: Institutional Trust and the Domestic AI Advantage: Evidence from DeepSeek an
 AI 分: 5.0 / 领域分: 3.0
 
 📄 PDF: https://arxiv.org/pdf/2606.01228v1</description>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
       <category>信任</category><category>AI治理</category><category>人机交互</category><category>LLM</category><category>ChatGPT</category>
     </item>    <item>
-      <title>当行为数据背叛用户：社交互动泄露的诊断与防护框架</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11392</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11392</guid>
-      <description>📝 当行为数据背叛用户：社交互动泄露的诊断与防护框架
-EN: When Behavioral Data Betray Users: A Diagnostic and Protective Framework Against Social Interaction Leakages
+      <title>SocialCoach：基于强化学习的智能导师辅导与个性化社交技能练习</title>
+      <link>https://ob-ai-papers.vercel.app/papers/11683</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11683</guid>
+      <description>📝 SocialCoach：基于强化学习的智能导师辅导与个性化社交技能练习
+EN: SocialCoach: Personalized Social Skill Learning with RL-based Agentic Tutoring and Practice
 
-💡 数字平台公开的行为数据（如评分、评论）可被攻击者用于推断用户间的隐藏社交关系。研究基于Yelp数据发现，在10%误报率下可恢复约50%真实关系，在20%误报率下超过60%；该推断显著提升钓鱼攻击回报率（500次冒名尝试回报109%，10,000次则升至1,098%）。为降低泄露风险，提出两种差分隐私扰动机制——直接对行为矩阵加高斯噪声与对学习表示加拉普拉斯噪声后重新合成数据——均显著降低关系推断准确率并使攻击回报转负或大幅下降。
+💡 社交技能训练面临专家稀缺、规模化难题。SocialCoach 构建多智能体 LLM 知识库，采用强化学习在模拟学习者环境中优化自适应练习排程，并整合沉浸式实践、因果式评估与反思式辅导，实现个性化社交技能提升。实验显示路径质量与指导质量提升，用户感知参与度和实用性良好。
 
-📚 ISR · 2026 · 引用 0
-👤 Yan Leng, Yiqun Chen, Xiaowen Dong, Junfeng Wu, Guodong Shi
-
-AI 分: 4.0 / 领域分: 3.0</description>
-      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-      <category>隐私</category><category>社会网络</category><category>数据安全</category><category>算法管理</category><category>机器学习</category><category>算法决策</category>
-    </item>    <item>
-      <title>人员心理学的40问系列：团队与群体的科学与实践</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11411</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11411</guid>
-      <description>📝 人员心理学的40问系列：团队与群体的科学与实践
-EN: Personnel Psychology's 40‐Questions Series: The Science and Practice of Groups and Teams
-
-💡 团队是组织核心，但团队科学日益细分。本文围绕40个关键问题综述团队定义、构成与多样性、认知与冲突、情感与学习、领导与教练、高管团队、跨团队系统以及混合办公与人工智能的影响，提炼出四大主题：团队效能取决于设计；个人能力须被激活与整合以实现集体绩效；规模扩大带来协调质变；技术工具放大而非取代核心团队机制。
-
-📚 PPsych · 2026 · 引用 0
-👤 Kyle J. Emich, Bradford S. Bell, John R. Hollenbeck, John E. Mathieu, Randall S. Peterson
-
-AI 分: 3.0 / 领域分: 5.0</description>
-      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-      <category>团队</category><category>领导力</category><category>组织学习</category><category>人机协作</category><category>AI</category><category>人机协作</category>
-    </item>    <item>
-      <title>部分线性模型中ML或AI生成回归器的去偏方法</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11399</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11399</guid>
-      <description>📝 部分线性模型中ML或AI生成回归器的去偏方法
-EN: Debiasing ML- or AI-Generated Regressors in Partially Linear Models
-
-💡 机器学习或大语言模型生成的预测变量在回归中常因测量误差导致因果效应估计偏误。该研究提出在部分线性模型中使用少量人工标注样本纠正偏差的新估计量，适用于腾讯、亚马逊、微软等平台的实验系统。方法兼容传统ML与LLM预测，可直接嵌入现有分析流程，在保持AI可扩展性的同时恢复无偏因果结论，并对AI公平性提供潜在帮助。
-
-📚 ISR · 2026 · 引用 0
-👤 Jingwen Zhang, Wendao Xue, Yifan Yu, Yong Tan
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-      <category>公平性</category><category>偏见</category><category>因果推断</category><category>绩效评估</category><category>机器学习</category><category>LLM</category><category>算法决策</category>
-    </item>    <item>
-      <title>AI接管控制权：人机协作问答中委托与信任的驱动因素</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11421</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11421</guid>
-      <description>📝 AI接管控制权：人机协作问答中委托与信任的驱动因素
-EN: AI, Take the Wheel: What Drives Delegation and Trust in Human-Computer Cooperative Question Answering?
-
-💡 研究人与AI协作中两种依赖决策：委托（让AI自主行动）和采纳（评估AI建议后决定）。通过24场问答比赛分析387个委托和1440个采纳决策，发现人机协作优于单独一方，但人类决策存在系统性偏差：既在AI正确时依赖不足（错过3.9%机会），也在AI误导时过度依赖（1.7%）。当人机意见分歧时模型置信度接近随机，而确认偏见导致当AI符合人类初始错误答案时产生更高依赖不足（64.5%）。建议通过置信度校准、证据支撑的解释和信任校准机制改善协作。
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Maharshi Gor, Yoo Yeon Sung, Yu Hou, Eve Fleisig, Irene Ying
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2605.28255v1</description>
-      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>信任</category><category>决策</category><category>算法决策</category><category>AI系统</category><category>人机交互</category>
-    </item>    <item>
-      <title>Agentic技术债务与随机税建模：一个用于测量、模拟与可视化仪表盘构建的独立框架</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11451</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11451</guid>
-      <description>📝 Agentic技术债务与随机税建模：一个用于测量、模拟与可视化仪表盘构建的独立框架
-EN: Modeling Agentic Technical Debt and Stochastic Tax: A Standalone Framework for Measurement, Simulation, and Dashboarding
-
-💡 本文提出代理技术债务与随机税两个概念，区分AI系统累积的设计治理负债与运行时负担。代理技术债务是存量，随机税是流量，二者相关但本质不同：债务会放大税收，而税收可在债务最小化时保持正值。研究从仪表盘表达式出发，构建完整结构模型，定义变量与参数，并展示如何从运营数据估算各成本类别，附有应付账款模拟案例。
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Muhammad Zia Hydari, Raja Iqbal, Narayan Ramasubbu
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2605.27320v1</description>
-      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-      <category>技术债务</category><category>AI治理</category><category>算法管理</category><category>工作设计</category><category>LLM</category><category>GenAI</category><category>Agentic AI</category><category>算法决策</category>
-    </item>    <item>
-      <title>离散选择表格基础模型的经济有效性审计与修复</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11548</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11548</guid>
-      <description>📝 离散选择表格基础模型的经济有效性审计与修复
-EN: Auditing and Fixing Economic Validity in Tabular Foundation Models for Discrete Choice
-
-💡 发现表格基础模型在选择预测任务中违反经济逻辑（涨价反增需求、负支付意愿）。提出两阶段适配器：第一阶段用符合经济理论的约束参数估计选择模型；第二阶段以基础模型预测作为额外信息训练修正项。在交通数据集上恢复13个百分点精度同时保证完全的经济一致性。
-
-📚 arXiv:cs.LG · 2026 · 引用 0
-👤 Yingshuo Wang, Xian Sun, Yanhang Li, Zhichao Fan, Zexin Zhuang
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Tianfu Wang, Max Xiong, Jianxun Lian, Hongyuan Zhu, Zhengyu Hu
 
 AI 分: 4.0 / 领域分: 3.0
 
-📄 PDF: https://arxiv.org/pdf/2605.26559v1</description>
-      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-      <category>决策</category><category>消费者行为</category><category>创新</category><category>机器学习</category><category>推荐算法</category><category>基础模型</category>
+📄 PDF: https://arxiv.org/pdf/2606.04155v1</description>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+      <category>教育</category><category>培训</category><category>人机协作</category><category>LLM</category><category>强化学习</category><category>人机协作</category>
     </item>    <item>
-      <title>生成式AI对北京城内不平等及技能溢价的影响</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11450</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11450</guid>
-      <description>📝 生成式AI对北京城内不平等及技能溢价的影响
-EN: Generative AI impacts on intra-urban inequality and skill premium in Beijing
+      <title>管理的复兴：当普通员工成为AI代理的多层级管理者</title>
+      <link>https://ob-ai-papers.vercel.app/papers/11651</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11651</guid>
+      <description>📝 管理的复兴：当普通员工成为AI代理的多层级管理者
+EN: The renaissance of management: When regular employees become multi-level managers of AI agents
 
-💡 考察生成式AI对北京市内不平等的影响。聚合500万条职位发布，构建街区级AI暴露指数，发现暴露高度集中于核心城区，加剧市内AI鸿沟。自2023年起，高暴露街区出现工资停滞却持续吸引高技能劳动力的"高技能陷阱"，根源于任务去技能化和劳动力市场拥挤效应。以ChatGPT发布为准自然实验的双重差分支持因果解释，挑战了技能偏向型技术进步理论。
+💡 探讨AI代理广泛应用于工作场所后，普通员工角色的根本性转变。传统层级管理结构被颠覆，员工不仅完成任务，还需管理、监督和协调AI代理的工作表现。研究关注这一新兴管理形态的特征、挑战与影响，涉及人机协作边界重新划定、员工技能需求变化、监督责任增加等议题。管理学面临“文艺复兴”，需重新定义管理者角色、管理幅度及人机团队的有效组织方式。
 
-📚 arXiv:cs.CY · 2026 · 引用 0
-👤 Xiliu He, Haoxiang Zhao, Mingyi Ma, Edward Wen Chuan Lai, Koei Enomoto
+📚 LQ · 2026 · 引用 0
+👤 Niels Van Quaquebeke, Brooke A. Gazdag, Allan Lee
 
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2605.25505v1</description>
-      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
-      <category>城市经济学</category><category>收入不平等</category><category>技能溢价</category><category>区域发展</category><category>GenAI</category><category>LLM</category><category>ChatGPT</category>
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <category>团队</category><category>人机协作</category><category>组织变革</category><category>工作设计</category><category>AI治理</category><category>人机协作</category>
     </item>    <item>
-      <title>信任的时间依赖性：人机团队中的速度、准确性与cBCI神经解耦</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11535</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11535</guid>
-      <description>📝 信任的时间依赖性：人机团队中的速度、准确性与cBCI神经解耦
-EN: The Timing Dependencies of Trust: Speed, Accuracy, and cBCI Neuro-Decoupling in Human-AI Teams
+      <title>人工串谋：Q学习算法的超额定价研究</title>
+      <link>https://ob-ai-papers.vercel.app/papers/11632</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11632</guid>
+      <description>📝 人工串谋：Q学习算法的超额定价研究
+EN: Artificial Collusion: Examining Supracompetitive Pricing by Q-Learning Algorithms
 
-💡 研究AI速度与准确率的时序特性如何影响人机团队协同。在VR无人机搜索任务中发现：快速AI诱导即时盲从，人在欺骗下准确率降至50.2%；慢速AI诱发延迟认知冲突，人虽犹豫但团队最终恢复至100%。Riemannian Oracle据此自适应调整时间窗口，Hybrid Fusion策略成功提升快速AI团队7.6%、慢速AI团队6.9%的表现。
+💡 研究定价算法（尤其是Q-learning强化学习）是否会自主学习串通以实现超竞争性价格。结果表明Q-learning在实践中难以构成真正的“自主”串通——它只能在与企业目标无关的时间尺度上学习串通均衡，且竞争对手需高度同步（相同算法、同时启动、相同超参数），这种同步程度本身就暗示需要明确的卡特尔协议。研究认为，目前竞争监管机构不必过度怀疑定价算法，除非是“通过算法实施的串通”（即故意编码或用于执行卡特尔协议）。
 
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Christopher Baker, Stephen Hinton, Akashdeep Nijjar, Riccardo Poli, Caterina Cinel
+📚 MgmtSci · 2026 · 引用 0
+👤 Arnoud den Boer, Janusz M Meylahn, Maarten Pieter Schinkel
 
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2605.25868v1</description>
-      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>团队</category><category>决策</category><category>算法管理</category><category>机器学习</category><category>算法决策</category><category>人机协作</category>
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+      <category>算法管理</category><category>反垄断</category><category>定价策略</category><category>Q-learning</category><category>强化学习</category><category>算法决策</category>
     </item>    <item>
-      <title>参与优化型照护：当LLM成为心理健康基础设施</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11344</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11344</guid>
-      <description>📝 参与优化型照护：当LLM成为心理健康基础设施
-EN: Engagement-Optimized Care: When LLMs become Mental Health Infrastructure
+      <title>AI 代理如何重塑知识工作：自主性、效率与范围</title>
+      <link>https://ob-ai-papers.vercel.app/papers/11614</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11614</guid>
+      <description>📝 AI 代理如何重塑知识工作：自主性、效率与范围
+EN: How AI Agents Reshape Knowledge Work: Autonomy, Efficiency, and Scope
 
-💡 18名美国参与者的定性纵向研究表明，LLM因传统支持渠道不足而被用于社会情感支持。其拟人化设计、持续响应和弱脱离机制强化了用户依赖，但以参与度优化而非用户福祉为导向的设计存在结构性伦理问题：用户因缺乏替代支持而被迫接受隐私、认知扭曲等风险。
+💡 通过Perplexity产品数据，研究AI从对话助手向自主代理的转变如何重塑知识工作。发现：1）Computer每会话自主工作26分钟，远超Search的33秒，自动化任务分解与执行；2）Computer将完成时间从269分钟缩至36分钟，效率提升87%，成本降低94%；3）Computer扩展工作边界，用户提问更多跨职业交叉、涉及更高阶认知和复合任务，解锁原本无法开展的工作。表明AI Agent正从辅助工具演变为能独立完成端到端任务的自主系统，显著改变知识工作模式。
 
-📚 arXiv:cs.CY · 2026 · 引用 0
-👤 Briana Vecchione, Meryl Ye, Livia Garofalo, Ranjit Singh
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 Jeremy Yang, Kate Zyskowski, Noah Yonack, Jerry Ma
 
 AI 分: 5.0 / 领域分: 3.0
 
-📄 PDF: https://arxiv.org/pdf/2605.23787v1</description>
-      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-      <category>心理健康</category><category>伦理</category><category>AI治理</category><category>人机交互</category><category>LLM</category><category>GenAI</category><category>人机交互</category><category>AI治理</category>
+📄 PDF: https://arxiv.org/pdf/2606.07489v1</description>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+      <category>知识管理</category><category>工作效率</category><category>任务自动化</category><category>组织变革</category><category>AI Agent</category><category>任务自动化</category><category>自主AI系统</category><category>人机协作</category>
     </item>    <item>
-      <title>生成式AI与劳动力需求重组</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11446</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11446</guid>
-      <description>📝 生成式AI与劳动力需求重组
-EN: Generative AI and the Reorganization of Labor Demand
+      <title>基于Dirichlet过程的可扩展客户相似性推断</title>
+      <link>https://ob-ai-papers.vercel.app/papers/11598</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11598</guid>
+      <description>📝 基于Dirichlet过程的可扩展客户相似性推断
+EN: Scalable Inference of Customer Similarities from Interactions Data Using Dirichlet Processes
 
-💡 研究企业如何随生成式AI扩散调整劳动力需求。基于全美职位发布数据，用两阶段LLM管道测量各岗位的生成式AI暴露度，并将其分解为跨岗位需求再配置和岗位内任务再设计两个维度。结果发现：AI暴露度随时间动态变化；劳动力需求通过两个渠道调整，招聘再配置平均解释52%的暴露下降，岗位内任务再设计占39.5%；调整模式随职级不同而差异显著。
+💡 在同质性（homophily）理论指导下，利用客户交互数据推断潜在相似性。提出基于Dirichlet过程的贝叶斯非参数模型，实现对大规模网络的可扩展推断。该框架能够捕捉随机交互波动，并有效识别客户细分与精准定向的潜在特征。实证表明该方法在揭示客户相似度、提升细分与 targeting 效果方面具有显著优势。
 
-📚 arXiv:econ.GN · 2026 · 引用 0
-👤 Fangyan Wang, Zaiyan Wei, Yang Wang
+📚 MktSci · 2011 · 引用 41
+👤 Michael Braun, André Bonfrer
 
-AI 分: 5.0 / 领域分: 4.0
+AI 分: 4.0 / 领域分: 5.0</description>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+      <category>消费者行为</category><category>营销</category><category>推荐系统</category><category>机器学习</category><category>机器学习</category><category>推荐算法</category>
+    </item>    <item>
+      <title>评论：汉斯-保罗·伯克纳博士（波士顿咨询公司全球荣誉主席）评杨柳（Cathy Liu）等人的《我的导师、她的人工智能与我：人机协作与投资决策田野实验的证据》（2025）</title>
+      <link>https://ob-ai-papers.vercel.app/papers/11582</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11582</guid>
+      <description>📝 评论：汉斯-保罗·伯克纳博士（波士顿咨询公司全球荣誉主席）评杨柳（Cathy Liu）等人的《我的导师、她的人工智能与我：人机协作与投资决策田野实验的证据》（2025）
+EN: Commentary by Dr. Hans-Paul Bürkner, Global Chair Emeritus of The Boston Consulting Group, on Cathy (Liu) Yang, Kevin Bauer, Xitong Li, and Oliver Hinz (2025) “My Advisor, Her AI, and Me: Evidence from a Field Experiment on Human-AI Collaboration and Investment Decisions”
 
-📄 PDF: https://arxiv.org/pdf/2605.23159v1</description>
-      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-      <category>劳动力市场</category><category>工作设计</category><category>组织变革</category><category>技能演变</category><category>GenAI</category><category>LLM</category><category>算法决策</category>
+💡 一篇 BCG 前全球主席针对人机合作与投资决策田野实验的评论文章，探讨人类与 AI 在投资决策场景下的协作模式与效果。
+
+📚 MgmtSci · 2026 · 引用 0
+👤 Hans-Paul Bürkner
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>决策</category><category>投资</category><category>人机协作</category>
+    </item>    <item>
+      <title>前置约束下的马尔可夫搜索：社会感知算法招聘的理论与应用</title>
+      <link>https://ob-ai-papers.vercel.app/papers/11581</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11581</guid>
+      <description>📝 前置约束下的马尔可夫搜索：社会感知算法招聘的理论与应用
+EN: Markovian Search with Ex Ante Constraints: Theory and Applications to Socially Aware Algorithmic Hiring
+
+💡 研究如何在状态序贯搜索问题中融入"事前"约束（即平均意义上的结果约束），以服务于算法招聘中的社会公平目标。基于Weitzman Pandora箱及马尔可夫调度的无约束最优指标策略框架，证明在单一事前约束（如人口均等）下，最优策略仍保持指标结构，但需要对指标进行对偶调整并在两种调整间随机化；多仿射约束情形可通过精确Carathéodory问题约化在多项式时间内求解。
+
+📚 MgmtSci · 2026 · 引用 0
+👤 Mohammad Reza Aminian, Vahideh Manshadi, Rad Niazadeh
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
+      <category>算法管理</category><category>招聘</category><category>公平性</category><category>决策</category><category>算法决策</category><category>算法管理</category>
+    </item>    <item>
+      <title>基于小样本数据的动态消费者偏好建模：一种元学习方法</title>
+      <link>https://ob-ai-papers.vercel.app/papers/11567</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11567</guid>
+      <description>📝 基于小样本数据的动态消费者偏好建模：一种元学习方法
+EN: EXPRESS: Modeling Dynamic Consumer Preferences from Few-shot Data: A Meta-Learning Approach
+
+💡 研究如何从少量数据中快速捕捉消费者动态偏好。提出Meta-TP框架，结合元学习与Transformer架构，在有限的个体观察下实现规模化个性化。核心贡献：跨任务迁移学习提升数据效率；捕捉会话内序列消费模式；揭示偏好异质性动态演变；支持小样本场景下的产品推荐和排序决策。实证应用于数字产品消费，在few-shot预测任务中显著优于基准方法。
+
+📚 JMR · 2026 · 引用 0
+👤 Mingzhang Yin, Khaled Boughanmi, Anirban Mukherjee
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
+      <category>消费者行为</category><category>推荐系统</category><category>个性化营销</category><category>偏好演化</category><category>机器学习</category><category>Transformer</category><category>元学习</category><category>推荐算法</category>
     </item>    <item>
       <title>技能感知人才推荐的可解释CF-RL-TOPSIS融合模型</title>
       <link>https://ob-ai-papers.vercel.app/papers/11551</link>
@@ -460,40 +226,272 @@ EN: An Interpretable CF-RL-TOPSIS Fusion Model for Skills-Aware Talent Recommend
 AI 分: 4.0 / 领域分: 4.0
 
 📄 PDF: https://arxiv.org/pdf/2605.24155v1</description>
-      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
       <category>推荐系统</category><category>人力资源</category><category>绩效评估</category><category>组织学习</category><category>机器学习</category><category>算法决策</category><category>人机协作</category>
     </item>    <item>
-      <title>ChatGPT能否终结用户生成式问答平台</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11313</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11313</guid>
-      <description>📝 ChatGPT能否终结用户生成式问答平台
-EN: Can ChatGPT Kill User-Generated Q&amp;amp;amp;A Platforms?
+      <title>离散选择表格基础模型的经济有效性审计与修复</title>
+      <link>https://ob-ai-papers.vercel.app/papers/11548</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11548</guid>
+      <description>📝 离散选择表格基础模型的经济有效性审计与修复
+EN: Auditing and Fixing Economic Validity in Tabular Foundation Models for Discrete Choice
 
-💡 基于 Stack Overflow 的数据，采用生态位理论探讨大型语言模型（LLM）对用户生成问答平台的冲击。结果显示，LLM 引入后提问量平均下降约 14%（最高 27.9%），对中低质量、主题结构成熟及经验较少的用户冲击更大；答案侧深度知识的主题下降更明显，提问质量因搜索与表述成本降低而提升。整体呈生态位分割而非完全替代，平台可通过聚焦高 expertise 领域并结合 AI 辅助实现共存。
+💡 发现表格基础模型在选择预测任务中违反经济逻辑（涨价反增需求、负支付意愿）。提出两阶段适配器：第一阶段用符合经济理论的约束参数估计选择模型；第二阶段以基础模型预测作为额外信息训练修正项。在交通数据集上恢复13个百分点精度同时保证完全的经济一致性。
 
-📚 ISR · 2026 · 引用 0
-👤 Junzhi Xue, Lizheng Wang, Jinyang Zheng, Yongjun Li, Yong Tan
+📚 arXiv:cs.LG · 2026 · 引用 0
+👤 Yingshuo Wang, Xian Sun, Yanhang Li, Zhichao Fan, Zexin Zhuang
 
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-      <category>平台经济</category><category>知识管理</category><category>创新</category><category>人机协作</category><category>LLM</category><category>ChatGPT</category><category>生成式AI</category>
+AI 分: 4.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2605.26559v1</description>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <category>决策</category><category>消费者行为</category><category>创新</category><category>机器学习</category><category>推荐算法</category><category>基础模型</category>
     </item>    <item>
-      <title>超越组织图谱：AI与隐性工作的转型</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11345</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11345</guid>
-      <description>📝 超越组织图谱：AI与隐性工作的转型
-EN: Beyond the Org Chart: AI and the Transformation of Invisible Work
+      <title>Agent的最后考试</title>
+      <link>https://ob-ai-papers.vercel.app/papers/11537</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11537</guid>
+      <description>📝 Agent的最后考试
+EN: Agents' Last Exam
 
-💡 对大型科技公司24名产品导向员工的访谈揭示，AI正在改变正式角色协作与非正式文化实践（如职业指导）。积极变化包括同事协作更顺畅，但消极风险在于职业成长机会——如获取专业反馈、领导力发展——可能受损。研究建议AI公司和领导者采取行动保持隐形工作的可见性。
+💡 指出当前AI评测基准与真实经济价值存在巨大鸿沟。提出ALE基准，涵盖55个子领域、13个行业集群、1000+任务，由250+行业专家协作开发。当前主流模型平均通过率仅2.6%，最难层级远未饱和。该基准为动态更新，旨在将AI表现从榜单成功转化为GDP相关影响。
 
 📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Stephanie Rosenthal, Shamsi Iqbal
+👤 Yiyou Sun, Xinyang Han, Weichen Zhang, Yuanbo Pang, Tianyu Wang
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2606.05405v1</description>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <category>绩效评估</category><category>决策</category><category>创新</category><category>LLM</category><category>GenAI</category><category>AI治理</category>
+    </item>    <item>
+      <title>信任的时间依赖性：人机团队中的速度、准确性与cBCI神经解耦</title>
+      <link>https://ob-ai-papers.vercel.app/papers/11535</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11535</guid>
+      <description>📝 信任的时间依赖性：人机团队中的速度、准确性与cBCI神经解耦
+EN: The Timing Dependencies of Trust: Speed, Accuracy, and cBCI Neuro-Decoupling in Human-AI Teams
+
+💡 研究AI速度与准确率的时序特性如何影响人机团队协同。在VR无人机搜索任务中发现：快速AI诱导即时盲从，人在欺骗下准确率降至50.2%；慢速AI诱发延迟认知冲突，人虽犹豫但团队最终恢复至100%。Riemannian Oracle据此自适应调整时间窗口，Hybrid Fusion策略成功提升快速AI团队7.6%、慢速AI团队6.9%的表现。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Christopher Baker, Stephen Hinton, Akashdeep Nijjar, Riccardo Poli, Caterina Cinel
 
 AI 分: 5.0 / 领域分: 5.0
 
-📄 PDF: https://arxiv.org/pdf/2605.22707v1</description>
-      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-      <category>组织变革</category><category>工作未来</category><category>团队</category><category>职业发展</category><category>GenAI</category><category>人机协作</category>
+📄 PDF: https://arxiv.org/pdf/2605.25868v1</description>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>团队</category><category>决策</category><category>算法管理</category><category>机器学习</category><category>算法决策</category><category>人机协作</category>
+    </item>    <item>
+      <title>修复思维而非动作：通过知识差距定位的可解释AI辅助</title>
+      <link>https://ob-ai-papers.vercel.app/papers/11533</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11533</guid>
+      <description>📝 修复思维而非动作：通过知识差距定位的可解释AI辅助
+EN: Fix the Mind, Not the Move: Interpretable AI Assistance via Knowledge-Gap Localization
+
+💡 提出SENSEI框架，通过知识表征定位用户误解根源并提供精准建议，而非仅纠正单次行为。区别于轨迹级干预，该方法在结构化知识层面解纠缠多个重叠误解。跨三个长时域任务实现零样本组合泛化，用户研究中90%的误解得到有效纠正，提升长期任务表现。
+
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 Ayano Hiranaka, Ya-Chuan Hsu, Stefanos Nikolaidis, Erdem Bıyık, Daniel Seita
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2606.05602v1</description>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>教育</category><category>培训</category><category>可解释AI</category><category>人机交互</category>
+    </item>    <item>
+      <title>工人效用作为滞后现象：零工市场中交易接受的Preisach模型</title>
+      <link>https://ob-ai-papers.vercel.app/papers/11531</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11531</guid>
+      <description>📝 工人效用作为滞后现象：零工市场中交易接受的Preisach模型
+EN: Worker Utility as Hysteresis: A Preisach Model of Transaction Acceptance in Gig Labour Markets
+
+💡 利用Preisach滞后模型表征零工市场中的工人偏好。研究通过双输出神经网络估计接受与拒绝效用，以价格-阈值编码捕捉决策边界。模型证实价格下降比同等幅度上升更能抑制完成率，即滞后不对称性。应用建议可降低总工资支出21.3%同时提升填充率9.7个百分点。
+
+📚 arXiv:cs.LG · 2026 · 引用 0
+👤 Piotr Frydrych
+
+AI 分: 3.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2606.04916v1</description>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <category>零工经济</category><category>算法管理</category><category>绩效评估</category><category>算法管理</category><category>机器学习</category>
+    </item>    <item>
+      <title>信任但不验证：LLM来源评估中的认知盲点</title>
+      <link>https://ob-ai-papers.vercel.app/papers/11527</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11527</guid>
+      <description>📝 信任但不验证：LLM来源评估中的认知盲点
+EN: Trust, but Don't Verify: Epistemic Blind Spots in LLM Source Evaluation
+
+💡 研究大语言模型在多源信息综合时的证据评估能力。实验表明模型孤立时能识别虚假统计数据，但在多源合成中不调动该能力，对统计上不可能的置信区间与有效数据给予相同权重。方法论风格门控机制驱动源影响力，而非数值有效性。即使提供精确统计检查清单的提示也只产生泛化怀疑而非选择性辨别。
+
+📚 arXiv:cs.LG · 2026 · 引用 0
+👤 Rohan N. Pradhan, Steve Goley
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2606.05403v1</description>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <category>决策</category><category>伦理</category><category>人机协作</category><category>LLM</category><category>GenAI</category>
+    </item>    <item>
+      <title>智能“预测然后优化”</title>
+      <link>https://ob-ai-papers.vercel.app/papers/11455</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11455</guid>
+      <description>📝 智能“预测然后优化”
+EN: Smart “Predict, then Optimize”
+
+💡 研究问题：传统predict‑then‑optimize框架仅最小化预测误差，未考虑下游优化任务导致决策质量下降。方法：提出Smart Predict‑then‑Optimize（SPO）框架，利用优化问题的目标与约束设计预测模型；通过 duality 推导出可计算的凸代理损失SPO+并证明其与SPO损失统计一致。核心发现：在最短路、投资组合等实例上，SPO+显著提升决策效果，尤其在模型误设定情况下优势明显。
+
+📚 MgmtSci · 2022 · 引用 541
+👤 Adam N. Elmachtoub, Paul Grigas
+
+AI 分: 5.0 / 领域分: 3.0</description>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+      <category>决策</category><category>预测</category><category>优化</category><category>机器学习</category><category>机器学习</category><category>算法决策</category>
+    </item>    <item>
+      <title>参与度vs.忠诚度：两极化新闻内容的经济权衡</title>
+      <link>https://ob-ai-papers.vercel.app/papers/11453</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11453</guid>
+      <description>📝 参与度vs.忠诚度：两极化新闻内容的经济权衡
+EN: Engagement vs. Commitment: The Economic Trade-Offs of Polarizing News Content
+
+💡 研究新闻媒体中争议内容的双面效应：使用深度学习分类器与大语言模型测量文章极化程度，结合Bartik工具变量与选举工具变量识别因果效应。分析表明，争议内容能提升用户参与度（停留时长），却无法转化为订阅，在选举高敏感期还加速流失。机制分析排除确认偏误，支持平衡消费假说。
+
+📚 arXiv:econ.GN · 2026 · 引用 0
+👤 Shunyao Yan, Klaus M. Miller
+
+AI 分: 4.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2605.18357v1</description>
+      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+      <category>消费者行为</category><category>数字营销</category><category>媒体经济学</category><category>内容策略</category><category>LLM</category><category>深度学习</category><category>推荐算法</category><category>机器学习</category>
+    </item>    <item>
+      <title>Agentic技术债务与随机税建模：一个用于测量、模拟与可视化仪表盘构建的独立框架</title>
+      <link>https://ob-ai-papers.vercel.app/papers/11451</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11451</guid>
+      <description>📝 Agentic技术债务与随机税建模：一个用于测量、模拟与可视化仪表盘构建的独立框架
+EN: Modeling Agentic Technical Debt and Stochastic Tax: A Standalone Framework for Measurement, Simulation, and Dashboarding
+
+💡 本文提出代理技术债务与随机税两个概念，区分AI系统累积的设计治理负债与运行时负担。代理技术债务是存量，随机税是流量，二者相关但本质不同：债务会放大税收，而税收可在债务最小化时保持正值。研究从仪表盘表达式出发，构建完整结构模型，定义变量与参数，并展示如何从运营数据估算各成本类别，附有应付账款模拟案例。
+
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 Muhammad Zia Hydari, Raja Iqbal, Narayan Ramasubbu
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2605.27320v1</description>
+      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+      <category>技术债务</category><category>AI治理</category><category>算法管理</category><category>工作设计</category><category>LLM</category><category>GenAI</category><category>Agentic AI</category><category>算法决策</category>
+    </item>    <item>
+      <title>生成式AI对北京城内不平等及技能溢价的影响</title>
+      <link>https://ob-ai-papers.vercel.app/papers/11450</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11450</guid>
+      <description>📝 生成式AI对北京城内不平等及技能溢价的影响
+EN: Generative AI impacts on intra-urban inequality and skill premium in Beijing
+
+💡 考察生成式AI对北京市内不平等的影响。聚合500万条职位发布，构建街区级AI暴露指数，发现暴露高度集中于核心城区，加剧市内AI鸿沟。自2023年起，高暴露街区出现工资停滞却持续吸引高技能劳动力的"高技能陷阱"，根源于任务去技能化和劳动力市场拥挤效应。以ChatGPT发布为准自然实验的双重差分支持因果解释，挑战了技能偏向型技术进步理论。
+
+📚 arXiv:cs.CY · 2026 · 引用 0
+👤 Xiliu He, Haoxiang Zhao, Mingyi Ma, Edward Wen Chuan Lai, Koei Enomoto
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2605.25505v1</description>
+      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+      <category>城市经济学</category><category>收入不平等</category><category>技能溢价</category><category>区域发展</category><category>GenAI</category><category>LLM</category><category>ChatGPT</category>
+    </item>    <item>
+      <title>谁在使用AI？平台选择与职业AI暴露度测量</title>
+      <link>https://ob-ai-papers.vercel.app/papers/11447</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11447</guid>
+      <description>📝 谁在使用AI？平台选择与职业AI暴露度测量
+EN: Who Uses AI? Platform Selection and the Measurement of Occupational AI Exposure
+
+💡 指出当前AI暴露度测量存在平台选择偏差：AI平台的对话日志用户并非劳动力总体，平台衍生的暴露度得分混合了任务适用性与平台用户职业构成。同一经验设计下仅更换平台输入，ChatGPT后的就业系数变化1.9倍；同一厂商的消费与企业渠道甚至方向相反。用BLS就业份额重加权后，估计值衰减42%至93%。
+
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 Michelle Yin, Burhan Ogut
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2605.21743v2</description>
+      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+      <category>测量方法论</category><category>劳动力市场</category><category>职业结构</category><category>AI治理</category><category>LLM</category><category>ChatGPT</category><category>算法决策</category>
+    </item>    <item>
+      <title>生成式AI与劳动力需求重组</title>
+      <link>https://ob-ai-papers.vercel.app/papers/11446</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11446</guid>
+      <description>📝 生成式AI与劳动力需求重组
+EN: Generative AI and the Reorganization of Labor Demand
+
+💡 研究企业如何随生成式AI扩散调整劳动力需求。基于全美职位发布数据，用两阶段LLM管道测量各岗位的生成式AI暴露度，并将其分解为跨岗位需求再配置和岗位内任务再设计两个维度。结果发现：AI暴露度随时间动态变化；劳动力需求通过两个渠道调整，招聘再配置平均解释52%的暴露下降，岗位内任务再设计占39.5%；调整模式随职级不同而差异显著。
+
+📚 arXiv:econ.GN · 2026 · 引用 0
+👤 Fangyan Wang, Zaiyan Wei, Yang Wang
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2605.23159v1</description>
+      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+      <category>劳动力市场</category><category>工作设计</category><category>组织变革</category><category>技能演变</category><category>GenAI</category><category>LLM</category><category>算法决策</category>
+    </item>    <item>
+      <title>AI接管控制权：人机协作问答中委托与信任的驱动因素</title>
+      <link>https://ob-ai-papers.vercel.app/papers/11421</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11421</guid>
+      <description>📝 AI接管控制权：人机协作问答中委托与信任的驱动因素
+EN: AI, Take the Wheel: What Drives Delegation and Trust in Human-Computer Cooperative Question Answering?
+
+💡 研究人与AI协作中两种依赖决策：委托（让AI自主行动）和采纳（评估AI建议后决定）。通过24场问答比赛分析387个委托和1440个采纳决策，发现人机协作优于单独一方，但人类决策存在系统性偏差：既在AI正确时依赖不足（错过3.9%机会），也在AI误导时过度依赖（1.7%）。当人机意见分歧时模型置信度接近随机，而确认偏见导致当AI符合人类初始错误答案时产生更高依赖不足（64.5%）。建议通过置信度校准、证据支撑的解释和信任校准机制改善协作。
+
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 Maharshi Gor, Yoo Yeon Sung, Yu Hou, Eve Fleisig, Irene Ying
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2605.28255v1</description>
+      <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>信任</category><category>决策</category><category>算法决策</category><category>AI系统</category><category>人机交互</category>
+    </item>    <item>
+      <title>人员心理学的40问系列：团队与群体的科学与实践</title>
+      <link>https://ob-ai-papers.vercel.app/papers/11411</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11411</guid>
+      <description>📝 人员心理学的40问系列：团队与群体的科学与实践
+EN: Personnel Psychology's 40‐Questions Series: The Science and Practice of Groups and Teams
+
+💡 团队是组织核心，但团队科学日益细分。本文围绕40个关键问题综述团队定义、构成与多样性、认知与冲突、情感与学习、领导与教练、高管团队、跨团队系统以及混合办公与人工智能的影响，提炼出四大主题：团队效能取决于设计；个人能力须被激活与整合以实现集体绩效；规模扩大带来协调质变；技术工具放大而非取代核心团队机制。
+
+📚 PPsych · 2026 · 引用 0
+👤 Kyle J. Emich, Bradford S. Bell, John R. Hollenbeck, John E. Mathieu, Randall S. Peterson
+
+AI 分: 3.0 / 领域分: 5.0</description>
+      <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
+      <category>团队</category><category>领导力</category><category>组织学习</category><category>人机协作</category><category>AI</category><category>人机协作</category>
+    </item>    <item>
+      <title>部分线性模型中ML或AI生成回归器的去偏方法</title>
+      <link>https://ob-ai-papers.vercel.app/papers/11399</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11399</guid>
+      <description>📝 部分线性模型中ML或AI生成回归器的去偏方法
+EN: Debiasing ML- or AI-Generated Regressors in Partially Linear Models
+
+💡 机器学习或大语言模型生成的预测变量在回归中常因测量误差导致因果效应估计偏误。该研究提出在部分线性模型中使用少量人工标注样本纠正偏差的新估计量，适用于腾讯、亚马逊、微软等平台的实验系统。方法兼容传统ML与LLM预测，可直接嵌入现有分析流程，在保持AI可扩展性的同时恢复无偏因果结论，并对AI公平性提供潜在帮助。
+
+📚 ISR · 2026 · 引用 0
+👤 Jingwen Zhang, Wendao Xue, Yifan Yu, Yong Tan
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+      <category>公平性</category><category>偏见</category><category>因果推断</category><category>绩效评估</category><category>机器学习</category><category>LLM</category><category>算法决策</category>
+    </item>    <item>
+      <title>当行为数据背叛用户：社交互动泄露的诊断与防护框架</title>
+      <link>https://ob-ai-papers.vercel.app/papers/11392</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11392</guid>
+      <description>📝 当行为数据背叛用户：社交互动泄露的诊断与防护框架
+EN: When Behavioral Data Betray Users: A Diagnostic and Protective Framework Against Social Interaction Leakages
+
+💡 数字平台公开的行为数据（如评分、评论）可被攻击者用于推断用户间的隐藏社交关系。研究基于Yelp数据发现，在10%误报率下可恢复约50%真实关系，在20%误报率下超过60%；该推断显著提升钓鱼攻击回报率（500次冒名尝试回报109%，10,000次则升至1,098%）。为降低泄露风险，提出两种差分隐私扰动机制——直接对行为矩阵加高斯噪声与对学习表示加拉普拉斯噪声后重新合成数据——均显著降低关系推断准确率并使攻击回报转负或大幅下降。
+
+📚 ISR · 2026 · 引用 0
+👤 Yan Leng, Yiqun Chen, Xiaowen Dong, Junfeng Wu, Guodong Shi
+
+AI 分: 4.0 / 领域分: 3.0</description>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+      <category>隐私</category><category>社会网络</category><category>数据安全</category><category>算法管理</category><category>机器学习</category><category>算法决策</category>
     </item>
   </channel>
 </rss>

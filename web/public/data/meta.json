@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-15T07:20:18.738003Z",
+  "generated_at": "2026-06-16T07:29:39.844174Z",
   "totals": {
-    "papers_indexed": 11714,
-    "papers_scored": 11674,
+    "papers_indexed": 11724,
+    "papers_scored": 11675,
     "papers_ai_relevant": 1627
   },
   "journals": [
@@ -18,7 +18,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.aom.org/loi/amj",
-      "papers_indexed": 307,
+      "papers_indexed": 308,
       "papers_ai_relevant": 12
     },
     {
@@ -78,7 +78,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/orsc",
-      "papers_indexed": 457,
+      "papers_indexed": 458,
       "papers_ai_relevant": 12
     },
     {
@@ -121,7 +121,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/10991379",
-      "papers_indexed": 342,
+      "papers_indexed": 343,
       "papers_ai_relevant": 17
     },
     {
@@ -150,7 +150,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/10970266",
-      "papers_indexed": 394,
+      "papers_indexed": 397,
       "papers_ai_relevant": 23
     },
     {
@@ -209,7 +209,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.aom.org/loi/annals",
-      "papers_indexed": 97,
+      "papers_indexed": 98,
       "papers_ai_relevant": 3
     },
     {
@@ -281,7 +281,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/mksc",
-      "papers_indexed": 325,
+      "papers_indexed": 326,
       "papers_ai_relevant": 43
     },
     {
@@ -355,7 +355,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/14676486",
-      "papers_indexed": 523,
+      "papers_indexed": 525,
       "papers_ai_relevant": 27
     },
     {
