@@ -6,9 +6,71 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 15 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>追逐还是逃离可持续发展媒体的关注？自恋对女性和男性 CEO 环境绩效的相反影响</title>
+      <link>https://ob-ai-papers.vercel.app/papers/11746</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11746</guid>
+      <description>📝 追逐还是逃离可持续发展媒体的关注？自恋对女性和男性 CEO 环境绩效的相反影响
+EN: Chasing – Or Escaping – The Limelight of Sustainability Media Attention? Narcissism's Opposing Effects for Women and Men &amp;lt;scp&amp;gt;CEOs&amp;lt;/scp&amp;gt; on Environmental Performance
+
+💡 研究CEO自恋程度与性别如何共同影响企业环境绩效。开发基于财报电话会议的机器学习测量方法，对S&amp;amp;P 1500企业面板数据进行分析，并结合战略领导者实验验证。发现当环境绩效产生正面媒体关注时，自恋对环境绩效的影响存在性别差异：女性CEO中自恋程度越高，环境绩效反而越差；而男性CEO中自恋程度越高，环境绩效越好。结论解释了过去分别研究CEO自恋与CEO性别时结论不一致的问题。
+
+📚 JMS · 2026 · 引用 0
+👤 Jamie L. Gloor, Shih‐Chi Chiu, Judith L. Walls, Giannina Faktor
+
+AI 分: 3.0 / 领域分: 4.0
+
+📄 PDF: https://doi.org/10.1111/joms.70104</description>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <category>领导力</category><category>战略</category><category>组织行为</category><category>性别差异</category><category>机器学习</category><category>算法决策</category>
+    </item>    <item>
+      <title>从不透明到透明：算法评估中的用户行为与下游效应</title>
+      <link>https://ob-ai-papers.vercel.app/papers/11742</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11742</guid>
+      <description>📝 从不透明到透明：算法评估中的用户行为与下游效应
+EN: From Opacity to Transparency: User Behavior and Downstream Effects in Algorithmic Evaluation
+
+💡 研究探讨在招聘与绩效评估中引入AI评估的不透明性对用户压力与欺骗性印象管理的影响，验证透明度可缓解AI带来的负面影响并使行为接近人类评估，并分析对下游面试表现的差异。
+
+📚 ISR · 2026 · 引用 0
+👤 Akshat Lakhiwal, Che‐Wei Liu, Hillol Bala, Hung-Yue Suen
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <category>招聘</category><category>绩效评估</category><category>算法决策</category><category>伦理</category><category>算法决策</category><category>AI招聘</category><category>可解释AI</category>
+    </item>    <item>
+      <title>使用神经网络指导数据驱动的运营决策</title>
+      <link>https://ob-ai-papers.vercel.app/papers/11735</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11735</guid>
+      <description>📝 使用神经网络指导数据驱动的运营决策
+EN: Using Neural Networks to Guide Data-Driven Operational Decisions
+
+💡 论文提出用深度神经网络进行数据驱动随机优化，通过历史数据预测目标函数并用解析梯度优化决策；在新闻vendor、个性化定价、排班等运营场景验证其优势，尤其在目标函数未知、数据量大、结构复杂时表现优于传统方法。
+
+📚 MgmtSci · 2026 · 引用 0
+👤 Saman Lagzi, Ningyuan Chen, Joseph Milner
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <category>决策</category><category>运营管理</category><category>机器学习</category><category>算法决策</category><category>机器学习</category><category>算法决策</category>
+    </item>    <item>
+      <title>使用大型语言模型评估就业面试：评估设计要素、效度研究与最佳实践建议</title>
+      <link>https://ob-ai-papers.vercel.app/papers/11732</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11732</guid>
+      <description>📝 使用大型语言模型评估就业面试：评估设计要素、效度研究与最佳实践建议
+EN: Supplemental Material for Scoring Employment Interviews With Large Language Models: Evaluation Design Components, Validity Investigations, and Best Practice Recommendations
+
+💡 研究利用大语言模型对求职面试进行评分，探索评估设计要素、有效性检验并提出最佳实践建议。
+
+📚 JAP · 2026 · 引用 0
+👤 Unknown
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <category>招聘</category><category>绩效评估</category><category>人机协作</category><category>LLM</category><category>AI招聘</category><category>算法决策</category>
+    </item>    <item>
       <title>基于图注意力网络和混合密度网络的概率薪资预测</title>
       <link>https://ob-ai-papers.vercel.app/papers/11714</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11714</guid>
@@ -430,68 +492,6 @@ AI 分: 5.0 / 领域分: 4.0
 📄 PDF: https://arxiv.org/pdf/2605.23159v1</description>
       <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
       <category>劳动力市场</category><category>工作设计</category><category>组织变革</category><category>技能演变</category><category>GenAI</category><category>LLM</category><category>算法决策</category>
-    </item>    <item>
-      <title>AI接管控制权：人机协作问答中委托与信任的驱动因素</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11421</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11421</guid>
-      <description>📝 AI接管控制权：人机协作问答中委托与信任的驱动因素
-EN: AI, Take the Wheel: What Drives Delegation and Trust in Human-Computer Cooperative Question Answering?
-
-💡 研究人与AI协作中两种依赖决策：委托（让AI自主行动）和采纳（评估AI建议后决定）。通过24场问答比赛分析387个委托和1440个采纳决策，发现人机协作优于单独一方，但人类决策存在系统性偏差：既在AI正确时依赖不足（错过3.9%机会），也在AI误导时过度依赖（1.7%）。当人机意见分歧时模型置信度接近随机，而确认偏见导致当AI符合人类初始错误答案时产生更高依赖不足（64.5%）。建议通过置信度校准、证据支撑的解释和信任校准机制改善协作。
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Maharshi Gor, Yoo Yeon Sung, Yu Hou, Eve Fleisig, Irene Ying
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2605.28255v1</description>
-      <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>信任</category><category>决策</category><category>算法决策</category><category>AI系统</category><category>人机交互</category>
-    </item>    <item>
-      <title>人员心理学的40问系列：团队与群体的科学与实践</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11411</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11411</guid>
-      <description>📝 人员心理学的40问系列：团队与群体的科学与实践
-EN: Personnel Psychology's 40‐Questions Series: The Science and Practice of Groups and Teams
-
-💡 团队是组织核心，但团队科学日益细分。本文围绕40个关键问题综述团队定义、构成与多样性、认知与冲突、情感与学习、领导与教练、高管团队、跨团队系统以及混合办公与人工智能的影响，提炼出四大主题：团队效能取决于设计；个人能力须被激活与整合以实现集体绩效；规模扩大带来协调质变；技术工具放大而非取代核心团队机制。
-
-📚 PPsych · 2026 · 引用 0
-👤 Kyle J. Emich, Bradford S. Bell, John R. Hollenbeck, John E. Mathieu, Randall S. Peterson
-
-AI 分: 3.0 / 领域分: 5.0</description>
-      <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
-      <category>团队</category><category>领导力</category><category>组织学习</category><category>人机协作</category><category>AI</category><category>人机协作</category>
-    </item>    <item>
-      <title>部分线性模型中ML或AI生成回归器的去偏方法</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11399</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11399</guid>
-      <description>📝 部分线性模型中ML或AI生成回归器的去偏方法
-EN: Debiasing ML- or AI-Generated Regressors in Partially Linear Models
-
-💡 机器学习或大语言模型生成的预测变量在回归中常因测量误差导致因果效应估计偏误。该研究提出在部分线性模型中使用少量人工标注样本纠正偏差的新估计量，适用于腾讯、亚马逊、微软等平台的实验系统。方法兼容传统ML与LLM预测，可直接嵌入现有分析流程，在保持AI可扩展性的同时恢复无偏因果结论，并对AI公平性提供潜在帮助。
-
-📚 ISR · 2026 · 引用 0
-👤 Jingwen Zhang, Wendao Xue, Yifan Yu, Yong Tan
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
-      <category>公平性</category><category>偏见</category><category>因果推断</category><category>绩效评估</category><category>机器学习</category><category>LLM</category><category>算法决策</category>
-    </item>    <item>
-      <title>当行为数据背叛用户：社交互动泄露的诊断与防护框架</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11392</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11392</guid>
-      <description>📝 当行为数据背叛用户：社交互动泄露的诊断与防护框架
-EN: When Behavioral Data Betray Users: A Diagnostic and Protective Framework Against Social Interaction Leakages
-
-💡 数字平台公开的行为数据（如评分、评论）可被攻击者用于推断用户间的隐藏社交关系。研究基于Yelp数据发现，在10%误报率下可恢复约50%真实关系，在20%误报率下超过60%；该推断显著提升钓鱼攻击回报率（500次冒名尝试回报109%，10,000次则升至1,098%）。为降低泄露风险，提出两种差分隐私扰动机制——直接对行为矩阵加高斯噪声与对学习表示加拉普拉斯噪声后重新合成数据——均显著降低关系推断准确率并使攻击回报转负或大幅下降。
-
-📚 ISR · 2026 · 引用 0
-👤 Yan Leng, Yiqun Chen, Xiaowen Dong, Junfeng Wu, Guodong Shi
-
-AI 分: 4.0 / 领域分: 3.0</description>
-      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
-      <category>隐私</category><category>社会网络</category><category>数据安全</category><category>算法管理</category><category>机器学习</category><category>算法决策</category>
     </item>
   </channel>
 </rss>
