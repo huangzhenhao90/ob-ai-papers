@@ -6,9 +6,75 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 18 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>将LLM推理蒸馏为可解释策略树用于人机协作</title>
+      <link>https://ob-ai-papers.vercel.app/papers/11817</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11817</guid>
+      <description>📝 将LLM推理蒸馏为可解释策略树用于人机协作
+EN: Distilling LLM Reasoning into an Interpretable Policy Tree for Human-AI Collaboration
+
+💡 构建高效可靠的人机协作策略是重要挑战。现有方法要么依赖黑盒多智能体强化学习缺乏可解释性，要么每步查询大语言模型导致响应慢成本高。本文提出Co-pi-tree，将LLM推理提炼为可执行策略树，包含伙伴行为预测树和智能体行动选择树。通过伙伴交互评估策略并用自然语言总结反馈改进问题分支。实验表明，在Overcooked-AI环境中，Co-pi-tree相比基线平均奖励提升35.4%，LLM查询减少77.7%，延迟降低97.1%。
+
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 Beiwen Zhang, Yongheng Liang, Guowei Zou, Haitao Wang, Hejun Wu
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2606.08596v1</description>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>决策</category><category>算法管理</category><category>LLM</category><category>推理蒸馏</category><category>人机协作</category>
+    </item>    <item>
+      <title>AI代理的战略决策支持</title>
+      <link>https://ob-ai-papers.vercel.app/papers/11814</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11814</guid>
+      <description>📝 AI代理的战略决策支持
+EN: Strategic Decision Support for AI Agents
+
+💡 将决策支持从人类使用模型转向AI代理主导的情境，构建以控制错失支持错误为目标的优化框架，推导出阈值最优策略并提出自适应在线算法，实现无需分布假设的校准，验证于信息收集与人机协作场景。
+
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 Shayan Kiyani, Sima Noorani, George Pappas, Hamed Hassani
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2606.12587v1</description>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
+      <category>决策</category><category>算法管理</category><category>AI治理</category><category>算法决策</category><category>机器学习</category><category>AI治理</category>
+    </item>    <item>
+      <title>代理语音口音对K-12小组学习中人机协作的影响探究</title>
+      <link>https://ob-ai-papers.vercel.app/papers/11813</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11813</guid>
+      <description>📝 代理语音口音对K-12小组学习中人机协作的影响探究
+EN: Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
+
+💡 在33位教师的课堂教学中实验不同口音的生成式语音代理（英式、印度、非裔美国人），结果显示口音影响代理的角色定位和信任程度：英式口音被视为工具，印、非口音更易被同伴化，影响合作动态和学习参与。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Prerna Ravi, Carúmey Stevens, Ben Hurt, Brandon Hanks, Grace Lin
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2606.12805v1</description>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
+      <category>教育</category><category>人机协作</category><category>信任</category><category>偏见</category><category>GenAI</category><category>语音</category><category>人机交互</category><category>多模态</category>
+    </item>    <item>
+      <title>EXPRESS：创造力配方：成分嵌入方法</title>
+      <link>https://ob-ai-papers.vercel.app/papers/11809</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11809</guid>
+      <description>📝 EXPRESS：创造力配方：成分嵌入方法
+EN: EXPRESS: A Recipe for Creativity: An Ingredient Embedding Approach
+
+💡 使用词嵌入方法分析57K菜谱及1057个创意想法的内部一致性，发现成分一致性越高，菜谱的流行度、尝试率和评价越好；而独特成分虽降低流行度和尝试率，却提升已尝试情况下的评分，据此开发了可自动添加、删除或替换食材的菜谱生成工具。
+
+📚 JM · 2026 · 引用 0
+👤 Sibel Sozuer, Oded Netzer, Kriste Krstovski
+
+AI 分: 3.0 / 领域分: 5.0</description>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
+      <category>创意</category><category>推荐系统</category><category>消费者行为</category><category>推荐算法</category><category>机器学习</category><category>生成式 AI</category>
+    </item>    <item>
       <title>AI时代的临床推理：纵向认知与人机协作</title>
       <link>https://ob-ai-papers.vercel.app/papers/11791</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11791</guid>
@@ -66,6 +132,8 @@ AI 分: 3.0 / 领域分: 3.0
       <description>📝 "这难道不够吗？"：加拿大签证分类系统中机构问责不对称与集体认知建构
 EN: "Is This Not Enough?": Asymmetries in Institutional Accountability and Collective Sensemaking in the Case of Canada's Algorithmic Visa Triage System
 
+💡 研究混合方法分析加拿大签证分类系统的算法问责制，发现制度层面强调透明与程序保障，申请人通过集体解读弥补信息不足，揭示认知、司法、时间关系三方面的不对称性。主张从制度设计转向公共部门算法治理经验的不均衡分布。
+
 📚 arXiv:cs.CY · 2026 · 引用 0
 👤 Dipto Das, Matthew Tamura, Syed Ishtiaque Ahmed, Shion Guha
 
@@ -73,13 +141,15 @@ AI 分: 3.0 / 领域分: 3.0
 
 📄 PDF: https://arxiv.org/pdf/2606.13071v1</description>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-      
+      <category>算法管理</category><category>AI治理</category><category>算法决策</category><category>机器学习</category><category>算法决策</category><category>AI治理</category>
     </item>    <item>
       <title>"困于螺旋"：羞耻与内疚作为计算教育中AI使用的社会调节机制</title>
       <link>https://ob-ai-papers.vercel.app/papers/11782</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11782</guid>
       <description>📝 "困于螺旋"：羞耻与内疚作为计算教育中AI使用的社会调节机制
 EN: "Stuck in a Spiral": Shame and Guilt as Social Regulators of AI Use in Computing Education
+
+💡 基于功能主义视角对19名计算机专业学生进行访谈，发现羞耻感和内疚感调节AI工具的使用可见性，引发隐瞒与选择性披露；情绪与身份认同冲突形成行为循环而非改变使用。呼吁课堂实践关注AI使用的社会情感层面，制定更具支持性的政策。
 
 📚 arXiv:cs.CY · 2026 · 引用 0
 👤 Kate Hamilton, Irene Hou, Dev Patel, Sheena Nnam, Hena Patel
@@ -88,13 +158,15 @@ AI 分: 4.0 / 领域分: 4.0
 
 📄 PDF: https://arxiv.org/pdf/2606.14920v1</description>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-      
+      <category>教育</category><category>AI治理</category><category>算法管理</category><category>人机交互</category><category>机器学习</category><category>AI治理</category>
     </item>    <item>
       <title>算法之外：AI偏见的职业经验与认知研究</title>
       <link>https://ob-ai-papers.vercel.app/papers/11781</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11781</guid>
       <description>📝 算法之外：AI偏见的职业经验与认知研究
 EN: Beyond the Algorithm: Professional Experiences and Perceptions of AI Bias
+
+💡 本研究通过访谈九名AI从业者并结合文献分析，揭示算法偏见源于历史不平等、排他性设计假设及组织效率优先的文化；技术修正不足以实现公平，需建立结构性问责、多元参与与贯穿生命周期的伦理意识。结论强调在开发早期嵌入人本伦理是抑制AI偏见的根本路径。
 
 📚 arXiv:cs.HC · 2026 · 引用 0
 👤 Micarah Malone-Gawu
@@ -103,7 +175,7 @@ AI 分: 4.0 / 领域分: 4.0
 
 📄 PDF: https://arxiv.org/pdf/2606.18289v1</description>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-      
+      <category>伦理</category><category>公平性</category><category>偏见</category><category>组织变革</category><category>机器学习</category><category>算法决策</category><category>AI治理</category>
     </item>    <item>
       <title>战略性特征选择</title>
       <link>https://ob-ai-papers.vercel.app/papers/11780</link>
@@ -426,68 +498,6 @@ EN: Scalable Inference of Customer Similarities from Interactions Data Using Dir
 AI 分: 4.0 / 领域分: 5.0</description>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
       <category>消费者行为</category><category>营销</category><category>推荐系统</category><category>机器学习</category><category>机器学习</category><category>推荐算法</category>
-    </item>    <item>
-      <title>评论：汉斯-保罗·伯克纳博士（波士顿咨询公司全球荣誉主席）评杨柳（Cathy Liu）等人的《我的导师、她的人工智能与我：人机协作与投资决策田野实验的证据》（2025）</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11582</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11582</guid>
-      <description>📝 评论：汉斯-保罗·伯克纳博士（波士顿咨询公司全球荣誉主席）评杨柳（Cathy Liu）等人的《我的导师、她的人工智能与我：人机协作与投资决策田野实验的证据》（2025）
-EN: Commentary by Dr. Hans-Paul Bürkner, Global Chair Emeritus of The Boston Consulting Group, on Cathy (Liu) Yang, Kevin Bauer, Xitong Li, and Oliver Hinz (2025) “My Advisor, Her AI, and Me: Evidence from a Field Experiment on Human-AI Collaboration and Investment Decisions”
-
-💡 一篇 BCG 前全球主席针对人机合作与投资决策田野实验的评论文章，探讨人类与 AI 在投资决策场景下的协作模式与效果。
-
-📚 MgmtSci · 2026 · 引用 0
-👤 Hans-Paul Bürkner
-
-AI 分: 5.0 / 领域分: 5.0</description>
-      <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>决策</category><category>投资</category><category>人机协作</category>
-    </item>    <item>
-      <title>前置约束下的马尔可夫搜索：社会感知算法招聘的理论与应用</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11581</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11581</guid>
-      <description>📝 前置约束下的马尔可夫搜索：社会感知算法招聘的理论与应用
-EN: Markovian Search with Ex Ante Constraints: Theory and Applications to Socially Aware Algorithmic Hiring
-
-💡 研究如何在状态序贯搜索问题中融入"事前"约束（即平均意义上的结果约束），以服务于算法招聘中的社会公平目标。基于Weitzman Pandora箱及马尔可夫调度的无约束最优指标策略框架，证明在单一事前约束（如人口均等）下，最优策略仍保持指标结构，但需要对指标进行对偶调整并在两种调整间随机化；多仿射约束情形可通过精确Carathéodory问题约化在多项式时间内求解。
-
-📚 MgmtSci · 2026 · 引用 0
-👤 Mohammad Reza Aminian, Vahideh Manshadi, Rad Niazadeh
-
-AI 分: 5.0 / 领域分: 5.0</description>
-      <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
-      <category>算法管理</category><category>招聘</category><category>公平性</category><category>决策</category><category>算法决策</category><category>算法管理</category>
-    </item>    <item>
-      <title>基于小样本数据的动态消费者偏好建模：一种元学习方法</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11567</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11567</guid>
-      <description>📝 基于小样本数据的动态消费者偏好建模：一种元学习方法
-EN: EXPRESS: Modeling Dynamic Consumer Preferences from Few-shot Data: A Meta-Learning Approach
-
-💡 研究如何从少量数据中快速捕捉消费者动态偏好。提出Meta-TP框架，结合元学习与Transformer架构，在有限的个体观察下实现规模化个性化。核心贡献：跨任务迁移学习提升数据效率；捕捉会话内序列消费模式；揭示偏好异质性动态演变；支持小样本场景下的产品推荐和排序决策。实证应用于数字产品消费，在few-shot预测任务中显著优于基准方法。
-
-📚 JMR · 2026 · 引用 0
-👤 Mingzhang Yin, Khaled Boughanmi, Anirban Mukherjee
-
-AI 分: 5.0 / 领域分: 5.0</description>
-      <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
-      <category>消费者行为</category><category>推荐系统</category><category>个性化营销</category><category>偏好演化</category><category>机器学习</category><category>Transformer</category><category>元学习</category><category>推荐算法</category>
-    </item>    <item>
-      <title>技能感知人才推荐的可解释CF-RL-TOPSIS融合模型</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11551</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11551</guid>
-      <description>📝 技能感知人才推荐的可解释CF-RL-TOPSIS融合模型
-EN: An Interpretable CF-RL-TOPSIS Fusion Model for Skills-Aware Talent Recommendation
-
-💡 研究提出CF-RL-TOPSIS可解释融合模型，用于技能感知的人才推荐。该模型整合转移感知协同过滤、强化学习式职业bandit和熵加权TOPSIS分支，在JobHop数据集上NDCG@5达0.3040，显著超越多种基线方法。模型融合系数可审计，支持个体层面的分支得分、准则权重和排名变化检查。两个数据集表现差异揭示了数据特性对模型权重的影响。
-
-📚 arXiv:cs.IR · 2026 · 引用 0
-👤 Özkan Canay
-
-AI 分: 4.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2605.24155v1</description>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-      <category>推荐系统</category><category>人力资源</category><category>绩效评估</category><category>组织学习</category><category>机器学习</category><category>算法决策</category><category>人机协作</category>
     </item>
   </channel>
 </rss>
