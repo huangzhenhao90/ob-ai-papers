@@ -6,9 +6,73 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 19 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>LLM消费者行为理论：新兴研究领域的理论基础</title>
+      <link>https://ob-ai-papers.vercel.app/papers/11840</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11840</guid>
+      <description>📝 LLM消费者行为理论：新兴研究领域的理论基础
+EN: LLM Consumer Behavior Theory: Foundations of a Novel Research Field
+
+💡 随着LLM日益充当代表用户做消费决策的自主代理，传统消费者理论面临根本性挑战。研究引入LLM消费者行为理论新领域，旨在分析代理市场中的消费者行为。通过结合古典与行为经济学及NLP进展，形式化人类偏好在LLM代理中的反映与执行机制，以及代理决策如何聚合成市场需求。研究统一了LLM决策、人类行为模拟和偏好获取等分散文献，并指出理性假设和异质性在代理市场中可能失效，还提出对齐、偏好表示和市场动态等开放问题。
+
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 Manon Reusens, Sofie Goethals, David Martens
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2606.18005v1</description>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
+      <category>消费者行为</category><category>人机协作</category><category>算法决策</category><category>理论经济学</category><category>LLM</category><category>GenAI</category><category>算法决策</category>
+    </item>    <item>
+      <title>劳动之后的资本是什么？预测人机协作时代人才价值创造的转变</title>
+      <link>https://ob-ai-papers.vercel.app/papers/11839</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11839</guid>
+      <description>📝 劳动之后的资本是什么？预测人机协作时代人才价值创造的转变
+EN: What Capital After Labor? Forecasting the Talent ROI Transition in the Human-AI Era
+
+💡 AI augmentation打破劳动时间与生产贡献的会计关联，但企业仍沿用时间基础的人才评估框架。该研究构建预测框架，论证从时间本位人才会计向产出本位人才ROI的转变路径，以韩国52小时工时政策为早期预警案例。基于365家上市企业面板数据发现SG&amp;amp;A占比上升的 overhead-pressure signature，提示向τ*转折点过渡的制度压力。
+
+📚 arXiv:econ.GN · 2026 · 引用 0
+👤 Kwan Soo Shin, In Seok Kang
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2606.19846v1</description>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
+      <category>战略</category><category>组织变革</category><category>人机协作</category><category>工作未来</category><category>GenAI</category><category>人机协作</category>
+    </item>    <item>
+      <title>生成式AI构思中的能动性配置：文本与视觉想法具体化对创意及构思者投入的影响</title>
+      <link>https://ob-ai-papers.vercel.app/papers/11830</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11830</guid>
+      <description>📝 生成式AI构思中的能动性配置：文本与视觉想法具体化对创意及构思者投入的影响
+EN: Agency Configurations in Generative AI Ideation: How Textual and Visual Idea Concretizations Shape Idea Creativity and Ideator Effort
+
+📚 ISR · 2026 · 引用 0
+👤 Philipp Gordetzki, Ivo Blohm, Melanie Clegg, Felix Schakols, Reto Hofstetter
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>利用大语言模型评估求职面试：评估设计要素、有效性研究及最佳实践建议</title>
+      <link>https://ob-ai-papers.vercel.app/papers/11823</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11823</guid>
+      <description>📝 利用大语言模型评估求职面试：评估设计要素、有效性研究及最佳实践建议
+EN: Scoring employment interviews with large language models: Evaluation design components, validity investigations, and best practice recommendations.
+
+💡 探讨大语言模型在就业面试评分中的应用，考察评价设计的关键组成要素、效度表现，并提出最佳实践建议。研究涉及如何通过LLM对面试表现进行结构化打分、评估其评分信效度，以及如何在招聘流程中合规有效地部署该技术。
+
+📚 JAP · 2026 · 引用 0
+👤 Kayden Stockdale, Louis Hickman, Siyi Liu
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://doi.org/10.1037/apl0001396</description>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
+      <category>招聘</category><category>绩效评估</category><category>人机协作</category><category>LLM</category><category>AI决策</category><category>AI招聘</category>
+    </item>    <item>
       <title>将LLM推理蒸馏为可解释策略树用于人机协作</title>
       <link>https://ob-ai-papers.vercel.app/papers/11817</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11817</guid>
@@ -436,68 +500,6 @@ AI 分: 4.0 / 领域分: 3.0
 📄 PDF: https://arxiv.org/pdf/2606.04155v1</description>
       <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
       <category>教育</category><category>培训</category><category>人机协作</category><category>LLM</category><category>强化学习</category><category>人机协作</category>
-    </item>    <item>
-      <title>管理的复兴：当普通员工成为AI代理的多层级管理者</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11651</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11651</guid>
-      <description>📝 管理的复兴：当普通员工成为AI代理的多层级管理者
-EN: The renaissance of management: When regular employees become multi-level managers of AI agents
-
-💡 探讨AI代理广泛应用于工作场所后，普通员工角色的根本性转变。传统层级管理结构被颠覆，员工不仅完成任务，还需管理、监督和协调AI代理的工作表现。研究关注这一新兴管理形态的特征、挑战与影响，涉及人机协作边界重新划定、员工技能需求变化、监督责任增加等议题。管理学面临“文艺复兴”，需重新定义管理者角色、管理幅度及人机团队的有效组织方式。
-
-📚 LQ · 2026 · 引用 0
-👤 Niels Van Quaquebeke, Brooke A. Gazdag, Allan Lee
-
-AI 分: 5.0 / 领域分: 5.0</description>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-      <category>团队</category><category>人机协作</category><category>组织变革</category><category>工作设计</category><category>AI治理</category><category>人机协作</category>
-    </item>    <item>
-      <title>人工串谋：Q学习算法的超额定价研究</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11632</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11632</guid>
-      <description>📝 人工串谋：Q学习算法的超额定价研究
-EN: Artificial Collusion: Examining Supracompetitive Pricing by Q-Learning Algorithms
-
-💡 研究定价算法（尤其是Q-learning强化学习）是否会自主学习串通以实现超竞争性价格。结果表明Q-learning在实践中难以构成真正的“自主”串通——它只能在与企业目标无关的时间尺度上学习串通均衡，且竞争对手需高度同步（相同算法、同时启动、相同超参数），这种同步程度本身就暗示需要明确的卡特尔协议。研究认为，目前竞争监管机构不必过度怀疑定价算法，除非是“通过算法实施的串通”（即故意编码或用于执行卡特尔协议）。
-
-📚 MgmtSci · 2026 · 引用 0
-👤 Arnoud den Boer, Janusz M Meylahn, Maarten Pieter Schinkel
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-      <category>算法管理</category><category>反垄断</category><category>定价策略</category><category>Q-learning</category><category>强化学习</category><category>算法决策</category>
-    </item>    <item>
-      <title>AI 代理如何重塑知识工作：自主性、效率与范围</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11614</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11614</guid>
-      <description>📝 AI 代理如何重塑知识工作：自主性、效率与范围
-EN: How AI Agents Reshape Knowledge Work: Autonomy, Efficiency, and Scope
-
-💡 通过Perplexity产品数据，研究AI从对话助手向自主代理的转变如何重塑知识工作。发现：1）Computer每会话自主工作26分钟，远超Search的33秒，自动化任务分解与执行；2）Computer将完成时间从269分钟缩至36分钟，效率提升87%，成本降低94%；3）Computer扩展工作边界，用户提问更多跨职业交叉、涉及更高阶认知和复合任务，解锁原本无法开展的工作。表明AI Agent正从辅助工具演变为能独立完成端到端任务的自主系统，显著改变知识工作模式。
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Jeremy Yang, Kate Zyskowski, Noah Yonack, Jerry Ma
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2606.07489v1</description>
-      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
-      <category>知识管理</category><category>工作效率</category><category>任务自动化</category><category>组织变革</category><category>AI Agent</category><category>任务自动化</category><category>自主AI系统</category><category>人机协作</category>
-    </item>    <item>
-      <title>基于Dirichlet过程的可扩展客户相似性推断</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11598</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11598</guid>
-      <description>📝 基于Dirichlet过程的可扩展客户相似性推断
-EN: Scalable Inference of Customer Similarities from Interactions Data Using Dirichlet Processes
-
-💡 在同质性（homophily）理论指导下，利用客户交互数据推断潜在相似性。提出基于Dirichlet过程的贝叶斯非参数模型，实现对大规模网络的可扩展推断。该框架能够捕捉随机交互波动，并有效识别客户细分与精准定向的潜在特征。实证表明该方法在揭示客户相似度、提升细分与 targeting 效果方面具有显著优势。
-
-📚 MktSci · 2011 · 引用 41
-👤 Michael Braun, André Bonfrer
-
-AI 分: 4.0 / 领域分: 5.0</description>
-      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-      <category>消费者行为</category><category>营销</category><category>推荐系统</category><category>机器学习</category><category>机器学习</category><category>推荐算法</category>
     </item>
   </channel>
 </rss>
