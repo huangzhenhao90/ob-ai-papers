@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-20T06:24:32.248532Z",
+  "generated_at": "2026-06-21T06:52:16.418818Z",
   "totals": {
-    "papers_indexed": 11840,
-    "papers_scored": 11791,
-    "papers_ai_relevant": 1651
+    "papers_indexed": 11851,
+    "papers_scored": 11802,
+    "papers_ai_relevant": 1652
   },
   "journals": [
     {
@@ -150,7 +150,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/10970266",
-      "papers_indexed": 402,
+      "papers_indexed": 404,
       "papers_ai_relevant": 23
     },
     {
@@ -164,8 +164,8 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/mnsc",
-      "papers_indexed": 1972,
-      "papers_ai_relevant": 169
+      "papers_indexed": 1976,
+      "papers_ai_relevant": 170
     },
     {
       "abbr": "MISQ",
@@ -253,7 +253,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/jmx",
-      "papers_indexed": 247,
+      "papers_indexed": 249,
       "papers_ai_relevant": 18
     },
     {
@@ -369,7 +369,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://www.sciencedirect.com/journal/research-in-organizational-behavior",
-      "papers_indexed": 34,
+      "papers_indexed": 35,
       "papers_ai_relevant": 1
     },
     {
@@ -384,7 +384,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/1099050X",
-      "papers_indexed": 271,
+      "papers_indexed": 273,
       "papers_ai_relevant": 26
     },
     {
@@ -498,13 +498,13 @@
       "2023": 260,
       "2024": 354,
       "2025": 629,
-      "2026": 400
+      "2026": 401
     },
     "journals": {
       "arXiv:cs.HC": 208,
       "arXiv:cs.CY": 201,
       "arXiv:cs.AI": 191,
-      "MgmtSci": 169,
+      "MgmtSci": 170,
       "arXiv:cs.CL": 122,
       "ISR": 103,
       "arXiv:cs.LG": 82,
@@ -560,7 +560,7 @@
       "arXiv:math.OC": 1
     },
     "topic_tags": {
-      "人机协作": 480,
+      "人机协作": 481,
       "算法管理": 303,
       "伦理": 266,
       "决策": 266,
@@ -579,14 +579,14 @@
       "组织学习": 114,
       "营销": 112,
       "工作未来": 106,
-      "工作设计": 91,
+      "工作设计": 92,
       "知识管理": 87,
       "机器学习": 86,
       "绩效评估": 77,
       "HR": 68,
       "战略": 61,
       "培训": 53,
-      "创意": 51,
+      "创意": 52,
       "隐私": 50,
       "团队": 45,
       "创业": 42,
@@ -612,23 +612,23 @@
       "心理健康": 10
     },
     "ai_type_tags": {
-      "机器学习": 598,
+      "机器学习": 599,
       "LLM": 571,
       "算法决策": 409,
-      "GenAI": 339,
+      "GenAI": 340,
       "AI治理": 210,
       "人机交互": 179,
       "推荐算法": 175,
       "人机协作": 166,
       "算法管理": 147,
-      "多模态": 107,
+      "多模态": 108,
       "可解释AI": 97,
       "ChatGPT": 85,
       "深度学习": 57,
       "可解释 AI": 46,
       "机器人": 46,
       "AI": 38,
-      "图像生成": 37,
+      "图像生成": 38,
       "生成式AI": 36,
       "自然语言处理": 36,
       "AI招聘": 34,

@@ -6,9 +6,24 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 20 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>EnsembleIV：基于集成学习构建工具变量以实现机器学习生成变量的稳健统计推断</title>
+      <link>https://ob-ai-papers.vercel.app/papers/11847</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11847</guid>
+      <description>📝 EnsembleIV：基于集成学习构建工具变量以实现机器学习生成变量的稳健统计推断
+EN: EnsembleIV: Creating Instrumental Variables from Ensemble Learners for Robust Statistical Inference with ML- Generated Variables
+
+💡 针对机器学习预测值用于回归推断时的测量误差偏误问题，提出 EnsembleIV 方法。利用集成学习生成预测值，并通过数据驱动变换程序将各基学习器转化为工具变量，从而纠正测量误差、避免估计偏误。方法在合成数据和真实数据上验证有效，适用于线性和广义线性回归模型，并优于其他偏差校正方法。
+
+📚 MgmtSci · 2026 · 引用 0
+👤 Gordon Burtch, Edward McFowland, Mochen Yang, Gediminas Adomavičius
+
+AI 分: 5.0 / 领域分: 3.0</description>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
+      <category>统计推断</category><category>计量方法</category><category>机器学习应用</category><category>机器学习</category><category>集成学习</category>
+    </item>    <item>
       <title>LLM消费者行为理论：新兴研究领域的理论基础</title>
       <link>https://ob-ai-papers.vercel.app/papers/11840</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11840</guid>
@@ -49,12 +64,14 @@ AI 分: 5.0 / 领域分: 5.0
       <description>📝 生成式AI构思中的能动性配置：文本与视觉想法具体化对创意及构思者投入的影响
 EN: Agency Configurations in Generative AI Ideation: How Textual and Visual Idea Concretizations Shape Idea Creativity and Ideator Effort
 
+💡 研究AI生成式输入的表征形式如何影响人机协作创意效果。通过在线实验比较文本与视觉两种 concre-tization方式，发现文本 concretization 相对视觉提升创意18%但增加30%努力。对于成熟想法此效应更明显；对不成熟想法，视觉 concretization 能提升创意且无需额外努力。研究揭示不同人-AI agency配置导致创意-努力权衡差异，文本对应增强型协作，人与AI agency匹配；视觉对应部分自动化。
+
 📚 ISR · 2026 · 引用 0
 👤 Philipp Gordetzki, Ivo Blohm, Melanie Clegg, Felix Schakols, Reto Hofstetter
 
 AI 分: 5.0 / 领域分: 5.0</description>
       <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
-      
+      <category>人机协作</category><category>创意</category><category>工作设计</category><category>GenAI</category><category>多模态</category><category>文本生成</category><category>图像生成</category>
     </item>    <item>
       <title>利用大语言模型评估求职面试：评估设计要素、有效性研究及最佳实践建议</title>
       <link>https://ob-ai-papers.vercel.app/papers/11823</link>
@@ -483,23 +500,6 @@ AI 分: 5.0 / 领域分: 3.0
 📄 PDF: https://arxiv.org/pdf/2606.01228v1</description>
       <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
       <category>信任</category><category>AI治理</category><category>人机交互</category><category>LLM</category><category>ChatGPT</category>
-    </item>    <item>
-      <title>SocialCoach：基于强化学习的智能导师辅导与个性化社交技能练习</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11683</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11683</guid>
-      <description>📝 SocialCoach：基于强化学习的智能导师辅导与个性化社交技能练习
-EN: SocialCoach: Personalized Social Skill Learning with RL-based Agentic Tutoring and Practice
-
-💡 社交技能训练面临专家稀缺、规模化难题。SocialCoach 构建多智能体 LLM 知识库，采用强化学习在模拟学习者环境中优化自适应练习排程，并整合沉浸式实践、因果式评估与反思式辅导，实现个性化社交技能提升。实验显示路径质量与指导质量提升，用户感知参与度和实用性良好。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Tianfu Wang, Max Xiong, Jianxun Lian, Hongyuan Zhu, Zhengyu Hu
-
-AI 分: 4.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2606.04155v1</description>
-      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
-      <category>教育</category><category>培训</category><category>人机协作</category><category>LLM</category><category>强化学习</category><category>人机协作</category>
     </item>
   </channel>
 </rss>
