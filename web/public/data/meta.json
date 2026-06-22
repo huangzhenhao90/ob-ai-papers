@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-21T06:52:16.418818Z",
+  "generated_at": "2026-06-22T07:25:56.870236Z",
   "totals": {
-    "papers_indexed": 11851,
-    "papers_scored": 11802,
+    "papers_indexed": 11924,
+    "papers_scored": 11875,
     "papers_ai_relevant": 1652
   },
   "journals": [
@@ -18,7 +18,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.aom.org/loi/amj",
-      "papers_indexed": 308,
+      "papers_indexed": 368,
       "papers_ai_relevant": 12
     },
     {
@@ -136,7 +136,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/jom",
-      "papers_indexed": 367,
+      "papers_indexed": 378,
       "papers_ai_relevant": 6
     },
     {
@@ -150,7 +150,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/10970266",
-      "papers_indexed": 404,
+      "papers_indexed": 405,
       "papers_ai_relevant": 23
     },
     {
@@ -209,7 +209,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.aom.org/loi/annals",
-      "papers_indexed": 98,
+      "papers_indexed": 99,
       "papers_ai_relevant": 3
     },
     {
