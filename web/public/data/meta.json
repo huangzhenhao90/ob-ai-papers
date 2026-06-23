@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-22T07:25:56.870236Z",
+  "generated_at": "2026-06-23T06:08:39.207053Z",
   "totals": {
-    "papers_indexed": 11924,
-    "papers_scored": 11875,
+    "papers_indexed": 11929,
+    "papers_scored": 11880,
     "papers_ai_relevant": 1652
   },
   "journals": [
@@ -33,7 +33,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.aom.org/loi/amr",
-      "papers_indexed": 269,
+      "papers_indexed": 270,
       "papers_ai_relevant": 22
     },
     {
@@ -48,7 +48,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/asq",
-      "papers_indexed": 217,
+      "papers_indexed": 218,
       "papers_ai_relevant": 8
     },
     {
@@ -63,7 +63,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://psycnet.apa.org/PsycARTICLES/journal/apl",
-      "papers_indexed": 515,
+      "papers_indexed": 516,
       "papers_ai_relevant": 23
     },
     {
@@ -107,7 +107,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://www.sciencedirect.com/journal/organizational-behavior-and-human-decision-processes",
-      "papers_indexed": 185,
+      "papers_indexed": 186,
       "papers_ai_relevant": 2
     },
     {
@@ -179,7 +179,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://misq.umn.edu/",
-      "papers_indexed": 276,
+      "papers_indexed": 277,
       "papers_ai_relevant": 52
     },
     {
