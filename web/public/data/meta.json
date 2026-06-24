@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-23T06:08:39.207053Z",
+  "generated_at": "2026-06-24T06:10:07.929951Z",
   "totals": {
-    "papers_indexed": 11929,
-    "papers_scored": 11880,
+    "papers_indexed": 11941,
+    "papers_scored": 11892,
     "papers_ai_relevant": 1652
   },
   "journals": [
@@ -63,7 +63,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://psycnet.apa.org/PsycARTICLES/journal/apl",
-      "papers_indexed": 516,
+      "papers_indexed": 519,
       "papers_ai_relevant": 23
     },
     {
@@ -164,7 +164,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/mnsc",
-      "papers_indexed": 1976,
+      "papers_indexed": 1981,
       "papers_ai_relevant": 170
     },
     {
@@ -179,7 +179,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://misq.umn.edu/",
-      "papers_indexed": 277,
+      "papers_indexed": 278,
       "papers_ai_relevant": 52
     },
     {
@@ -239,7 +239,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://academic.oup.com/jcr",
-      "papers_indexed": 263,
+      "papers_indexed": 264,
       "papers_ai_relevant": 16
     },
     {
@@ -281,7 +281,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/mksc",
-      "papers_indexed": 328,
+      "papers_indexed": 329,
       "papers_ai_relevant": 43
     },
     {
@@ -355,7 +355,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/14676486",
-      "papers_indexed": 529,
+      "papers_indexed": 530,
       "papers_ai_relevant": 28
     },
     {
