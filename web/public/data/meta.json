@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-24T06:10:07.929951Z",
+  "generated_at": "2026-06-25T06:11:14.989377Z",
   "totals": {
-    "papers_indexed": 11941,
-    "papers_scored": 11892,
-    "papers_ai_relevant": 1652
+    "papers_indexed": 11954,
+    "papers_scored": 11905,
+    "papers_ai_relevant": 1653
   },
   "journals": [
     {
@@ -18,7 +18,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.aom.org/loi/amj",
-      "papers_indexed": 368,
+      "papers_indexed": 369,
       "papers_ai_relevant": 12
     },
     {
@@ -78,7 +78,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/orsc",
-      "papers_indexed": 459,
+      "papers_indexed": 460,
       "papers_ai_relevant": 12
     },
     {
@@ -93,7 +93,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/17446570",
-      "papers_indexed": 180,
+      "papers_indexed": 182,
       "papers_ai_relevant": 11
     },
     {
@@ -107,7 +107,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://www.sciencedirect.com/journal/organizational-behavior-and-human-decision-processes",
-      "papers_indexed": 186,
+      "papers_indexed": 187,
       "papers_ai_relevant": 2
     },
     {
@@ -194,7 +194,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/isre",
-      "papers_indexed": 509,
+      "papers_indexed": 512,
       "papers_ai_relevant": 103
     },
     {
@@ -239,7 +239,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://academic.oup.com/jcr",
-      "papers_indexed": 264,
+      "papers_indexed": 265,
       "papers_ai_relevant": 16
     },
     {
@@ -311,7 +311,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://link.springer.com/journal/11747",
-      "papers_indexed": 268,
+      "papers_indexed": 269,
       "papers_ai_relevant": 16
     },
     {
@@ -355,7 +355,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/14676486",
-      "papers_indexed": 530,
+      "papers_indexed": 531,
       "papers_ai_relevant": 28
     },
     {
@@ -483,8 +483,8 @@
       ],
       "lang": "en",
       "publisher_toc": "https://arxiv.org/",
-      "papers_indexed": 2842,
-      "papers_ai_relevant": 983
+      "papers_indexed": 2844,
+      "papers_ai_relevant": 984
     }
   ],
   "facets": {
@@ -498,7 +498,7 @@
       "2023": 260,
       "2024": 354,
       "2025": 629,
-      "2026": 401
+      "2026": 402
     },
     "journals": {
       "arXiv:cs.HC": 208,
@@ -508,7 +508,7 @@
       "arXiv:cs.CL": 122,
       "ISR": 103,
       "arXiv:cs.LG": 82,
-      "arXiv:cs.IR": 61,
+      "arXiv:cs.IR": 62,
       "MISQ": 52,
       "MktSci": 43,
       "arXiv:econ.GN": 43,
@@ -564,14 +564,14 @@
       "算法管理": 303,
       "伦理": 266,
       "决策": 266,
-      "消费者行为": 236,
+      "消费者行为": 237,
       "公平性": 196,
       "组织变革": 183,
       "推荐系统": 171,
       "算法决策": 162,
       "创新": 156,
+      "AI治理": 142,
       "招聘": 142,
-      "AI治理": 141,
       "信任": 136,
       "教育": 134,
       "偏见": 132,
@@ -602,20 +602,20 @@
       "研究方法": 17,
       "算法治理": 14,
       "AI招聘": 13,
+      "品牌": 12,
       "生成式AI": 12,
       "多模态": 12,
       "社交媒体": 11,
       "风险管理": 11,
-      "品牌": 11,
       "预测": 11,
       "文本分析": 11,
       "心理健康": 10
     },
     "ai_type_tags": {
       "机器学习": 599,
-      "LLM": 571,
+      "LLM": 572,
       "算法决策": 409,
-      "GenAI": 340,
+      "GenAI": 341,
       "AI治理": 210,
       "人机交互": 179,
       "推荐算法": 175,

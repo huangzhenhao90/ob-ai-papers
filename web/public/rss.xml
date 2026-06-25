@@ -6,9 +6,26 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 21 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>大语言模型如何跨语言与市场获取品牌声誉</title>
+      <link>https://ob-ai-papers.vercel.app/papers/11954</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11954</guid>
+      <description>📝 大语言模型如何跨语言与市场获取品牌声誉
+EN: How Large Language Models Source Brand Reputation Across Languages and Markets
+
+💡 研究LLM在品牌问答中引用的信息来源。整合128个品牌、12个市场、13种语言、167551条引用数据，发现85.7%引用来自第三方网站，品牌自有内容仅占14.3%；引用来源高度集中且长尾分布，80%引用集中于18%域名；维基百科在11种语言中占据主导；边际来源呈现市场特异性，如波兰品牌YouTube引用量超过维基百科两倍。
+
+📚 arXiv:cs.IR · 2026 · 引用 0
+👤 Dmitrij Zatuchin
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2606.25787v1</description>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+      <category>品牌</category><category>消费者行为</category><category>AI治理</category><category>LLM</category><category>GenAI</category>
+    </item>    <item>
       <title>EnsembleIV：基于集成学习构建工具变量以实现机器学习生成变量的稳健统计推断</title>
       <link>https://ob-ai-papers.vercel.app/papers/11847</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11847</guid>
@@ -483,23 +500,6 @@ EN: ChatGPT, a Hype That Teaches: Generative AI and the Collective Accumulation 
 AI 分: 5.0 / 领域分: 4.0</description>
       <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
       <category>组织学习</category><category>创新</category><category>社交媒体</category><category>知识管理</category><category>GenAI</category><category>ChatGPT</category><category>LLM</category>
-    </item>    <item>
-      <title>制度信任与本土AI优势：基于中国DeepSeek和ChatGPT用户的证据</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11685</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11685</guid>
-      <description>📝 制度信任与本土AI优势：基于中国DeepSeek和ChatGPT用户的证据
-EN: Institutional Trust and the Domestic AI Advantage: Evidence from DeepSeek and ChatGPT Users in China
-
-💡 AI 信任的形成受制度折射影响。研究提出制度棱镜框架，基于认知-情感信任理论，对 405 名中国用户调查发现：制度信任越高，用户对本土（DeepSeek）模型的情感信任越强，认知评价也更正面；在制度信任低的情境下，国内优势减弱。
-
-📚 arXiv:cs.CY · 2026 · 引用 0
-👤 Jiashen Huang, Yu Jia, Xu Pan
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2606.01228v1</description>
-      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
-      <category>信任</category><category>AI治理</category><category>人机交互</category><category>LLM</category><category>ChatGPT</category>
     </item>
   </channel>
 </rss>
