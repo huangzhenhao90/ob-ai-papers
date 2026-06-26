@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-25T06:11:14.989377Z",
+  "generated_at": "2026-06-26T06:12:54.981558Z",
   "totals": {
-    "papers_indexed": 11954,
-    "papers_scored": 11905,
+    "papers_indexed": 11968,
+    "papers_scored": 11919,
     "papers_ai_relevant": 1653
   },
   "journals": [
@@ -18,7 +18,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.aom.org/loi/amj",
-      "papers_indexed": 369,
+      "papers_indexed": 370,
       "papers_ai_relevant": 12
     },
     {
@@ -33,7 +33,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.aom.org/loi/amr",
-      "papers_indexed": 270,
+      "papers_indexed": 271,
       "papers_ai_relevant": 22
     },
     {
@@ -93,7 +93,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/17446570",
-      "papers_indexed": 182,
+      "papers_indexed": 183,
       "papers_ai_relevant": 11
     },
     {
@@ -107,7 +107,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://www.sciencedirect.com/journal/organizational-behavior-and-human-decision-processes",
-      "papers_indexed": 187,
+      "papers_indexed": 188,
       "papers_ai_relevant": 2
     },
     {
@@ -136,7 +136,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/jom",
-      "papers_indexed": 378,
+      "papers_indexed": 379,
       "papers_ai_relevant": 6
     },
     {
@@ -164,7 +164,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/mnsc",
-      "papers_indexed": 1981,
+      "papers_indexed": 1982,
       "papers_ai_relevant": 170
     },
     {
@@ -239,7 +239,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://academic.oup.com/jcr",
-      "papers_indexed": 265,
+      "papers_indexed": 266,
       "papers_ai_relevant": 16
     },
     {
@@ -253,7 +253,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/jmx",
-      "papers_indexed": 249,
+      "papers_indexed": 250,
       "papers_ai_relevant": 18
     },
     {
@@ -297,7 +297,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/15327663",
-      "papers_indexed": 174,
+      "papers_indexed": 176,
       "papers_ai_relevant": 15
     },
     {
@@ -311,7 +311,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://link.springer.com/journal/11747",
-      "papers_indexed": 269,
+      "papers_indexed": 270,
       "papers_ai_relevant": 16
     },
     {
@@ -340,7 +340,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/hum",
-      "papers_indexed": 219,
+      "papers_indexed": 220,
       "papers_ai_relevant": 6
     },
     {
@@ -355,7 +355,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/14676486",
-      "papers_indexed": 531,
+      "papers_indexed": 532,
       "papers_ai_relevant": 28
     },
     {
@@ -483,7 +483,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://arxiv.org/",
-      "papers_indexed": 2844,
+      "papers_indexed": 2845,
       "papers_ai_relevant": 984
     }
   ],
