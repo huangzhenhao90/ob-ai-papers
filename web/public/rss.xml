@@ -6,9 +6,24 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 25 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>EXPRESS: 偏好过滤：当顾客与算法共享狭隘偏好时</title>
+      <link>https://ob-ai-papers.vercel.app/papers/11975</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11975</guid>
+      <description>📝 EXPRESS: 偏好过滤：当顾客与算法共享狭隘偏好时
+EN: EXPRESS: Preference Filtering: When Customers Share Narrow Preferences with Algorithms
+
+💡 顾客向算法分享的偏好比向人类或为自己列出时更窄，产生"偏好过滤"现象。该现象源于顾客预期算法比人类更均匀地权衡偏好，导致过滤掉边缘偏好。12个主实验（含数学模型、访谈、调查及网站实验，N=8,824）表明这虽看似理性，但长期损害顾客和企业利益。研究揭示了偏好获取时机、方式、目的和交互对象的四大设计维度如何影响过滤程度，并验证了减轻偏好过滤可提升用户参与度和满意度。
+
+📚 JM · 2026 · 引用 0
+👤 Phyliss Jia Gai, Eugina Leung, Anne-Kathrin Klesse
+
+AI 分: 4.0 / 领域分: 5.0</description>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
+      <category>推荐系统</category><category>消费者行为</category><category>人机协作</category><category>推荐算法</category><category>算法决策</category>
+    </item>    <item>
       <title>大语言模型如何跨语言与市场获取品牌声誉</title>
       <link>https://ob-ai-papers.vercel.app/papers/11954</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11954</guid>
@@ -485,21 +500,6 @@ EN: The Cybernetic Teammate: A Field Experiment on Generative AI and Teamwork
 AI 分: 5.0 / 领域分: 5.0</description>
       <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
       <category>团队</category><category>人机协作</category><category>创新</category><category>绩效评估</category><category>GenAI</category><category>LLM</category>
-    </item>    <item>
-      <title>ChatGPT，一个具有教育意义的热潮：生成式AI与社交媒体上的技术素养集体积累</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11694</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11694</guid>
-      <description>📝 ChatGPT，一个具有教育意义的热潮：生成式AI与社交媒体上的技术素养集体积累
-EN: ChatGPT, a Hype That Teaches: Generative AI and the Collective Accumulation of Technology Literacy on Social Media
-
-💡 通过分析 ChatGPT 发布后五个月内 215,279 条社交媒体帖子，揭示了 hype 作为集体感知与知识建构的角色：AI 的可及性让技术评估自下而上形成关系公众，知识通过概念原型累积，并在跨越技术素养阈值后 hype 由扩张转为收敛。该过程阐释了社交媒体在新技术扩散中同步共创想象与实践知识的机制。
-
-📚 AMJ · 2026 · 引用 0
-👤 Hassan Md. Hamadi, Anna Brattström
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
-      <category>组织学习</category><category>创新</category><category>社交媒体</category><category>知识管理</category><category>GenAI</category><category>ChatGPT</category><category>LLM</category>
     </item>
   </channel>
 </rss>

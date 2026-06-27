@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-26T06:12:54.981558Z",
+  "generated_at": "2026-06-27T05:57:55.402767Z",
   "totals": {
-    "papers_indexed": 11968,
-    "papers_scored": 11919,
-    "papers_ai_relevant": 1653
+    "papers_indexed": 11977,
+    "papers_scored": 11928,
+    "papers_ai_relevant": 1654
   },
   "journals": [
     {
@@ -18,7 +18,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.aom.org/loi/amj",
-      "papers_indexed": 370,
+      "papers_indexed": 371,
       "papers_ai_relevant": 12
     },
     {
@@ -136,7 +136,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/jom",
-      "papers_indexed": 379,
+      "papers_indexed": 380,
       "papers_ai_relevant": 6
     },
     {
@@ -209,7 +209,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.aom.org/loi/annals",
-      "papers_indexed": 99,
+      "papers_indexed": 101,
       "papers_ai_relevant": 3
     },
     {
@@ -253,8 +253,8 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/jmx",
-      "papers_indexed": 250,
-      "papers_ai_relevant": 18
+      "papers_indexed": 252,
+      "papers_ai_relevant": 19
     },
     {
       "abbr": "JMR",
@@ -267,7 +267,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/mrj",
-      "papers_indexed": 243,
+      "papers_indexed": 244,
       "papers_ai_relevant": 20
     },
     {
@@ -311,7 +311,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://link.springer.com/journal/11747",
-      "papers_indexed": 270,
+      "papers_indexed": 271,
       "papers_ai_relevant": 16
     },
     {
@@ -483,7 +483,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://arxiv.org/",
-      "papers_indexed": 2845,
+      "papers_indexed": 2846,
       "papers_ai_relevant": 984
     }
   ],
@@ -498,7 +498,7 @@
       "2023": 260,
       "2024": 354,
       "2025": 629,
-      "2026": 402
+      "2026": 403
     },
     "journals": {
       "arXiv:cs.HC": 208,
@@ -518,7 +518,7 @@
       "SMJ": 23,
       "AMR": 22,
       "JMR": 20,
-      "JM": 18,
+      "JM": 19,
       "JOB": 17,
       "JAMS": 16,
       "JCR": 16,
@@ -560,14 +560,14 @@
       "arXiv:math.OC": 1
     },
     "topic_tags": {
-      "人机协作": 481,
+      "人机协作": 482,
       "算法管理": 303,
       "伦理": 266,
       "决策": 266,
-      "消费者行为": 237,
+      "消费者行为": 238,
       "公平性": 196,
       "组织变革": 183,
-      "推荐系统": 171,
+      "推荐系统": 172,
       "算法决策": 162,
       "创新": 156,
       "AI治理": 142,
@@ -614,11 +614,11 @@
     "ai_type_tags": {
       "机器学习": 599,
       "LLM": 572,
-      "算法决策": 409,
+      "算法决策": 410,
       "GenAI": 341,
       "AI治理": 210,
       "人机交互": 179,
-      "推荐算法": 175,
+      "推荐算法": 176,
       "人机协作": 166,
       "算法管理": 147,
       "多模态": 108,
