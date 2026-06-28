@@ -6,9 +6,58 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 27 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>共享工作空间人机协作中的协同效应探索</title>
+      <link>https://ob-ai-papers.vercel.app/papers/11991</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11991</guid>
+      <description>📝 共享工作空间人机协作中的协同效应探索
+EN: Searching for Synergy in Shared Workspace Human-AI Collaboration
+
+💡 通过Collaborative Gym模拟共享工作空间Human-AI团队实验，发现缺少协调结构时增加合作者会降低绩效。引入共享记忆与模拟HITL审批门禁后，三人以上团队表现提升，职责信号更清晰，专业知识路由更有效，表明协调结构是团队能力转化为实际产出的关键。
+
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 Nachiket Kotalwar, Rohini Das, Carolyn Rose
+
+AI 分: 4.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2606.18413v3</description>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
+      <category>团队</category><category>人机协作</category><category>组织学习</category><category>工作设计</category><category>人机协作</category><category>算法管理</category><category>人机交互</category>
+    </item>    <item>
+      <title>LLM调解的人机交互在搜救中的应用：专长对注意力分配的影响</title>
+      <link>https://ob-ai-papers.vercel.app/papers/11990</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11990</guid>
+      <description>📝 LLM调解的人机交互在搜救中的应用：专长对注意力分配的影响
+EN: LLM-Mediated Human-AI Interaction in Search and Rescue: Impact of Expertise on Attentional Allocation
+
+💡 在模拟搜索救援任务中，LLM提供的实时指引提升了任务效率（奖励和每步受害者指标），但未增加总救援人数。眼动数据显示，LLM引导导致注意力向聊天界面转移，瞳孔变化增大，专业水平调节效应显著：新手倾向于被动依赖AI，专家则保持持续环境扫描的验证循环。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Elahe Oveisi, Hemanth Manjunatha
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2606.19514v1</description>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>注意力</category><category>搜索救援</category><category>决策</category><category>LLM</category><category>人机交互</category><category>AI引导</category>
+    </item>    <item>
+      <title>非对称性算法厌恶</title>
+      <link>https://ob-ai-papers.vercel.app/papers/11982</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11982</guid>
+      <description>📝 非对称性算法厌恶
+EN: Asymmetric Algorithm Aversion
+
+💡 在金融科技情境下，人类对AI建议表现出非对称厌恶：AI劝阻投资时，专家倾向采纳，认为AI可凭显性知识做出判断；而AI建议投资时，专家怀疑AI缺乏隐性知识，转而自行审视，使AI建议失效。四项研究证实这一不对称性。
+
+📚 ISR · 2026 · 引用 0
+👤 Saunak Basu, Alan R. Dennis, Aravinda Garimella, Wencui Han
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
+      <category>决策</category><category>人机协作</category><category>金融</category><category>算法决策</category><category>算法决策</category><category>AI建议</category><category>人机协作</category>
+    </item>    <item>
       <title>EXPRESS: 偏好过滤：当顾客与算法共享狭隘偏好时</title>
       <link>https://ob-ai-papers.vercel.app/papers/11975</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11975</guid>
@@ -453,53 +502,6 @@ EN: Supplemental Material for Scoring Employment Interviews With Large Language 
 AI 分: 5.0 / 领域分: 4.0</description>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
       <category>招聘</category><category>绩效评估</category><category>人机协作</category><category>LLM</category><category>AI招聘</category><category>算法决策</category>
-    </item>    <item>
-      <title>基于图注意力网络和混合密度网络的概率薪资预测</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11714</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11714</guid>
-      <description>📝 基于图注意力网络和混合密度网络的概率薪资预测
-EN: Probabilistic Salary Prediction with Graph Attention Networks and a Mixture Density Network
-
-💡 本研究针对招聘市场中薪资预测信息不对称的问题，提出一种基于图注意力网络与混合密度网络的统一框架GAT‑MDN。通过在职位、地点、行业三个属性域构建层次化相似图并使用边缘特征感知的注意力机制学习节点表示，结合优先级分层特征选择模块处理缺失或粗糙属性，最终以高斯混合模型输出完整薪资分布。实验在超过100万条荷兰招聘数据上验证，显著优于传统MLP‑MDN基线，在负对数似然和均方误差两项指标上均获提升。
-
-📚 arXiv:cs.SI · 2026 · 引用 0
-👤 Zhipei Qin, Mohammad Shokri, N. van Weeren, F. W. Takes
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2606.11663v1</description>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-      <category>招聘</category><category>HR</category><category>机器学习</category><category>深度学习</category><category>算法决策</category>
-    </item>    <item>
-      <title>AI民主化悖论：来自去中心化知识社区的证据</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11700</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11700</guid>
-      <description>📝 AI民主化悖论：来自去中心化知识社区的证据
-EN: The AI Democratization Paradox: Evidence from Decentralized Knowledge Communities
-
-💡 基于 100 多个维基语言社区部署神经机器翻译的自然实验，发现 AI 降低创作门槛，提升多语言内容产出与质量，且女性传记翻译率提高；但资源丰富社区获益显著高于中低收入社区，形成‘AI 民主化悖论’，表明技术本身难以消除结构性不平等，效益取决于既有社会结构。
-
-📚 MgmtSci · 2026 · 引用 0
-👤 Kai Zhu, D. Walker
-
-AI 分: 5.0 / 领域分: 5.0</description>
-      <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
-      <category>知识管理</category><category>公平性</category><category>社会结构</category><category>创新</category><category>神经机器翻译</category><category>机器翻译</category>
-    </item>    <item>
-      <title>赛博格队友：生成式AI与团队协作的实地实验</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11695</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11695</guid>
-      <description>📝 赛博格队友：生成式AI与团队协作的实地实验
-EN: The Cybernetic Teammate: A Field Experiment on Generative AI and Teamwork
-
-💡 在宝洁公司 791 名专业人员中进行随机现场实验，考察 AI 对团队合作三大支柱的影响。结果显示：AI 能让个人绩效匹配团队水平；帮助跨越研发与商业职能的壁垒，生成更平衡的方案；语言交互引发更积极的情感反应；AI 主要提升创意生成质量，而人类判断在评估筛选阶段仍具价值。
-
-📚 OrgSci · 2026 · 引用 0
-👤 Fabrizio Dell’Acqua, Charles Ayoubi, Hila Lifshitz‐Assaf, Raffaella Sadun, Ethan Mollick
-
-AI 分: 5.0 / 领域分: 5.0</description>
-      <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
-      <category>团队</category><category>人机协作</category><category>创新</category><category>绩效评估</category><category>GenAI</category><category>LLM</category>
     </item>
   </channel>
 </rss>
