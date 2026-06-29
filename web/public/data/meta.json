@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-28T06:20:11.899690Z",
+  "generated_at": "2026-06-29T06:49:34.197733Z",
   "totals": {
-    "papers_indexed": 11991,
-    "papers_scored": 11942,
+    "papers_indexed": 11994,
+    "papers_scored": 11945,
     "papers_ai_relevant": 1657
   },
   "journals": [
@@ -340,7 +340,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/hum",
-      "papers_indexed": 221,
+      "papers_indexed": 222,
       "papers_ai_relevant": 6
     },
     {
@@ -384,7 +384,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/1099050X",
-      "papers_indexed": 273,
+      "papers_indexed": 274,
       "papers_ai_relevant": 26
     },
     {
@@ -483,7 +483,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://arxiv.org/",
-      "papers_indexed": 2853,
+      "papers_indexed": 2854,
       "papers_ai_relevant": 986
     }
   ],
