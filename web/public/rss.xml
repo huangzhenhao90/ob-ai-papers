@@ -6,9 +6,26 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 28 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>FinInvest-GTCN：可解释图-时序-因果建模用于风险感知投资决策优化</title>
+      <link>https://ob-ai-papers.vercel.app/papers/12005</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12005</guid>
+      <description>📝 FinInvest-GTCN：可解释图-时序-因果建模用于风险感知投资决策优化
+EN: FinInvest-GTCN: Explainable Graph-Temporal-Causal Modeling for Risk-Aware Investment Decision Optimization
+
+💡 风险投资决策面临多源异构数据、非平稳时序及低数据高风险场景下可解释预测的挑战。FinInvest-GTCN通过图编码器捕获投资生态拓扑、多尺度时序融合模块处理长期依赖与时变性，并引入因果决策头生成可解释风险调整预测。核心创新为元因果适应策略，利用元预训练中与因果结构对齐的更新，实现数据稀缺新行业的鲁棒微调。实验表明，该模型将风险调整均方误差从3.05降至2.51，模拟组合累计收益提升18.7%，兼具稳定性、可解释性与适应性。
+
+📚 arXiv:cs.CL · 2026 · 引用 0
+👤 Junyan Tan, Yifan Li, Minghao Wang, Zihan Chen, Haoyu Zhang
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2606.28933v1</description>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+      <category>投资</category><category>风险评估</category><category>因果推断</category><category>可解释AI</category><category>图神经网络</category><category>时序预测</category><category>因果学习</category><category>机器学习</category>
+    </item>    <item>
       <title>共享工作空间人机协作中的协同效应探索</title>
       <link>https://ob-ai-papers.vercel.app/papers/11991</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11991</guid>
@@ -487,21 +504,6 @@ EN: Using Neural Networks to Guide Data-Driven Operational Decisions
 AI 分: 5.0 / 领域分: 4.0</description>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
       <category>决策</category><category>运营管理</category><category>机器学习</category><category>算法决策</category><category>机器学习</category><category>算法决策</category>
-    </item>    <item>
-      <title>使用大型语言模型评估就业面试：评估设计要素、效度研究与最佳实践建议</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11732</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11732</guid>
-      <description>📝 使用大型语言模型评估就业面试：评估设计要素、效度研究与最佳实践建议
-EN: Supplemental Material for Scoring Employment Interviews With Large Language Models: Evaluation Design Components, Validity Investigations, and Best Practice Recommendations
-
-💡 研究利用大语言模型对求职面试进行评分，探索评估设计要素、有效性检验并提出最佳实践建议。
-
-📚 JAP · 2026 · 引用 0
-👤 Unknown
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-      <category>招聘</category><category>绩效评估</category><category>人机协作</category><category>LLM</category><category>AI招聘</category><category>算法决策</category>
     </item>
   </channel>
 </rss>

@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-29T06:49:34.197733Z",
+  "generated_at": "2026-06-30T06:16:04.286120Z",
   "totals": {
-    "papers_indexed": 11994,
-    "papers_scored": 11945,
-    "papers_ai_relevant": 1657
+    "papers_indexed": 12007,
+    "papers_scored": 11958,
+    "papers_ai_relevant": 1658
   },
   "journals": [
     {
@@ -93,7 +93,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/17446570",
-      "papers_indexed": 183,
+      "papers_indexed": 184,
       "papers_ai_relevant": 11
     },
     {
@@ -164,7 +164,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/mnsc",
-      "papers_indexed": 1983,
+      "papers_indexed": 1988,
       "papers_ai_relevant": 170
     },
     {
@@ -179,7 +179,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://misq.umn.edu/",
-      "papers_indexed": 278,
+      "papers_indexed": 279,
       "papers_ai_relevant": 52
     },
     {
@@ -239,7 +239,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://academic.oup.com/jcr",
-      "papers_indexed": 266,
+      "papers_indexed": 267,
       "papers_ai_relevant": 16
     },
     {
@@ -340,7 +340,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/hum",
-      "papers_indexed": 222,
+      "papers_indexed": 223,
       "papers_ai_relevant": 6
     },
     {
@@ -483,8 +483,8 @@
       ],
       "lang": "en",
       "publisher_toc": "https://arxiv.org/",
-      "papers_indexed": 2854,
-      "papers_ai_relevant": 986
+      "papers_indexed": 2858,
+      "papers_ai_relevant": 987
     }
   ],
   "facets": {
@@ -498,14 +498,14 @@
       "2023": 260,
       "2024": 354,
       "2025": 629,
-      "2026": 406
+      "2026": 407
     },
     "journals": {
       "arXiv:cs.HC": 209,
       "arXiv:cs.CY": 201,
       "arXiv:cs.AI": 192,
       "MgmtSci": 170,
-      "arXiv:cs.CL": 122,
+      "arXiv:cs.CL": 123,
       "ISR": 104,
       "arXiv:cs.LG": 82,
       "arXiv:cs.IR": 62,
@@ -593,7 +593,7 @@
       "零工经济": 37,
       "广告": 36,
       "员工幸福感": 31,
-      "可解释AI": 30,
+      "可解释AI": 31,
       "劳动力市场": 28,
       "领导力": 27,
       "组织行为": 22,
@@ -609,10 +609,10 @@
       "风险管理": 11,
       "预测": 11,
       "文本分析": 11,
-      "心理健康": 10
+      "因果推断": 10
     },
     "ai_type_tags": {
-      "机器学习": 599,
+      "机器学习": 600,
       "LLM": 573,
       "算法决策": 411,
       "GenAI": 341,
@@ -638,9 +638,9 @@
       "聊天机器人": 14,
       "AI客服": 13,
       "AI 治理": 13,
+      "图神经网络": 13,
       "知识图谱": 12,
       "RAG": 12,
-      "图神经网络": 12,
       "大语言模型": 11
     }
   }
