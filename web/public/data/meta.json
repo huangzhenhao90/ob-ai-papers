@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-30T06:16:04.286120Z",
+  "generated_at": "2026-07-01T06:33:19.256487Z",
   "totals": {
-    "papers_indexed": 12007,
-    "papers_scored": 11958,
+    "papers_indexed": 12048,
+    "papers_scored": 11995,
     "papers_ai_relevant": 1658
   },
   "journals": [
@@ -18,7 +18,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.aom.org/loi/amj",
-      "papers_indexed": 371,
+      "papers_indexed": 375,
       "papers_ai_relevant": 12
     },
     {
@@ -63,7 +63,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://psycnet.apa.org/PsycARTICLES/journal/apl",
-      "papers_indexed": 519,
+      "papers_indexed": 520,
       "papers_ai_relevant": 23
     },
     {
@@ -78,7 +78,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/orsc",
-      "papers_indexed": 461,
+      "papers_indexed": 464,
       "papers_ai_relevant": 12
     },
     {
@@ -107,7 +107,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://www.sciencedirect.com/journal/organizational-behavior-and-human-decision-processes",
-      "papers_indexed": 188,
+      "papers_indexed": 189,
       "papers_ai_relevant": 2
     },
     {
@@ -121,7 +121,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/10991379",
-      "papers_indexed": 347,
+      "papers_indexed": 349,
       "papers_ai_relevant": 17
     },
     {
@@ -136,7 +136,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/jom",
-      "papers_indexed": 382,
+      "papers_indexed": 383,
       "papers_ai_relevant": 6
     },
     {
@@ -150,7 +150,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/10970266",
-      "papers_indexed": 405,
+      "papers_indexed": 408,
       "papers_ai_relevant": 23
     },
     {
@@ -164,7 +164,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/mnsc",
-      "papers_indexed": 1988,
+      "papers_indexed": 1990,
       "papers_ai_relevant": 170
     },
     {
@@ -194,7 +194,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/isre",
-      "papers_indexed": 513,
+      "papers_indexed": 514,
       "papers_ai_relevant": 104
     },
     {
@@ -253,7 +253,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/jmx",
-      "papers_indexed": 252,
+      "papers_indexed": 254,
       "papers_ai_relevant": 19
     },
     {
@@ -267,7 +267,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/mrj",
-      "papers_indexed": 244,
+      "papers_indexed": 247,
       "papers_ai_relevant": 20
     },
     {
@@ -281,7 +281,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/mksc",
-      "papers_indexed": 329,
+      "papers_indexed": 330,
       "papers_ai_relevant": 43
     },
     {
@@ -326,7 +326,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://www.sciencedirect.com/journal/the-leadership-quarterly",
-      "papers_indexed": 175,
+      "papers_indexed": 176,
       "papers_ai_relevant": 4
     },
     {
@@ -355,7 +355,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/14676486",
-      "papers_indexed": 533,
+      "papers_indexed": 536,
       "papers_ai_relevant": 28
     },
     {
@@ -384,7 +384,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/1099050X",
-      "papers_indexed": 274,
+      "papers_indexed": 275,
       "papers_ai_relevant": 26
     },
     {
@@ -483,7 +483,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://arxiv.org/",
-      "papers_indexed": 2858,
+      "papers_indexed": 2870,
       "papers_ai_relevant": 987
     }
   ],
