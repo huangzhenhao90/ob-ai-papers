@@ -6,9 +6,43 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 30 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>改进算法人类监督的简易方案：基于智能售货的证据</title>
+      <link>https://ob-ai-papers.vercel.app/papers/12058</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12058</guid>
+      <description>📝 改进算法人类监督的简易方案：基于智能售货的证据
+EN: A Simple Solution to Improving Human Supervision of Algorithms: Evidence from Smart Vending
+
+💡 组织部署自主AI系统时，完全授权人工override会因偏见和噪声降低性能，完全禁止则遗漏有价值信息。研究提出受限override策略，限制每次决策的override次数。在某大型智能售货机零售商（553名工人、5.9万台机器）开展随机实验，对比无/自由/受限override。结果显示：自由override降低库存1.95%但损失销售1.19%；受限override降低库存1.28%且不损害销售，工人优先选择高价值SKU进行override。个性化策略可进一步提升销售概率9.1%。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Minda Zhao, Brian Rongqing Han, Xin Chen, Tao Zhu
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2607.00420v1</description>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <category>算法管理</category><category>决策</category><category>人机协作</category><category>组织变革</category><category>算法决策</category><category>推荐算法</category><category>AI治理</category>
+    </item>    <item>
+      <title>PAPA：在线个性化主动偏好对齐</title>
+      <link>https://ob-ai-papers.vercel.app/papers/12057</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12057</guid>
+      <description>📝 PAPA：在线个性化主动偏好对齐
+EN: PAPA: Online Personalized Active Preference Alignment
+
+💡 扩散模型在个性化推荐等场景中需根据用户偏好进行调整，但获取大规模偏好数据成本高。PAPA提出无需参数化奖励模型的个性化偏好对齐方法，直接利用实时用户反馈优化扩散模型，借鉴变分推理框架提升反馈效率。实验表明该方法在类条件和对齐任务上有效。进一步提出增强版EPAPA，降低计算开销，加速微调过程，更适合实际部署。
+
+📚 arXiv:cs.LG · 2026 · 引用 0
+👤 Anindya Sarkar, Nasik Muhammad Nafi, Isaac Lyngaas, Muralikrishnan Gopalakrishnan Meena, Yevgeniy Vorobeychik
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2607.00486v1</description>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <category>推荐系统</category><category>个性化</category><category>用户偏好</category><category>人机协作</category><category>扩散模型</category><category>生成式AI</category><category>强化学习</category>
+    </item>    <item>
       <title>FinInvest-GTCN：可解释图-时序-因果建模用于风险感知投资决策优化</title>
       <link>https://ob-ai-papers.vercel.app/papers/12005</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12005</guid>
@@ -474,36 +508,6 @@ AI 分: 3.0 / 领域分: 4.0
 📄 PDF: https://doi.org/10.1111/joms.70104</description>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
       <category>领导力</category><category>战略</category><category>组织行为</category><category>性别差异</category><category>机器学习</category><category>算法决策</category>
-    </item>    <item>
-      <title>从不透明到透明：算法评估中的用户行为与下游效应</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11742</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11742</guid>
-      <description>📝 从不透明到透明：算法评估中的用户行为与下游效应
-EN: From Opacity to Transparency: User Behavior and Downstream Effects in Algorithmic Evaluation
-
-💡 研究探讨在招聘与绩效评估中引入AI评估的不透明性对用户压力与欺骗性印象管理的影响，验证透明度可缓解AI带来的负面影响并使行为接近人类评估，并分析对下游面试表现的差异。
-
-📚 ISR · 2026 · 引用 0
-👤 Akshat Lakhiwal, Che‐Wei Liu, Hillol Bala, Hung-Yue Suen
-
-AI 分: 5.0 / 领域分: 5.0</description>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-      <category>招聘</category><category>绩效评估</category><category>算法决策</category><category>伦理</category><category>算法决策</category><category>AI招聘</category><category>可解释AI</category>
-    </item>    <item>
-      <title>使用神经网络指导数据驱动的运营决策</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11735</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11735</guid>
-      <description>📝 使用神经网络指导数据驱动的运营决策
-EN: Using Neural Networks to Guide Data-Driven Operational Decisions
-
-💡 论文提出用深度神经网络进行数据驱动随机优化，通过历史数据预测目标函数并用解析梯度优化决策；在新闻vendor、个性化定价、排班等运营场景验证其优势，尤其在目标函数未知、数据量大、结构复杂时表现优于传统方法。
-
-📚 MgmtSci · 2026 · 引用 0
-👤 Saman Lagzi, Ningyuan Chen, Joseph Milner
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-      <category>决策</category><category>运营管理</category><category>机器学习</category><category>算法决策</category><category>机器学习</category><category>算法决策</category>
     </item>
   </channel>
 </rss>

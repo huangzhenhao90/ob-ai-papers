@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-01T06:33:19.256487Z",
+  "generated_at": "2026-07-02T06:12:58.373172Z",
   "totals": {
-    "papers_indexed": 12048,
-    "papers_scored": 11995,
-    "papers_ai_relevant": 1658
+    "papers_indexed": 12058,
+    "papers_scored": 12005,
+    "papers_ai_relevant": 1660
   },
   "journals": [
     {
@@ -63,7 +63,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://psycnet.apa.org/PsycARTICLES/journal/apl",
-      "papers_indexed": 520,
+      "papers_indexed": 521,
       "papers_ai_relevant": 23
     },
     {
@@ -136,7 +136,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/jom",
-      "papers_indexed": 383,
+      "papers_indexed": 386,
       "papers_ai_relevant": 6
     },
     {
@@ -194,7 +194,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/isre",
-      "papers_indexed": 514,
+      "papers_indexed": 515,
       "papers_ai_relevant": 104
     },
     {
@@ -281,7 +281,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/mksc",
-      "papers_indexed": 330,
+      "papers_indexed": 331,
       "papers_ai_relevant": 43
     },
     {
@@ -340,7 +340,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/hum",
-      "papers_indexed": 223,
+      "papers_indexed": 224,
       "papers_ai_relevant": 6
     },
     {
@@ -355,7 +355,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/14676486",
-      "papers_indexed": 536,
+      "papers_indexed": 537,
       "papers_ai_relevant": 28
     },
     {
@@ -483,8 +483,8 @@
       ],
       "lang": "en",
       "publisher_toc": "https://arxiv.org/",
-      "papers_indexed": 2870,
-      "papers_ai_relevant": 987
+      "papers_indexed": 2872,
+      "papers_ai_relevant": 989
     }
   ],
   "facets": {
@@ -498,16 +498,16 @@
       "2023": 260,
       "2024": 354,
       "2025": 629,
-      "2026": 407
+      "2026": 409
     },
     "journals": {
-      "arXiv:cs.HC": 209,
+      "arXiv:cs.HC": 210,
       "arXiv:cs.CY": 201,
       "arXiv:cs.AI": 192,
       "MgmtSci": 170,
       "arXiv:cs.CL": 123,
       "ISR": 104,
-      "arXiv:cs.LG": 82,
+      "arXiv:cs.LG": 83,
       "arXiv:cs.IR": 62,
       "MISQ": 52,
       "MktSci": 43,
@@ -560,14 +560,14 @@
       "arXiv:math.OC": 1
     },
     "topic_tags": {
-      "人机协作": 485,
-      "算法管理": 303,
-      "决策": 268,
+      "人机协作": 487,
+      "算法管理": 304,
+      "决策": 269,
       "伦理": 266,
       "消费者行为": 238,
       "公平性": 196,
-      "组织变革": 183,
-      "推荐系统": 172,
+      "组织变革": 184,
+      "推荐系统": 173,
       "算法决策": 163,
       "创新": 156,
       "AI治理": 142,
@@ -608,17 +608,17 @@
       "社交媒体": 11,
       "风险管理": 11,
       "预测": 11,
-      "文本分析": 11,
-      "因果推断": 10
+      "个性化": 11,
+      "文本分析": 11
     },
     "ai_type_tags": {
       "机器学习": 600,
       "LLM": 573,
-      "算法决策": 411,
+      "算法决策": 412,
       "GenAI": 341,
-      "AI治理": 210,
+      "AI治理": 211,
       "人机交互": 181,
-      "推荐算法": 176,
+      "推荐算法": 177,
       "人机协作": 168,
       "算法管理": 148,
       "多模态": 108,
@@ -629,10 +629,10 @@
       "机器人": 46,
       "AI": 38,
       "图像生成": 38,
-      "生成式AI": 36,
+      "生成式AI": 37,
       "自然语言处理": 36,
       "AI招聘": 34,
-      "强化学习": 30,
+      "强化学习": 31,
       "AI决策": 17,
       "多智能体": 17,
       "聊天机器人": 14,
