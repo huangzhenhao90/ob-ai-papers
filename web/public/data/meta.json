@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-02T06:12:58.373172Z",
+  "generated_at": "2026-07-03T05:58:56.178733Z",
   "totals": {
-    "papers_indexed": 12058,
-    "papers_scored": 12005,
-    "papers_ai_relevant": 1660
+    "papers_indexed": 12070,
+    "papers_scored": 12017,
+    "papers_ai_relevant": 1662
   },
   "journals": [
     {
@@ -121,7 +121,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/10991379",
-      "papers_indexed": 349,
+      "papers_indexed": 350,
       "papers_ai_relevant": 17
     },
     {
@@ -136,7 +136,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/jom",
-      "papers_indexed": 386,
+      "papers_indexed": 387,
       "papers_ai_relevant": 6
     },
     {
@@ -164,8 +164,8 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/mnsc",
-      "papers_indexed": 1990,
-      "papers_ai_relevant": 170
+      "papers_indexed": 1992,
+      "papers_ai_relevant": 171
     },
     {
       "abbr": "MISQ",
@@ -239,7 +239,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://academic.oup.com/jcr",
-      "papers_indexed": 267,
+      "papers_indexed": 268,
       "papers_ai_relevant": 16
     },
     {
@@ -281,7 +281,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/mksc",
-      "papers_indexed": 331,
+      "papers_indexed": 332,
       "papers_ai_relevant": 43
     },
     {
@@ -297,7 +297,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/15327663",
-      "papers_indexed": 176,
+      "papers_indexed": 177,
       "papers_ai_relevant": 15
     },
     {
@@ -311,8 +311,8 @@
       ],
       "lang": "en",
       "publisher_toc": "https://link.springer.com/journal/11747",
-      "papers_indexed": 271,
-      "papers_ai_relevant": 16
+      "papers_indexed": 272,
+      "papers_ai_relevant": 17
     },
     {
       "abbr": "LQ",
@@ -355,7 +355,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/14676486",
-      "papers_indexed": 537,
+      "papers_indexed": 538,
       "papers_ai_relevant": 28
     },
     {
@@ -384,7 +384,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/1099050X",
-      "papers_indexed": 275,
+      "papers_indexed": 277,
       "papers_ai_relevant": 26
     },
     {
@@ -483,7 +483,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://arxiv.org/",
-      "papers_indexed": 2872,
+      "papers_indexed": 2873,
       "papers_ai_relevant": 989
     }
   ],
@@ -494,17 +494,17 @@
       "2018": 1,
       "2019": 1,
       "2021": 2,
-      "2022": 2,
+      "2022": 3,
       "2023": 260,
       "2024": 354,
       "2025": 629,
-      "2026": 409
+      "2026": 410
     },
     "journals": {
       "arXiv:cs.HC": 210,
       "arXiv:cs.CY": 201,
       "arXiv:cs.AI": 192,
-      "MgmtSci": 170,
+      "MgmtSci": 171,
       "arXiv:cs.CL": 123,
       "ISR": 104,
       "arXiv:cs.LG": 83,
@@ -519,8 +519,8 @@
       "AMR": 22,
       "JMR": 20,
       "JM": 19,
+      "JAMS": 17,
       "JOB": 17,
-      "JAMS": 16,
       "JCR": 16,
       "JCP": 15,
       "arXiv:cs.SE": 14,
@@ -561,15 +561,15 @@
     },
     "topic_tags": {
       "人机协作": 487,
-      "算法管理": 304,
+      "算法管理": 305,
       "决策": 269,
       "伦理": 266,
-      "消费者行为": 238,
+      "消费者行为": 239,
       "公平性": 196,
       "组织变革": 184,
-      "推荐系统": 173,
+      "推荐系统": 174,
       "算法决策": 163,
-      "创新": 156,
+      "创新": 157,
       "AI治理": 142,
       "招聘": 142,
       "信任": 136,
@@ -577,17 +577,17 @@
       "偏见": 132,
       "组织学习": 115,
       "人机交互": 115,
-      "营销": 112,
+      "营销": 113,
       "工作未来": 106,
       "工作设计": 93,
       "知识管理": 87,
       "机器学习": 86,
       "绩效评估": 77,
       "HR": 68,
-      "战略": 61,
+      "战略": 62,
       "培训": 53,
       "创意": 52,
-      "隐私": 50,
+      "隐私": 51,
       "团队": 46,
       "创业": 42,
       "零工经济": 37,
@@ -612,15 +612,15 @@
       "文本分析": 11
     },
     "ai_type_tags": {
-      "机器学习": 600,
+      "机器学习": 602,
       "LLM": 573,
-      "算法决策": 412,
+      "算法决策": 414,
       "GenAI": 341,
       "AI治理": 211,
       "人机交互": 181,
-      "推荐算法": 177,
+      "推荐算法": 178,
       "人机协作": 168,
-      "算法管理": 148,
+      "算法管理": 149,
       "多模态": 108,
       "可解释AI": 97,
       "ChatGPT": 85,
