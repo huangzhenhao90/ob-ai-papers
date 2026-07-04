@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-03T05:58:56.178733Z",
+  "generated_at": "2026-07-04T05:51:04.022507Z",
   "totals": {
-    "papers_indexed": 12070,
-    "papers_scored": 12017,
-    "papers_ai_relevant": 1662
+    "papers_indexed": 12075,
+    "papers_scored": 12022,
+    "papers_ai_relevant": 1663
   },
   "journals": [
     {
@@ -121,7 +121,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/10991379",
-      "papers_indexed": 350,
+      "papers_indexed": 351,
       "papers_ai_relevant": 17
     },
     {
@@ -136,7 +136,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/jom",
-      "papers_indexed": 387,
+      "papers_indexed": 388,
       "papers_ai_relevant": 6
     },
     {
@@ -239,7 +239,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://academic.oup.com/jcr",
-      "papers_indexed": 268,
+      "papers_indexed": 269,
       "papers_ai_relevant": 16
     },
     {
@@ -281,8 +281,8 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/mksc",
-      "papers_indexed": 332,
-      "papers_ai_relevant": 43
+      "papers_indexed": 333,
+      "papers_ai_relevant": 44
     },
     {
       "abbr": "JCP",
@@ -384,7 +384,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/1099050X",
-      "papers_indexed": 277,
+      "papers_indexed": 278,
       "papers_ai_relevant": 26
     },
     {
@@ -498,7 +498,7 @@
       "2023": 260,
       "2024": 354,
       "2025": 629,
-      "2026": 410
+      "2026": 411
     },
     "journals": {
       "arXiv:cs.HC": 210,
@@ -510,7 +510,7 @@
       "arXiv:cs.LG": 83,
       "arXiv:cs.IR": 62,
       "MISQ": 52,
-      "MktSci": 43,
+      "MktSci": 44,
       "arXiv:econ.GN": 43,
       "JMS": 28,
       "HRM": 26,
@@ -560,11 +560,11 @@
       "arXiv:math.OC": 1
     },
     "topic_tags": {
-      "人机协作": 487,
+      "人机协作": 488,
       "算法管理": 305,
       "决策": 269,
       "伦理": 266,
-      "消费者行为": 239,
+      "消费者行为": 240,
       "公平性": 196,
       "组织变革": 184,
       "推荐系统": 174,
@@ -617,7 +617,7 @@
       "算法决策": 414,
       "GenAI": 341,
       "AI治理": 211,
-      "人机交互": 181,
+      "人机交互": 182,
       "推荐算法": 178,
       "人机协作": 168,
       "算法管理": 149,

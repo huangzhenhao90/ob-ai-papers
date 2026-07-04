@@ -6,9 +6,24 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 03 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>人类教练是否比单独使用AI教练带来更显著的减重效果？</title>
+      <link>https://ob-ai-papers.vercel.app/papers/12074</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12074</guid>
+      <description>📝 人类教练是否比单独使用AI教练带来更显著的减重效果？
+EN: Does Access to Human Coaches Lead to More Weight Loss Than With AI Coaches Alone?
+
+💡 研究比较人类教练与AI教练对减肥效果的影响。实验发现，获得人类教练指导的被试比仅使用AI教练的被试减重更多，且前者设定更高的减重目标，更频繁地追踪体重和食物摄入。研究表明在健康行为改变领域，人类教练的介入能更有效激励消费者。
+
+📚 MktSci · 2026 · 引用 0
+👤 Anuj Kapoor, Sridhar Narayanan, Puneet Manchanda
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
+      <category>消费者行为</category><category>人机协作</category><category>健康行为</category><category>AI教练</category><category>人机交互</category>
+    </item>    <item>
       <title>数据市场中数字平台的作用：高级分析如何通过平台共享的市场数据赋能企业创新</title>
       <link>https://ob-ai-papers.vercel.app/papers/12068</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12068</guid>
@@ -487,23 +502,6 @@ AI 分: 5.0 / 领域分: 4.0
 📄 PDF: https://arxiv.org/pdf/2606.15601v1</description>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
       <category>教育</category><category>决策</category><category>工作未来</category><category>人机协作</category><category>GenAI</category>
-    </item>    <item>
-      <title>PaperMentor：面向Overleaf平台AI研究论文的以人为本多智能体写作辅导系统</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11766</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11766</guid>
-      <description>📝 PaperMentor：面向Overleaf平台AI研究论文的以人为本多智能体写作辅导系统
-EN: PaperMentor: A Human-Centered Multi-Agent Writing Tutor for AI Research Papers on Overleaf
-
-💡 PaperMentor是一个以人为中心的AI写作辅导系统，在Overleaf中以内联注释形式提供可操作的论文修改建议，全程由人类作者掌控写作。系统整合了来自资深研究者写作经验的专家技能库，包含12个专门代理覆盖格式合规、措辞准确性、术语一致性等论文写作各环节。用户研究（n=14）显示，90.6%的生成评论被评为可操作，67.5%被评为有效，显著优于不带技能库的GPT-5.2基线。
-
-📚 arXiv:cs.CL · 2026 · 引用 0
-👤 Jiarui Liu, Terry Jingchen Zhang, Ryan Faulkner, X. Angelo Huang, Vilém Zouhar
-
-AI 分: 4.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2606.08857v1</description>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-      <category>教育</category><category>人机协作</category><category>AI辅助</category><category>LLM</category><category>GenAI</category><category>多智能体</category>
     </item>
   </channel>
 </rss>
