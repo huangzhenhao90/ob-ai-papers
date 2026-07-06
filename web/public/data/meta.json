@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-05T06:05:34.813590Z",
+  "generated_at": "2026-07-06T06:33:17.053427Z",
   "totals": {
-    "papers_indexed": 12084,
-    "papers_scored": 12031,
+    "papers_indexed": 12091,
+    "papers_scored": 12038,
     "papers_ai_relevant": 1663
   },
   "journals": [
@@ -48,7 +48,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/asq",
-      "papers_indexed": 219,
+      "papers_indexed": 220,
       "papers_ai_relevant": 8
     },
     {
@@ -136,7 +136,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/jom",
-      "papers_indexed": 389,
+      "papers_indexed": 391,
       "papers_ai_relevant": 6
     },
     {
@@ -164,7 +164,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/mnsc",
-      "papers_indexed": 1992,
+      "papers_indexed": 1993,
       "papers_ai_relevant": 171
     },
     {
@@ -239,7 +239,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://academic.oup.com/jcr",
-      "papers_indexed": 269,
+      "papers_indexed": 270,
       "papers_ai_relevant": 16
     },
     {
@@ -297,7 +297,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/15327663",
-      "papers_indexed": 178,
+      "papers_indexed": 179,
       "papers_ai_relevant": 15
     },
     {
@@ -340,7 +340,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/hum",
-      "papers_indexed": 224,
+      "papers_indexed": 225,
       "papers_ai_relevant": 6
     },
     {
