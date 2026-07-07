@@ -6,9 +6,71 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 04 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>Agentic AI的组织行为：人-Agent工作流程中的集体智能</title>
+      <link>https://ob-ai-papers.vercel.app/papers/12130</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12130</guid>
+      <description>📝 Agentic AI的组织行为：人-Agent工作流程中的集体智能
+EN: The Organizational Behavior of Agentic AI: Collective Intelligence in Human-Agent Workflows
+
+📚 arXiv:cs.CY · 2026 · 引用 0
+👤 Canhui Liu
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2606.30986v1</description>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>管理人力后备机制：AI能力提升与劳动力流动性背景下的技能投资</title>
+      <link>https://ob-ai-papers.vercel.app/papers/12129</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12129</guid>
+      <description>📝 管理人力后备机制：AI能力提升与劳动力流动性背景下的技能投资
+EN: Managing the Human Fallback: Skill Investment Under Improving AI and Worker Mobility
+
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 Simrita Singh, Naireet Ghosh, Tinglong Dai
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2606.29111v1</description>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>AI的经济效益与成本及减轻AI对不平等影响的相关政策</title>
+      <link>https://ob-ai-papers.vercel.app/papers/12127</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12127</guid>
+      <description>📝 AI的经济效益与成本及减轻AI对不平等影响的相关政策
+EN: The Economic Benefits and Costs of AI and Policies to Mitigate AI's Impact on Inequality
+
+💡 AI生产力提升对不同类型劳动者的工资影响差异显著：AI构建型劳动者工资增速超GDP增速；被AI替代型劳动者工资绝对和相对水平均下降；仅从事最终产品生产且未被替代的劳动者工资与GDP同步增长。AI生产若为垄断结构，会限制其部署并减缓AI影响扩散。竞争性与垄断性AI生产格局下，最优税收与监管政策不同，可实现帕累托改进。
+
+📚 arXiv:econ.GN · 2026 · 引用 0
+👤 Matthew O. Jackson, Zafer Kanik
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2607.01101v1</description>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+      <category>组织变革</category><category>公平性</category><category>政策</category><category>战略</category><category>GenAI</category><category>算法管理</category>
+    </item>    <item>
+      <title>网络长城的阴影：Google封锁对中国创新的影响</title>
+      <link>https://ob-ai-papers.vercel.app/papers/12104</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12104</guid>
+      <description>📝 网络长城的阴影：Google封锁对中国创新的影响
+EN: Shadow of the great firewall: The impact of Google blockade on innovation in China
+
+💡 研究利用中国2014年意外屏蔽谷歌的外生冲击，采用专利匹配双重差分模型，发现屏蔽后发明者搜索远距离技术和认知空间的能力显著下降，且对合作网络较小的发明者影响更大，在接近科学的技术领域尤为明显。
+
+📚 SMJ · 2020 · 引用 47
+👤 Yanfeng Zheng, Qinyu (Ryan) Wang
+
+AI 分: 3.0 / 领域分: 5.0</description>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+      <category>创新</category><category>知识管理</category><category>组织学习</category><category>算法管理</category>
+    </item>    <item>
       <title>人类教练是否比单独使用AI教练带来更显著的减重效果？</title>
       <link>https://ob-ai-papers.vercel.app/papers/12074</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12074</guid>
@@ -434,74 +496,6 @@ AI 分: 4.0 / 领域分: 4.0
 📄 PDF: https://arxiv.org/pdf/2606.18289v1</description>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
       <category>伦理</category><category>公平性</category><category>偏见</category><category>组织变革</category><category>机器学习</category><category>算法决策</category><category>AI治理</category>
-    </item>    <item>
-      <title>战略性特征选择</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11780</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11780</guid>
-      <description>📝 战略性特征选择
-EN: Strategic Feature Selection
-
-💡 研究算法预测系统在医疗等高风险领域面临战略特征操纵时的特征选择问题。决策者常只能调整预测管道中的粗粒度杠杆（如根据可操纵性排除特征）。形式化分析表明，仅依据可操纵性排除特征通常非最优。研究给出了特征子集在最优正则化下的性能精细刻画，提出联合选择特征集与岭正则化参数的算法。通过医疗支付基准数据集验证了框架有效性，为缓解算法决策系统中的战略行为提供了实用框架。
-
-📚 arXiv:cs.LG · 2026 · 引用 0
-👤 Jivat Neet Kaur, Pratik Patil, Divya Shanmugam, Emma Pierson, Michael I. Jordan
-
-AI 分: 4.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2606.18867v1</description>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-      <category>决策</category><category>医疗</category><category>算法管理</category><category>公平性</category><category>LLM</category><category>机器学习</category><category>算法决策</category><category>推荐算法</category>
-    </item>    <item>
-      <title>稳定几何、极性反转：AI职业可替代性的双极结构及其十年尺度逆转</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11779</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11779</guid>
-      <description>📝 稳定几何、极性反转：AI职业可替代性的双极结构及其十年尺度逆转
-EN: Stable Geometry, Reversing Poles: The Bipolar Structure of AI Occupational Substitutability and Its Decade-Scale Inversion
-
-💡 挑战职业AI暴露度连续梯度假设。将1,961项O*NET详细工作活动分解为15,817个微观行为，构建多智能体LLM管道并映射至7个宏观语义类型。发现职业AI可替代性呈双极结构：工具介导体力工作（M2，均值0.054）与规划设计（M7，均值0.499）极距Cohen's d=2.41，中部六类构成低对比度带。更重要的是，十年来极性已发生反转——Frey-Osborne（2013）认为高风险的体力工作现已成为最低风险类别。
-
-📚 arXiv:cs.CY · 2026 · 引用 0
-👤 Shuyao Gao, Minghao Huang
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2606.07939v1</description>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-      <category>劳动力市场</category><category>算法管理</category><category>算法决策</category><category>职业发展</category><category>LLM</category><category>机器学习</category><category>算法决策</category>
-    </item>    <item>
-      <title>当脚手架仍在时：精英技能形成中的AI、实践风格与筛选机制</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11778</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11778</guid>
-      <description>📝 当脚手架仍在时：精英技能形成中的AI、实践风格与筛选机制
-EN: When the Scaffold Stays On: AI, Practice Style, and Screening in Elite Skill Formation
-
-💡 研究AI辅助编程实践对精英技能形成的影响。分析Codeforces数据发现，AI时代参赛者实践方式向AI风格转变——更多首轮通过、更少尝试次数。在无筛选的开放赛事中，AI风格实践与较小评分增益相关；但在禁止AI的ICPC环境中，AI风格实践预测更高的非AI得分。同一实践输入在不同筛选环境下产生相反效果，表明制度筛选机制可区分替代型与互补型AI使用者。
-
-📚 arXiv:econ.EM · 2026 · 引用 0
-👤 Song Yao
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2606.06253v1</description>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-      <category>技能形成</category><category>算法管理</category><category>人机协作</category><category>教育</category><category>GenAI</category><category>机器学习</category>
-    </item>    <item>
-      <title>SCAN：基于生成式AI实现有效任务分配的决策框架</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11772</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11772</guid>
-      <description>📝 SCAN：基于生成式AI实现有效任务分配的决策框架
-EN: SCAN: A Decision-Making Framework for Effective Task Allocation with Generative AI
-
-💡 SCAN是基于维果茨基最近发展区和元认知的人类中心化决策框架，旨在帮助学习者有效分配任务给生成式AI。框架提出四个子区域（替代、补充、辅助、不可替代）来系统化AI-人类互动，并展示了在职场和教育场景中的应用。框架关联了认知负荷理论、认知卸载、谄媚效应、三种人机交互决策模式（自动化、增强、协作）及工作未来（技能提升与技能削弱）等议题，目标是实现终身学习和混合智能。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Fendi Tsim, Alina Gutoreva
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2606.15601v1</description>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-      <category>教育</category><category>决策</category><category>工作未来</category><category>人机协作</category><category>GenAI</category>
     </item>
   </channel>
 </rss>

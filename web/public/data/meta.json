@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-06T06:33:17.053427Z",
+  "generated_at": "2026-07-07T06:13:16.900199Z",
   "totals": {
-    "papers_indexed": 12091,
-    "papers_scored": 12038,
-    "papers_ai_relevant": 1663
+    "papers_indexed": 12133,
+    "papers_scored": 12080,
+    "papers_ai_relevant": 1667
   },
   "journals": [
     {
@@ -18,7 +18,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.aom.org/loi/amj",
-      "papers_indexed": 376,
+      "papers_indexed": 377,
       "papers_ai_relevant": 12
     },
     {
@@ -33,7 +33,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.aom.org/loi/amr",
-      "papers_indexed": 271,
+      "papers_indexed": 281,
       "papers_ai_relevant": 22
     },
     {
@@ -107,7 +107,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://www.sciencedirect.com/journal/organizational-behavior-and-human-decision-processes",
-      "papers_indexed": 189,
+      "papers_indexed": 190,
       "papers_ai_relevant": 2
     },
     {
@@ -150,8 +150,8 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/10970266",
-      "papers_indexed": 409,
-      "papers_ai_relevant": 23
+      "papers_indexed": 417,
+      "papers_ai_relevant": 24
     },
     {
       "abbr": "MgmtSci",
@@ -164,7 +164,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/mnsc",
-      "papers_indexed": 1993,
+      "papers_indexed": 2000,
       "papers_ai_relevant": 171
     },
     {
@@ -239,7 +239,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://academic.oup.com/jcr",
-      "papers_indexed": 270,
+      "papers_indexed": 271,
       "papers_ai_relevant": 16
     },
     {
@@ -311,7 +311,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://link.springer.com/journal/11747",
-      "papers_indexed": 272,
+      "papers_indexed": 273,
       "papers_ai_relevant": 17
     },
     {
@@ -483,8 +483,8 @@
       ],
       "lang": "en",
       "publisher_toc": "https://arxiv.org/",
-      "papers_indexed": 2873,
-      "papers_ai_relevant": 989
+      "papers_indexed": 2886,
+      "papers_ai_relevant": 992
     }
   ],
   "facets": {
@@ -493,17 +493,18 @@
       "2011": 1,
       "2018": 1,
       "2019": 1,
+      "2020": 1,
       "2021": 2,
       "2022": 3,
       "2023": 260,
       "2024": 354,
       "2025": 629,
-      "2026": 411
+      "2026": 414
     },
     "journals": {
       "arXiv:cs.HC": 210,
-      "arXiv:cs.CY": 201,
-      "arXiv:cs.AI": 192,
+      "arXiv:cs.CY": 202,
+      "arXiv:cs.AI": 193,
       "MgmtSci": 171,
       "arXiv:cs.CL": 123,
       "ISR": 104,
@@ -511,11 +512,11 @@
       "arXiv:cs.IR": 62,
       "MISQ": 52,
       "MktSci": 44,
-      "arXiv:econ.GN": 43,
+      "arXiv:econ.GN": 44,
       "JMS": 28,
       "HRM": 26,
+      "SMJ": 24,
       "JAP": 23,
-      "SMJ": 23,
       "AMR": 22,
       "JMR": 20,
       "JM": 19,
@@ -565,26 +566,26 @@
       "决策": 269,
       "伦理": 266,
       "消费者行为": 240,
-      "公平性": 196,
-      "组织变革": 184,
+      "公平性": 197,
+      "组织变革": 185,
       "推荐系统": 174,
       "算法决策": 163,
-      "创新": 157,
+      "创新": 158,
       "AI治理": 142,
       "招聘": 142,
       "信任": 136,
       "教育": 134,
       "偏见": 132,
-      "组织学习": 115,
+      "组织学习": 116,
       "人机交互": 115,
       "营销": 113,
       "工作未来": 106,
       "工作设计": 93,
-      "知识管理": 87,
+      "知识管理": 88,
       "机器学习": 86,
       "绩效评估": 77,
       "HR": 68,
-      "战略": 62,
+      "战略": 63,
       "培训": 53,
       "创意": 52,
       "隐私": 51,
@@ -615,12 +616,12 @@
       "机器学习": 602,
       "LLM": 573,
       "算法决策": 414,
-      "GenAI": 341,
+      "GenAI": 342,
       "AI治理": 211,
       "人机交互": 182,
       "推荐算法": 178,
       "人机协作": 168,
-      "算法管理": 149,
+      "算法管理": 151,
       "多模态": 108,
       "可解释AI": 97,
       "ChatGPT": 85,
