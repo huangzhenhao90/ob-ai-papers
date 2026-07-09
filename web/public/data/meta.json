@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T05:24:38.072250Z",
+  "generated_at": "2026-07-09T06:04:46.045423Z",
   "totals": {
-    "papers_indexed": 12146,
+    "papers_indexed": 12167,
     "papers_scored": 12080,
     "papers_ai_relevant": 1667
   },
@@ -18,7 +18,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.aom.org/loi/amj",
-      "papers_indexed": 377,
+      "papers_indexed": 381,
       "papers_ai_relevant": 12
     },
     {
@@ -33,7 +33,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.aom.org/loi/amr",
-      "papers_indexed": 281,
+      "papers_indexed": 283,
       "papers_ai_relevant": 22
     },
     {
@@ -78,7 +78,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/orsc",
-      "papers_indexed": 465,
+      "papers_indexed": 468,
       "papers_ai_relevant": 12
     },
     {
@@ -136,7 +136,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/jom",
-      "papers_indexed": 391,
+      "papers_indexed": 392,
       "papers_ai_relevant": 6
     },
     {
@@ -164,7 +164,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/mnsc",
-      "papers_indexed": 2002,
+      "papers_indexed": 2003,
       "papers_ai_relevant": 171
     },
     {
@@ -239,7 +239,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://academic.oup.com/jcr",
-      "papers_indexed": 274,
+      "papers_indexed": 275,
       "papers_ai_relevant": 16
     },
     {
@@ -253,7 +253,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/jmx",
-      "papers_indexed": 254,
+      "papers_indexed": 255,
       "papers_ai_relevant": 19
     },
     {
@@ -267,7 +267,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/mrj",
-      "papers_indexed": 248,
+      "papers_indexed": 250,
       "papers_ai_relevant": 20
     },
     {
@@ -281,7 +281,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/mksc",
-      "papers_indexed": 333,
+      "papers_indexed": 335,
       "papers_ai_relevant": 44
     },
     {
@@ -311,7 +311,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://link.springer.com/journal/11747",
-      "papers_indexed": 274,
+      "papers_indexed": 276,
       "papers_ai_relevant": 17
     },
     {
@@ -340,7 +340,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/hum",
-      "papers_indexed": 226,
+      "papers_indexed": 227,
       "papers_ai_relevant": 6
     },
     {
@@ -355,7 +355,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/14676486",
-      "papers_indexed": 539,
+      "papers_indexed": 540,
       "papers_ai_relevant": 28
     },
     {
