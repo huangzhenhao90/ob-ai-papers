@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-09T06:04:46.045423Z",
+  "generated_at": "2026-07-10T06:03:30.128541Z",
   "totals": {
-    "papers_indexed": 12167,
+    "papers_indexed": 12179,
     "papers_scored": 12080,
     "papers_ai_relevant": 1667
   },
@@ -18,7 +18,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.aom.org/loi/amj",
-      "papers_indexed": 381,
+      "papers_indexed": 382,
       "papers_ai_relevant": 12
     },
     {
@@ -33,7 +33,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.aom.org/loi/amr",
-      "papers_indexed": 283,
+      "papers_indexed": 284,
       "papers_ai_relevant": 22
     },
     {
@@ -63,7 +63,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://psycnet.apa.org/PsycARTICLES/journal/apl",
-      "papers_indexed": 523,
+      "papers_indexed": 528,
       "papers_ai_relevant": 23
     },
     {
@@ -136,7 +136,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/jom",
-      "papers_indexed": 392,
+      "papers_indexed": 393,
       "papers_ai_relevant": 6
     },
     {
@@ -164,7 +164,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/mnsc",
-      "papers_indexed": 2003,
+      "papers_indexed": 2006,
       "papers_ai_relevant": 171
     },
     {
@@ -355,7 +355,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/14676486",
-      "papers_indexed": 540,
+      "papers_indexed": 541,
       "papers_ai_relevant": 28
     },
     {
