@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-11T05:04:13.197465Z",
+  "generated_at": "2026-07-12T05:27:23.203497Z",
   "totals": {
-    "papers_indexed": 12192,
+    "papers_indexed": 12199,
     "papers_scored": 12080,
     "papers_ai_relevant": 1667
   },
@@ -48,7 +48,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/asq",
-      "papers_indexed": 221,
+      "papers_indexed": 222,
       "papers_ai_relevant": 8
     },
     {
@@ -63,7 +63,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://psycnet.apa.org/PsycARTICLES/journal/apl",
-      "papers_indexed": 530,
+      "papers_indexed": 532,
       "papers_ai_relevant": 23
     },
     {
@@ -164,7 +164,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/mnsc",
-      "papers_indexed": 2007,
+      "papers_indexed": 2009,
       "papers_ai_relevant": 171
     },
     {
@@ -281,7 +281,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/mksc",
-      "papers_indexed": 335,
+      "papers_indexed": 337,
       "papers_ai_relevant": 44
     },
     {
