@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-12T05:27:23.203497Z",
+  "generated_at": "2026-07-13T05:36:34.700714Z",
   "totals": {
-    "papers_indexed": 12199,
+    "papers_indexed": 12205,
     "papers_scored": 12080,
     "papers_ai_relevant": 1667
   },
@@ -18,7 +18,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.aom.org/loi/amj",
-      "papers_indexed": 382,
+      "papers_indexed": 383,
       "papers_ai_relevant": 12
     },
     {
@@ -48,7 +48,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/asq",
-      "papers_indexed": 222,
+      "papers_indexed": 223,
       "papers_ai_relevant": 8
     },
     {
@@ -179,7 +179,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://misq.umn.edu/",
-      "papers_indexed": 280,
+      "papers_indexed": 281,
       "papers_ai_relevant": 52
     },
     {
@@ -239,7 +239,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://academic.oup.com/jcr",
-      "papers_indexed": 275,
+      "papers_indexed": 278,
       "papers_ai_relevant": 16
     },
     {
