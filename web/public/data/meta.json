@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-13T05:36:34.700714Z",
+  "generated_at": "2026-07-14T04:51:51.796670Z",
   "totals": {
-    "papers_indexed": 12205,
+    "papers_indexed": 12218,
     "papers_scored": 12080,
     "papers_ai_relevant": 1667
   },
@@ -33,7 +33,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.aom.org/loi/amr",
-      "papers_indexed": 284,
+      "papers_indexed": 285,
       "papers_ai_relevant": 22
     },
     {
@@ -63,7 +63,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://psycnet.apa.org/PsycARTICLES/journal/apl",
-      "papers_indexed": 532,
+      "papers_indexed": 533,
       "papers_ai_relevant": 23
     },
     {
@@ -93,7 +93,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/17446570",
-      "papers_indexed": 185,
+      "papers_indexed": 186,
       "papers_ai_relevant": 11
     },
     {
@@ -121,7 +121,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/10991379",
-      "papers_indexed": 353,
+      "papers_indexed": 354,
       "papers_ai_relevant": 17
     },
     {
@@ -136,7 +136,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/jom",
-      "papers_indexed": 393,
+      "papers_indexed": 395,
       "papers_ai_relevant": 6
     },
     {
@@ -150,7 +150,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/10970266",
-      "papers_indexed": 417,
+      "papers_indexed": 418,
       "papers_ai_relevant": 24
     },
     {
@@ -179,7 +179,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://misq.umn.edu/",
-      "papers_indexed": 281,
+      "papers_indexed": 282,
       "papers_ai_relevant": 52
     },
     {
@@ -253,7 +253,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/jmx",
-      "papers_indexed": 255,
+      "papers_indexed": 257,
       "papers_ai_relevant": 19
     },
     {
@@ -355,7 +355,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/14676486",
-      "papers_indexed": 541,
+      "papers_indexed": 542,
       "papers_ai_relevant": 28
     },
     {
@@ -384,7 +384,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/1099050X",
-      "papers_indexed": 279,
+      "papers_indexed": 280,
       "papers_ai_relevant": 26
     },
     {
@@ -483,7 +483,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://arxiv.org/",
-      "papers_indexed": 2886,
+      "papers_indexed": 2887,
       "papers_ai_relevant": 992
     }
   ],
