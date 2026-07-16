@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-15T04:52:11.704652Z",
+  "generated_at": "2026-07-16T05:00:54.709190Z",
   "totals": {
-    "papers_indexed": 12230,
+    "papers_indexed": 12262,
     "papers_scored": 12080,
     "papers_ai_relevant": 1667
   },
@@ -121,7 +121,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/10991379",
-      "papers_indexed": 355,
+      "papers_indexed": 356,
       "papers_ai_relevant": 17
     },
     {
@@ -164,7 +164,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/mnsc",
-      "papers_indexed": 2012,
+      "papers_indexed": 2015,
       "papers_ai_relevant": 171
     },
     {
@@ -194,7 +194,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/isre",
-      "papers_indexed": 518,
+      "papers_indexed": 519,
       "papers_ai_relevant": 104
     },
     {
@@ -224,7 +224,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.aom.org/loi/amd",
-      "papers_indexed": 143,
+      "papers_indexed": 144,
       "papers_ai_relevant": 12
     },
     {
@@ -239,7 +239,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://academic.oup.com/jcr",
-      "papers_indexed": 278,
+      "papers_indexed": 279,
       "papers_ai_relevant": 16
     },
     {
@@ -355,7 +355,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/14676486",
-      "papers_indexed": 542,
+      "papers_indexed": 545,
       "papers_ai_relevant": 28
     },
     {
@@ -483,7 +483,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://arxiv.org/",
-      "papers_indexed": 2888,
+      "papers_indexed": 2910,
       "papers_ai_relevant": 992
     }
   ],
