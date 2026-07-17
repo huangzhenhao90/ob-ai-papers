@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-16T05:00:54.709190Z",
+  "generated_at": "2026-07-17T05:20:45.666492Z",
   "totals": {
-    "papers_indexed": 12262,
+    "papers_indexed": 12269,
     "papers_scored": 12080,
     "papers_ai_relevant": 1667
   },
@@ -78,7 +78,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/orsc",
-      "papers_indexed": 469,
+      "papers_indexed": 470,
       "papers_ai_relevant": 12
     },
     {
@@ -150,7 +150,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/10970266",
-      "papers_indexed": 418,
+      "papers_indexed": 419,
       "papers_ai_relevant": 24
     },
     {
@@ -164,7 +164,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/mnsc",
-      "papers_indexed": 2015,
+      "papers_indexed": 2016,
       "papers_ai_relevant": 171
     },
     {
@@ -194,7 +194,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/isre",
-      "papers_indexed": 519,
+      "papers_indexed": 520,
       "papers_ai_relevant": 104
     },
     {
@@ -267,7 +267,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/mrj",
-      "papers_indexed": 250,
+      "papers_indexed": 251,
       "papers_ai_relevant": 20
     },
     {
@@ -311,7 +311,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://link.springer.com/journal/11747",
-      "papers_indexed": 281,
+      "papers_indexed": 282,
       "papers_ai_relevant": 17
     },
     {
@@ -355,7 +355,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/14676486",
-      "papers_indexed": 545,
+      "papers_indexed": 546,
       "papers_ai_relevant": 28
     },
     {
