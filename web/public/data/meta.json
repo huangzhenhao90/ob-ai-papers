@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-18T04:49:30.556118Z",
+  "generated_at": "2026-07-19T05:22:11.286060Z",
   "totals": {
-    "papers_indexed": 12281,
+    "papers_indexed": 12295,
     "papers_scored": 12080,
     "papers_ai_relevant": 1667
   },
@@ -33,7 +33,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.aom.org/loi/amr",
-      "papers_indexed": 287,
+      "papers_indexed": 288,
       "papers_ai_relevant": 22
     },
     {
@@ -63,7 +63,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://psycnet.apa.org/PsycARTICLES/journal/apl",
-      "papers_indexed": 533,
+      "papers_indexed": 535,
       "papers_ai_relevant": 23
     },
     {
@@ -78,7 +78,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/orsc",
-      "papers_indexed": 471,
+      "papers_indexed": 475,
       "papers_ai_relevant": 12
     },
     {
@@ -121,7 +121,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/10991379",
-      "papers_indexed": 357,
+      "papers_indexed": 359,
       "papers_ai_relevant": 17
     },
     {
@@ -150,7 +150,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/10970266",
-      "papers_indexed": 420,
+      "papers_indexed": 421,
       "papers_ai_relevant": 24
     },
     {
@@ -164,7 +164,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/mnsc",
-      "papers_indexed": 2017,
+      "papers_indexed": 2018,
       "papers_ai_relevant": 171
     },
     {
@@ -239,7 +239,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://academic.oup.com/jcr",
-      "papers_indexed": 280,
+      "papers_indexed": 281,
       "papers_ai_relevant": 16
     },
     {
@@ -311,7 +311,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://link.springer.com/journal/11747",
-      "papers_indexed": 282,
+      "papers_indexed": 283,
       "papers_ai_relevant": 17
     },
     {
@@ -355,7 +355,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/14676486",
-      "papers_indexed": 548,
+      "papers_indexed": 549,
       "papers_ai_relevant": 28
     },
     {
