@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-20T05:39:42.549974Z",
+  "generated_at": "2026-07-21T05:21:02.214788Z",
   "totals": {
-    "papers_indexed": 12296,
+    "papers_indexed": 12326,
     "papers_scored": 12080,
     "papers_ai_relevant": 1667
   },
@@ -48,7 +48,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/asq",
-      "papers_indexed": 223,
+      "papers_indexed": 224,
       "papers_ai_relevant": 8
     },
     {
@@ -355,7 +355,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/14676486",
-      "papers_indexed": 549,
+      "papers_indexed": 551,
       "papers_ai_relevant": 28
     },
     {
@@ -483,7 +483,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://arxiv.org/",
-      "papers_indexed": 2910,
+      "papers_indexed": 2937,
       "papers_ai_relevant": 992
     }
   ],
