@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-23T05:25:05.435838Z",
+  "generated_at": "2026-07-24T05:20:26.091901Z",
   "totals": {
-    "papers_indexed": 12347,
+    "papers_indexed": 12351,
     "papers_scored": 12080,
     "papers_ai_relevant": 1667
   },
@@ -136,7 +136,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/jom",
-      "papers_indexed": 397,
+      "papers_indexed": 398,
       "papers_ai_relevant": 6
     },
     {
@@ -150,7 +150,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/10970266",
-      "papers_indexed": 423,
+      "papers_indexed": 424,
       "papers_ai_relevant": 24
     },
     {
@@ -164,7 +164,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/mnsc",
-      "papers_indexed": 2020,
+      "papers_indexed": 2021,
       "papers_ai_relevant": 171
     },
     {
@@ -311,7 +311,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://link.springer.com/journal/11747",
-      "papers_indexed": 284,
+      "papers_indexed": 285,
       "papers_ai_relevant": 17
     },
     {
