@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-25T05:14:38.399519Z",
+  "generated_at": "2026-07-26T05:30:59.805970Z",
   "totals": {
-    "papers_indexed": 12354,
+    "papers_indexed": 12369,
     "papers_scored": 12080,
     "papers_ai_relevant": 1667
   },
@@ -33,7 +33,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.aom.org/loi/amr",
-      "papers_indexed": 289,
+      "papers_indexed": 290,
       "papers_ai_relevant": 22
     },
     {
@@ -63,7 +63,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://psycnet.apa.org/PsycARTICLES/journal/apl",
-      "papers_indexed": 538,
+      "papers_indexed": 540,
       "papers_ai_relevant": 23
     },
     {
@@ -78,7 +78,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/orsc",
-      "papers_indexed": 476,
+      "papers_indexed": 477,
       "papers_ai_relevant": 12
     },
     {
@@ -121,7 +121,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/10991379",
-      "papers_indexed": 360,
+      "papers_indexed": 361,
       "papers_ai_relevant": 17
     },
     {
@@ -136,7 +136,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/jom",
-      "papers_indexed": 398,
+      "papers_indexed": 400,
       "papers_ai_relevant": 6
     },
     {
@@ -150,7 +150,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/10970266",
-      "papers_indexed": 424,
+      "papers_indexed": 425,
       "papers_ai_relevant": 24
     },
     {
@@ -164,7 +164,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/mnsc",
-      "papers_indexed": 2021,
+      "papers_indexed": 2022,
       "papers_ai_relevant": 171
     },
     {
@@ -194,7 +194,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/isre",
-      "papers_indexed": 524,
+      "papers_indexed": 525,
       "papers_ai_relevant": 104
     },
     {
@@ -267,7 +267,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/mrj",
-      "papers_indexed": 252,
+      "papers_indexed": 253,
       "papers_ai_relevant": 20
     },
     {
@@ -311,7 +311,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://link.springer.com/journal/11747",
-      "papers_indexed": 285,
+      "papers_indexed": 288,
       "papers_ai_relevant": 17
     },
     {
@@ -355,7 +355,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/14676486",
-      "papers_indexed": 552,
+      "papers_indexed": 553,
       "papers_ai_relevant": 28
     },
     {
