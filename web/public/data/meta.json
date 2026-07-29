@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-28T05:17:00.046441Z",
+  "generated_at": "2026-07-29T05:21:40.388466Z",
   "totals": {
-    "papers_indexed": 12376,
+    "papers_indexed": 12397,
     "papers_scored": 12080,
     "papers_ai_relevant": 1667
   },
@@ -33,7 +33,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.aom.org/loi/amr",
-      "papers_indexed": 290,
+      "papers_indexed": 291,
       "papers_ai_relevant": 22
     },
     {
@@ -107,7 +107,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://www.sciencedirect.com/journal/organizational-behavior-and-human-decision-processes",
-      "papers_indexed": 193,
+      "papers_indexed": 194,
       "papers_ai_relevant": 2
     },
     {
@@ -136,7 +136,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/jom",
-      "papers_indexed": 400,
+      "papers_indexed": 401,
       "papers_ai_relevant": 6
     },
     {
@@ -164,7 +164,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/mnsc",
-      "papers_indexed": 2023,
+      "papers_indexed": 2026,
       "papers_ai_relevant": 171
     },
     {
@@ -340,7 +340,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/hum",
-      "papers_indexed": 229,
+      "papers_indexed": 230,
       "papers_ai_relevant": 6
     },
     {
@@ -483,7 +483,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://arxiv.org/",
-      "papers_indexed": 2938,
+      "papers_indexed": 2952,
       "papers_ai_relevant": 992
     }
   ],
