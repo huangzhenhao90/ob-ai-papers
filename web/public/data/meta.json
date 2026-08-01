@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-31T05:36:53.613347Z",
+  "generated_at": "2026-08-01T05:27:15.822551Z",
   "totals": {
-    "papers_indexed": 12423,
+    "papers_indexed": 12439,
     "papers_scored": 12080,
     "papers_ai_relevant": 1667
   },
@@ -63,7 +63,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://psycnet.apa.org/PsycARTICLES/journal/apl",
-      "papers_indexed": 543,
+      "papers_indexed": 545,
       "papers_ai_relevant": 23
     },
     {
@@ -78,7 +78,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/orsc",
-      "papers_indexed": 479,
+      "papers_indexed": 480,
       "papers_ai_relevant": 12
     },
     {
@@ -121,7 +121,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/10991379",
-      "papers_indexed": 362,
+      "papers_indexed": 363,
       "papers_ai_relevant": 17
     },
     {
@@ -150,7 +150,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/10970266",
-      "papers_indexed": 427,
+      "papers_indexed": 428,
       "papers_ai_relevant": 24
     },
     {
@@ -164,7 +164,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/mnsc",
-      "papers_indexed": 2029,
+      "papers_indexed": 2032,
       "papers_ai_relevant": 171
     },
     {
@@ -209,7 +209,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.aom.org/loi/annals",
-      "papers_indexed": 103,
+      "papers_indexed": 104,
       "papers_ai_relevant": 3
     },
     {
@@ -326,7 +326,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://www.sciencedirect.com/journal/the-leadership-quarterly",
-      "papers_indexed": 180,
+      "papers_indexed": 182,
       "papers_ai_relevant": 4
     },
     {
@@ -355,7 +355,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/14676486",
-      "papers_indexed": 554,
+      "papers_indexed": 556,
       "papers_ai_relevant": 28
     },
     {
@@ -483,7 +483,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://arxiv.org/",
-      "papers_indexed": 2953,
+      "papers_indexed": 2956,
       "papers_ai_relevant": 992
     }
   ],
