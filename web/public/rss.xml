@@ -9,10 +9,13 @@
     <lastBuildDate>Sun, 02 Aug 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
-      <title>AI-Powered Browsers Are Broadly Accurate News Summarizers That Reduce Political Bias and Negative Affect</title>
+      <title>AI驱动浏览器：广泛准确的新闻摘要工具，可减少政治偏见与负面情绪</title>
       <link>https://ob-ai-papers.vercel.app/papers/12478</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12478</guid>
-      <description>📝 AI-Powered Browsers Are Broadly Accurate News Summarizers That Reduce Political Bias and Negative Affect
+      <description>📝 AI驱动浏览器：广泛准确的新闻摘要工具，可减少政治偏见与负面情绪
+EN: AI-Powered Browsers Are Broadly Accurate News Summarizers That Reduce Political Bias and Negative Affect
+
+💡 基于15家美国新闻媒体的13,777篇文章生成的41,331条摘要，本文对Google Chrome（Gemini）、Microsoft Edge（Copilot）和Perplexity Comet三大AI浏览器进行系统性审计。研究发现AI浏览器摘要整体事实准确性较高，并系统性地减弱意识形态偏见、党派立场、负面情绪、愤怒与恐惧，同时提升清晰度、降低个人语气，跨浏览器、媒体倾向和话题均较为稳健。研究将AI浏览器界定为新型编辑中介，探讨其对民主话语与AI治理的影响。
 
 📚 arXiv:cs.CY · 2026 · 引用 0
 👤 Yan Xia, Dominik Batorski, Erin Wertz, Michalis Mamakos, Lucen Li
@@ -21,7 +24,7 @@ AI 分: 5.0 / 领域分: 3.0
 
 📄 PDF: https://arxiv.org/pdf/2607.18931v1</description>
       <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
-      
+      <category>偏见</category><category>信任</category><category>AI治理</category><category>LLM</category><category>GenAI</category><category>AI治理</category>
     </item>    <item>
       <title>人类多样性驱动集体创造力：大语言模型所无法模拟与维持</title>
       <link>https://ob-ai-papers.vercel.app/papers/12469</link>
@@ -232,10 +235,13 @@ AI 分: 5.0 / 领域分: 4.0
       <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
       <category>广告</category><category>营销</category><category>机器学习</category><category>GenAI</category>
     </item>    <item>
-      <title>Personalized Recommendation Tool Learning via Autonomous Language Agents</title>
+      <title>自主语言智能体驱动的个性化推荐工具学习</title>
       <link>https://ob-ai-papers.vercel.app/papers/12385</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12385</guid>
-      <description>📝 Personalized Recommendation Tool Learning via Autonomous Language Agents
+      <description>📝 自主语言智能体驱动的个性化推荐工具学习
+EN: Personalized Recommendation Tool Learning via Autonomous Language Agents
+
+💡 现有基于LLM的推荐代理存在幻觉和上下文长度限制，难以胜任全排序推荐任务。本文提出PRTA框架，让LLM充当中央规划器与多个传统推荐模型工具交互：LLM负责高层推理与个性化工具选择，推荐模型负责全排序打分。设计反思机制，根据用户画像和候选排序列表对各工具进行评估与比较。在三个公开数据集上的实验表明，PRTA在提升全排序推荐效果上优于传统推荐方法和LLM基线。
 
 📚 arXiv:cs.IR · 2026 · 引用 0
 👤 Mingdai Yang, Zhiwei Liu, Weizhi Zhang, Yibo Wang, Hao Peng
@@ -244,12 +250,15 @@ AI 分: 5.0 / 领域分: 4.0
 
 📄 PDF: https://arxiv.org/pdf/2607.19739v1</description>
       <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-      
+      <category>推荐系统</category><category>LLM</category><category>推荐算法</category><category>人机协作</category>
     </item>    <item>
-      <title>Understanding Fortunetelling with Large Language Models in China: User Practices, Perceptions, and Impacts on Beliefs and Decisions</title>
+      <title>理解中国的大语言模型算命：用户实践、感知及对信念与决策的影响</title>
       <link>https://ob-ai-papers.vercel.app/papers/12376</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12376</guid>
-      <description>📝 Understanding Fortunetelling with Large Language Models in China: User Practices, Perceptions, and Impacts on Beliefs and Decisions
+      <description>📝 理解中国的大语言模型算命：用户实践、感知及对信念与决策的影响
+EN: Understanding Fortunetelling with Large Language Models in China: User Practices, Perceptions, and Impacts on Beliefs and Decisions
+
+💡 基于1045条中国社交媒体帖子分析与20位用户访谈，探究中国用户使用大语言模型进行算命的实践与影响。构建了涵盖预测主题（职业、感情等）、情绪反应（惊讶、担忧等）和感知可信度（怀疑、信任等）的分类体系。研究发现用户主要将LLM算命作为情感支持工具而非准确预测手段；算命结果很少改变用户初始信念或决策，但伴随微妙心态转变与轻微行为调整。
 
 📚 arXiv:cs.HC · 2026 · 引用 0
 👤 Xueer Lin, Chenyu Li, Shuai Ma, Yuhan Lyu, Zhenhui Peng
@@ -258,7 +267,7 @@ AI 分: 5.0 / 领域分: 4.0
 
 📄 PDF: https://arxiv.org/pdf/2607.15626v2</description>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      
+      <category>消费者行为</category><category>决策</category><category>信任</category><category>人机协作</category><category>LLM</category><category>人机交互</category>
     </item>    <item>
       <title>人工代理的自动社交临场感:常规与定性比较元分析</title>
       <link>https://ob-ai-papers.vercel.app/papers/12366</link>
@@ -320,34 +329,43 @@ AI 分: 5.0 / 领域分: 5.0</description>
       <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
       <category>知识管理</category><category>组织学习</category><category>创新</category><category>LLM</category><category>可解释AI</category><category>机器学习</category>
     </item>    <item>
-      <title>Commentaries on “Generative grounded theory ( &lt;scp&gt;GGT&lt;/scp&gt; ): Inductive theory building in the age of generative &lt;scp&gt;AI&lt;/scp&gt; ”</title>
+      <title>对“生成式扎根理论（GGT）：生成式AI时代的归纳性理论建构”的评论</title>
       <link>https://ob-ai-papers.vercel.app/papers/12346</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12346</guid>
-      <description>📝 Commentaries on “Generative grounded theory ( &amp;lt;scp&amp;gt;GGT&amp;lt;/scp&amp;gt; ): Inductive theory building in the age of generative &amp;lt;scp&amp;gt;AI&amp;lt;/scp&amp;gt; ”
+      <description>📝 对“生成式扎根理论（GGT）：生成式AI时代的归纳性理论建构”的评论
+EN: Commentaries on “Generative grounded theory ( &amp;lt;scp&amp;gt;GGT&amp;lt;/scp&amp;gt; ): Inductive theory building in the age of generative &amp;lt;scp&amp;gt;AI&amp;lt;/scp&amp;gt; ”
+
+💡 针对Schmitt等人提出的生成式扎根理论（GGT）七步框架展开评论，该框架将生成式AI用于语料构建、编码、概念聚类与理论整合等归纳式理论建构环节，同时保留研究者的解释权与理论责任。多篇评论分别探讨GGT对实验研究者揭示机制的潜力、研究者作为"认知操作者"的不可替代性，以及规避认知卸载与迎合偏差等风险。
 
 📚 JCP · 2026 · 引用 0
 👤 Geoff Tomaino, David A. Schweidel, Pierre-Yann Dolbec, Eileen Fischer, Andrew N. Smith
 
 AI 分: 4.0 / 领域分: 4.0</description>
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-      
+      <category>知识管理</category><category>组织学习</category><category>创新</category><category>GenAI</category><category>LLM</category><category>人机协作</category>
     </item>    <item>
-      <title>Synthesizing research on leadership behaviors: Semantically validating a taxonomy using large language models and examining the nomological network with a second-order meta-analysis.</title>
+      <title>领导行为研究综合：利用大语言模型语义验证分类法并以二阶元分析考察其法则网络</title>
       <link>https://ob-ai-papers.vercel.app/papers/12332</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12332</guid>
-      <description>📝 Synthesizing research on leadership behaviors: Semantically validating a taxonomy using large language models and examining the nomological network with a second-order meta-analysis.
+      <description>📝 领导行为研究综合：利用大语言模型语义验证分类法并以二阶元分析考察其法则网络
+EN: Synthesizing research on leadership behaviors: Semantically validating a taxonomy using large language models and examining the nomological network with a second-order meta-analysis.
+
+💡 针对领导行为研究中的构念冗余问题开展两项研究。Study 1汇编48个领导行为量表条目，利用大语言模型与领域专家进行语义匹配，将41个量表归入六类领导行为分类法（TRCVPD）。Study 2基于6百万余名参与者、109项元分析进行二阶元分析，结合优势分析评估六类领导行为与前因后果的关系强度，构建统一理论框架。
 
 📚 JAP · 2026 · 引用 0
 👤 张宇辰 Zhang Yucheng, Shanshan Zhang, Zijun Ke, Wenrui Cao, M Wang
 
 AI 分: 4.0 / 领域分: 5.0</description>
       <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-      
+      <category>领导力</category><category>组织学习</category><category>决策</category><category>LLM</category><category>机器学习</category>
     </item>    <item>
-      <title>Messy Research, Certification and the Monetization of Science</title>
+      <title>混乱研究、认证与科学的商品化</title>
       <link>https://ob-ai-papers.vercel.app/papers/12326</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12326</guid>
-      <description>📝 Messy Research, Certification and the Monetization of Science
+      <description>📝 混乱研究、认证与科学的商品化
+EN: Messy Research, Certification and the Monetization of Science
+
+💡 研究AI辅助研究对科学认证制度的冲击。AI降低产出精美论文的成本快于降低评估贡献质量的成本，使外观打磨失去信息价值、投稿膨胀、未经认证池平均质量下降。在固定认证标准下，认证意愿支付上升，掌握市场力的认证方可捕获溢价；评审能力固定且承诺弱时认证则被稀释。文章将AI经济与科学认证、信号博弈及同行评审联系起来。
 
 📚 arXiv:econ.GN · 2026 · 引用 0
 👤 Johan Fourie
@@ -356,12 +374,15 @@ AI 分: 4.0 / 领域分: 3.0
 
 📄 PDF: https://arxiv.org/pdf/2607.13844v1</description>
       <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-      
+      <category>知识管理</category><category>组织学习</category><category>伦理</category><category>GenAI</category><category>AI 治理</category>
     </item>    <item>
-      <title>Helping People Choose Careers in the Age of AI</title>
+      <title>AI时代帮助人们选择职业</title>
       <link>https://ob-ai-papers.vercel.app/papers/12325</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12325</guid>
-      <description>📝 Helping People Choose Careers in the Age of AI
+      <description>📝 AI时代帮助人们选择职业
+EN: Helping People Choose Careers in the Age of AI
+
+💡 比较6种AI对职业暴露的预测方法，基于Anthropic和OpenAI 2025年查询数据构建新模型。发现模型间异质性显著，但2020年后模型显示AI暴露、薪资与职业复杂度正相关。综合5个模型均值发现，医疗类工作在高薪资与低AI暴露间平衡最佳；将Claude作为互补工具的工作比替代性使用的工作薪资略高，模式取决于各领域使用规范。
 
 📚 arXiv:econ.GN · 2026 · 引用 0
 👤 Jennifer L. Steele, Isabella Cruz
@@ -370,12 +391,15 @@ AI 分: 5.0 / 领域分: 3.0
 
 📄 PDF: https://arxiv.org/pdf/2607.15506v1</description>
       <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-      
+      <category>工作未来</category><category>招聘</category><category>决策</category><category>LLM</category><category>算法决策</category>
     </item>    <item>
-      <title>Cheaper AI, More Informality? A Dual Labor Market Model for Developing Economies</title>
+      <title>更便宜的AI，更多的非正规性？面向发展中经济体的二元劳动力市场模型</title>
       <link>https://ob-ai-papers.vercel.app/papers/12324</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12324</guid>
-      <description>📝 Cheaper AI, More Informality? A Dual Labor Market Model for Developing Economies
+      <description>📝 更便宜的AI，更多的非正规性？面向发展中经济体的二元劳动力市场模型
+EN: Cheaper AI, More Informality? A Dual Labor Market Model for Developing Economies
+
+💡 构建小型开放经济DSGE模型，纳入正规与非正规双重劳动力市场及进口AI资本，分析AI降价对发展中经济体的劳动力影响。结果取决于AI与正规劳动的替代弹性：替代关系下正规就业收缩、非正规部门扩大充当缓冲；互补关系下则扩张正规就业、放大产出和工资。AI既可能成为劳动力替代压力，也可能成为正规部门扩张驱动力，取决于其与人力劳动的交互方式。
 
 📚 arXiv:econ.GN · 2026 · 引用 0
 👤 Gabriel Montes-Rojas, Fernando Toledo, Juan Manuel Rodríguez Repeti
@@ -384,12 +408,13 @@ AI 分: 5.0 / 领域分: 3.0
 
 📄 PDF: https://arxiv.org/pdf/2607.15381v1</description>
       <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-      
+      <category>战略</category><category>工作未来</category><category>组织变革</category><category>机器学习</category><category>算法管理</category>
     </item>    <item>
-      <title>AI Adoption in S&amp;P 500 Firms</title>
+      <title>标普500企业的AI采纳</title>
       <link>https://ob-ai-papers.vercel.app/papers/12322</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12322</guid>
-      <description>📝 AI Adoption in S&amp;amp;P 500 Firms
+      <description>📝 标普500企业的AI采纳
+EN: AI Adoption in S&amp;amp;P 500 Firms
 
 💡 基于S&amp;amp;P 500企业2016—2025年SEC 10-K文件构建AI深度整合测度，发现2025年11%企业实现AI深度整合，10%在产品服务中应用，整体采用率较2022年翻逾四倍，科技行业贡献约三分之二；盈利呈J型曲线，但未观察到资本支出与生产率差异。
 
@@ -402,10 +427,13 @@ AI 分: 5.0 / 领域分: 4.0
       <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
       <category>战略</category><category>创新</category><category>组织变革</category><category>GenAI</category><category>机器学习</category>
     </item>    <item>
-      <title>Translating AI into scientific impact: Field context, career position, and institutional capability in AI-enabled research</title>
+      <title>将AI转化为科学影响：AI赋能研究中的领域情境、职业位置与机构能力</title>
       <link>https://ob-ai-papers.vercel.app/papers/12319</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12319</guid>
-      <description>📝 Translating AI into scientific impact: Field context, career position, and institutional capability in AI-enabled research
+      <description>📝 将AI转化为科学影响：AI赋能研究中的领域情境、职业位置与机构能力
+EN: Translating AI into scientific impact: Field context, career position, and institutional capability in AI-enabled research
+
+💡 基于大规模文献计量数据，考察AI知识整合与科学引用影响的关系。结果显示AI引用普遍提升引用量，但收益因学科而异：资深学者从引用广度获益更大，青年学者从高强度引用及更新、更高影响AI文献中获益更多；机构层面呈倒U型，中等AI能力的机构获比例性收益最大，顶级AI机构则更深嵌入AI知识网络并充当引用门户，强调AI价值的实现取决于跨学科翻译能力。
 
 📚 arXiv:cs.CY · 2026 · 引用 0
 👤 Zhiyong Tan, Hongkan Chen, Yi Bu
@@ -414,12 +442,15 @@ AI 分: 5.0 / 领域分: 3.0
 
 📄 PDF: https://arxiv.org/pdf/2607.16780v1</description>
       <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-      
+      <category>知识管理</category><category>创新</category><category>战略</category><category>机器学习</category><category>AI治理</category>
     </item>    <item>
-      <title>Towards Agentic AI Governance: A Preliminary Assessment</title>
+      <title>迈向智能体AI治理：初步评估</title>
       <link>https://ob-ai-papers.vercel.app/papers/12318</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12318</guid>
-      <description>📝 Towards Agentic AI Governance: A Preliminary Assessment
+      <description>📝 迈向智能体AI治理：初步评估
+EN: Towards Agentic AI Governance: A Preliminary Assessment
+
+💡 综述生成式AI向可自主规划与执行任务的智能体AI演进所带来的治理挑战。通过系统综述，识别智能体AI区别于传统系统的特征及其需专项治理的原因，梳理当前治理优先事项、提议机制与利益相关方角色，为构建负责任且具备适应性的智能体AI治理路线图奠定初步学术基础。
 
 📚 arXiv:cs.CY · 2026 · 引用 0
 👤 Mubarak Raji, Masooda Bashir
@@ -428,7 +459,7 @@ AI 分: 5.0 / 领域分: 3.0
 
 📄 PDF: https://arxiv.org/pdf/2607.07612v1</description>
       <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-      
+      <category>伦理</category><category>组织变革</category><category>战略</category><category>GenAI</category><category>AI治理</category>
     </item>    <item>
       <title>让代理中介贡献可治理:开源 AI 协作的项目级治理宣言</title>
       <link>https://ob-ai-papers.vercel.app/papers/12314</link>
@@ -445,10 +476,13 @@ AI 分: 5.0 / 领域分: 3.0
       <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
       
     </item>    <item>
-      <title>When Not to Automate: A Formal Protocol for Human Preservation in AI-Optimized Organizations</title>
+      <title>何时不应自动化：AI优化型组织中维系人类存续的正式协议</title>
       <link>https://ob-ai-papers.vercel.app/papers/12313</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12313</guid>
-      <description>📝 When Not to Automate: A Formal Protocol for Human Preservation in AI-Optimized Organizations
+      <description>📝 何时不应自动化：AI优化型组织中维系人类存续的正式协议
+EN: When Not to Automate: A Formal Protocol for Human Preservation in AI-Optimized Organizations
+
+💡 针对标准自动化ROI忽视默会知识流失、韧性下降、监管暴露与社会制度资本退化四类系统性风险的问题，提出五门序贯决策协议PHP-AIO，并形式化定义自动化债务度量ρ(P)与人类在环监管锚点。基于代表性内部岗位的分析显示，标准成本收益分析会统一选择自动化的对象，PHP-AIO可给出自动化、增强、混合与保留等差异化处置。
 
 📚 arXiv:cs.MA · 2026 · 引用 0
 👤 Jose Manuel de la Chica Rodriguez, Jairo Rodriguez Arias, Spyridon Chouliaras
@@ -457,7 +491,7 @@ AI 分: 5.0 / 领域分: 3.0
 
 📄 PDF: https://arxiv.org/pdf/2607.15944v1</description>
       <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-      
+      <category>组织变革</category><category>工作设计</category><category>决策</category><category>AI治理</category><category>AI治理</category><category>人机协作</category><category>算法决策</category>
     </item>
   </channel>
 </rss>
