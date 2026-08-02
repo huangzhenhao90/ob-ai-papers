@@ -9,6 +9,20 @@
     <lastBuildDate>Sun, 02 Aug 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>AI-Powered Browsers Are Broadly Accurate News Summarizers That Reduce Political Bias and Negative Affect</title>
+      <link>https://ob-ai-papers.vercel.app/papers/12478</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12478</guid>
+      <description>📝 AI-Powered Browsers Are Broadly Accurate News Summarizers That Reduce Political Bias and Negative Affect
+
+📚 arXiv:cs.CY · 2026 · 引用 0
+👤 Yan Xia, Dominik Batorski, Erin Wertz, Michalis Mamakos, Lucen Li
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2607.18931v1</description>
+      <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
       <title>人类多样性驱动集体创造力：大语言模型所无法模拟与维持</title>
       <link>https://ob-ai-papers.vercel.app/papers/12469</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12469</guid>
@@ -133,359 +147,291 @@ AI 分: 5.0 / 领域分: 4.0
       <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
       <category>广告</category><category>营销</category><category>机器学习</category><category>GenAI</category>
     </item>    <item>
-      <title>Agentic AI的组织行为：人-Agent工作流程中的集体智能</title>
-      <link>https://ob-ai-papers.vercel.app/papers/12130</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12130</guid>
-      <description>📝 Agentic AI的组织行为：人-Agent工作流程中的集体智能
-EN: The Organizational Behavior of Agentic AI: Collective Intelligence in Human-Agent Workflows
-
-📚 arXiv:cs.CY · 2026 · 引用 0
-👤 Canhui Liu
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2606.30986v1</description>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-      
-    </item>    <item>
-      <title>管理人力后备机制：AI能力提升与劳动力流动性背景下的技能投资</title>
-      <link>https://ob-ai-papers.vercel.app/papers/12129</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12129</guid>
-      <description>📝 管理人力后备机制：AI能力提升与劳动力流动性背景下的技能投资
-EN: Managing the Human Fallback: Skill Investment Under Improving AI and Worker Mobility
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Simrita Singh, Naireet Ghosh, Tinglong Dai
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2606.29111v1</description>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-      
-    </item>    <item>
-      <title>AI的经济效益与成本及减轻AI对不平等影响的相关政策</title>
-      <link>https://ob-ai-papers.vercel.app/papers/12127</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12127</guid>
-      <description>📝 AI的经济效益与成本及减轻AI对不平等影响的相关政策
-EN: The Economic Benefits and Costs of AI and Policies to Mitigate AI's Impact on Inequality
-
-💡 AI生产力提升对不同类型劳动者的工资影响差异显著：AI构建型劳动者工资增速超GDP增速；被AI替代型劳动者工资绝对和相对水平均下降；仅从事最终产品生产且未被替代的劳动者工资与GDP同步增长。AI生产若为垄断结构，会限制其部署并减缓AI影响扩散。竞争性与垄断性AI生产格局下，最优税收与监管政策不同，可实现帕累托改进。
-
-📚 arXiv:econ.GN · 2026 · 引用 0
-👤 Matthew O. Jackson, Zafer Kanik
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2607.01101v1</description>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-      <category>组织变革</category><category>公平性</category><category>政策</category><category>战略</category><category>GenAI</category><category>算法管理</category>
-    </item>    <item>
-      <title>网络长城的阴影：Google封锁对中国创新的影响</title>
-      <link>https://ob-ai-papers.vercel.app/papers/12104</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12104</guid>
-      <description>📝 网络长城的阴影：Google封锁对中国创新的影响
-EN: Shadow of the great firewall: The impact of Google blockade on innovation in China
-
-💡 研究利用中国2014年意外屏蔽谷歌的外生冲击，采用专利匹配双重差分模型，发现屏蔽后发明者搜索远距离技术和认知空间的能力显著下降，且对合作网络较小的发明者影响更大，在接近科学的技术领域尤为明显。
-
-📚 SMJ · 2020 · 引用 47
-👤 Yanfeng Zheng, Qinyu (Ryan) Wang
-
-AI 分: 3.0 / 领域分: 5.0</description>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-      <category>创新</category><category>知识管理</category><category>组织学习</category><category>算法管理</category>
-    </item>    <item>
-      <title>人类教练是否比单独使用AI教练带来更显著的减重效果？</title>
-      <link>https://ob-ai-papers.vercel.app/papers/12074</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12074</guid>
-      <description>📝 人类教练是否比单独使用AI教练带来更显著的减重效果？
-EN: Does Access to Human Coaches Lead to More Weight Loss Than With AI Coaches Alone?
-
-💡 研究比较人类教练与AI教练对减肥效果的影响。实验发现，获得人类教练指导的被试比仅使用AI教练的被试减重更多，且前者设定更高的减重目标，更频繁地追踪体重和食物摄入。研究表明在健康行为改变领域，人类教练的介入能更有效激励消费者。
-
-📚 MktSci · 2026 · 引用 0
-👤 Anuj Kapoor, Sridhar Narayanan, Puneet Manchanda
-
-AI 分: 5.0 / 领域分: 5.0</description>
-      <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
-      <category>消费者行为</category><category>人机协作</category><category>健康行为</category><category>AI教练</category><category>人机交互</category>
-    </item>    <item>
-      <title>数据市场中数字平台的作用：高级分析如何通过平台共享的市场数据赋能企业创新</title>
-      <link>https://ob-ai-papers.vercel.app/papers/12068</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12068</guid>
-      <description>📝 数据市场中数字平台的作用：高级分析如何通过平台共享的市场数据赋能企业创新
-EN: The Role of Digital Platforms in Data Markets: How Platform-Shared Market Data Through Advanced Analytics Empower Firm Innovation
-
-💡 利用阿里巴巴淘宝平台的自然实验，考察平台通过高级分析共享市场数据对零售商绩效的影响。结果显示，高级分析比描述性分析额外提升销售额31.8%；平台层面的数据带来更持久增益，小零售商受益尤为显著。其机制是产品组合创新：品类范围扩大6.8%，新品SKU增加10.5%，未影响价格和广告支出。研究表明，平台共享的市场数据可作为企业创新的关键投入。
-
-📚 MgmtSci · 2026 · 引用 0
-👤 Yubo Chen, Xuebin Cui, Aishen Li, Banggang Wu, Liu Yang
-
-AI 分: 3.0 / 领域分: 4.0</description>
-      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
-      <category>创新</category><category>隐私</category><category>算法管理</category><category>战略</category><category>机器学习</category><category>算法决策</category><category>算法管理</category>
-    </item>    <item>
-      <title>消费者数字信号如何重塑客户旅程</title>
-      <link>https://ob-ai-papers.vercel.app/papers/12062</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12062</guid>
-      <description>📝 消费者数字信号如何重塑客户旅程
-EN: How consumer digital signals are reshaping the customer journey
-
-💡 探讨消费者数字信号（如搜索、浏览、社交媒体互动）如何重新塑造客户旅程。基于大数据分析和机器学习模型，研究发现数字信号能够提前预测需求、缩短决策时间并提升转化率，且在不同阶段的影响力度不同。对企业营销和体验设计具有重要启示。
-
-📚 JAMS · 2022 · 引用 101
-👤 David A. Schweidel, Yakov Bart, J. Jeffrey Inman, Andrew T. Stephen, Barak Libai
-
-AI 分: 3.0 / 领域分: 5.0</description>
-      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
-      <category>消费者行为</category><category>营销</category><category>推荐系统</category><category>机器学习</category><category>推荐算法</category><category>算法决策</category>
-    </item>    <item>
-      <title>改进算法人类监督的简易方案：基于智能售货的证据</title>
-      <link>https://ob-ai-papers.vercel.app/papers/12058</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12058</guid>
-      <description>📝 改进算法人类监督的简易方案：基于智能售货的证据
-EN: A Simple Solution to Improving Human Supervision of Algorithms: Evidence from Smart Vending
-
-💡 组织部署自主AI系统时，完全授权人工override会因偏见和噪声降低性能，完全禁止则遗漏有价值信息。研究提出受限override策略，限制每次决策的override次数。在某大型智能售货机零售商（553名工人、5.9万台机器）开展随机实验，对比无/自由/受限override。结果显示：自由override降低库存1.95%但损失销售1.19%；受限override降低库存1.28%且不损害销售，工人优先选择高价值SKU进行override。个性化策略可进一步提升销售概率9.1%。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Minda Zhao, Brian Rongqing Han, Xin Chen, Tao Zhu
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2607.00420v1</description>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-      <category>算法管理</category><category>决策</category><category>人机协作</category><category>组织变革</category><category>算法决策</category><category>推荐算法</category><category>AI治理</category>
-    </item>    <item>
-      <title>PAPA：在线个性化主动偏好对齐</title>
-      <link>https://ob-ai-papers.vercel.app/papers/12057</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12057</guid>
-      <description>📝 PAPA：在线个性化主动偏好对齐
-EN: PAPA: Online Personalized Active Preference Alignment
-
-💡 扩散模型在个性化推荐等场景中需根据用户偏好进行调整，但获取大规模偏好数据成本高。PAPA提出无需参数化奖励模型的个性化偏好对齐方法，直接利用实时用户反馈优化扩散模型，借鉴变分推理框架提升反馈效率。实验表明该方法在类条件和对齐任务上有效。进一步提出增强版EPAPA，降低计算开销，加速微调过程，更适合实际部署。
-
-📚 arXiv:cs.LG · 2026 · 引用 0
-👤 Anindya Sarkar, Nasik Muhammad Nafi, Isaac Lyngaas, Muralikrishnan Gopalakrishnan Meena, Yevgeniy Vorobeychik
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2607.00486v1</description>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-      <category>推荐系统</category><category>个性化</category><category>用户偏好</category><category>人机协作</category><category>扩散模型</category><category>生成式AI</category><category>强化学习</category>
-    </item>    <item>
-      <title>FinInvest-GTCN：可解释图-时序-因果建模用于风险感知投资决策优化</title>
-      <link>https://ob-ai-papers.vercel.app/papers/12005</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12005</guid>
-      <description>📝 FinInvest-GTCN：可解释图-时序-因果建模用于风险感知投资决策优化
-EN: FinInvest-GTCN: Explainable Graph-Temporal-Causal Modeling for Risk-Aware Investment Decision Optimization
-
-💡 风险投资决策面临多源异构数据、非平稳时序及低数据高风险场景下可解释预测的挑战。FinInvest-GTCN通过图编码器捕获投资生态拓扑、多尺度时序融合模块处理长期依赖与时变性，并引入因果决策头生成可解释风险调整预测。核心创新为元因果适应策略，利用元预训练中与因果结构对齐的更新，实现数据稀缺新行业的鲁棒微调。实验表明，该模型将风险调整均方误差从3.05降至2.51，模拟组合累计收益提升18.7%，兼具稳定性、可解释性与适应性。
-
-📚 arXiv:cs.CL · 2026 · 引用 0
-👤 Junyan Tan, Yifan Li, Minghao Wang, Zihan Chen, Haoyu Zhang
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2606.28933v1</description>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-      <category>投资</category><category>风险评估</category><category>因果推断</category><category>可解释AI</category><category>图神经网络</category><category>时序预测</category><category>因果学习</category><category>机器学习</category>
-    </item>    <item>
-      <title>共享工作空间人机协作中的协同效应探索</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11991</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11991</guid>
-      <description>📝 共享工作空间人机协作中的协同效应探索
-EN: Searching for Synergy in Shared Workspace Human-AI Collaboration
-
-💡 通过Collaborative Gym模拟共享工作空间Human-AI团队实验，发现缺少协调结构时增加合作者会降低绩效。引入共享记忆与模拟HITL审批门禁后，三人以上团队表现提升，职责信号更清晰，专业知识路由更有效，表明协调结构是团队能力转化为实际产出的关键。
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Nachiket Kotalwar, Rohini Das, Carolyn Rose
-
-AI 分: 4.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2606.18413v3</description>
-      <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
-      <category>团队</category><category>人机协作</category><category>组织学习</category><category>工作设计</category><category>人机协作</category><category>算法管理</category><category>人机交互</category>
-    </item>    <item>
-      <title>LLM调解的人机交互在搜救中的应用：专长对注意力分配的影响</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11990</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11990</guid>
-      <description>📝 LLM调解的人机交互在搜救中的应用：专长对注意力分配的影响
-EN: LLM-Mediated Human-AI Interaction in Search and Rescue: Impact of Expertise on Attentional Allocation
-
-💡 在模拟搜索救援任务中，LLM提供的实时指引提升了任务效率（奖励和每步受害者指标），但未增加总救援人数。眼动数据显示，LLM引导导致注意力向聊天界面转移，瞳孔变化增大，专业水平调节效应显著：新手倾向于被动依赖AI，专家则保持持续环境扫描的验证循环。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Elahe Oveisi, Hemanth Manjunatha
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2606.19514v1</description>
-      <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>注意力</category><category>搜索救援</category><category>决策</category><category>LLM</category><category>人机交互</category><category>AI引导</category>
-    </item>    <item>
-      <title>非对称性算法厌恶</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11982</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11982</guid>
-      <description>📝 非对称性算法厌恶
-EN: Asymmetric Algorithm Aversion
-
-💡 在金融科技情境下，人类对AI建议表现出非对称厌恶：AI劝阻投资时，专家倾向采纳，认为AI可凭显性知识做出判断；而AI建议投资时，专家怀疑AI缺乏隐性知识，转而自行审视，使AI建议失效。四项研究证实这一不对称性。
-
-📚 ISR · 2026 · 引用 0
-👤 Saunak Basu, Alan R. Dennis, Aravinda Garimella, Wencui Han
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
-      <category>决策</category><category>人机协作</category><category>金融</category><category>算法决策</category><category>算法决策</category><category>AI建议</category><category>人机协作</category>
-    </item>    <item>
-      <title>EXPRESS: 偏好过滤：当顾客与算法共享狭隘偏好时</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11975</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11975</guid>
-      <description>📝 EXPRESS: 偏好过滤：当顾客与算法共享狭隘偏好时
-EN: EXPRESS: Preference Filtering: When Customers Share Narrow Preferences with Algorithms
-
-💡 顾客向算法分享的偏好比向人类或为自己列出时更窄，产生"偏好过滤"现象。该现象源于顾客预期算法比人类更均匀地权衡偏好，导致过滤掉边缘偏好。12个主实验（含数学模型、访谈、调查及网站实验，N=8,824）表明这虽看似理性，但长期损害顾客和企业利益。研究揭示了偏好获取时机、方式、目的和交互对象的四大设计维度如何影响过滤程度，并验证了减轻偏好过滤可提升用户参与度和满意度。
-
-📚 JM · 2026 · 引用 0
-👤 Phyliss Jia Gai, Eugina Leung, Anne-Kathrin Klesse
-
-AI 分: 4.0 / 领域分: 5.0</description>
-      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-      <category>推荐系统</category><category>消费者行为</category><category>人机协作</category><category>推荐算法</category><category>算法决策</category>
-    </item>    <item>
-      <title>大语言模型如何跨语言与市场获取品牌声誉</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11954</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11954</guid>
-      <description>📝 大语言模型如何跨语言与市场获取品牌声誉
-EN: How Large Language Models Source Brand Reputation Across Languages and Markets
-
-💡 研究LLM在品牌问答中引用的信息来源。整合128个品牌、12个市场、13种语言、167551条引用数据，发现85.7%引用来自第三方网站，品牌自有内容仅占14.3%；引用来源高度集中且长尾分布，80%引用集中于18%域名；维基百科在11种语言中占据主导；边际来源呈现市场特异性，如波兰品牌YouTube引用量超过维基百科两倍。
+      <title>Personalized Recommendation Tool Learning via Autonomous Language Agents</title>
+      <link>https://ob-ai-papers.vercel.app/papers/12385</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12385</guid>
+      <description>📝 Personalized Recommendation Tool Learning via Autonomous Language Agents
 
 📚 arXiv:cs.IR · 2026 · 引用 0
-👤 Dmitrij Zatuchin
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2606.25787v1</description>
-      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
-      <category>品牌</category><category>消费者行为</category><category>AI治理</category><category>LLM</category><category>GenAI</category>
-    </item>    <item>
-      <title>EnsembleIV：基于集成学习构建工具变量以实现机器学习生成变量的稳健统计推断</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11847</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11847</guid>
-      <description>📝 EnsembleIV：基于集成学习构建工具变量以实现机器学习生成变量的稳健统计推断
-EN: EnsembleIV: Creating Instrumental Variables from Ensemble Learners for Robust Statistical Inference with ML- Generated Variables
-
-💡 针对机器学习预测值用于回归推断时的测量误差偏误问题，提出 EnsembleIV 方法。利用集成学习生成预测值，并通过数据驱动变换程序将各基学习器转化为工具变量，从而纠正测量误差、避免估计偏误。方法在合成数据和真实数据上验证有效，适用于线性和广义线性回归模型，并优于其他偏差校正方法。
-
-📚 MgmtSci · 2026 · 引用 0
-👤 Gordon Burtch, Edward McFowland, Mochen Yang, Gediminas Adomavičius
-
-AI 分: 5.0 / 领域分: 3.0</description>
-      <pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
-      <category>统计推断</category><category>计量方法</category><category>机器学习应用</category><category>机器学习</category><category>集成学习</category>
-    </item>    <item>
-      <title>LLM消费者行为理论：新兴研究领域的理论基础</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11840</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11840</guid>
-      <description>📝 LLM消费者行为理论：新兴研究领域的理论基础
-EN: LLM Consumer Behavior Theory: Foundations of a Novel Research Field
-
-💡 随着LLM日益充当代表用户做消费决策的自主代理，传统消费者理论面临根本性挑战。研究引入LLM消费者行为理论新领域，旨在分析代理市场中的消费者行为。通过结合古典与行为经济学及NLP进展，形式化人类偏好在LLM代理中的反映与执行机制，以及代理决策如何聚合成市场需求。研究统一了LLM决策、人类行为模拟和偏好获取等分散文献，并指出理性假设和异质性在代理市场中可能失效，还提出对齐、偏好表示和市场动态等开放问题。
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Manon Reusens, Sofie Goethals, David Martens
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2606.18005v1</description>
-      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
-      <category>消费者行为</category><category>人机协作</category><category>算法决策</category><category>理论经济学</category><category>LLM</category><category>GenAI</category><category>算法决策</category>
-    </item>    <item>
-      <title>劳动之后的资本是什么？预测人机协作时代人才价值创造的转变</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11839</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11839</guid>
-      <description>📝 劳动之后的资本是什么？预测人机协作时代人才价值创造的转变
-EN: What Capital After Labor? Forecasting the Talent ROI Transition in the Human-AI Era
-
-💡 AI augmentation打破劳动时间与生产贡献的会计关联，但企业仍沿用时间基础的人才评估框架。该研究构建预测框架，论证从时间本位人才会计向产出本位人才ROI的转变路径，以韩国52小时工时政策为早期预警案例。基于365家上市企业面板数据发现SG&amp;amp;A占比上升的 overhead-pressure signature，提示向τ*转折点过渡的制度压力。
-
-📚 arXiv:econ.GN · 2026 · 引用 0
-👤 Kwan Soo Shin, In Seok Kang
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2606.19846v1</description>
-      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
-      <category>战略</category><category>组织变革</category><category>人机协作</category><category>工作未来</category><category>GenAI</category><category>人机协作</category>
-    </item>    <item>
-      <title>生成式AI构思中的能动性配置：文本与视觉想法具体化对创意及构思者投入的影响</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11830</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11830</guid>
-      <description>📝 生成式AI构思中的能动性配置：文本与视觉想法具体化对创意及构思者投入的影响
-EN: Agency Configurations in Generative AI Ideation: How Textual and Visual Idea Concretizations Shape Idea Creativity and Ideator Effort
-
-💡 研究AI生成式输入的表征形式如何影响人机协作创意效果。通过在线实验比较文本与视觉两种 concre-tization方式，发现文本 concretization 相对视觉提升创意18%但增加30%努力。对于成熟想法此效应更明显；对不成熟想法，视觉 concretization 能提升创意且无需额外努力。研究揭示不同人-AI agency配置导致创意-努力权衡差异，文本对应增强型协作，人与AI agency匹配；视觉对应部分自动化。
-
-📚 ISR · 2026 · 引用 0
-👤 Philipp Gordetzki, Ivo Blohm, Melanie Clegg, Felix Schakols, Reto Hofstetter
-
-AI 分: 5.0 / 领域分: 5.0</description>
-      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>创意</category><category>工作设计</category><category>GenAI</category><category>多模态</category><category>文本生成</category><category>图像生成</category>
-    </item>    <item>
-      <title>利用大语言模型评估求职面试：评估设计要素、有效性研究及最佳实践建议</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11823</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11823</guid>
-      <description>📝 利用大语言模型评估求职面试：评估设计要素、有效性研究及最佳实践建议
-EN: Scoring employment interviews with large language models: Evaluation design components, validity investigations, and best practice recommendations.
-
-💡 探讨大语言模型在就业面试评分中的应用，考察评价设计的关键组成要素、效度表现，并提出最佳实践建议。研究涉及如何通过LLM对面试表现进行结构化打分、评估其评分信效度，以及如何在招聘流程中合规有效地部署该技术。
-
-📚 JAP · 2026 · 引用 0
-👤 Kayden Stockdale, Louis Hickman, Siyi Liu
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://doi.org/10.1037/apl0001396</description>
-      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
-      <category>招聘</category><category>绩效评估</category><category>人机协作</category><category>LLM</category><category>AI决策</category><category>AI招聘</category>
-    </item>    <item>
-      <title>将LLM推理蒸馏为可解释策略树用于人机协作</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11817</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11817</guid>
-      <description>📝 将LLM推理蒸馏为可解释策略树用于人机协作
-EN: Distilling LLM Reasoning into an Interpretable Policy Tree for Human-AI Collaboration
-
-💡 构建高效可靠的人机协作策略是重要挑战。现有方法要么依赖黑盒多智能体强化学习缺乏可解释性，要么每步查询大语言模型导致响应慢成本高。本文提出Co-pi-tree，将LLM推理提炼为可执行策略树，包含伙伴行为预测树和智能体行动选择树。通过伙伴交互评估策略并用自然语言总结反馈改进问题分支。实验表明，在Overcooked-AI环境中，Co-pi-tree相比基线平均奖励提升35.4%，LLM查询减少77.7%，延迟降低97.1%。
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Beiwen Zhang, Yongheng Liang, Guowei Zou, Haitao Wang, Hejun Wu
+👤 Mingdai Yang, Zhiwei Liu, Weizhi Zhang, Yibo Wang, Hao Peng
 
 AI 分: 5.0 / 领域分: 4.0
 
-📄 PDF: https://arxiv.org/pdf/2606.08596v1</description>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>决策</category><category>算法管理</category><category>LLM</category><category>推理蒸馏</category><category>人机协作</category>
+📄 PDF: https://arxiv.org/pdf/2607.19739v1</description>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+      
     </item>    <item>
-      <title>AI代理的战略决策支持</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11814</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11814</guid>
-      <description>📝 AI代理的战略决策支持
-EN: Strategic Decision Support for AI Agents
+      <title>Understanding Fortunetelling with Large Language Models in China: User Practices, Perceptions, and Impacts on Beliefs and Decisions</title>
+      <link>https://ob-ai-papers.vercel.app/papers/12376</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12376</guid>
+      <description>📝 Understanding Fortunetelling with Large Language Models in China: User Practices, Perceptions, and Impacts on Beliefs and Decisions
 
-💡 将决策支持从人类使用模型转向AI代理主导的情境，构建以控制错失支持错误为目标的优化框架，推导出阈值最优策略并提出自适应在线算法，实现无需分布假设的校准，验证于信息收集与人机协作场景。
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Xueer Lin, Chenyu Li, Shuai Ma, Yuhan Lyu, Zhenhui Peng
 
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Shayan Kiyani, Sima Noorani, George Pappas, Hamed Hassani
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2607.15626v2</description>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>Commentaries on “Generative grounded theory ( &lt;scp&gt;GGT&lt;/scp&gt; ): Inductive theory building in the age of generative &lt;scp&gt;AI&lt;/scp&gt; ”</title>
+      <link>https://ob-ai-papers.vercel.app/papers/12346</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12346</guid>
+      <description>📝 Commentaries on “Generative grounded theory ( &amp;lt;scp&amp;gt;GGT&amp;lt;/scp&amp;gt; ): Inductive theory building in the age of generative &amp;lt;scp&amp;gt;AI&amp;lt;/scp&amp;gt; ”
+
+📚 JCP · 2026 · 引用 0
+👤 Geoff Tomaino, David A. Schweidel, Pierre-Yann Dolbec, Eileen Fischer, Andrew N. Smith
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>Synthesizing research on leadership behaviors: Semantically validating a taxonomy using large language models and examining the nomological network with a second-order meta-analysis.</title>
+      <link>https://ob-ai-papers.vercel.app/papers/12332</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12332</guid>
+      <description>📝 Synthesizing research on leadership behaviors: Semantically validating a taxonomy using large language models and examining the nomological network with a second-order meta-analysis.
+
+📚 JAP · 2026 · 引用 0
+👤 张宇辰 Zhang Yucheng, Shanshan Zhang, Zijun Ke, Wenrui Cao, M Wang
+
+AI 分: 4.0 / 领域分: 5.0</description>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>Messy Research, Certification and the Monetization of Science</title>
+      <link>https://ob-ai-papers.vercel.app/papers/12326</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12326</guid>
+      <description>📝 Messy Research, Certification and the Monetization of Science
+
+📚 arXiv:econ.GN · 2026 · 引用 0
+👤 Johan Fourie
+
+AI 分: 4.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2607.13844v1</description>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>Helping People Choose Careers in the Age of AI</title>
+      <link>https://ob-ai-papers.vercel.app/papers/12325</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12325</guid>
+      <description>📝 Helping People Choose Careers in the Age of AI
+
+📚 arXiv:econ.GN · 2026 · 引用 0
+👤 Jennifer L. Steele, Isabella Cruz
 
 AI 分: 5.0 / 领域分: 3.0
 
-📄 PDF: https://arxiv.org/pdf/2606.12587v1</description>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
-      <category>决策</category><category>算法管理</category><category>AI治理</category><category>算法决策</category><category>机器学习</category><category>AI治理</category>
+📄 PDF: https://arxiv.org/pdf/2607.15506v1</description>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>Cheaper AI, More Informality? A Dual Labor Market Model for Developing Economies</title>
+      <link>https://ob-ai-papers.vercel.app/papers/12324</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12324</guid>
+      <description>📝 Cheaper AI, More Informality? A Dual Labor Market Model for Developing Economies
+
+📚 arXiv:econ.GN · 2026 · 引用 0
+👤 Gabriel Montes-Rojas, Fernando Toledo, Juan Manuel Rodríguez Repeti
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2607.15381v1</description>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>Translating AI into scientific impact: Field context, career position, and institutional capability in AI-enabled research</title>
+      <link>https://ob-ai-papers.vercel.app/papers/12319</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12319</guid>
+      <description>📝 Translating AI into scientific impact: Field context, career position, and institutional capability in AI-enabled research
+
+📚 arXiv:cs.CY · 2026 · 引用 0
+👤 Zhiyong Tan, Hongkan Chen, Yi Bu
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2607.16780v1</description>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>Towards Agentic AI Governance: A Preliminary Assessment</title>
+      <link>https://ob-ai-papers.vercel.app/papers/12318</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12318</guid>
+      <description>📝 Towards Agentic AI Governance: A Preliminary Assessment
+
+📚 arXiv:cs.CY · 2026 · 引用 0
+👤 Mubarak Raji, Masooda Bashir
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2607.07612v1</description>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>AI-Augmented Human Resource Management? Insights from German companies</title>
+      <link>https://ob-ai-papers.vercel.app/papers/12309</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12309</guid>
+      <description>📝 AI-Augmented Human Resource Management? Insights from German companies
+
+📚 arXiv:cs.CY · 2026 · 引用 0
+👤 Yannick Kalff, Katharina Simbeck
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2607.13839v2</description>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>JobHop v2: A Large-Scale Career Trajectory Dataset from Unstructured Resumes</title>
+      <link>https://ob-ai-papers.vercel.app/papers/12302</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12302</guid>
+      <description>📝 JobHop v2: A Large-Scale Career Trajectory Dataset from Unstructured Resumes
+
+📚 arXiv:cs.CL · 2026 · 引用 0
+👤 Iman Johary, Guillaume Bied, Alexandru C. Mara, Tijl De Bie
+
+AI 分: 4.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2607.11715v2</description>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>STEP: Career-Path Recommendation via Temporal and Educational Trajectory Modeling</title>
+      <link>https://ob-ai-papers.vercel.app/papers/12301</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12301</guid>
+      <description>📝 STEP: Career-Path Recommendation via Temporal and Educational Trajectory Modeling
+
+📚 arXiv:cs.CL · 2026 · 引用 0
+👤 Iman Johary, Guillaume Bied, Alexandru C. Mara, Tijl De Bie
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2607.11722v2</description>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>Revisiting industry effects: The assignment of firms to industries</title>
+      <link>https://ob-ai-papers.vercel.app/papers/12278</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12278</guid>
+      <description>📝 Revisiting industry effects: The assignment of firms to industries
+
+📚 SMJ · 2026 · 引用 0
+👤 Alireza Eshraghi, Bart Vanneste
+
+AI 分: 3.0 / 领域分: 4.0
+
+📄 PDF: https://doi.org/10.1002/smj.70106</description>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>Interpretable Recommendations and Parameter-Grounded LLM Explanations with Multigraph Attention</title>
+      <link>https://ob-ai-papers.vercel.app/papers/12268</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12268</guid>
+      <description>📝 Interpretable Recommendations and Parameter-Grounded LLM Explanations with Multigraph Attention
+
+📚 ISR · 2026 · 引用 0
+👤 Yan Leng, Xiao Liu, Rodrigo Ruiz
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>Scalable Bundle Recommendations: A Large-Scale Field Experiment</title>
+      <link>https://ob-ai-papers.vercel.app/papers/12267</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12267</guid>
+      <description>📝 Scalable Bundle Recommendations: A Large-Scale Field Experiment
+
+📚 MgmtSci · 2026 · 引用 0
+👤 Madhav Kumar, Dean Eckles, Sinan Aral
+
+AI 分: 3.0 / 领域分: 4.0</description>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>Same Stories, Different Journeys: From Social Comparison to Sensemaking in AI-Mediated Peer Career Exploration</title>
+      <link>https://ob-ai-papers.vercel.app/papers/12262</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12262</guid>
+      <description>📝 Same Stories, Different Journeys: From Social Comparison to Sensemaking in AI-Mediated Peer Career Exploration
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Pengping Tan, Baoquan Zhao, Zhenhui Peng
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2607.11039v1</description>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>Two-player Alternate Uses Test: A Controlled Testbed for Interactive Human-AI and Human-Human Co-Creation</title>
+      <link>https://ob-ai-papers.vercel.app/papers/12259</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12259</guid>
+      <description>📝 Two-player Alternate Uses Test: A Controlled Testbed for Interactive Human-AI and Human-Human Co-Creation
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Babak Hemmatian, Anita Keshmirian, Yijun Lin, Shravan Ramamoorthy, Maryam Jahadakbar
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2607.07522v1</description>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>TRAIL: A Platform for Configurable Human--AI Teaming Experiments</title>
+      <link>https://ob-ai-papers.vercel.app/papers/12257</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12257</guid>
+      <description>📝 TRAIL: A Platform for Configurable Human--AI Teaming Experiments
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Mohammad Amin Samadi, Pedro Martins De Bastos, Jaeyoon Choi, Spencer JaQuay, Seehee Park
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2607.12180v1</description>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>Beyond Accuracy: How Humans Evaluate Legally Correct but Socially Controversial Legal Advice from Machines</title>
+      <link>https://ob-ai-papers.vercel.app/papers/12254</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12254</guid>
+      <description>📝 Beyond Accuracy: How Humans Evaluate Legally Correct but Socially Controversial Legal Advice from Machines
+
+📚 arXiv:cs.CY · 2026 · 引用 0
+👤 Benjamin Minhao Chen, Zhiyu Li
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2607.05680v1</description>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>Faster AI, Uneven Frontier: Rapid Crossings, a Jagged Frontier, and the Repositioning of Human Judgment</title>
+      <link>https://ob-ai-papers.vercel.app/papers/12253</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12253</guid>
+      <description>📝 Faster AI, Uneven Frontier: Rapid Crossings, a Jagged Frontier, and the Repositioning of Human Judgment
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Ancuta Margondai, Julie Rader, Emma Rader, Sara Willox, Mustapha Mouloua
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2607.12125v1</description>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>Persona Migration and Expectation Recalibration in Generative AI Adoption: A Longitudinal Study at a State Department of Transportation</title>
+      <link>https://ob-ai-papers.vercel.app/papers/12247</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12247</guid>
+      <description>📝 Persona Migration and Expectation Recalibration in Generative AI Adoption: A Longitudinal Study at a State Department of Transportation
+
+📚 arXiv:cs.CY · 2026 · 引用 0
+👤 Omidreza Shoghli, Fatemeh Banani Ardecani, Amin Mohamadi Hezaveh
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2607.13798v1</description>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      
     </item>
   </channel>
 </rss>

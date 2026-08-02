@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-02T13:19:57.334026Z",
+  "generated_at": "2026-08-02T13:29:10.124557Z",
   "totals": {
     "papers_indexed": 12483,
-    "papers_scored": 12130,
-    "papers_ai_relevant": 1675
+    "papers_scored": 12361,
+    "papers_ai_relevant": 1704
   },
   "journals": [
     {
@@ -64,7 +64,7 @@
       "lang": "en",
       "publisher_toc": "https://psycnet.apa.org/PsycARTICLES/journal/apl",
       "papers_indexed": 546,
-      "papers_ai_relevant": 23
+      "papers_ai_relevant": 24
     },
     {
       "abbr": "OrgSci",
@@ -94,7 +94,7 @@
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/17446570",
       "papers_indexed": 187,
-      "papers_ai_relevant": 11
+      "papers_ai_relevant": 12
     },
     {
       "abbr": "OBHDP",
@@ -151,7 +151,7 @@
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/10970266",
       "papers_indexed": 428,
-      "papers_ai_relevant": 25
+      "papers_ai_relevant": 26
     },
     {
       "abbr": "MgmtSci",
@@ -165,7 +165,7 @@
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/mnsc",
       "papers_indexed": 2032,
-      "papers_ai_relevant": 171
+      "papers_ai_relevant": 174
     },
     {
       "abbr": "MISQ",
@@ -195,7 +195,7 @@
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/isre",
       "papers_indexed": 528,
-      "papers_ai_relevant": 106
+      "papers_ai_relevant": 107
     },
     {
       "abbr": "AOM-Annals",
@@ -254,7 +254,7 @@
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/jmx",
       "papers_indexed": 258,
-      "papers_ai_relevant": 19
+      "papers_ai_relevant": 20
     },
     {
       "abbr": "JMR",
@@ -298,7 +298,7 @@
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/15327663",
       "papers_indexed": 181,
-      "papers_ai_relevant": 15
+      "papers_ai_relevant": 16
     },
     {
       "abbr": "JAMS",
@@ -312,7 +312,7 @@
       "lang": "en",
       "publisher_toc": "https://link.springer.com/journal/11747",
       "papers_indexed": 291,
-      "papers_ai_relevant": 17
+      "papers_ai_relevant": 18
     },
     {
       "abbr": "LQ",
@@ -484,7 +484,7 @@
       "lang": "en",
       "publisher_toc": "https://arxiv.org/",
       "papers_indexed": 2989,
-      "papers_ai_relevant": 994
+      "papers_ai_relevant": 1013
     }
   ],
   "facets": {
@@ -493,49 +493,49 @@
       "2011": 1,
       "2018": 1,
       "2019": 1,
-      "2020": 1,
+      "2020": 2,
       "2021": 2,
       "2022": 3,
       "2023": 260,
       "2024": 354,
       "2025": 629,
-      "2026": 422
+      "2026": 450
     },
     "journals": {
-      "arXiv:cs.HC": 211,
-      "arXiv:cs.CY": 202,
+      "arXiv:cs.HC": 216,
+      "arXiv:cs.CY": 208,
       "arXiv:cs.AI": 193,
-      "MgmtSci": 171,
-      "arXiv:cs.CL": 123,
-      "ISR": 106,
+      "MgmtSci": 174,
+      "arXiv:cs.CL": 125,
+      "ISR": 107,
       "arXiv:cs.LG": 84,
-      "arXiv:cs.IR": 62,
+      "arXiv:cs.IR": 63,
       "MISQ": 52,
+      "arXiv:econ.GN": 47,
       "MktSci": 45,
-      "arXiv:econ.GN": 44,
       "JMS": 29,
       "HRM": 26,
-      "SMJ": 25,
-      "JAP": 23,
+      "SMJ": 26,
+      "JAP": 24,
       "AMR": 22,
+      "JM": 20,
       "JMR": 20,
-      "JM": 19,
-      "JAMS": 17,
+      "JAMS": 18,
       "JOB": 17,
+      "JCP": 16,
       "JCR": 16,
-      "JCP": 15,
       "arXiv:cs.SE": 14,
       "OrgSci": 13,
       "AMJ": 12,
       "AOM-Discoveries": 12,
-      "PPsych": 11,
+      "PPsych": 12,
       "arXiv:cs.CV": 11,
       "arXiv:cs.MA": 9,
       "ASQ": 8,
       "HR": 6,
       "JOM": 6,
-      "arXiv:cs.CR": 5,
-      "arXiv:cs.GT": 5,
+      "arXiv:cs.CR": 6,
+      "arXiv:cs.GT": 6,
       "LQ": 4,
       "arXiv:cs.SI": 4,
       "arXiv:eess.SY": 4,
