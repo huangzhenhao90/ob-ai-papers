@@ -84,15 +84,28 @@ def process_one_batch(client, batch_idx, batch):
     ]
     # TL;DR 任务输出量大：reasoning 1500-2000 + 每篇输出 ~600 token
     max_tok = 3000 + 800 * len(batch)
-    try:
-        data = client.chat(messages, max_tokens=max_tok, temperature=0.2)
-    except Exception as e:
-        print(f"  ! batch_idx={batch_idx} 请求失败: {str(e)[:300]}")
-        return [(p["id"], {"error": str(e)[:200]}) for p in batch]
+    usage = {}
+    raw_text = ""
+    parsed = []
+    last_error = None
+    for attempt in range(3):
+        try:
+            data = client.chat(messages, max_tokens=max_tok, temperature=0.2)
+            usage = client.usage(data)
+            raw_text = (data.get("choices") or [{}])[0].get("message", {}).get("content", "")
+            parsed = extract_json(raw_text) or []
+            if parsed:
+                break
+            last_error = "LLM 返回为空或不是有效 JSON"
+        except Exception as e:
+            last_error = str(e)[:200]
+        if attempt < 2:
+            print(f"  ! batch_idx={batch_idx} TL;DR 第 {attempt + 1} 次返回无效，重试")
+            time.sleep(1 + attempt)
 
-    usage = client.usage(data)
-    raw_text = (data.get("choices") or [{}])[0].get("message", {}).get("content", "")
-    parsed = extract_json(raw_text) or []
+    if not parsed:
+        print(f"  ! batch_idx={batch_idx} TL;DR 失败: {last_error}; raw[:200]={raw_text[:200]!r}")
+        return [(p["id"], {"error": last_error or "LLM 漏返回"}) for p in batch]
 
     score_by_idx = {}
     for s in parsed:
