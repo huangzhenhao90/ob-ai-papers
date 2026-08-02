@@ -164,12 +164,14 @@ AI 分: 4.0 / 领域分: 5.0</description>
       <description>📝 基于实时视频分析的消费者店内购买预测：计算机视觉与深度学习方法
 EN: Predicting Consumer In-Store Purchase Through Real-Time Video Analytics: An Advanced Computer Vision and Deep Learning Approach
 
+💡 针对线下零售缺乏实时行为数据的痛点，构建视频分析框架将店内监控画面转化为离线点击流。结合行人重识别、轨迹重建、姿态估计和视觉-语言模型，提取顾客移动路径、产品互动与肢体语言等行为信号。Transformer预测模型在购买预测关键指标上较传统基准提升达79%，并支持五种实时定向策略；模拟显示基于说服力的策略可带来13.1%的利润提升，为弥合实体与数字零售能力差距提供可扩展且注重隐私的方案。
+
 📚 ISR · 2026 · 引用 0
 👤 Rubing Li, Wen Wang, Kaiquan Xu, Anindya Ghose, Beibei Li
 
 AI 分: 5.0 / 领域分: 5.0</description>
       <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-      
+      <category>消费者行为</category><category>营销</category><category>推荐系统</category><category>隐私</category><category>机器学习</category><category>多模态</category><category>推荐算法</category>
     </item>    <item>
       <title>基于AI智能体的战略交互模拟</title>
       <link>https://ob-ai-papers.vercel.app/papers/12418</link>
