@@ -74,7 +74,7 @@ def score_one_batch(client: MiniMaxClient, papers: list[dict]) -> tuple[list[dic
         {"role": "system", "content": SYSTEM_PROMPT},
         {"role": "user", "content": user},
     ]
-    # M2.7 推理 ~1500 + 每篇输出 ~80 字符 ≈ 100 token，留 1.5 倍冗余
+    # M3 推理 ~1500 + 每篇输出 ~80 字符 ≈ 100 token，留 1.5 倍冗余
     max_tok = 2500 + 200 * len(papers)
     data = client.chat(messages, max_tokens=max_tok, temperature=0.0)
     usage = client.usage(data)
@@ -130,12 +130,23 @@ def process_batch(client: MiniMaxClient, batch_idx: int, batch: list[dict]) -> l
     return out
 
 
-def run(limit: int = None, batch_size: int = BATCH_SIZE, n_workers: int = N_WORKERS):
+def run(limit: int = None, batch_size: int = BATCH_SIZE, n_workers: int = N_WORKERS,
+        candidate_ids: list[int] | None = None):
     global total_in, total_out, total_reason, n_done_papers, n_ok, n_fail
     session = get_session(DB_PATH)
     client = MiniMaxClient()
     try:
-        scored_ids = set(session.execute(select(PaperScore.paper_id)).scalars().all())
+        scored_ids = set(session.execute(
+            select(PaperScore.paper_id).where(PaperScore.ai_relevance.is_not(None))
+        ).scalars().all())
+        wanted_ids = None
+        wanted_order = {}
+        if candidate_ids is not None:
+            wanted_ids = {int(pid) for pid in candidate_ids}
+            wanted_order = {int(pid): i for i, pid in enumerate(candidate_ids)}
+            if not wanted_ids:
+                print("待打分: 0 篇")
+                return
         # 用 SQL 直接查需要字段，转成纯 dict 列表（避免跨线程 ORM 问题）
         from sqlalchemy import text
         rows = session.execute(text(
@@ -143,8 +154,11 @@ def run(limit: int = None, batch_size: int = BATCH_SIZE, n_workers: int = N_WORK
         )).all()
         todo = [
             {"id": r[0], "title": r[1], "abstract": r[2], "journal_abbr": r[3]}
-            for r in rows if r[0] not in scored_ids
+            for r in rows
+            if r[0] not in scored_ids and (wanted_ids is None or r[0] in wanted_ids)
         ]
+        if wanted_ids is not None:
+            todo.sort(key=lambda p: wanted_order.get(p["id"], len(wanted_order)))
         if limit:
             todo = todo[:limit]
         print(f"待打分: {len(todo)} 篇 (batch={batch_size}, workers={n_workers})")
@@ -171,11 +185,19 @@ def run(limit: int = None, batch_size: int = BATCH_SIZE, n_workers: int = N_WORK
                             n_fail += 1
                             n_done_papers += 1
                     elif "error" in score_data:
-                        if not session.get(PaperScore, paper_id):
+                        ps = session.get(PaperScore, paper_id)
+                        if ps:
+                            ps.scored_at = datetime.utcnow()
+                            ps.model_used = client.model
+                            ps.rationale = f"ERROR: {score_data['error']}"
+                        else:
                             session.add(PaperScore(
                                 paper_id=paper_id, scored_at=datetime.utcnow(),
                                 model_used=client.model, rationale=f"ERROR: {score_data['error']}",
                             ))
+                        with stats_lock:
+                            n_fail += 1
+                            n_done_papers += 1
                     else:
                         ps = session.get(PaperScore, paper_id)
                         if ps:
@@ -221,5 +243,7 @@ if __name__ == "__main__":
     p.add_argument("--limit", type=int, default=None)
     p.add_argument("--batch", type=int, default=BATCH_SIZE)
     p.add_argument("--workers", type=int, default=N_WORKERS)
+    p.add_argument("--ids", default=None, help="Comma-separated paper IDs to score")
     args = p.parse_args()
-    run(limit=args.limit, batch_size=args.batch, n_workers=args.workers)
+    ids = [int(x) for x in args.ids.split(",") if x.strip()] if args.ids else None
+    run(limit=args.limit, batch_size=args.batch, n_workers=args.workers, candidate_ids=ids)
