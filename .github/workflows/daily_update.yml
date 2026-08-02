@@ -23,6 +23,10 @@ on:
         description: "LLM 候选回看天数"
         required: false
         default: "14"
+      llm_workers:
+        description: "LLM 并发请求数"
+        required: false
+        default: "4"
 
 permissions:
   contents: write  # 需要 commit JSON + 更新 release
@@ -80,6 +84,7 @@ jobs:
           LLM_SAFETY_LIMIT: ${{ inputs.llm_safety_limit || '500' }}
           LLM_DAILY_LIMIT: ${{ inputs.llm_daily_limit || '200' }}
           LLM_CANDIDATE_LOOKBACK_DAYS: ${{ inputs.llm_candidate_lookback_days || '14' }}
+          LLM_WORKERS: ${{ inputs.llm_workers || '4' }}
         run: python scripts/incremental_update.py
 
       - name: Commit updated web data if changed

@@ -228,14 +228,17 @@ def step_llm():
     if candidate_total > len(candidate_ids):
         print(f"⚠️  候选超过本次上限，仅处理前 {len(candidate_ids)} 篇；历史积压请单独 backfill")
 
+    llm_workers = int(os.getenv("LLM_WORKERS", "4"))
+    print(f"[LLM] 并发数: {llm_workers}")
+
     print("\n=== LLM 双打分 ===")
-    llm_score_run(batch_size=12, n_workers=50, candidate_ids=candidate_ids)
+    llm_score_run(batch_size=12, n_workers=llm_workers, candidate_ids=candidate_ids)
 
     print("\n=== LLM TL;DR ===")
-    llm_tldr_run(batch_size=3, n_workers=20, candidate_ids=candidate_ids)
+    llm_tldr_run(batch_size=3, n_workers=llm_workers, candidate_ids=candidate_ids)
 
     print("\n=== LLM 中文标题翻译 ===")
-    llm_title_zh_run(batch_size=10, n_workers=50, candidate_ids=candidate_ids)
+    llm_title_zh_run(batch_size=10, n_workers=llm_workers, candidate_ids=candidate_ids)
 
 
 def step_audit_export():
