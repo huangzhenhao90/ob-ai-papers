@@ -6,9 +6,133 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 07 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>人类多样性驱动集体创造力：大语言模型所无法模拟与维持</title>
+      <link>https://ob-ai-papers.vercel.app/papers/12469</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12469</guid>
+      <description>📝 人类多样性驱动集体创造力：大语言模型所无法模拟与维持
+EN: Human diversity fuels collective creativity that large language models cannot simulate or sustain
+
+💡 通过预注册的创意隐喻实验，比较母语(L1)与非母语(L2)英语写作者在无AI、AI生成创意和AI优化创意三种条件下的表现。结果显示L2写作者贡献更多集体多样性，AI生成创意压缩了集体多样性并消除L2优势，AI优化则保留多样性。模拟多样化写作群体的实验表明，所有AI模拟池均低于人类池，强行提升多样性只能产生退化文本。揭示了AI辅助对集体创造力的潜在威胁。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Mengchen Dong, Hiromu Yakura
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2607.26899v1</description>
+      <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
+      <category>创意</category><category>创新</category><category>人机协作</category><category>团队</category><category>GenAI</category><category>LLM</category><category>人机协作</category><category>人机交互</category>
+    </item>    <item>
+      <title>劳动者再定位与技术变革：来自在线劳动力市场的证据</title>
+      <link>https://ob-ai-papers.vercel.app/papers/12443</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12443</guid>
+      <description>📝 劳动者再定位与技术变革：来自在线劳动力市场的证据
+EN: Worker Repositioning and Technological Change: Evidence from an Online Labor Market
+
+💡 研究ChatGPT发布对大型在线劳动力市场自由职业者行为的影响。采用双重差分法，结合AI暴露度和技能水平的横截面差异，发现AI暴露较高的自由职业者会从原有领域转向，并重新竞标高价值合同；而高技能者因调整成本较高，参与度下降、跨领域流动和向上流动均更少。揭示了技术冲击通过供给侧适应重塑劳动力市场，以及领域专用人力资本对劳动者响应的约束作用。
+
+📚 OrgSci · 2026 · 引用 0
+👤 Shun Yiu, Robert Seamans, Manav Raj, Teng Liu
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
+      <category>零工经济</category><category>组织变革</category><category>工作未来</category><category>知识管理</category><category>GenAI</category><category>LLM</category><category>ChatGPT</category><category>算法管理</category>
+    </item>    <item>
+      <title>动态能力视角下的算法地位不平等：基于市场的视角</title>
+      <link>https://ob-ai-papers.vercel.app/papers/12435</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12435</guid>
+      <description>📝 动态能力视角下的算法地位不平等：基于市场的视角
+EN: Algorithmic Status Inequality Through a Dynamic Capabilities Lens: A Market‐Based Perspective
+
+💡 作为对Wu算法地位不平等框架的回应，本文提出基于动态能力视角的补充理论，从感知、把握、变革三种能力出发，探讨组织如何检测算法引发的地位分化、调动资源推动更具包容性的算法开发、以及随时间重构人机关系。该文不否定Wu的结构性诊断，而是强调组织能动性，为算法地位不平等的未来研究议程提供方向。
+
+📚 JMS · 2026 · 引用 0
+👤 David J. Teece
+
+AI 分: 4.0 / 领域分: 5.0</description>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      <category>组织变革</category><category>战略</category><category>创新</category><category>公平性</category><category>算法管理</category><category>算法决策</category><category>AI治理</category>
+    </item>    <item>
+      <title>基于实时视频分析的消费者店内购买预测：计算机视觉与深度学习方法</title>
+      <link>https://ob-ai-papers.vercel.app/papers/12419</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12419</guid>
+      <description>📝 基于实时视频分析的消费者店内购买预测：计算机视觉与深度学习方法
+EN: Predicting Consumer In-Store Purchase Through Real-Time Video Analytics: An Advanced Computer Vision and Deep Learning Approach
+
+📚 ISR · 2026 · 引用 0
+👤 Rubing Li, Wen Wang, Kaiquan Xu, Anindya Ghose, Beibei Li
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>基于AI智能体的战略交互模拟</title>
+      <link>https://ob-ai-papers.vercel.app/papers/12418</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12418</guid>
+      <description>📝 基于AI智能体的战略交互模拟
+EN: Simulating strategic interactions with AI agents
+
+💡 探讨大语言模型作为合成被试在战略研究中的角色，提出基于LLM智能体的模拟实验框架，用于低成本快速原型设计及新假设生成。以探索-利用困境为应用场景，验证LLM实验能复现人类被试的既有行为模式；通过改变参数与边界条件，展示该框架如何辅助设计迭代、揭示已有结论失效的条件与原因，为战略选择原型测试与压力测试提供新工具。
+
+📚 SMJ · 2026 · 引用 0
+👤 Matteo Tranchero, Cecil-Francis Brenninkmeijer, Arul Murugan, Abhishek Nagaraj
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://doi.org/10.1002/smj.70112</description>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+      <category>战略</category><category>决策</category><category>LLM</category><category>GenAI</category>
+    </item>    <item>
+      <title>选择模型与置换不变性：差异化产品市场的深度需求估计</title>
+      <link>https://ob-ai-papers.vercel.app/papers/12407</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12407</guid>
+      <description>📝 选择模型与置换不变性：差异化产品市场的深度需求估计
+EN: Choice Models and Permutation Invariance: Deep Demand Estimation in Differentiated Products Markets
+
+💡 针对差异化产品市场的灵活数据驱动需求估计，提出选择函数的基本刻画方法。模型满足排列不变性（permutation invariance），可容纳内生产品特征，并保证价格弹性等经济对象推断的有效性，为深度学习在结构化需求估计中的应用奠定理论基础，弥补了传统选择模型与灵活机器学习方法之间的差距。
+
+📚 MktSci · 2026 · 引用 0
+👤 Amandeep Singh, Ye Liu, Hema Yoganarasimhan
+
+AI 分: 3.0 / 领域分: 5.0</description>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <category>营销</category><category>消费者行为</category><category>机器学习</category>
+    </item>    <item>
+      <title>间接披露效应：披露生成式AI使用对人类与AI创造性协作的影响</title>
+      <link>https://ob-ai-papers.vercel.app/papers/12404</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12404</guid>
+      <description>📝 间接披露效应：披露生成式AI使用对人类与AI创造性协作的影响
+EN: The Indirect Disclosure Effect: How Disclosing Generative AI Use Impacts Human Creative Collaboration with AI
+
+💡 研究强制披露GenAI使用对创作者与AI协作行为的影响。基于Goffman印象管理理论，通过两项嵌套混合方法实验，让参与者在不同披露条件下与文本生成图像工具协作。发现预期披露时，多数创作者会退出创作过程、将图像生成交由AI完成，原因是担心观众无法认可其创造性主体性；由此产生的作品主要体现计算创造力而非人类创造力，该效应亦被观众识别与评价，揭示了披露制度的间接效应。
+
+📚 ISR · 2026 · 引用 0
+👤 Ekaterina Jussupow, Kevin Bauer, Rebecca Heigl, Benjamin Vogt, Oliver Hinz
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>创意</category><category>信任</category><category>伦理</category><category>GenAI</category><category>人机协作</category>
+    </item>    <item>
+      <title>超越单次优化：面向长期广告效果的滑动窗口感知生成式自动出价</title>
+      <link>https://ob-ai-papers.vercel.app/papers/12389</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12389</guid>
+      <description>📝 超越单次优化：面向长期广告效果的滑动窗口感知生成式自动出价
+EN: Beyond Single-Episode Optimization: Sliding-Window Aware Generative Auto-Bidding for Long-Term Advertising Effectiveness
+
+💡 针对广告自动出价中将每日视为独立回合导致稀疏广告主效率评估不可靠的问题，提出滑动窗口感知的生成式自动出价框架SWAG-Bid。该框架分层分解为回合级规划与步级执行：规划器用掩码轨迹模型预测市场并生成候选方案，由多窗口MPC采样在指数置信衰减下评分；控制器通过步级门控自适应层归一化调节依赖，并结合Return-to-Go与Cost-to-Go通道传递预算与约束信息。在AuctionNet-Sparse与AliExpress在线A/B测试中显著提升滑动窗口评估下的约束满足与价值获取。
+
+📚 arXiv:cs.LG · 2026 · 引用 0
+👤 Binglin Wu, Chuan Yue, Yingyi Zhang, Xianneng Li, Ruyue Deng
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2607.25233v1</description>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+      <category>广告</category><category>营销</category><category>机器学习</category><category>GenAI</category>
+    </item>    <item>
       <title>Agentic AI的组织行为：人-Agent工作流程中的集体智能</title>
       <link>https://ob-ai-papers.vercel.app/papers/12130</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12130</guid>
@@ -362,140 +486,6 @@ AI 分: 5.0 / 领域分: 3.0
 📄 PDF: https://arxiv.org/pdf/2606.12587v1</description>
       <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
       <category>决策</category><category>算法管理</category><category>AI治理</category><category>算法决策</category><category>机器学习</category><category>AI治理</category>
-    </item>    <item>
-      <title>代理语音口音对K-12小组学习中人机协作的影响探究</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11813</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11813</guid>
-      <description>📝 代理语音口音对K-12小组学习中人机协作的影响探究
-EN: Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
-
-💡 在33位教师的课堂教学中实验不同口音的生成式语音代理（英式、印度、非裔美国人），结果显示口音影响代理的角色定位和信任程度：英式口音被视为工具，印、非口音更易被同伴化，影响合作动态和学习参与。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Prerna Ravi, Carúmey Stevens, Ben Hurt, Brandon Hanks, Grace Lin
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2606.12805v1</description>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
-      <category>教育</category><category>人机协作</category><category>信任</category><category>偏见</category><category>GenAI</category><category>语音</category><category>人机交互</category><category>多模态</category>
-    </item>    <item>
-      <title>EXPRESS：创造力配方：成分嵌入方法</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11809</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11809</guid>
-      <description>📝 EXPRESS：创造力配方：成分嵌入方法
-EN: EXPRESS: A Recipe for Creativity: An Ingredient Embedding Approach
-
-💡 使用词嵌入方法分析57K菜谱及1057个创意想法的内部一致性，发现成分一致性越高，菜谱的流行度、尝试率和评价越好；而独特成分虽降低流行度和尝试率，却提升已尝试情况下的评分，据此开发了可自动添加、删除或替换食材的菜谱生成工具。
-
-📚 JM · 2026 · 引用 0
-👤 Sibel Sozuer, Oded Netzer, Kriste Krstovski
-
-AI 分: 3.0 / 领域分: 5.0</description>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
-      <category>创意</category><category>推荐系统</category><category>消费者行为</category><category>推荐算法</category><category>机器学习</category><category>生成式 AI</category>
-    </item>    <item>
-      <title>AI时代的临床推理：纵向认知与人机协作</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11791</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11791</guid>
-      <description>📝 AI时代的临床推理：纵向认知与人机协作
-EN: Clinical Reasoning in the Age of AI: Longitudinal Cognition and Human-AI Collaboration
-
-💡 研究通过混合方法（访谈+问卷）考察医生在AI辅助下的临床推理过程。发现当前AI系统主要承担文档生成和摘要等单次就诊层面的任务，与医生跨越多次就诊的时序推理和解释性思维存在错位。AI生成内容常遗漏临床决策所依赖的时间维度和解读结构，而涉及长期诊疗的推理核心仍由医生主导。研究为理解AI时代的临床推理提供了整合性框架。
-
-📚 arXiv:cs.CY · 2026 · 引用 0
-👤 Irene Yi, Grace Brown, Sufian Aldogom, Nathan Roll, Eric J. Basile
-
-AI 分: 4.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2606.08442v1</description>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-      <category>临床推理</category><category>医疗AI</category><category>人机协作</category><category>决策</category><category>医疗AI</category><category>LLM</category><category>生成式AI</category>
-    </item>    <item>
-      <title>何为人机协作：实现协作的先决条件与可供性</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11786</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11786</guid>
-      <description>📝 何为人机协作：实现协作的先决条件与可供性
-EN: What do you mean by human-AI collaboration: Prerequisite functions and the affordances needed to achieve it
-
-💡 研究追溯学习科学中"协作"概念的经典标准，包括对称协商关系、共享目标、低度和动态的劳动分工、同步互动以及相互建模，进而构建人机协作的五级诊断框架（交易性、情境性、操作性、实践性、协同性）。通过回顾写作和问题解决的实证研究，发现当前大多数人机交互更宜描述为咨询、治理、委托或指导，而非真正的协作。只有最高层级才满足真正协作的条件。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Mutlu Cukurova
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2606.15509v1</description>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>教育</category><category>学习</category><category>理论框架</category><category>对话代理</category><category>AI辅导</category><category>生成式AI</category><category>可解释AI</category>
-    </item>    <item>
-      <title>参与强度作为学习者建模信号用于自适应AI伦理教学</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11784</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11784</guid>
-      <description>📝 参与强度作为学习者建模信号用于自适应AI伦理教学
-EN: Engagement Intensity as a Learner-Modeling Signal for Adaptive AI Ethics Instruction
-
-💡 研究比较三种入学前特征——LLM使用频率、自评熟悉度和先前AI教育——在93名生物科学研究生中的五项基线感知结果中的预测效力。结果显示使用频率与所有五项结果显著相关，自评熟悉度与三项相关，而先前AI教育无显著关联。LLM使用频率作为简单的行为信号，可有效用于AI伦理教育的轻量级入学评估，帮助实现自适应教学设计。
-
-📚 arXiv:cs.CY · 2026 · 引用 0
-👤 Yongkyung Oh, Lynn Talton, Alex Bui
-
-AI 分: 3.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2606.18548v1</description>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-      <category>教育</category><category>培训</category><category>人机协作</category><category>伦理</category><category>LLM</category><category>生成式AI</category><category>人机交互</category>
-    </item>    <item>
-      <title>"这难道不够吗？"：加拿大签证分类系统中机构问责不对称与集体认知建构</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11783</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11783</guid>
-      <description>📝 "这难道不够吗？"：加拿大签证分类系统中机构问责不对称与集体认知建构
-EN: "Is This Not Enough?": Asymmetries in Institutional Accountability and Collective Sensemaking in the Case of Canada's Algorithmic Visa Triage System
-
-💡 研究混合方法分析加拿大签证分类系统的算法问责制，发现制度层面强调透明与程序保障，申请人通过集体解读弥补信息不足，揭示认知、司法、时间关系三方面的不对称性。主张从制度设计转向公共部门算法治理经验的不均衡分布。
-
-📚 arXiv:cs.CY · 2026 · 引用 0
-👤 Dipto Das, Matthew Tamura, Syed Ishtiaque Ahmed, Shion Guha
-
-AI 分: 3.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2606.13071v1</description>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-      <category>算法管理</category><category>AI治理</category><category>算法决策</category><category>机器学习</category><category>算法决策</category><category>AI治理</category>
-    </item>    <item>
-      <title>"困于螺旋"：羞耻与内疚作为计算教育中AI使用的社会调节机制</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11782</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11782</guid>
-      <description>📝 "困于螺旋"：羞耻与内疚作为计算教育中AI使用的社会调节机制
-EN: "Stuck in a Spiral": Shame and Guilt as Social Regulators of AI Use in Computing Education
-
-💡 基于功能主义视角对19名计算机专业学生进行访谈，发现羞耻感和内疚感调节AI工具的使用可见性，引发隐瞒与选择性披露；情绪与身份认同冲突形成行为循环而非改变使用。呼吁课堂实践关注AI使用的社会情感层面，制定更具支持性的政策。
-
-📚 arXiv:cs.CY · 2026 · 引用 0
-👤 Kate Hamilton, Irene Hou, Dev Patel, Sheena Nnam, Hena Patel
-
-AI 分: 4.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2606.14920v1</description>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-      <category>教育</category><category>AI治理</category><category>算法管理</category><category>人机交互</category><category>机器学习</category><category>AI治理</category>
-    </item>    <item>
-      <title>算法之外：AI偏见的职业经验与认知研究</title>
-      <link>https://ob-ai-papers.vercel.app/papers/11781</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/11781</guid>
-      <description>📝 算法之外：AI偏见的职业经验与认知研究
-EN: Beyond the Algorithm: Professional Experiences and Perceptions of AI Bias
-
-💡 本研究通过访谈九名AI从业者并结合文献分析，揭示算法偏见源于历史不平等、排他性设计假设及组织效率优先的文化；技术修正不足以实现公平，需建立结构性问责、多元参与与贯穿生命周期的伦理意识。结论强调在开发早期嵌入人本伦理是抑制AI偏见的根本路径。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Micarah Malone-Gawu
-
-AI 分: 4.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2606.18289v1</description>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-      <category>伦理</category><category>公平性</category><category>偏见</category><category>组织变革</category><category>机器学习</category><category>算法决策</category><category>AI治理</category>
     </item>
   </channel>
 </rss>

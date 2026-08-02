@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-02T05:26:37.814103Z",
+  "generated_at": "2026-08-02T13:19:57.334026Z",
   "totals": {
-    "papers_indexed": 12481,
-    "papers_scored": 12080,
-    "papers_ai_relevant": 1667
+    "papers_indexed": 12483,
+    "papers_scored": 12130,
+    "papers_ai_relevant": 1675
   },
   "journals": [
     {
@@ -63,7 +63,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://psycnet.apa.org/PsycARTICLES/journal/apl",
-      "papers_indexed": 545,
+      "papers_indexed": 546,
       "papers_ai_relevant": 23
     },
     {
@@ -79,7 +79,7 @@
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/orsc",
       "papers_indexed": 484,
-      "papers_ai_relevant": 12
+      "papers_ai_relevant": 13
     },
     {
       "abbr": "PPsych",
@@ -151,7 +151,7 @@
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/10970266",
       "papers_indexed": 428,
-      "papers_ai_relevant": 24
+      "papers_ai_relevant": 25
     },
     {
       "abbr": "MgmtSci",
@@ -195,7 +195,7 @@
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/isre",
       "papers_indexed": 528,
-      "papers_ai_relevant": 104
+      "papers_ai_relevant": 106
     },
     {
       "abbr": "AOM-Annals",
@@ -281,8 +281,8 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/mksc",
-      "papers_indexed": 339,
-      "papers_ai_relevant": 44
+      "papers_indexed": 340,
+      "papers_ai_relevant": 45
     },
     {
       "abbr": "JCP",
@@ -356,7 +356,7 @@
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/14676486",
       "papers_indexed": 557,
-      "papers_ai_relevant": 28
+      "papers_ai_relevant": 29
     },
     {
       "abbr": "ROB",
@@ -484,7 +484,7 @@
       "lang": "en",
       "publisher_toc": "https://arxiv.org/",
       "papers_indexed": 2989,
-      "papers_ai_relevant": 992
+      "papers_ai_relevant": 994
     }
   ],
   "facets": {
@@ -499,23 +499,23 @@
       "2023": 260,
       "2024": 354,
       "2025": 629,
-      "2026": 414
+      "2026": 422
     },
     "journals": {
-      "arXiv:cs.HC": 210,
+      "arXiv:cs.HC": 211,
       "arXiv:cs.CY": 202,
       "arXiv:cs.AI": 193,
       "MgmtSci": 171,
       "arXiv:cs.CL": 123,
-      "ISR": 104,
-      "arXiv:cs.LG": 83,
+      "ISR": 106,
+      "arXiv:cs.LG": 84,
       "arXiv:cs.IR": 62,
       "MISQ": 52,
-      "MktSci": 44,
+      "MktSci": 45,
       "arXiv:econ.GN": 44,
-      "JMS": 28,
+      "JMS": 29,
       "HRM": 26,
-      "SMJ": 24,
+      "SMJ": 25,
       "JAP": 23,
       "AMR": 22,
       "JMR": 20,
@@ -525,9 +525,9 @@
       "JCR": 16,
       "JCP": 15,
       "arXiv:cs.SE": 14,
+      "OrgSci": 13,
       "AMJ": 12,
       "AOM-Discoveries": 12,
-      "OrgSci": 12,
       "PPsych": 11,
       "arXiv:cs.CV": 11,
       "arXiv:cs.MA": 9,
@@ -561,38 +561,38 @@
       "arXiv:math.OC": 1
     },
     "topic_tags": {
-      "人机协作": 488,
+      "人机协作": 490,
       "算法管理": 305,
-      "决策": 269,
-      "伦理": 266,
-      "消费者行为": 240,
-      "公平性": 197,
-      "组织变革": 185,
+      "决策": 270,
+      "伦理": 267,
+      "消费者行为": 241,
+      "公平性": 198,
+      "组织变革": 187,
       "推荐系统": 174,
       "算法决策": 163,
-      "创新": 158,
+      "创新": 160,
       "AI治理": 142,
       "招聘": 142,
-      "信任": 136,
+      "信任": 137,
       "教育": 134,
       "偏见": 132,
       "组织学习": 116,
       "人机交互": 115,
-      "营销": 113,
-      "工作未来": 106,
+      "营销": 115,
+      "工作未来": 107,
       "工作设计": 93,
-      "知识管理": 88,
+      "知识管理": 89,
       "机器学习": 86,
       "绩效评估": 77,
       "HR": 68,
-      "战略": 63,
+      "战略": 65,
+      "创意": 54,
       "培训": 53,
-      "创意": 52,
       "隐私": 51,
-      "团队": 46,
+      "团队": 47,
       "创业": 42,
-      "零工经济": 37,
-      "广告": 36,
+      "零工经济": 38,
+      "广告": 37,
       "员工幸福感": 31,
       "可解释AI": 31,
       "劳动力市场": 28,
@@ -613,18 +613,18 @@
       "文本分析": 11
     },
     "ai_type_tags": {
-      "机器学习": 602,
-      "LLM": 573,
-      "算法决策": 414,
-      "GenAI": 342,
-      "AI治理": 211,
-      "人机交互": 182,
+      "机器学习": 604,
+      "LLM": 576,
+      "算法决策": 415,
+      "GenAI": 347,
+      "AI治理": 212,
+      "人机交互": 183,
       "推荐算法": 178,
-      "人机协作": 168,
-      "算法管理": 151,
+      "人机协作": 170,
+      "算法管理": 153,
       "多模态": 108,
       "可解释AI": 97,
-      "ChatGPT": 85,
+      "ChatGPT": 86,
       "深度学习": 57,
       "可解释 AI": 46,
       "机器人": 46,
