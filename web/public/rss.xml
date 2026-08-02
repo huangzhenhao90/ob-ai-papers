@@ -40,6 +40,74 @@ AI 分: 5.0 / 领域分: 3.0
       <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
       <category>创意</category><category>创新</category><category>人机协作</category><category>团队</category><category>GenAI</category><category>LLM</category><category>人机协作</category><category>人机交互</category>
     </item>    <item>
+      <title>AI 增强型人才保留策略:促进长期员工敬业与发展</title>
+      <link>https://ob-ai-papers.vercel.app/papers/12463</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12463</guid>
+      <description>📝 AI 增强型人才保留策略:促进长期员工敬业与发展
+EN: AI-Increased Talent Retention Strategies: Fostering Long-Term Employee Engagement and Development in Talent Management
+
+💡 聚焦AI对人才管理中员工保留策略的影响。借助预测分析、情感分析与个性化职业规划等工具，组织可识别离职风险、降低招聘成本，并为员工定制学习路径。研究通过系统性文献综述构建整合性框架，涵盖降低流失率、提升敬业度与可持续人力资源管理，同时探讨算法隐私、公平性等伦理挑战及应对路径。
+
+📚 arXiv:cs.CY · 2026 · 引用 0
+👤 Jay Barach
+
+AI 分: 4.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2607.19733v1</description>
+      <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
+      <category>招聘</category><category>HR</category><category>员工幸福感</category><category>伦理</category><category>组织变革</category><category>机器学习</category><category>算法决策</category><category>AI治理</category>
+    </item>    <item>
+      <title>工作场所人-AI 代理交互的用户体验原则框架</title>
+      <link>https://ob-ai-papers.vercel.app/papers/12462</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12462</guid>
+      <description>📝 工作场所人-AI 代理交互的用户体验原则框架
+EN: A Framework of User Experience Principles for Human-AI Agent Interaction in the Workplace
+
+💡 针对AI智能体在企业工作流中日益普及的趋势，采用参与式设计工作坊、专家评审、元分析与深度访谈等多元方法，提炼并验证了适用于职场人机交互的八项核心用户体验(UX)设计原则及其配套准则，为设计师与工程师开发以人为中心、有效可信的智能体交互系统提供可操作框架。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Kathrin Paimann, Elizangela Valarini, Sebastian Juhl
+
+AI 分: 4.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2607.19941v1</description>
+      <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>人机交互</category><category>工作设计</category><category>人机协作</category><category>人机交互</category><category>可解释AI</category>
+    </item>    <item>
+      <title>从理解到表达:基于生成式 AI 的环境锚定 VR 沟通训练(面向自闭症群体)</title>
+      <link>https://ob-ai-papers.vercel.app/papers/12461</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12461</guid>
+      <description>📝 从理解到表达:基于生成式 AI 的环境锚定 VR 沟通训练(面向自闭症群体)
+EN: From Grasping to Speaking: Generative AI-Based Environment-Grounded VR Communication Training for Autistic Individuals
+
+💡 研究探索基于生成式AI的VR沟通训练对自闭症职场人士的效果，以LLM驱动智能体结合环境物体与手部抓取交互。9名自闭症学员与7名职场教练参与三种模态实验（C、C+O、C+O+G）。可用性与认知负荷无显著差异，但学员与教练均更偏好互动性最强的C+O+G，认为其有助于维持投入并将沟通练习融入任务操作。研究提出了面向职场的VR训练设计建议。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Ziming Li, Roshan L. Peiris
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2607.21769v1</description>
+      <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
+      <category>培训</category><category>人机交互</category><category>创新</category><category>GenAI</category><category>LLM</category><category>人机协作</category>
+    </item>    <item>
+      <title>TalentCLEF 亮相 CLEF2026:人力资本管理的技能与职位智能</title>
+      <link>https://ob-ai-papers.vercel.app/papers/12453</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12453</guid>
+      <description>📝 TalentCLEF 亮相 CLEF2026:人力资本管理的技能与职位智能
+EN: TalentCLEF at CLEF2026: Skill and Job Title Intelligence for Human Capital Management
+
+💡 介绍CLEF 2026上举办的TalentCLEF第二届评测赛，旨在推动自然语言处理在人力资本管理领域的应用。重点涵盖两项任务：任务A为基于上下文且保护隐私的岗位-候选人匹配；任务B为岗位-技能匹配及技能类型分类。赛事强调多语言、公平性与跨行业适配，为人才匹配、技能提升与缺口识别提供公共基准。
+
+📚 arXiv:cs.CL · 2026 · 引用 0
+👤 Luis Gasco, Hermenegildo Fabregat, Laura García-Sardiña, Paula Estrella, Casimiro Pio Carrino
+
+AI 分: 4.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2607.20009v1</description>
+      <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
+      <category>招聘</category><category>HR</category><category>公平性</category><category>机器学习</category><category>AI招聘</category>
+    </item>    <item>
       <title>劳动者再定位与技术变革：来自在线劳动力市场的证据</title>
       <link>https://ob-ai-papers.vercel.app/papers/12443</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12443</guid>
@@ -54,6 +122,23 @@ EN: Worker Repositioning and Technological Change: Evidence from an Online Labor
 AI 分: 5.0 / 领域分: 5.0</description>
       <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
       <category>零工经济</category><category>组织变革</category><category>工作未来</category><category>知识管理</category><category>GenAI</category><category>LLM</category><category>ChatGPT</category><category>算法管理</category>
+    </item>    <item>
+      <title>执行与评估:一种新的职业测度与长期就业梯度</title>
+      <link>https://ob-ai-papers.vercel.app/papers/12437</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12437</guid>
+      <description>📝 执行与评估:一种新的职业测度与长期就业梯度
+EN: Execution and Evaluation: A New Occupational Measure and Long-Run Employment Gradients
+
+💡 研究区分AI对任务执行与评估能力的不同替代程度，基于固定评分规则对O*NET全部19,265条任务进行编码，构建职业层面的执行占比与AI能力占比指标。发现执行密集型白领职业的就业增长在2012年以来的各窗口期均偏低，但斜率差异为长期结构性趋势而非AI时代特有效应；2022年后AI能力梯度有所陡峭，但尚不能归因。
+
+📚 arXiv:econ.GN · 2026 · 引用 0
+👤 Li Gan
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2607.20807v1</description>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      <category>工作未来</category><category>战略</category><category>机器学习</category><category>算法决策</category>
     </item>    <item>
       <title>动态能力视角下的算法地位不平等：基于市场的视角</title>
       <link>https://ob-ai-papers.vercel.app/papers/12435</link>
@@ -175,6 +260,66 @@ AI 分: 5.0 / 领域分: 4.0
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
       
     </item>    <item>
+      <title>人工代理的自动社交临场感:常规与定性比较元分析</title>
+      <link>https://ob-ai-papers.vercel.app/papers/12366</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12366</guid>
+      <description>📝 人工代理的自动社交临场感:常规与定性比较元分析
+EN: Automated social presence in artificial agents: A conventional and qualitative comparative meta-analysis
+
+💡 基于常规与定性比较的元分析，综合现有实证研究，探讨人工智能代理中自动化社会临场感的形成机制与配置条件，识别影响用户对AI代理社会感知的因素组合及边界条件。
+
+📚 JAMS · 2026 · 引用 0
+👤 Antoine Juquelier, Simon Hazée, Yves Van Vaerenbergh, Ingrid Poncin
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+      <category>人机交互</category><category>消费者行为</category><category>营销</category><category>人机交互</category><category>GenAI</category>
+    </item>    <item>
+      <title>揭示影响:ChatGPT 被 Stack Overflow 排除的实证研究</title>
+      <link>https://ob-ai-papers.vercel.app/papers/12365</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12365</guid>
+      <description>📝 揭示影响:ChatGPT 被 Stack Overflow 排除的实证研究
+EN: Unraveling the Impact: An Empirical Investigation of ChatGPT’s Exclusion from Stack Overflow
+
+💡 采用双重差分与自然语言处理方法，检验Stack Overflow封禁ChatGPT后内容与社区行为变化。结果显示封禁后回答语言更复杂、更积极且更长，获更多投票支持，但提问未受影响；发布频率与首答者数量下降，并以意大利临时封禁及情景实验加以验证。
+
+📚 ISR · 2026 · 引用 0
+👤 Sameer Borwankar, Warut Khern-am-nuai, Anastasiya Pocheptsova Ghosh, Karthik Kannan
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+      <category>知识管理</category><category>人机协作</category><category>创新</category><category>ChatGPT</category><category>LLM</category><category>NLP</category>
+    </item>    <item>
+      <title>技能降优先级:生成式人工智能时代的组织重构</title>
+      <link>https://ob-ai-papers.vercel.app/papers/12364</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12364</guid>
+      <description>📝 技能降优先级:生成式人工智能时代的组织重构
+EN: Skill Deprioritization: Reorganizing in the Age of Generative Artificial Intelligence
+
+💡 基于排队理论模型与ChatGPT发布作为外生冲击的准实验设计，分析1820家美国上市公司招聘需求变动。研究发现企业对监督、异常处理、任务分工等信息类组织技能需求显著下降，而任务分配与冲突解决等依赖人类判断的技能保持稳定，效应在GPT-4发布后进一步增强。
+
+📚 MgmtSci · 2026 · 引用 0
+👤 Matteo Devigili, Erdem Dogukan Yilmaz, Vibha Gaba, Henrich R. Greve
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+      <category>招聘</category><category>HR</category><category>组织变革</category><category>工作设计</category><category>GenAI</category><category>ChatGPT</category><category>LLM</category>
+    </item>    <item>
+      <title>让文字有分量:管理研究中的计算语言学</title>
+      <link>https://ob-ai-papers.vercel.app/papers/12362</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12362</guid>
+      <description>📝 让文字有分量:管理研究中的计算语言学
+EN: Making Words Count: Computational Linguistics in Management Research
+
+💡 综述2013–2025年发表在顶刊管理学文献中的353篇计算语言学应用研究，归纳出制约CL可信度的四类共性问题：构念与语料错位、模型过度复杂、大语言模型流程不透明、报告不充分。基于此提出四项整合性设计原则：构念—语言匹配、最小充分复杂度、LLM敏感性与可审计性、披露即评估性，倡导将CL重新定位为理论驱动的方法论。
+
+📚 JOM · 2026 · 引用 0
+👤 Joseph Simpson, Richard A. Hunt, David M. Townsend, Judy Rady, Elham Asgari
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+      <category>知识管理</category><category>组织学习</category><category>创新</category><category>LLM</category><category>可解释AI</category><category>机器学习</category>
+    </item>    <item>
       <title>Commentaries on “Generative grounded theory ( &lt;scp&gt;GGT&lt;/scp&gt; ): Inductive theory building in the age of generative &lt;scp&gt;AI&lt;/scp&gt; ”</title>
       <link>https://ob-ai-papers.vercel.app/papers/12346</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12346</guid>
@@ -241,6 +386,22 @@ AI 分: 5.0 / 领域分: 3.0
       <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
       
     </item>    <item>
+      <title>AI Adoption in S&amp;P 500 Firms</title>
+      <link>https://ob-ai-papers.vercel.app/papers/12322</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12322</guid>
+      <description>📝 AI Adoption in S&amp;amp;P 500 Firms
+
+💡 基于S&amp;amp;P 500企业2016—2025年SEC 10-K文件构建AI深度整合测度，发现2025年11%企业实现AI深度整合，10%在产品服务中应用，整体采用率较2022年翻逾四倍，科技行业贡献约三分之二；盈利呈J型曲线，但未观察到资本支出与生产率差异。
+
+📚 arXiv:econ.GN · 2026 · 引用 0
+👤 Yang Yu, Martin Fleming, Lucy Hampton, Christophe Combemale, Neil Thompson
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2607.08920v1</description>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <category>战略</category><category>创新</category><category>组织变革</category><category>GenAI</category><category>机器学习</category>
+    </item>    <item>
       <title>Translating AI into scientific impact: Field context, career position, and institutional capability in AI-enabled research</title>
       <link>https://ob-ai-papers.vercel.app/papers/12319</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12319</guid>
@@ -269,168 +430,33 @@ AI 分: 5.0 / 领域分: 3.0
       <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
       
     </item>    <item>
-      <title>AI-Augmented Human Resource Management? Insights from German companies</title>
-      <link>https://ob-ai-papers.vercel.app/papers/12309</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12309</guid>
-      <description>📝 AI-Augmented Human Resource Management? Insights from German companies
+      <title>让代理中介贡献可治理:开源 AI 协作的项目级治理宣言</title>
+      <link>https://ob-ai-papers.vercel.app/papers/12314</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12314</guid>
+      <description>📝 让代理中介贡献可治理:开源 AI 协作的项目级治理宣言
+EN: Making Agent-Mediated Contributions Governable: A Project-Level Governance Manifest for Open-Source AI Collaboration
 
-📚 arXiv:cs.CY · 2026 · 引用 0
-👤 Yannick Kalff, Katharina Simbeck
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2607.13839v2</description>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-      
-    </item>    <item>
-      <title>JobHop v2: A Large-Scale Career Trajectory Dataset from Unstructured Resumes</title>
-      <link>https://ob-ai-papers.vercel.app/papers/12302</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12302</guid>
-      <description>📝 JobHop v2: A Large-Scale Career Trajectory Dataset from Unstructured Resumes
-
-📚 arXiv:cs.CL · 2026 · 引用 0
-👤 Iman Johary, Guillaume Bied, Alexandru C. Mara, Tijl De Bie
-
-AI 分: 4.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2607.11715v2</description>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-      
-    </item>    <item>
-      <title>STEP: Career-Path Recommendation via Temporal and Educational Trajectory Modeling</title>
-      <link>https://ob-ai-papers.vercel.app/papers/12301</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12301</guid>
-      <description>📝 STEP: Career-Path Recommendation via Temporal and Educational Trajectory Modeling
-
-📚 arXiv:cs.CL · 2026 · 引用 0
-👤 Iman Johary, Guillaume Bied, Alexandru C. Mara, Tijl De Bie
+📚 arXiv:cs.SE · 2026 · 引用 0
+👤 Jinjin Gao, Luyang Li, Shufen Guo, Ligang He, Xiaoning Sun
 
 AI 分: 5.0 / 领域分: 3.0
 
-📄 PDF: https://arxiv.org/pdf/2607.11722v2</description>
+📄 PDF: https://arxiv.org/pdf/2607.15769v1</description>
       <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
       
     </item>    <item>
-      <title>Revisiting industry effects: The assignment of firms to industries</title>
-      <link>https://ob-ai-papers.vercel.app/papers/12278</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12278</guid>
-      <description>📝 Revisiting industry effects: The assignment of firms to industries
+      <title>When Not to Automate: A Formal Protocol for Human Preservation in AI-Optimized Organizations</title>
+      <link>https://ob-ai-papers.vercel.app/papers/12313</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12313</guid>
+      <description>📝 When Not to Automate: A Formal Protocol for Human Preservation in AI-Optimized Organizations
 
-📚 SMJ · 2026 · 引用 0
-👤 Alireza Eshraghi, Bart Vanneste
-
-AI 分: 3.0 / 领域分: 4.0
-
-📄 PDF: https://doi.org/10.1002/smj.70106</description>
-      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
-      
-    </item>    <item>
-      <title>Interpretable Recommendations and Parameter-Grounded LLM Explanations with Multigraph Attention</title>
-      <link>https://ob-ai-papers.vercel.app/papers/12268</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12268</guid>
-      <description>📝 Interpretable Recommendations and Parameter-Grounded LLM Explanations with Multigraph Attention
-
-📚 ISR · 2026 · 引用 0
-👤 Yan Leng, Xiao Liu, Rodrigo Ruiz
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      
-    </item>    <item>
-      <title>Scalable Bundle Recommendations: A Large-Scale Field Experiment</title>
-      <link>https://ob-ai-papers.vercel.app/papers/12267</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12267</guid>
-      <description>📝 Scalable Bundle Recommendations: A Large-Scale Field Experiment
-
-📚 MgmtSci · 2026 · 引用 0
-👤 Madhav Kumar, Dean Eckles, Sinan Aral
-
-AI 分: 3.0 / 领域分: 4.0</description>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      
-    </item>    <item>
-      <title>Same Stories, Different Journeys: From Social Comparison to Sensemaking in AI-Mediated Peer Career Exploration</title>
-      <link>https://ob-ai-papers.vercel.app/papers/12262</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12262</guid>
-      <description>📝 Same Stories, Different Journeys: From Social Comparison to Sensemaking in AI-Mediated Peer Career Exploration
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Pengping Tan, Baoquan Zhao, Zhenhui Peng
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2607.11039v1</description>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      
-    </item>    <item>
-      <title>Two-player Alternate Uses Test: A Controlled Testbed for Interactive Human-AI and Human-Human Co-Creation</title>
-      <link>https://ob-ai-papers.vercel.app/papers/12259</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12259</guid>
-      <description>📝 Two-player Alternate Uses Test: A Controlled Testbed for Interactive Human-AI and Human-Human Co-Creation
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Babak Hemmatian, Anita Keshmirian, Yijun Lin, Shravan Ramamoorthy, Maryam Jahadakbar
+📚 arXiv:cs.MA · 2026 · 引用 0
+👤 Jose Manuel de la Chica Rodriguez, Jairo Rodriguez Arias, Spyridon Chouliaras
 
 AI 分: 5.0 / 领域分: 3.0
 
-📄 PDF: https://arxiv.org/pdf/2607.07522v1</description>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      
-    </item>    <item>
-      <title>TRAIL: A Platform for Configurable Human--AI Teaming Experiments</title>
-      <link>https://ob-ai-papers.vercel.app/papers/12257</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12257</guid>
-      <description>📝 TRAIL: A Platform for Configurable Human--AI Teaming Experiments
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Mohammad Amin Samadi, Pedro Martins De Bastos, Jaeyoon Choi, Spencer JaQuay, Seehee Park
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2607.12180v1</description>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      
-    </item>    <item>
-      <title>Beyond Accuracy: How Humans Evaluate Legally Correct but Socially Controversial Legal Advice from Machines</title>
-      <link>https://ob-ai-papers.vercel.app/papers/12254</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12254</guid>
-      <description>📝 Beyond Accuracy: How Humans Evaluate Legally Correct but Socially Controversial Legal Advice from Machines
-
-📚 arXiv:cs.CY · 2026 · 引用 0
-👤 Benjamin Minhao Chen, Zhiyu Li
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2607.05680v1</description>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      
-    </item>    <item>
-      <title>Faster AI, Uneven Frontier: Rapid Crossings, a Jagged Frontier, and the Repositioning of Human Judgment</title>
-      <link>https://ob-ai-papers.vercel.app/papers/12253</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12253</guid>
-      <description>📝 Faster AI, Uneven Frontier: Rapid Crossings, a Jagged Frontier, and the Repositioning of Human Judgment
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Ancuta Margondai, Julie Rader, Emma Rader, Sara Willox, Mustapha Mouloua
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2607.12125v1</description>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      
-    </item>    <item>
-      <title>Persona Migration and Expectation Recalibration in Generative AI Adoption: A Longitudinal Study at a State Department of Transportation</title>
-      <link>https://ob-ai-papers.vercel.app/papers/12247</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12247</guid>
-      <description>📝 Persona Migration and Expectation Recalibration in Generative AI Adoption: A Longitudinal Study at a State Department of Transportation
-
-📚 arXiv:cs.CY · 2026 · 引用 0
-👤 Omidreza Shoghli, Fatemeh Banani Ardecani, Amin Mohamadi Hezaveh
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2607.13798v1</description>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+📄 PDF: https://arxiv.org/pdf/2607.15944v1</description>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
       
     </item>
   </channel>
