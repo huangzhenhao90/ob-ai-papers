@@ -467,6 +467,8 @@ AI 分: 5.0 / 领域分: 3.0
       <description>📝 让代理中介贡献可治理:开源 AI 协作的项目级治理宣言
 EN: Making Agent-Mediated Contributions Governable: A Project-Level Governance Manifest for Open-Source AI Collaboration
 
+💡 生成式AI编码智能体加速了开源贡献生成，但维护者难以及时评估其风险、证据和责任。审计50个GitHub仓库发现普遍缺乏协调AI贡献全流程的治理安排。作者提出智能体治理清单（AGM）作为仓库级双向治理契约，连接贡献者证据准备与维护者验证。评审实验显示AGM将风险标签恢复率从15/37提升至37/38，感知评审支持从3.27升至6.14，并构建三层智能体可治理性框架。
+
 📚 arXiv:cs.SE · 2026 · 引用 0
 👤 Jinjin Gao, Luyang Li, Shufen Guo, Ligang He, Xiaoning Sun
 
@@ -474,7 +476,7 @@ AI 分: 5.0 / 领域分: 3.0
 
 📄 PDF: https://arxiv.org/pdf/2607.15769v1</description>
       <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-      
+      <category>AI治理</category><category>知识管理</category><category>组织变革</category><category>GenAI</category><category>LLM</category><category>AI治理</category>
     </item>    <item>
       <title>何时不应自动化：AI优化型组织中维系人类存续的正式协议</title>
       <link>https://ob-ai-papers.vercel.app/papers/12313</link>
