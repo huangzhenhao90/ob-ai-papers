@@ -87,6 +87,7 @@ def process_one_batch(client, batch_idx, batch):
     try:
         data = client.chat(messages, max_tokens=max_tok, temperature=0.2)
     except Exception as e:
+        print(f"  ! batch_idx={batch_idx} 请求失败: {str(e)[:300]}")
         return [(p["id"], {"error": str(e)[:200]}) for p in batch]
 
     usage = client.usage(data)
