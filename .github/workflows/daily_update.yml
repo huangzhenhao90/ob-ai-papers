@@ -27,6 +27,10 @@ on:
         description: "LLM 并发请求数"
         required: false
         default: "4"
+      llm_backfill_enrichment:
+        description: "是否补跑缺失的 TL;DR/中文标题"
+        required: false
+        default: "false"
 
 permissions:
   contents: write  # 需要 commit JSON + 更新 release
@@ -85,6 +89,7 @@ jobs:
           LLM_DAILY_LIMIT: ${{ inputs.llm_daily_limit || '200' }}
           LLM_CANDIDATE_LOOKBACK_DAYS: ${{ inputs.llm_candidate_lookback_days || '14' }}
           LLM_WORKERS: ${{ inputs.llm_workers || '4' }}
+          LLM_BACKFILL_ENRICHMENT: ${{ inputs.llm_backfill_enrichment || 'false' }}
         run: python scripts/incremental_update.py
 
       - name: Commit updated web data if changed

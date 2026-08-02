@@ -158,26 +158,47 @@ def select_recent_llm_candidate_ids(limit: int) -> tuple[int, int, list[int], st
     since_date = since_dt_obj.strftime("%Y-%m-%d")
     today = datetime.utcnow().strftime("%Y-%m-%d")
 
+    backfill_enrichment = os.getenv("LLM_BACKFILL_ENRICHMENT", "false").lower() in {
+        "1", "true", "yes", "on"
+    }
     pending_where = """
         FROM papers p
         LEFT JOIN paper_scores s ON s.paper_id = p.id
-        WHERE (s.paper_id IS NULL OR s.ai_relevance IS NULL)
+        LEFT JOIN llm_outputs o ON o.paper_id = p.id
+        WHERE (
+            s.paper_id IS NULL
+            OR s.ai_relevance IS NULL
+            OR (
+                :backfill_enrichment = 1
+                AND s.ai_relevance >= 3
+                AND s.domain_relevance >= 3
+                AND (
+                    o.paper_id IS NULL
+                    OR o.tldr_zh IS NULL
+                    OR o.tldr_zh = ''
+                    OR p.title_zh IS NULL
+                    OR p.title_zh = ''
+                )
+            )
+        )
     """
-    recent_where = pending_where + """
+    recent_where = pending_where + ("" if backfill_enrichment else """
           AND (
             (p.pub_date IS NOT NULL AND p.pub_date >= :since_date)
             OR (p.created_at IS NOT NULL AND p.created_at >= :since_dt)
           )
-    """
+    """)
 
     session = get_session(DB_PATH)
     try:
         total_pending = session.execute(
-            text(f"SELECT COUNT(*) {pending_where}")
+            text(f"SELECT COUNT(*) {pending_where}"),
+            {"backfill_enrichment": int(backfill_enrichment)},
         ).scalar() or 0
         candidate_total = session.execute(
             text(f"SELECT COUNT(*) {recent_where}"),
-            {"since_date": since_date, "since_dt": since_dt},
+            {"since_date": since_date, "since_dt": since_dt,
+             "backfill_enrichment": int(backfill_enrichment)},
         ).scalar() or 0
         ids = session.execute(text(f"""
             SELECT p.id
@@ -197,6 +218,7 @@ def select_recent_llm_candidate_ids(limit: int) -> tuple[int, int, list[int], st
             "since_dt": since_dt,
             "today": today,
             "limit": limit,
+            "backfill_enrichment": int(backfill_enrichment),
         }).scalars().all()
         return total_pending, candidate_total, [int(pid) for pid in ids], since_date
     finally:
