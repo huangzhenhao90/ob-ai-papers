@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-02T14:20:22.333714Z",
+  "generated_at": "2026-08-03T05:41:17.961843Z",
   "totals": {
-    "papers_indexed": 12485,
-    "papers_scored": 12485,
+    "papers_indexed": 12488,
+    "papers_scored": 12488,
     "papers_ai_relevant": 1725
   },
   "journals": [
@@ -136,7 +136,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/jom",
-      "papers_indexed": 402,
+      "papers_indexed": 403,
       "papers_ai_relevant": 7
     },
     {
@@ -239,7 +239,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://academic.oup.com/jcr",
-      "papers_indexed": 283,
+      "papers_indexed": 284,
       "papers_ai_relevant": 16
     },
     {
@@ -340,7 +340,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/hum",
-      "papers_indexed": 232,
+      "papers_indexed": 233,
       "papers_ai_relevant": 6
     },
     {
