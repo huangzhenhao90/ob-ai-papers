@@ -6,9 +6,43 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 02 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>动态调研：利用LLMs融合定性深度、定量结构与协作交互</title>
+      <link>https://ob-ai-papers.vercel.app/papers/12492</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12492</guid>
+      <description>📝 动态调研：利用LLMs融合定性深度、定量结构与协作交互
+EN: Dynamic Surveys: Using LLMs to Blend Qualitative Depth,Quantitative Structure, and Collaborative Interaction
+
+💡 针对传统问卷难以兼顾定性深度与定量结构的问题，提出基于大语言模型的Dynamic Surveys平台，实时聚类定性回复并生成定量评分、排名与反思报告。通过两项田野实验（93名参与者，历时2个月）验证可用性，展示LLM在探索性研究中融合质性与量化数据的潜力。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Kehua Lei, Aidan Ladenburg, Zahra Petiwala, Zili Wang, Dishita Jhawar
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2608.00357v1</description>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <category>营销</category><category>创新</category><category>决策</category><category>LLM</category><category>GenAI</category><category>人机交互</category>
+    </item>    <item>
+      <title>基于文本描述符预测初创企业退出：计算语言学框架</title>
+      <link>https://ob-ai-papers.vercel.app/papers/12491</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12491</guid>
+      <description>📝 基于文本描述符预测初创企业退出：计算语言学框架
+EN: Predicting Startup Exit from Textual Descriptors - A Computational Linguistics Framework
+
+💡 基于7419家初创企业20年风投数据，提取850项文本叙事特征，利用六种监督学习模型预测创业退出。LightGBM表现最优（F1=0.48），纯文本描述即可达F1=0.30。研究发现适度使用修饰词、术语与流行词与退出概率正相关，过长则反之，并提出可量化的Hyping Score指标。
+
+📚 arXiv:cs.CL · 2026 · 引用 0
+👤 Alberto M. G. Saruggia, Sebastien Germano
+
+AI 分: 4.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2608.00045v1</description>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <category>创业</category><category>战略</category><category>创新</category><category>机器学习</category>
+    </item>    <item>
       <title>AI驱动浏览器：广泛准确的新闻摘要工具，可减少政治偏见与负面情绪</title>
       <link>https://ob-ai-papers.vercel.app/papers/12478</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12478</guid>
@@ -462,40 +496,6 @@ AI 分: 5.0 / 领域分: 3.0
 📄 PDF: https://arxiv.org/pdf/2607.07612v1</description>
       <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
       <category>伦理</category><category>组织变革</category><category>战略</category><category>GenAI</category><category>AI治理</category>
-    </item>    <item>
-      <title>让代理中介贡献可治理:开源 AI 协作的项目级治理宣言</title>
-      <link>https://ob-ai-papers.vercel.app/papers/12314</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12314</guid>
-      <description>📝 让代理中介贡献可治理:开源 AI 协作的项目级治理宣言
-EN: Making Agent-Mediated Contributions Governable: A Project-Level Governance Manifest for Open-Source AI Collaboration
-
-💡 生成式AI编码智能体加速了开源贡献生成，但维护者难以及时评估其风险、证据和责任。审计50个GitHub仓库发现普遍缺乏协调AI贡献全流程的治理安排。作者提出智能体治理清单（AGM）作为仓库级双向治理契约，连接贡献者证据准备与维护者验证。评审实验显示AGM将风险标签恢复率从15/37提升至37/38，感知评审支持从3.27升至6.14，并构建三层智能体可治理性框架。
-
-📚 arXiv:cs.SE · 2026 · 引用 0
-👤 Jinjin Gao, Luyang Li, Shufen Guo, Ligang He, Xiaoning Sun
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2607.15769v1</description>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-      <category>AI治理</category><category>知识管理</category><category>组织变革</category><category>GenAI</category><category>LLM</category><category>AI治理</category>
-    </item>    <item>
-      <title>何时不应自动化：AI优化型组织中维系人类存续的正式协议</title>
-      <link>https://ob-ai-papers.vercel.app/papers/12313</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12313</guid>
-      <description>📝 何时不应自动化：AI优化型组织中维系人类存续的正式协议
-EN: When Not to Automate: A Formal Protocol for Human Preservation in AI-Optimized Organizations
-
-💡 针对标准自动化ROI忽视默会知识流失、韧性下降、监管暴露与社会制度资本退化四类系统性风险的问题，提出五门序贯决策协议PHP-AIO，并形式化定义自动化债务度量ρ(P)与人类在环监管锚点。基于代表性内部岗位的分析显示，标准成本收益分析会统一选择自动化的对象，PHP-AIO可给出自动化、增强、混合与保留等差异化处置。
-
-📚 arXiv:cs.MA · 2026 · 引用 0
-👤 Jose Manuel de la Chica Rodriguez, Jairo Rodriguez Arias, Spyridon Chouliaras
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2607.15944v1</description>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-      <category>组织变革</category><category>工作设计</category><category>决策</category><category>AI治理</category><category>AI治理</category><category>人机协作</category><category>算法决策</category>
     </item>
   </channel>
 </rss>
