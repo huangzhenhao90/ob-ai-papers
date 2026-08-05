@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-04T05:04:50.176286Z",
+  "generated_at": "2026-08-05T05:15:36.920739Z",
   "totals": {
-    "papers_indexed": 12493,
-    "papers_scored": 12492,
-    "papers_ai_relevant": 1727
+    "papers_indexed": 12503,
+    "papers_scored": 12503,
+    "papers_ai_relevant": 1728
   },
   "journals": [
     {
@@ -63,7 +63,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://psycnet.apa.org/PsycARTICLES/journal/apl",
-      "papers_indexed": 546,
+      "papers_indexed": 548,
       "papers_ai_relevant": 25
     },
     {
@@ -93,7 +93,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/17446570",
-      "papers_indexed": 187,
+      "papers_indexed": 188,
       "papers_ai_relevant": 12
     },
     {
@@ -150,7 +150,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/10970266",
-      "papers_indexed": 430,
+      "papers_indexed": 431,
       "papers_ai_relevant": 26
     },
     {
@@ -164,7 +164,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/mnsc",
-      "papers_indexed": 2032,
+      "papers_indexed": 2033,
       "papers_ai_relevant": 176
     },
     {
@@ -267,8 +267,8 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/mrj",
-      "papers_indexed": 254,
-      "papers_ai_relevant": 20
+      "papers_indexed": 257,
+      "papers_ai_relevant": 21
     },
     {
       "abbr": "MktSci",
@@ -326,7 +326,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://www.sciencedirect.com/journal/the-leadership-quarterly",
-      "papers_indexed": 182,
+      "papers_indexed": 183,
       "papers_ai_relevant": 4
     },
     {
@@ -340,7 +340,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/hum",
-      "papers_indexed": 233,
+      "papers_indexed": 234,
       "papers_ai_relevant": 6
     },
     {
@@ -499,7 +499,7 @@
       "2023": 260,
       "2024": 354,
       "2025": 629,
-      "2026": 473
+      "2026": 474
     },
     "journals": {
       "arXiv:cs.HC": 221,
@@ -518,9 +518,9 @@
       "SMJ": 26,
       "JAP": 25,
       "AMR": 23,
+      "JMR": 21,
       "JAMS": 20,
       "JM": 20,
-      "JMR": 20,
       "JOB": 17,
       "JCP": 16,
       "JCR": 16,
@@ -563,7 +563,7 @@
     "topic_tags": {
       "人机协作": 507,
       "算法管理": 307,
-      "决策": 283,
+      "决策": 284,
       "伦理": 272,
       "消费者行为": 250,
       "公平性": 203,
@@ -576,7 +576,7 @@
       "信任": 145,
       "偏见": 135,
       "教育": 134,
-      "营销": 123,
+      "营销": 124,
       "组织学习": 122,
       "人机交互": 120,
       "工作未来": 112,
@@ -614,9 +614,9 @@
     },
     "ai_type_tags": {
       "机器学习": 619,
-      "LLM": 606,
-      "算法决策": 422,
-      "GenAI": 370,
+      "LLM": 607,
+      "算法决策": 423,
+      "GenAI": 371,
       "AI治理": 225,
       "人机交互": 194,
       "人机协作": 186,
