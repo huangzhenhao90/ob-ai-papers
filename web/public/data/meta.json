@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-05T05:15:36.920739Z",
+  "generated_at": "2026-08-06T05:16:56.657703Z",
   "totals": {
-    "papers_indexed": 12503,
-    "papers_scored": 12503,
+    "papers_indexed": 12510,
+    "papers_scored": 12510,
     "papers_ai_relevant": 1728
   },
   "journals": [
@@ -48,7 +48,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/asq",
-      "papers_indexed": 227,
+      "papers_indexed": 228,
       "papers_ai_relevant": 8
     },
     {
@@ -150,7 +150,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/10970266",
-      "papers_indexed": 431,
+      "papers_indexed": 432,
       "papers_ai_relevant": 26
     },
     {
@@ -164,7 +164,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/mnsc",
-      "papers_indexed": 2033,
+      "papers_indexed": 2035,
       "papers_ai_relevant": 176
     },
     {
@@ -311,7 +311,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://link.springer.com/journal/11747",
-      "papers_indexed": 291,
+      "papers_indexed": 293,
       "papers_ai_relevant": 20
     },
     {
@@ -326,7 +326,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://www.sciencedirect.com/journal/the-leadership-quarterly",
-      "papers_indexed": 183,
+      "papers_indexed": 184,
       "papers_ai_relevant": 4
     },
     {
