@@ -6,9 +6,37 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 05 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>生成式扎根理论（GGT）：生成式人工智能时代的归纳性理论建构</title>
+      <link>https://ob-ai-papers.vercel.app/papers/12518</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12518</guid>
+      <description>📝 生成式扎根理论（GGT）：生成式人工智能时代的归纳性理论建构
+EN: Generative grounded theory ( &amp;lt;scp&amp;gt;GGT&amp;lt;/scp&amp;gt; ): Inductive theory building in the age of generative &amp;lt;scp&amp;gt;AI&amp;lt;/scp&amp;gt;
+
+💡 提出生成式扎根理论（GGT），将生成式AI融入扎根理论分析，同时保留人类诠释权威。方法含系统化分步流程，支持定性数据比较与理论建构，已在两项消费者心理学新研究及两项既有研究再分析中加以验证，可提升规模、效率、透明度与可追溯性。
+
+📚 JCP · 2026 · 引用 0
+👤 Bernd Schmitt, Shuyi Hao, Michel Tuan Pham, Reto Hofstetter
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <category>消费者行为</category><category>知识管理</category><category>GenAI</category><category>LLM</category>
+    </item>    <item>
+      <title>少看多参与：重新思考GenAI协同创作平台早期用户体验——一项田野实验的发现</title>
+      <link>https://ob-ai-papers.vercel.app/papers/12517</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12517</guid>
+      <description>📝 少看多参与：重新思考GenAI协同创作平台早期用户体验——一项田野实验的发现
+EN: Seeing Less, Engaging More: Rethinking Early User Experience on GenAI Co-Creation Platforms–Findings from a Field Experiment
+
+📚 ISR · 2026 · 引用 0
+👤 Shenyang Jiang, Akshat Lakhiwal, Che‐Wei Liu, Jiang Duan
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
       <title>EXPRESS:利用生成式人工智能评估新型非结构化干预:一种因果预测框架</title>
       <link>https://ob-ai-papers.vercel.app/papers/12501</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12501</guid>
@@ -460,40 +488,6 @@ AI 分: 5.0 / 领域分: 3.0
 📄 PDF: https://arxiv.org/pdf/2607.15381v1</description>
       <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
       <category>战略</category><category>工作未来</category><category>组织变革</category><category>机器学习</category><category>算法管理</category>
-    </item>    <item>
-      <title>标普500企业的AI采纳</title>
-      <link>https://ob-ai-papers.vercel.app/papers/12322</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12322</guid>
-      <description>📝 标普500企业的AI采纳
-EN: AI Adoption in S&amp;amp;P 500 Firms
-
-💡 基于S&amp;amp;P 500企业2016—2025年SEC 10-K文件构建AI深度整合测度，发现2025年11%企业实现AI深度整合，10%在产品服务中应用，整体采用率较2022年翻逾四倍，科技行业贡献约三分之二；盈利呈J型曲线，但未观察到资本支出与生产率差异。
-
-📚 arXiv:econ.GN · 2026 · 引用 0
-👤 Yang Yu, Martin Fleming, Lucy Hampton, Christophe Combemale, Neil Thompson
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2607.08920v1</description>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-      <category>战略</category><category>创新</category><category>组织变革</category><category>GenAI</category><category>机器学习</category>
-    </item>    <item>
-      <title>将AI转化为科学影响：AI赋能研究中的领域情境、职业位置与机构能力</title>
-      <link>https://ob-ai-papers.vercel.app/papers/12319</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12319</guid>
-      <description>📝 将AI转化为科学影响：AI赋能研究中的领域情境、职业位置与机构能力
-EN: Translating AI into scientific impact: Field context, career position, and institutional capability in AI-enabled research
-
-💡 基于大规模文献计量数据，考察AI知识整合与科学引用影响的关系。结果显示AI引用普遍提升引用量，但收益因学科而异：资深学者从引用广度获益更大，青年学者从高强度引用及更新、更高影响AI文献中获益更多；机构层面呈倒U型，中等AI能力的机构获比例性收益最大，顶级AI机构则更深嵌入AI知识网络并充当引用门户，强调AI价值的实现取决于跨学科翻译能力。
-
-📚 arXiv:cs.CY · 2026 · 引用 0
-👤 Zhiyong Tan, Hongkan Chen, Yi Bu
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2607.16780v1</description>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-      <category>知识管理</category><category>创新</category><category>战略</category><category>机器学习</category><category>AI治理</category>
     </item>
   </channel>
 </rss>

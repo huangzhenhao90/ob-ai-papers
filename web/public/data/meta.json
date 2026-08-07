@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-06T05:16:56.657703Z",
+  "generated_at": "2026-08-07T04:27:41.746888Z",
   "totals": {
-    "papers_indexed": 12510,
-    "papers_scored": 12510,
-    "papers_ai_relevant": 1728
+    "papers_indexed": 12520,
+    "papers_scored": 12520,
+    "papers_ai_relevant": 1730
   },
   "journals": [
     {
@@ -63,7 +63,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://psycnet.apa.org/PsycARTICLES/journal/apl",
-      "papers_indexed": 548,
+      "papers_indexed": 549,
       "papers_ai_relevant": 25
     },
     {
@@ -136,7 +136,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/jom",
-      "papers_indexed": 403,
+      "papers_indexed": 404,
       "papers_ai_relevant": 7
     },
     {
@@ -164,7 +164,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/mnsc",
-      "papers_indexed": 2035,
+      "papers_indexed": 2036,
       "papers_ai_relevant": 176
     },
     {
@@ -179,7 +179,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://misq.umn.edu/",
-      "papers_indexed": 282,
+      "papers_indexed": 283,
       "papers_ai_relevant": 52
     },
     {
@@ -194,8 +194,8 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/isre",
-      "papers_indexed": 528,
-      "papers_ai_relevant": 108
+      "papers_indexed": 530,
+      "papers_ai_relevant": 109
     },
     {
       "abbr": "AOM-Annals",
@@ -297,8 +297,8 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/15327663",
-      "papers_indexed": 181,
-      "papers_ai_relevant": 16
+      "papers_indexed": 182,
+      "papers_ai_relevant": 17
     },
     {
       "abbr": "JAMS",
@@ -311,7 +311,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://link.springer.com/journal/11747",
-      "papers_indexed": 293,
+      "papers_indexed": 294,
       "papers_ai_relevant": 20
     },
     {
@@ -355,7 +355,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/14676486",
-      "papers_indexed": 557,
+      "papers_indexed": 558,
       "papers_ai_relevant": 30
     },
     {
@@ -483,7 +483,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://arxiv.org/",
-      "papers_indexed": 2992,
+      "papers_indexed": 2993,
       "papers_ai_relevant": 1027
     }
   ],
@@ -499,7 +499,7 @@
       "2023": 260,
       "2024": 354,
       "2025": 629,
-      "2026": 474
+      "2026": 476
     },
     "journals": {
       "arXiv:cs.HC": 221,
@@ -507,7 +507,7 @@
       "arXiv:cs.AI": 195,
       "MgmtSci": 176,
       "arXiv:cs.CL": 127,
-      "ISR": 108,
+      "ISR": 109,
       "arXiv:cs.LG": 84,
       "arXiv:cs.IR": 63,
       "MISQ": 52,
@@ -521,8 +521,8 @@
       "JMR": 21,
       "JAMS": 20,
       "JM": 20,
+      "JCP": 17,
       "JOB": 17,
-      "JCP": 16,
       "JCR": 16,
       "arXiv:cs.SE": 15,
       "OrgSci": 13,
@@ -565,7 +565,7 @@
       "算法管理": 307,
       "决策": 284,
       "伦理": 272,
-      "消费者行为": 250,
+      "消费者行为": 251,
       "公平性": 203,
       "组织变革": 198,
       "推荐系统": 182,
@@ -581,7 +581,7 @@
       "人机交互": 120,
       "工作未来": 112,
       "工作设计": 100,
-      "知识管理": 97,
+      "知识管理": 98,
       "机器学习": 86,
       "绩效评估": 79,
       "HR": 75,
@@ -614,9 +614,9 @@
     },
     "ai_type_tags": {
       "机器学习": 619,
-      "LLM": 607,
+      "LLM": 608,
       "算法决策": 423,
-      "GenAI": 371,
+      "GenAI": 372,
       "AI治理": 225,
       "人机交互": 194,
       "人机协作": 186,
