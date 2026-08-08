@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-07T04:27:41.746888Z",
+  "generated_at": "2026-08-08T03:24:19.831130Z",
   "totals": {
-    "papers_indexed": 12520,
-    "papers_scored": 12520,
+    "papers_indexed": 12526,
+    "papers_scored": 12526,
     "papers_ai_relevant": 1730
   },
   "journals": [
@@ -18,7 +18,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.aom.org/loi/amj",
-      "papers_indexed": 385,
+      "papers_indexed": 386,
       "papers_ai_relevant": 12
     },
     {
@@ -63,7 +63,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://psycnet.apa.org/PsycARTICLES/journal/apl",
-      "papers_indexed": 549,
+      "papers_indexed": 550,
       "papers_ai_relevant": 25
     },
     {
@@ -239,7 +239,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://academic.oup.com/jcr",
-      "papers_indexed": 284,
+      "papers_indexed": 285,
       "papers_ai_relevant": 16
     },
     {
@@ -267,7 +267,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/mrj",
-      "papers_indexed": 257,
+      "papers_indexed": 258,
       "papers_ai_relevant": 21
     },
     {
@@ -384,7 +384,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/1099050X",
-      "papers_indexed": 282,
+      "papers_indexed": 284,
       "papers_ai_relevant": 26
     },
     {
