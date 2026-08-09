@@ -6,9 +6,37 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 07 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>Fighting Fire with Fire: Infusing Artificial Intelligence into Peer Review to Sustain Quality Scholarship</title>
+      <link>https://ob-ai-papers.vercel.app/papers/12537</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12537</guid>
+      <description>📝 Fighting Fire with Fire: Infusing Artificial Intelligence into Peer Review to Sustain Quality Scholarship
+
+💡 面对AI加速论文产出、投稿激增导致审稿压力增大的困境，研究构建数学模型对比传统与AI融入的期刊审稿流程，提出让大语言模型作为结构化前线审稿人，强调评估须透明可申诉，并以人在环监督框架保障效率、准确性与问责制，阐明AI辅助审稿改善周转时间和决策准确性的条件。
+
+📚 MgmtSci · 2026 · 引用 0
+👤 Hemant K. Bhargava, Sarah Bana, Zhe Zhang, Laura Brandimarte, Vidyanand Choudhary
+
+AI 分: 5.0 / 领域分: 3.0</description>
+      <pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
+      <category>知识管理</category><category>组织变革</category><category>决策</category><category>伦理</category><category>LLM</category><category>GenAI</category><category>人机协作</category><category>AI治理</category>
+    </item>    <item>
+      <title>Don’t Build a Better Fax Machine: A Commentary on “Fighting Fire with Fire: Infusing AI into Peer Review to Sustain Quality Scholarship”</title>
+      <link>https://ob-ai-papers.vercel.app/papers/12536</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12536</guid>
+      <description>📝 Don’t Build a Better Fax Machine: A Commentary on “Fighting Fire with Fire: Infusing AI into Peer Review to Sustain Quality Scholarship”
+
+💡 本文对前文AI融入同行评审的观点进行评述，认为仅用AI加速现有审稿流程是改良而非变革，主张借助AI从运营管理与创新视角根本性重构学术交流模式，探索更开放、及时、适应现代科研需求的颠覆性知识传播替代方案。
+
+📚 MgmtSci · 2026 · 引用 0
+👤 Christian Terwiesch
+
+AI 分: 5.0 / 领域分: 3.0</description>
+      <pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
+      <category>创新</category><category>知识管理</category><category>组织变革</category><category>GenAI</category><category>LLM</category>
+    </item>    <item>
       <title>生成式扎根理论（GGT）：生成式人工智能时代的归纳性理论建构</title>
       <link>https://ob-ai-papers.vercel.app/papers/12518</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12518</guid>
@@ -454,40 +482,6 @@ AI 分: 4.0 / 领域分: 3.0
 📄 PDF: https://arxiv.org/pdf/2607.13844v1</description>
       <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
       <category>知识管理</category><category>组织学习</category><category>伦理</category><category>GenAI</category><category>AI 治理</category>
-    </item>    <item>
-      <title>AI时代帮助人们选择职业</title>
-      <link>https://ob-ai-papers.vercel.app/papers/12325</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12325</guid>
-      <description>📝 AI时代帮助人们选择职业
-EN: Helping People Choose Careers in the Age of AI
-
-💡 比较6种AI对职业暴露的预测方法，基于Anthropic和OpenAI 2025年查询数据构建新模型。发现模型间异质性显著，但2020年后模型显示AI暴露、薪资与职业复杂度正相关。综合5个模型均值发现，医疗类工作在高薪资与低AI暴露间平衡最佳；将Claude作为互补工具的工作比替代性使用的工作薪资略高，模式取决于各领域使用规范。
-
-📚 arXiv:econ.GN · 2026 · 引用 0
-👤 Jennifer L. Steele, Isabella Cruz
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2607.15506v1</description>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-      <category>工作未来</category><category>招聘</category><category>决策</category><category>LLM</category><category>算法决策</category>
-    </item>    <item>
-      <title>更便宜的AI，更多的非正规性？面向发展中经济体的二元劳动力市场模型</title>
-      <link>https://ob-ai-papers.vercel.app/papers/12324</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12324</guid>
-      <description>📝 更便宜的AI，更多的非正规性？面向发展中经济体的二元劳动力市场模型
-EN: Cheaper AI, More Informality? A Dual Labor Market Model for Developing Economies
-
-💡 构建小型开放经济DSGE模型，纳入正规与非正规双重劳动力市场及进口AI资本，分析AI降价对发展中经济体的劳动力影响。结果取决于AI与正规劳动的替代弹性：替代关系下正规就业收缩、非正规部门扩大充当缓冲；互补关系下则扩张正规就业、放大产出和工资。AI既可能成为劳动力替代压力，也可能成为正规部门扩张驱动力，取决于其与人力劳动的交互方式。
-
-📚 arXiv:econ.GN · 2026 · 引用 0
-👤 Gabriel Montes-Rojas, Fernando Toledo, Juan Manuel Rodríguez Repeti
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2607.15381v1</description>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-      <category>战略</category><category>工作未来</category><category>组织变革</category><category>机器学习</category><category>算法管理</category>
     </item>
   </channel>
 </rss>
