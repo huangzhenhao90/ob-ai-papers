@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-09T03:32:47.483386Z",
+  "generated_at": "2026-08-10T03:52:22.657413Z",
   "totals": {
-    "papers_indexed": 12539,
-    "papers_scored": 12539,
-    "papers_ai_relevant": 1732
+    "papers_indexed": 12543,
+    "papers_scored": 12543,
+    "papers_ai_relevant": 1733
   },
   "journals": [
     {
@@ -136,7 +136,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/jom",
-      "papers_indexed": 404,
+      "papers_indexed": 405,
       "papers_ai_relevant": 7
     },
     {
@@ -355,7 +355,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/14676486",
-      "papers_indexed": 558,
+      "papers_indexed": 559,
       "papers_ai_relevant": 30
     },
     {
@@ -483,8 +483,8 @@
       ],
       "lang": "en",
       "publisher_toc": "https://arxiv.org/",
-      "papers_indexed": 2993,
-      "papers_ai_relevant": 1027
+      "papers_indexed": 2995,
+      "papers_ai_relevant": 1028
     }
   ],
   "facets": {
@@ -499,11 +499,11 @@
       "2023": 260,
       "2024": 354,
       "2025": 629,
-      "2026": 478
+      "2026": 479
     },
     "journals": {
       "arXiv:cs.HC": 221,
-      "arXiv:cs.CY": 209,
+      "arXiv:cs.CY": 210,
       "arXiv:cs.AI": 195,
       "MgmtSci": 178,
       "arXiv:cs.CL": 127,
@@ -563,16 +563,16 @@
     "topic_tags": {
       "人机协作": 507,
       "算法管理": 307,
-      "决策": 285,
-      "伦理": 273,
+      "决策": 286,
+      "伦理": 274,
       "消费者行为": 251,
-      "公平性": 203,
+      "公平性": 204,
       "组织变革": 200,
       "推荐系统": 182,
       "创新": 174,
       "算法决策": 163,
       "招聘": 150,
-      "AI治理": 145,
+      "AI治理": 146,
       "信任": 145,
       "偏见": 135,
       "教育": 134,
@@ -614,16 +614,16 @@
     },
     "ai_type_tags": {
       "机器学习": 619,
-      "LLM": 610,
-      "算法决策": 423,
-      "GenAI": 374,
+      "LLM": 611,
+      "算法决策": 424,
+      "GenAI": 375,
       "AI治理": 226,
       "人机交互": 194,
       "人机协作": 187,
       "推荐算法": 185,
       "算法管理": 158,
       "多模态": 110,
-      "可解释AI": 100,
+      "可解释AI": 101,
       "ChatGPT": 89,
       "深度学习": 57,
       "可解释 AI": 48,

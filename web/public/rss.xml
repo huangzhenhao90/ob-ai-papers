@@ -6,9 +6,26 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 09 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>为何公共服务人工智能治理框架在通用人工智能时代面临失败风险：来自警务的启示</title>
+      <link>https://ob-ai-papers.vercel.app/papers/12542</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12542</guid>
+      <description>📝 为何公共服务人工智能治理框架在通用人工智能时代面临失败风险：来自警务的启示
+EN: Why Public Service AI Governance Frameworks Risk Failing in the Age of General-Purpose AI: Lessons from Policing
+
+💡 针对公共服务领域AI治理难题，以警务为案例，论证通用人工智能(GPAI)因通用性、低门槛和低成本，瓦解了传统AI安全框架的前提：准确率无法量化、偏见难以分解、可解释性沦为表面修辞、问责因输出优化而被侵蚀。指出专家评估和人机协同两种主流缓解措施同样依赖被GPAI打破的假设，安全保障须从内嵌于工具设计的特征转向外部制度安排。
+
+📚 arXiv:cs.CY · 2026 · 引用 0
+👤 Sam Relins, Daniel Birks
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2607.25648v1</description>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+      <category>AI治理</category><category>伦理</category><category>公平性</category><category>决策</category><category>GenAI</category><category>LLM</category><category>可解释AI</category><category>算法决策</category>
+    </item>    <item>
       <title>Fighting Fire with Fire: Infusing Artificial Intelligence into Peer Review to Sustain Quality Scholarship</title>
       <link>https://ob-ai-papers.vercel.app/papers/12537</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12537</guid>
@@ -465,23 +482,6 @@ EN: Synthesizing research on leadership behaviors: Semantically validating a tax
 AI 分: 4.0 / 领域分: 5.0</description>
       <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
       <category>领导力</category><category>组织学习</category><category>决策</category><category>LLM</category><category>机器学习</category>
-    </item>    <item>
-      <title>混乱研究、认证与科学的商品化</title>
-      <link>https://ob-ai-papers.vercel.app/papers/12326</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/12326</guid>
-      <description>📝 混乱研究、认证与科学的商品化
-EN: Messy Research, Certification and the Monetization of Science
-
-💡 研究AI辅助研究对科学认证制度的冲击。AI降低产出精美论文的成本快于降低评估贡献质量的成本，使外观打磨失去信息价值、投稿膨胀、未经认证池平均质量下降。在固定认证标准下，认证意愿支付上升，掌握市场力的认证方可捕获溢价；评审能力固定且承诺弱时认证则被稀释。文章将AI经济与科学认证、信号博弈及同行评审联系起来。
-
-📚 arXiv:econ.GN · 2026 · 引用 0
-👤 Johan Fourie
-
-AI 分: 4.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2607.13844v1</description>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-      <category>知识管理</category><category>组织学习</category><category>伦理</category><category>GenAI</category><category>AI 治理</category>
     </item>
   </channel>
 </rss>
