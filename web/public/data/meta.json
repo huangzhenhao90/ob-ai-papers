@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-10T03:52:22.657413Z",
+  "generated_at": "2026-08-11T03:43:31.285180Z",
   "totals": {
-    "papers_indexed": 12543,
-    "papers_scored": 12543,
+    "papers_indexed": 12553,
+    "papers_scored": 12553,
     "papers_ai_relevant": 1733
   },
   "journals": [
@@ -48,7 +48,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/asq",
-      "papers_indexed": 228,
+      "papers_indexed": 229,
       "papers_ai_relevant": 8
     },
     {
@@ -93,7 +93,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/17446570",
-      "papers_indexed": 190,
+      "papers_indexed": 191,
       "papers_ai_relevant": 12
     },
     {
@@ -253,7 +253,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/jmx",
-      "papers_indexed": 259,
+      "papers_indexed": 263,
       "papers_ai_relevant": 20
     },
     {
@@ -340,7 +340,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/hum",
-      "papers_indexed": 235,
+      "papers_indexed": 236,
       "papers_ai_relevant": 6
     },
     {
@@ -355,7 +355,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/14676486",
-      "papers_indexed": 559,
+      "papers_indexed": 560,
       "papers_ai_relevant": 30
     },
     {
@@ -483,7 +483,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://arxiv.org/",
-      "papers_indexed": 2995,
+      "papers_indexed": 2997,
       "papers_ai_relevant": 1028
     }
   ],
