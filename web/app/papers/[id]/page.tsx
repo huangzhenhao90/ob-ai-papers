@@ -55,7 +55,7 @@ export default function PaperDetail() {
     setLoading(true);
     setError(null);
 
-    fetchJson<Paper[]>("/data/papers_full.json")
+    fetchJson<Paper[]>("/data/papers_full.json", 45_000)
       .then((all: Paper[]) => {
         if (cancelled) return;
         const found = all.find((x) => x.id === id) || null;
