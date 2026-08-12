@@ -181,7 +181,7 @@ def select_recent_llm_candidate_ids(limit: int) -> tuple[int, int, list[int], st
     since_date = since_dt_obj.strftime("%Y-%m-%d")
     today = datetime.utcnow().strftime("%Y-%m-%d")
 
-    backfill_enrichment = os.getenv("LLM_BACKFILL_ENRICHMENT", "false").lower() in {
+    backfill_enrichment = os.getenv("LLM_BACKFILL_ENRICHMENT", "true").lower() in {
         "1", "true", "yes", "on"
     }
     pending_where = """
