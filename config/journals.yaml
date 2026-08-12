@@ -1,4 +1,21 @@
 journals:
+- name_en: Computers in Human Behavior
+  name_zh: 人类行为中的计算机
+  abbr: CHB
+  type: journal
+  issn: 0747-5632
+  eissn: 1873-769X
+  openalex_source_id: S189561874
+  publisher: Elsevier
+  publisher_toc: https://www.sciencedirect.com/journal/computers-in-human-behavior
+  rss: https://rss.sciencedirect.com/publication/science/07475632
+  online_first: https://www.sciencedirect.com/journal/computers-in-human-behavior/articles-in-press
+  tier: B
+  domain:
+  - marketing
+  - consumer
+  - HCI
+  lang: en
 - name_en: Academy of Management Journal
   name_zh: 管理学会期刊
   abbr: AMJ
