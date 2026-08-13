@@ -6,9 +6,176 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 12 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>Do People Follow AI Advice? Evidence from a Pension Portfolio Choice Experiment</title>
+      <link>https://ob-ai-papers.vercel.app/papers/55248</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/55248</guid>
+      <description>📝 Do People Follow AI Advice? Evidence from a Pension Portfolio Choice Experiment
+
+💡 通过400名韩国在职成年人养老金组合选择实验，检验AI投资建议对个人决策的因果影响。2×2设计操纵建议内容与是否附理由，结果显示约37%的建议差异传递至最终组合，81%参与者调整且95%朝建议方向靠拢，但理由说明未显著影响传递率，表明用户选择性地部分采纳AI建议。
+
+📚 arXiv:econ.GN · 2026 · 引用 0
+👤 Hongseok Choi, Jeongbin Kim, Matthew Kovach, Kyu-Min Lee, Euncheol Shin
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2608.11371v1</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <category>决策</category><category>消费者行为</category><category>信任</category><category>GenAI</category><category>人机协作</category><category>人机交互</category>
+    </item>    <item>
+      <title>Silent Updates: Measuring and Closing the Post-Deployment Disclosure Gap</title>
+      <link>https://ob-ai-papers.vercel.app/papers/55247</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/55247</guid>
+      <description>📝 Silent Updates: Measuring and Closing the Post-Deployment Disclosure Gap
+
+💡 研究基础模型部署后静默更新问题（微调、分类器更新、系统提示修改等），发现API提供商和推理平台虽发布安全文档与版本报告，但无一允许外部验证所服务模型与文档所述一致。提出Silent Updates Scorecard（对9家API提供商和7家第三方推理平台进行评分）以及三段式行为触发系统，用于判定何时部署后修改应触发披露或重新评估义务。
+
+📚 arXiv:cs.CY · 2026 · 引用 0
+👤 Sophia Abraham, Ben Bucknall
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2608.11803v1</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <category>伦理</category><category>信任</category><category>AI治理</category><category>AI治理</category><category>可解释 AI</category><category>GenAI</category><category>LLM</category>
+    </item>    <item>
+      <title>Cheap, Fallible Cognition and the Political Economy of Expertise</title>
+      <link>https://ob-ai-papers.vercel.app/papers/55245</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/55245</guid>
+      <description>📝 Cheap, Fallible Cognition and the Political Economy of Expertise
+
+💡 针对生成式AI对劳动力市场的影响，构建任务级且基于制度的分析框架，区分技术能力与均衡就业替代。提出任务脆弱性指数和采纳条件，将职业视为治理束而非任务清单，企业视为分布式智能架构。揭示答案生成充裕时，人类能力向上下游（提问、框架、假设、解释、担责）转移。核心关切在于初级任务自动化对专业能力培养的长期侵蚀。
+
+📚 arXiv:cs.CY · 2026 · 引用 0
+👤 Christophe Kolb, Jim Caron
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2608.11512v1</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <category>工作未来</category><category>组织变革</category><category>HR</category><category>知识管理</category><category>GenAI</category><category>LLM</category><category>算法管理</category>
+    </item>    <item>
+      <title>Organizational Technology Ladders: Remote Work and Generative AI Adoption</title>
+      <link>https://ob-ai-papers.vercel.app/papers/55244</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/55244</guid>
+      <description>📝 Organizational Technology Ladders: Remote Work and Generative AI Adoption
+
+📚 arXiv:econ.GN · 2026 · 引用 0
+👤 Gregor Schubert
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2608.11626v1</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>Principal Trait Analysis: Towards Deriving "Skills" in Human-AI Collaboration</title>
+      <link>https://ob-ai-papers.vercel.app/papers/55242</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/55242</guid>
+      <description>📝 Principal Trait Analysis: Towards Deriving "Skills" in Human-AI Collaboration
+
+💡 提出主成分特质分析（PTA）方法，从LLM协作对话语料中自动挖掘有效的人机交互特质。通过LLM驱动的处理阶段分析人机协作会话，提取跨数据集的共同特质并为每位协作者的交互风格打分，允许注入领域知识并筛选区分度最高的特质。在两个人机协作编码数据集上验证了方法有效性。
+
+📚 arXiv:cs.CL · 2026 · 引用 0
+👤 Hunter McNichols, Kai Du, Andrew Lan
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2608.11460v1</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>教育</category><category>培训</category><category>工作设计</category><category>LLM</category><category>人机交互</category><category>GenAI</category>
+    </item>    <item>
+      <title>How Organizations Use AI: Evidence from ChatGPT</title>
+      <link>https://ob-ai-papers.vercel.app/papers/55241</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/55241</guid>
+      <description>📝 How Organizations Use AI: Evidence from ChatGPT
+
+💡 基于ChatGPT Enterprise账户记录、使用数据、员工角色与公开公司财务数据的链接分析（涵盖超1500家企业、1700万条消息），揭示企业AI采用四方面事实：采用与使用强度双轮驱动快速增长；美国上市公司采用集中于规模大、研发与SG&amp;amp;A密集型企业；活跃使用跨越职能与职级，早期职业员工使用强度尤高；任务覆盖写作、技术、沟通与信息综合等广泛知识工作。企业仍在探索将AI整合进组织工作流。
+
+📚 arXiv:econ.GN · 2026 · 引用 0
+👤 Aaron Chatterji, David Holtz, Neel Rakholia, Prasanna Tambe, Gawesha Weeratunga
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2608.12236v1</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>组织变革</category><category>创新</category><category>工作未来</category><category>ChatGPT</category><category>GenAI</category><category>LLM</category><category>人机协作</category>
+    </item>    <item>
+      <title>Governing Agentic AI in FinTech</title>
+      <link>https://ob-ai-papers.vercel.app/papers/55240</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/55240</guid>
+      <description>📝 Governing Agentic AI in FinTech
+
+💡 针对金融科技中代理型AI系统治理不足的问题，提出"可验证性差距"概念并构建多层次治理理论。通过三组研究、覆盖从30亿参数本地模型到商业前沿系统的九个版本，发现编排是隐性策略层、架构变更改变最终行为且不可复现，能力提升仅提高起点而非可审计性。强调可验证性而非能力才是治理的关键约束。
+
+📚 arXiv:cs.CY · 2026 · 引用 0
+👤 Henry Han
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2608.11344v1</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <category>AI治理</category><category>伦理</category><category>信任</category><category>决策</category><category>LLM</category><category>AI治理</category><category>可解释AI</category><category>算法决策</category>
+    </item>    <item>
+      <title>Co-constructing sociotechnical AI governance: participatory system mapping using algorithm registers</title>
+      <link>https://ob-ai-papers.vercel.app/papers/55239</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/55239</guid>
+      <description>📝 Co-constructing sociotechnical AI governance: participatory system mapping using algorithm registers
+
+💡 围绕荷兰某市政算法注册表，以福利资格决策支持工具为案例，通过访谈、问卷与参与式系统映射工作坊（N=8）结合系统理论过程分析（STPA），探究算法注册表对社会技术治理体系的揭示与遮蔽，识别传统注册表难以暴露的潜在安全风险，倡导多元利益相关者共建更具包容性的算法治理。
+
+📚 arXiv:cs.CY · 2026 · 引用 0
+👤 Íñigo de Troya, Maurus Enbergs, Neelke Doorn, Roel Dobbe
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2608.12166v1</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <category>AI治理</category><category>决策</category><category>公平性</category><category>信任</category><category>算法决策</category><category>可解释AI</category>
+    </item>    <item>
+      <title>A Conceptual Framework for Enhancing Workforce Readiness for Smart Manufacturing in the AI Era</title>
+      <link>https://ob-ai-papers.vercel.app/papers/55237</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/55237</guid>
+      <description>📝 A Conceptual Framework for Enhancing Workforce Readiness for Smart Manufacturing in the AI Era
+
+💡 针对AI时代智能制造人才供需脱节，提出劳动力就绪水平（WRL）框架，将技术就绪度扩展为九级能力阶梯与四大支柱（数字AI素养、网络物理系统、人机协作、数据驱动决策），在某大学智能制造实验室89项企业赞助毕业设计及四个深度案例中验证，WRL可有效诊断被强势分析能力掩盖的薄弱支柱。
+
+📚 arXiv:eess.SY · 2026 · 引用 0
+👤 Dalton Ross Smith, Wilburn Whittington, Alejandro Martinez, Aidan Duncan, Gang Li
+
+AI 分: 4.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2608.11540v1</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <category>教育</category><category>培训</category><category>人机协作</category><category>工作设计</category><category>机器人</category><category>人机协作</category><category>机器学习</category>
+    </item>    <item>
+      <title>算法控制是否助长平台从业者对顾客的偏差行为？基于自我耗竭视角</title>
+      <link>https://ob-ai-papers.vercel.app/papers/54972</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/54972</guid>
+      <description>📝 算法控制是否助长平台从业者对顾客的偏差行为？基于自我耗竭视角
+EN: Does algorithmic control facilitate platform workers’ deviant behavior toward customers? The ego depletion perspective
+
+📚 CHB · 2024 · 引用 39
+👤 Yan Wang, Zhenyuan Wang, Jiyu Li
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>From “cost of asking” to “fit of asking”: How seeking help with AI shapes employees’ indebtedness and autonomy in different workplace helping contexts</title>
+      <link>https://ob-ai-papers.vercel.app/papers/54959</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/54959</guid>
+      <description>📝 From “cost of asking” to “fit of asking”: How seeking help with AI shapes employees’ indebtedness and autonomy in different workplace helping contexts
+
+📚 CHB · 2026 · 引用 0
+👤 Jiajing Zhai, Jiayu Gina Qu
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
       <title>CASE框架：面向企业智能体AI治理的多学科控制架构</title>
       <link>https://ob-ai-papers.vercel.app/papers/54956</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/54956</guid>
@@ -230,6 +397,19 @@ AI 分: 5.0 / 领域分: 4.0</description>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
       
     </item>    <item>
+      <title>理解自动化模型4.0版：验证研究与ChatGPT整合</title>
+      <link>https://ob-ai-papers.vercel.app/papers/54137</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/54137</guid>
+      <description>📝 理解自动化模型4.0版：验证研究与ChatGPT整合
+EN: The automated model of comprehension version 4.0 – Validation studies and integration of ChatGPT
+
+📚 CHB · 2024 · 引用 13
+👤 Dragos-Georgian Corlatescu, Micah Watanabe, Stefan Ruseti, Mihai Dascalu, Danielle S. McNamara
+
+AI 分: 5.0 / 领域分: 3.0</description>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
       <title>Unpacking media channel effects on AI perception: A network analysis of AI information exposure across channels, overload, literacy, and anxiety among Chinese users</title>
       <link>https://ob-ai-papers.vercel.app/papers/54136</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/54136</guid>
@@ -237,164 +417,6 @@ AI 分: 5.0 / 领域分: 4.0</description>
 
 📚 CHB · 2025 · 引用 11
 👤 Sha Sarah Qiu, Luxi Zhang, Fei You, Xinshu Zhao
-
-AI 分: 5.0 / 领域分: 3.0</description>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      
-    </item>    <item>
-      <title>被算法冒犯：客户寻求人工智能第二意见的人际隐性代价</title>
-      <link>https://ob-ai-papers.vercel.app/papers/54125</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/54125</guid>
-      <description>📝 被算法冒犯：客户寻求人工智能第二意见的人际隐性代价
-EN: Offended by the algorithm: The hidden interpersonal costs of clients seeking AI second opinion
-
-📚 CHB · 2026 · 引用 1
-👤 Gerri Spassova, Mauricio Palmeira
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      
-    </item>    <item>
-      <title>Flow in ChatGPT-based logic learning and its influences on logic and self-efficacy in English argumentative writing</title>
-      <link>https://ob-ai-papers.vercel.app/papers/54097</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/54097</guid>
-      <description>📝 Flow in ChatGPT-based logic learning and its influences on logic and self-efficacy in English argumentative writing
-
-💡 基于心流理论，考察学生在使用ChatGPT学习逻辑并辅助英语议论文写作过程中的心流体验，探讨其对逻辑能力提升与写作自我效能感的影响，揭示AI辅助语言写作教学中的心理机制与教育效果。
-
-📚 CHB · 2025 · 引用 35
-👤 Ruofei Zhang, Di Zou, Gary Cheng, Haoran Xie
-
-AI 分: 5.0 / 领域分: 3.0</description>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <category>教育</category><category>人机协作</category><category>培训</category><category>ChatGPT</category><category>GenAI</category><category>LLM</category>
-    </item>    <item>
-      <title>"装假"是否已成"成功"新解？：虚拟影响者在抑郁意识活动中的有效性探究</title>
-      <link>https://ob-ai-papers.vercel.app/papers/54092</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/54092</guid>
-      <description>📝 "装假"是否已成"成功"新解？：虚拟影响者在抑郁意识活动中的有效性探究
-EN: Is faking it the new making it?: Exploring virtual influencers’ effectiveness in depression awareness campaign
-
-📚 CHB · 2026 · 引用 0
-👤 Rachel X. Peng
-
-AI 分: 3.0 / 领域分: 4.0</description>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      
-    </item>    <item>
-      <title>AI披露格式与用户对AI生成视频的回应：一项跨国实验的证据</title>
-      <link>https://ob-ai-papers.vercel.app/papers/54091</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/54091</guid>
-      <description>📝 AI披露格式与用户对AI生成视频的回应：一项跨国实验的证据
-EN: AI disclosure formats and user responses to AI-generated video: Evidence from a cross-national experiment
-
-📚 CHB · 2026 · 引用 0
-👤 Yuya Shibuya, Yair Amichai-Hamburger
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      
-    </item>    <item>
-      <title>人工智能交互积极性量表的编制及其与生活满意度和ChatGPT信任的关系</title>
-      <link>https://ob-ai-papers.vercel.app/papers/54056</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/54056</guid>
-      <description>📝 人工智能交互积极性量表的编制及其与生活满意度和ChatGPT信任的关系
-EN: Introduction of the AI-Interaction Positivity Scale and its relations to satisfaction with life and trust in ChatGPT
-
-📚 CHB · 2025 · 引用 22
-👤 Christian Montag, Jon D. Elhai
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      
-    </item>    <item>
-      <title>责任归因框架：人类与人工智能代理对服务失败中道歉有效性的影响</title>
-      <link>https://ob-ai-papers.vercel.app/papers/54021</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/54021</guid>
-      <description>📝 责任归因框架：人类与人工智能代理对服务失败中道歉有效性的影响
-EN: Framing responsibility: Human and AI agent effects on apology effectiveness in service failures
-
-📚 CHB · 2026 · 引用 2
-👤 Jihyun Soh, Eunice Kim
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      
-    </item>    <item>
-      <title>Automated or human: Which driver wins the race for the passengers’ trust? Examining passenger trust in human-driven and automated vehicles following a dangerous situation</title>
-      <link>https://ob-ai-papers.vercel.app/papers/54018</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/54018</guid>
-      <description>📝 Automated or human: Which driver wins the race for the passengers’ trust? Examining passenger trust in human-driven and automated vehicles following a dangerous situation
-
-💡 对比乘客在遭遇危险情境后对人类驾驶与自动驾驶车辆的信任差异。考察乘客在经历危险事件后对两种驾驶模式的信任变化及其影响因素，揭示自动化驾驶在赢得乘客信任方面面临的挑战，为自动驾驶系统的设计与信任建立提供参考。
-
-📚 CHB · 2024 · 引用 20
-👤 Leonie Lohaus, Marcel Woide, Nicole Damm, Zeynep Demiral, Hannah Friedrich
-
-AI 分: 3.0 / 领域分: 3.0</description>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <category>信任</category><category>人机协作</category><category>决策</category><category>算法决策</category><category>人机交互</category>
-    </item>    <item>
-      <title>人机沟通隐私管理与隐私疲劳：算法意识对社交媒体隐私共同所有权的条件效应</title>
-      <link>https://ob-ai-papers.vercel.app/papers/53959</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/53959</guid>
-      <description>📝 人机沟通隐私管理与隐私疲劳：算法意识对社交媒体隐私共同所有权的条件效应
-EN: Human-machine communication privacy management, privacy fatigue, and the conditional effects of algorithm awareness on privacy co-ownership in the social media context
-
-📚 CHB · 2025 · 引用 1
-👤 Matthew J.A. Craig
-
-AI 分: 3.0 / 领域分: 3.0</description>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      
-    </item>    <item>
-      <title>The illusion of reality: How AI-generated images (AIGIs) are fooling social media users</title>
-      <link>https://ob-ai-papers.vercel.app/papers/53942</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/53942</guid>
-      <description>📝 The illusion of reality: How AI-generated images (AIGIs) are fooling social media users
-
-📚 CHB · 2026 · 引用 4
-👤 Márk Miskolczi
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      
-    </item>    <item>
-      <title>Social media use is predictable from app sequences: Using LSTM and transformer neural networks to model habitual behavior</title>
-      <link>https://ob-ai-papers.vercel.app/papers/53917</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/53917</guid>
-      <description>📝 Social media use is predictable from app sequences: Using LSTM and transformer neural networks to model habitual behavior
-
-💡 利用LSTM与Transformer神经网络，基于手机App使用序列预测用户社交媒体习惯性行为。比较两类深度学习模型在建模习惯性行为中的表现，验证App切换序列对社交媒体使用模式的预测能力，为行为预测与个性化干预提供方法论支持。
-
-📚 CHB · 2024 · 引用 11
-👤 Heinrich Peters, Joseph B. Bayer, Sandra C. Matz, Yikun Chi, Sumer S. Vaid
-
-AI 分: 4.0 / 领域分: 3.0</description>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <category>消费者行为</category><category>推荐系统</category><category>人机交互</category><category>机器学习</category><category>推荐算法</category>
-    </item>    <item>
-      <title>Unleashing pre-service language teachers’ productivity with generative AI: Emotions, appraisal and coping strategies</title>
-      <link>https://ob-ai-papers.vercel.app/papers/53835</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/53835</guid>
-      <description>📝 Unleashing pre-service language teachers’ productivity with generative AI: Emotions, appraisal and coping strategies
-
-💡 该研究考察职前语言教师在教学准备中使用生成式AI时的情绪反应、认知评估与应对策略，探讨GenAI如何影响其生产力与教学准备过程，揭示教师对AI工具的情感体验及适应性行为机制。
-
-📚 CHB · 2024 · 引用 38
-👤 Hongbiao Yin, Chan Wang, Zhijun Liu
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <category>教育</category><category>培训</category><category>员工幸福感</category><category>GenAI</category><category>LLM</category><category>人机协作</category>
-    </item>    <item>
-      <title>Can professional or AI fact-checking protect trust in journalism from political attacks? The complex roles of source, transparency, ideology, and the machine heuristic</title>
-      <link>https://ob-ai-papers.vercel.app/papers/53802</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/53802</guid>
-      <description>📝 Can professional or AI fact-checking protect trust in journalism from political attacks? The complex roles of source, transparency, ideology, and the machine heuristic
-
-📚 CHB · 2026 · 引用 5
-👤 Rui Wang, Yotam Ophir
 
 AI 分: 5.0 / 领域分: 3.0</description>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
