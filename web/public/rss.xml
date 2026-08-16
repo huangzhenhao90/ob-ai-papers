@@ -47,12 +47,14 @@ AI 分: 5.0 / 领域分: 3.0
       <description>📝 我的公平AI：AI内容推荐中的准确率均等性与策略性身份披露
 EN: My Fair AI: Accuracy Parity and Strategic Identity Disclosure in AI Content Recommendation
 
+💡 研究在AI准确率公平（accuracy parity）政策下，消费者如何策略性地选择向AI披露或隐藏身份信息，并分析这种披露决策如何与企业的AI推荐策略及AI学习投资决策相互影响，揭示公平政策对推荐机制与市场均衡的复杂作用。
+
 📚 MktSci · 2026 · 引用 0
 👤 Evelyn O. Smith, Jeffrey D. Shulman, Antino Kim
 
 AI 分: 5.0 / 领域分: 5.0</description>
       <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
-      
+      <category>消费者行为</category><category>推荐系统</category><category>公平性</category><category>营销</category><category>推荐算法</category><category>算法决策</category>
     </item>    <item>
       <title>ScamGen：通过高级模板增强语料生成揭示电话诈骗的心理模式</title>
       <link>https://ob-ai-papers.vercel.app/papers/55574</link>
@@ -74,12 +76,14 @@ AI 分: 5.0 / 领域分: 3.0</description>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/55296</guid>
       <description>📝 I will be with you Alexa! The impact of intelligent virtual assistant's authenticity and personalization on user reusage intentions
 
+💡 研究智能虚拟助手（如Alexa）的真实性与个性化对用户持续使用意愿的影响。考察用户在与IVA长期交互中如何形成拟人化情感联结，以及助手的真实感与个性化设计如何驱动用户黏性与再使用意图。
+
 📚 CHB · 2023 · 引用 66
 👤 Saifeddin Alimamy, Mohammad Amin Kuhail
 
 AI 分: 4.0 / 领域分: 3.0</description>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      
+      <category>人机交互</category><category>消费者行为</category><category>信任</category><category>品牌</category><category>人机交互</category><category>AI客服</category><category>多模态</category>
     </item>    <item>
       <title>人们会遵循AI建议吗？来自养老金投资组合选择实验的证据</title>
       <link>https://ob-ai-papers.vercel.app/papers/55248</link>
@@ -308,6 +312,18 @@ AI 分: 5.0 / 领域分: 4.0</description>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
       <category>营销</category><category>创新</category><category>AI治理</category>
     </item>    <item>
+      <title>Do lonely people seek robot companionship? A comparative examination of the Loneliness–Robot anthropomorphism link in the United States and China</title>
+      <link>https://ob-ai-papers.vercel.app/papers/54897</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/54897</guid>
+      <description>📝 Do lonely people seek robot companionship? A comparative examination of the Loneliness–Robot anthropomorphism link in the United States and China
+
+📚 CHB · 2023 · 引用 52
+👤 Jianning Dang, Li Liu
+
+AI 分: 3.0 / 领域分: 3.0</description>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
       <title>"言行一致？"：框架化社交意图与自主智能体行为对信任过程的联合影响</title>
       <link>https://ob-ai-papers.vercel.app/papers/54894</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/54894</guid>
@@ -411,6 +427,18 @@ AI 分: 5.0 / 领域分: 3.0</description>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
       <category>人机协作</category><category>人机交互</category><category>决策</category><category>信任</category><category>算法决策</category><category>可解释 AI</category><category>人机交互</category>
     </item>    <item>
+      <title>AI-enabled investment advice: Will users buy it?</title>
+      <link>https://ob-ai-papers.vercel.app/papers/54663</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/54663</guid>
+      <description>📝 AI-enabled investment advice: Will users buy it?
+
+📚 CHB · 2023 · 引用 55
+👤 Alton Y.K. Chua, Anjan Pal, Snehasish Banerjee
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
       <title>弥合还是扩大差距？AI辅助下英语母语者与非母语者的职业写作</title>
       <link>https://ob-ai-papers.vercel.app/papers/54654</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/54654</guid>
@@ -440,34 +468,6 @@ EN: Navigating the future: A longitudinal exploration of public acceptance of au
 AI 分: 3.0 / 领域分: 4.0</description>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
       <category>消费者行为</category><category>信任</category><category>创新</category><category>机器人</category><category>人机交互</category>
-    </item>    <item>
-      <title>社交媒体上用户对人工智能(AI)内容审核感知的相关因素</title>
-      <link>https://ob-ai-papers.vercel.app/papers/54595</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/54595</guid>
-      <description>📝 社交媒体上用户对人工智能(AI)内容审核感知的相关因素
-EN: Factors related to user perceptions of artificial intelligence (AI)-based content moderation on social media
-
-💡 研究社交媒体平台上用户对AI内容审核的感知影响因素，探讨用户对算法审核的接受度、信任度、公平性判断及透明度期待等关键变量，为平台内容治理与审核机制设计提供参考。
-
-📚 CHB · 2023 · 引用 45
-👤 Sai Wang
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <category>人机交互</category><category>信任</category><category>公平性</category><category>伦理</category><category>算法管理</category><category>算法决策</category>
-    </item>    <item>
-      <title>什么让应用具有真实感？人工智能驱动服务应用中感知真实性的前因</title>
-      <link>https://ob-ai-papers.vercel.app/papers/54594</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/54594</guid>
-      <description>📝 什么让应用具有真实感？人工智能驱动服务应用中感知真实性的前因
-EN: What makes an app authentic? Determining antecedents of perceived authenticity in an AI-powered service app
-
-📚 CHB · 2025 · 引用 25
-👤 Diem-Trang Vo, Long Van Thang Nguyen, Duy Dang-Pham, Ai-Phuong Hoang
-
-AI 分: 4.0 / 领域分: 4.0</description>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      
     </item>
   </channel>
 </rss>
