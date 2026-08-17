@@ -32,6 +32,8 @@ AI 分: 5.0 / 领域分: 4.0
       <description>📝 SteerBench-Work：动作边界处智能体引导基准测试
 EN: SteerBench-Work: A Benchmark for Agent Steering at Action Boundaries
 
+💡 研究LLM智能体在工作场景中行动提交前的"放行/拦截"决策边界。构建SteerBench-Work基准,涵盖开发运维、客服、金融、法务、医疗、HR、安全等7领域共106个基于真实事件的情景,并配对证据反转镜像,放行与拦截标签近平衡。30个模型条件测试显示,失败几乎全集中在一个方向:模型对已授权、证据完备的任务过度拦截达28.1%,而错误放行不安全任务仅1.0%;能力越强的模型反而更易过度拒绝,额外推理可修复弱门但对已校准的门无改善。
+
 📚 arXiv:cs.AI · 2026 · 引用 0
 👤 Oguz Serdar, Cuneyt Mertayak
 
@@ -39,7 +41,7 @@ AI 分: 5.0 / 领域分: 3.0
 
 📄 PDF: https://arxiv.org/pdf/2608.12654v1</description>
       <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
-      
+      <category>人机协作</category><category>算法管理</category><category>AI 治理</category><category>决策</category><category>LLM</category><category>GenAI</category><category>算法决策</category>
     </item>    <item>
       <title>我的公平AI：AI内容推荐中的准确率均等性与策略性身份披露</title>
       <link>https://ob-ai-papers.vercel.app/papers/55762</link>
@@ -71,10 +73,11 @@ AI 分: 5.0 / 领域分: 3.0</description>
       <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
       <category>伦理</category><category>消费者行为</category><category>创新</category><category>GenAI</category><category>LLM</category>
     </item>    <item>
-      <title>I will be with you Alexa! The impact of intelligent virtual assistant's authenticity and personalization on user reusage intentions</title>
+      <title>我会与你同在，Alexa！：智能虚拟助手的真实性和个性化对用户复用意愿的影响</title>
       <link>https://ob-ai-papers.vercel.app/papers/55296</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/55296</guid>
-      <description>📝 I will be with you Alexa! The impact of intelligent virtual assistant's authenticity and personalization on user reusage intentions
+      <description>📝 我会与你同在，Alexa！：智能虚拟助手的真实性和个性化对用户复用意愿的影响
+EN: I will be with you Alexa! The impact of intelligent virtual assistant's authenticity and personalization on user reusage intentions
 
 💡 研究智能虚拟助手（如Alexa）的真实性与个性化对用户持续使用意愿的影响。考察用户在与IVA长期交互中如何形成拟人化情感联结，以及助手的真实感与个性化设计如何驱动用户黏性与再使用意图。
 
@@ -85,17 +88,20 @@ AI 分: 4.0 / 领域分: 3.0</description>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
       <category>人机交互</category><category>消费者行为</category><category>信任</category><category>品牌</category><category>人机交互</category><category>AI客服</category><category>多模态</category>
     </item>    <item>
-      <title>Predicting the moral consideration of artificial intelligences</title>
+      <title>预测人工智能的道德考量</title>
       <link>https://ob-ai-papers.vercel.app/papers/55274</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/55274</guid>
-      <description>📝 Predicting the moral consideration of artificial intelligences
+      <description>📝 预测人工智能的道德考量
+EN: Predicting the moral consideration of artificial intelligences
+
+💡 研究试图预测人们是否会对人工智能赋予道德关怀，探讨影响人类对 AI 施加道德考量（如不应伤害、应尊重）的心理与情境因素，揭示拟人化、共情能力及 AI 行为特征对道德地位判断的作用机制。
 
 📚 CHB · 2022 · 引用 51
 👤 Janet V.T. Pauketat, Jacy Reese Anthis
 
 AI 分: 5.0 / 领域分: 4.0</description>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      
+      <category>伦理</category><category>信任</category><category>偏见</category><category>AI治理</category><category>人机交互</category>
     </item>    <item>
       <title>人们会遵循AI建议吗？来自养老金投资组合选择实验的证据</title>
       <link>https://ob-ai-papers.vercel.app/papers/55248</link>
@@ -265,10 +271,11 @@ AI 分: 5.0 / 领域分: 5.0</description>
       <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
       <category>算法管理</category><category>零工经济</category><category>员工幸福感</category><category>算法管理</category><category>算法决策</category>
     </item>    <item>
-      <title>From “cost of asking” to “fit of asking”: How seeking help with AI shapes employees’ indebtedness and autonomy in different workplace helping contexts</title>
+      <title>从"求助成本"到"求助契合"：AI辅助求助对员工亏欠感与自主性的塑造</title>
       <link>https://ob-ai-papers.vercel.app/papers/54959</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/54959</guid>
-      <description>📝 From “cost of asking” to “fit of asking”: How seeking help with AI shapes employees’ indebtedness and autonomy in different workplace helping contexts
+      <description>📝 从"求助成本"到"求助契合"：AI辅助求助对员工亏欠感与自主性的塑造
+EN: From “cost of asking” to “fit of asking”: How seeking help with AI shapes employees’ indebtedness and autonomy in different workplace helping contexts
 
 💡 从"求助成本"转向"求助适配"视角，探讨员工在职场不同求助情境中向AI寻求帮助对其亏欠感与自主感的影响。研究揭示AI求助行为因情境而异，AI既可能减少人际求助的社交负担，也可能因拟人化引发亏欠感，重塑员工心理体验与人机关系。
 
@@ -296,10 +303,11 @@ AI 分: 5.0 / 领域分: 3.0
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
       <category>伦理</category><category>人机协作</category><category>组织变革</category><category>信任</category><category>AI治理</category><category>人机协作</category><category>算法管理</category>
     </item>    <item>
-      <title>The placebo effect of human augmentation: Anticipating cognitive augmentation increases risk-taking behavior</title>
+      <title>人体增强的安慰剂效应：预期认知增强会增加冒险行为</title>
       <link>https://ob-ai-papers.vercel.app/papers/54928</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/54928</guid>
-      <description>📝 The placebo effect of human augmentation: Anticipating cognitive augmentation increases risk-taking behavior
+      <description>📝 人体增强的安慰剂效应：预期认知增强会增加冒险行为
+EN: The placebo effect of human augmentation: Anticipating cognitive augmentation increases risk-taking behavior
 
 💡 研究人类增强的安慰剂效应：仅预期获得认知增强（而非实际增强）是否会改变个体的风险决策行为。通过实验揭示预期增强带来的心理与行为变化，探讨对组织应用增强技术的启示。
 
@@ -310,10 +318,11 @@ AI 分: 3.0 / 领域分: 3.0</description>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
       <category>决策</category><category>人机协作</category><category>伦理</category><category>人机交互</category>
     </item>    <item>
-      <title>Corrigendum to ‘Perceptions and adoption of AI in public relations: Innovation attributes, threats, and practical implications’ [Computers in Human Behavior 184C (2026) 109087]</title>
+      <title>《公共关系中人工智能的感知与采纳：创新属性、威胁与实践启示》勘误（Computers in Human Behavior, 184C (2026) 109087）</title>
       <link>https://ob-ai-papers.vercel.app/papers/54900</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/54900</guid>
-      <description>📝 Corrigendum to ‘Perceptions and adoption of AI in public relations: Innovation attributes, threats, and practical implications’ [Computers in Human Behavior 184C (2026) 109087]
+      <description>📝 《公共关系中人工智能的感知与采纳：创新属性、威胁与实践启示》勘误（Computers in Human Behavior, 184C (2026) 109087）
+EN: Corrigendum to ‘Perceptions and adoption of AI in public relations: Innovation attributes, threats, and practical implications’ [Computers in Human Behavior 184C (2026) 109087]
 
 💡 原研究从创新属性、威胁感知和实践影响三方面考察公共关系从业者对AI的感知与采纳行为，本勘误对原文若干表述、数据或结论进行更正。
 
@@ -324,10 +333,11 @@ AI 分: 5.0 / 领域分: 4.0</description>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
       <category>营销</category><category>创新</category><category>AI治理</category>
     </item>    <item>
-      <title>Do lonely people seek robot companionship? A comparative examination of the Loneliness–Robot anthropomorphism link in the United States and China</title>
+      <title>孤独者会寻求机器人陪伴吗？中美孤独感与机器人拟人化关联的比较研究</title>
       <link>https://ob-ai-papers.vercel.app/papers/54897</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/54897</guid>
-      <description>📝 Do lonely people seek robot companionship? A comparative examination of the Loneliness–Robot anthropomorphism link in the United States and China
+      <description>📝 孤独者会寻求机器人陪伴吗？中美孤独感与机器人拟人化关联的比较研究
+EN: Do lonely people seek robot companionship? A comparative examination of the Loneliness–Robot anthropomorphism link in the United States and China
 
 💡 跨文化比较美国与中国孤独人群对机器人陪伴的寻求倾向及机器人拟人化感知差异，检验孤独感是否驱动个体将机器人视为社交替代品，并分析文化背景对孤独-拟人化关系的调节效应。
 
@@ -368,10 +378,11 @@ AI 分: 4.0 / 领域分: 4.0</description>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
       <category>知识管理</category><category>信任</category><category>人机协作</category><category>机器学习</category><category>人机协作</category><category>可解释AI</category>
     </item>    <item>
-      <title>Machine learning applied to digital phenotyping: A systematic literature review and taxonomy</title>
+      <title>机器学习在数字表型分析中的应用：系统文献综述与分类法</title>
       <link>https://ob-ai-papers.vercel.app/papers/54851</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/54851</guid>
-      <description>📝 Machine learning applied to digital phenotyping: A systematic literature review and taxonomy
+      <description>📝 机器学习在数字表型分析中的应用：系统文献综述与分类法
+EN: Machine learning applied to digital phenotyping: A systematic literature review and taxonomy
 
 💡 对机器学习在数字表型（通过智能手机、可穿戴设备等数字痕迹推断个体心理与行为状态）中的应用研究进行系统文献梳理与分类，构建研究框架与类型学，识别研究热点、方法论特征及未来方向。
 
@@ -397,10 +408,11 @@ AI 分: 5.0 / 领域分: 4.0</description>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
       <category>人机协作</category><category>人机交互</category><category>信任</category><category>GenAI</category><category>人机交互</category>
     </item>    <item>
-      <title>When algorithms remember what employees forget: Reversing the common view that artificial intelligence (AI) workplace advisors lack context</title>
+      <title>当算法记住员工所遗忘之事：颠覆人工智能工作顾问缺乏情境的普遍观点</title>
       <link>https://ob-ai-papers.vercel.app/papers/54740</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/54740</guid>
-      <description>📝 When algorithms remember what employees forget: Reversing the common view that artificial intelligence (AI) workplace advisors lack context
+      <description>📝 当算法记住员工所遗忘之事：颠覆人工智能工作顾问缺乏情境的普遍观点
+EN: When algorithms remember what employees forget: Reversing the common view that artificial intelligence (AI) workplace advisors lack context
 
 💡 挑战AI职场顾问因缺乏上下文而不擅长提供建议的固有认知，指出算法可记忆员工遗忘的信息，保留交互历史与情境连续性，形成"算法记忆"优势。研究重新审视AI顾问在职场中的角色，扩展人机协作与算法管理研究视角。
 
@@ -441,17 +453,20 @@ AI 分: 5.0 / 领域分: 3.0</description>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
       <category>人机协作</category><category>人机交互</category><category>决策</category><category>信任</category><category>算法决策</category><category>可解释 AI</category><category>人机交互</category>
     </item>    <item>
-      <title>AI-enabled investment advice: Will users buy it?</title>
+      <title>AI赋能的投建议：用户会采纳吗？</title>
       <link>https://ob-ai-papers.vercel.app/papers/54663</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/54663</guid>
-      <description>📝 AI-enabled investment advice: Will users buy it?
+      <description>📝 AI赋能的投建议：用户会采纳吗？
+EN: AI-enabled investment advice: Will users buy it?
+
+💡 研究考察用户对 AI 生成投资建议的采纳意愿，分析影响其购买或使用 AI 理财建议的因素，涵盖感知价值、信任、风险态度等心理机制，揭示 AI 金融咨询服务在大众市场中的接受度与推广路径。
 
 📚 CHB · 2023 · 引用 55
 👤 Alton Y.K. Chua, Anjan Pal, Snehasish Banerjee
 
 AI 分: 5.0 / 领域分: 4.0</description>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      
+      <category>消费者行为</category><category>信任</category><category>决策</category><category>营销</category><category>LLM</category><category>人机交互</category><category>推荐系统</category>
     </item>    <item>
       <title>弥合还是扩大差距？AI辅助下英语母语者与非母语者的职业写作</title>
       <link>https://ob-ai-papers.vercel.app/papers/54654</link>
