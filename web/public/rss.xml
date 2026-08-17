@@ -6,9 +6,24 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 15 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>人文关怀与人工智能：理解未来教育中的用户偏好</title>
+      <link>https://ob-ai-papers.vercel.app/papers/56029</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/56029</guid>
+      <description>📝 人文关怀与人工智能：理解未来教育中的用户偏好
+EN: Human touch vs. AI tech: Understanding user preferences in the future of education
+
+💡 研究探讨教育情境下用户对人类教师与AI技术的偏好差异，分析影响偏好的关键因素（如信任、效果、情感联结等），并讨论人机协同对未来教育模式的设计启示。
+
+📚 CHB · 2025 · 引用 19
+👤 Aiping Shao, Zhi Lu, Bu Zhong, Stephanie Q. Liu, Wei Lu
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+      <category>教育</category><category>人机协作</category><category>信任</category><category>人机交互</category><category>GenAI</category>
+    </item>    <item>
       <title>申请与筛选：公共就业机构端到端算法公平性审计</title>
       <link>https://ob-ai-papers.vercel.app/papers/55806</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/55806</guid>
@@ -467,21 +482,6 @@ EN: AI-enabled investment advice: Will users buy it?
 AI 分: 5.0 / 领域分: 4.0</description>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
       <category>消费者行为</category><category>信任</category><category>决策</category><category>营销</category><category>LLM</category><category>人机交互</category><category>推荐系统</category>
-    </item>    <item>
-      <title>弥合还是扩大差距？AI辅助下英语母语者与非母语者的职业写作</title>
-      <link>https://ob-ai-papers.vercel.app/papers/54654</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/54654</guid>
-      <description>📝 弥合还是扩大差距？AI辅助下英语母语者与非母语者的职业写作
-EN: Bridging or broadening Gaps? AI-Assisted professional writing among native and non-native English Writers
-
-💡 研究 AI 辅助专业写作对母语与非母语英语写作者的不同影响，探讨 AI 工具究竟是帮助非母语者跨越语言鸿沟、缩小写作差距，还是因使用差异、技能差距或依赖方式不同反而进一步扩大不平等，为理解 AI 写作辅助的公平性与教育应用提供实证依据。
-
-📚 CHB · 2026 · 引用 1
-👤 Inyoung Shin, Hyesun Choung, Mina Choi
-
-AI 分: 5.0 / 领域分: 3.0</description>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <category>教育</category><category>公平性</category><category>人机协作</category><category>GenAI</category><category>LLM</category><category>人机交互</category>
     </item>
   </channel>
 </rss>
