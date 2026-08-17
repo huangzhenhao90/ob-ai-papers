@@ -85,6 +85,18 @@ AI 分: 4.0 / 领域分: 3.0</description>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
       <category>人机交互</category><category>消费者行为</category><category>信任</category><category>品牌</category><category>人机交互</category><category>AI客服</category><category>多模态</category>
     </item>    <item>
+      <title>Predicting the moral consideration of artificial intelligences</title>
+      <link>https://ob-ai-papers.vercel.app/papers/55274</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/55274</guid>
+      <description>📝 Predicting the moral consideration of artificial intelligences
+
+📚 CHB · 2022 · 引用 51
+👤 Janet V.T. Pauketat, Jacy Reese Anthis
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
       <title>人们会遵循AI建议吗？来自养老金投资组合选择实验的证据</title>
       <link>https://ob-ai-papers.vercel.app/papers/55248</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/55248</guid>
@@ -317,12 +329,14 @@ AI 分: 5.0 / 领域分: 4.0</description>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/54897</guid>
       <description>📝 Do lonely people seek robot companionship? A comparative examination of the Loneliness–Robot anthropomorphism link in the United States and China
 
+💡 跨文化比较美国与中国孤独人群对机器人陪伴的寻求倾向及机器人拟人化感知差异，检验孤独感是否驱动个体将机器人视为社交替代品，并分析文化背景对孤独-拟人化关系的调节效应。
+
 📚 CHB · 2023 · 引用 52
 👤 Jianning Dang, Li Liu
 
 AI 分: 3.0 / 领域分: 3.0</description>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      
+      <category>消费者行为</category><category>人机交互</category><category>信任</category><category>机器人</category><category>人机交互</category>
     </item>    <item>
       <title>"言行一致？"：框架化社交意图与自主智能体行为对信任过程的联合影响</title>
       <link>https://ob-ai-papers.vercel.app/papers/54894</link>
@@ -453,21 +467,6 @@ EN: Bridging or broadening Gaps? AI-Assisted professional writing among native a
 AI 分: 5.0 / 领域分: 3.0</description>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
       <category>教育</category><category>公平性</category><category>人机协作</category><category>GenAI</category><category>LLM</category><category>人机交互</category>
-    </item>    <item>
-      <title>驾驭未来：自动驾驶出租车公众接受度的纵向探索——从初步试验到逐步适应</title>
-      <link>https://ob-ai-papers.vercel.app/papers/54631</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/54631</guid>
-      <description>📝 驾驭未来：自动驾驶出租车公众接受度的纵向探索——从初步试验到逐步适应
-EN: Navigating the future: A longitudinal exploration of public acceptance of autonomous taxis from initial trials to stepwise habituation
-
-💡 该研究采用纵向追踪设计，考察公众对自动驾驶出租车的接受度如何从初次试乘逐步演变为习惯化使用，揭示技术信任、感知风险与行为习惯形成随时间演变的动态过程及关键驱动因素。
-
-📚 CHB · 2025 · 引用 22
-👤 Min Zhou, Shuwei Yu, Chuting Zhou, Nan Kong, Kathryn S. Campy
-
-AI 分: 3.0 / 领域分: 4.0</description>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <category>消费者行为</category><category>信任</category><category>创新</category><category>机器人</category><category>人机交互</category>
     </item>
   </channel>
 </rss>
