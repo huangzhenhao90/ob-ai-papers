@@ -6,9 +6,179 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 17 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>Evaluating Beyond the Screen: Collective Assessment of AI-Generated Business Plans with Resource-Constrained Entrepreneurs</title>
+      <link>https://ob-ai-papers.vercel.app/papers/57025</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/57025</guid>
+      <description>📝 Evaluating Beyond the Screen: Collective Assessment of AI-Generated Business Plans with Resource-Constrained Entrepreneurs
+
+💡 针对资源受限创业者难以独立评估AI生成商业计划的问题，研究扩展BizChat工具，新增将每条AI声明回链至创业者原始输入的评估模块，并在马里兰社区创业项目中以think-pair-share形式组织14名创业者集体评估。结果显示，声明-输入链接等界面支架帮助参与者形成具体、贴近自身经验的判断，而小组讨论将评估延展到屏幕之外：参与者要求打印计划、用评分量表横向比较，并借助同伴知识验证自己难以单独判断的内容。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Qi Zhao, Marjory Pineda, Ketul Chhaya, Aakash Gautam, Yasmine Kotturi
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2608.16886v1</description>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      <category>创业</category><category>决策</category><category>人机协作</category><category>GenAI</category><category>ChatGPT</category><category>人机交互</category>
+    </item>    <item>
+      <title>Beyond Overt Reactions: Analyzing Subtle User Emotional Response to Unexpected In-Vehicle System Behavior</title>
+      <link>https://ob-ai-papers.vercel.app/papers/57024</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/57024</guid>
+      <description>📝 Beyond Overt Reactions: Analyzing Subtle User Emotional Response to Unexpected In-Vehicle System Behavior
+
+💡 针对自动驾驶汽车意外行为引发用户细微情绪反应的研究空白，构建驾驶模拟器实验，让用户在平板执行次要任务并通过语音和车内显示与车辆交互，诱发其惊讶、困惑和挫败感。收集视频、音频、心率等多模态数据，系统捕捉面部、语音与生理信号层面的细微反应，弥补现有数据集仅关注强烈情绪与外部路况的不足，揭示自主车载系统设计中识别并响应用户细微反馈的必要性。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Huy Quyen Ngo, Suresh Kumaar Jayaraman, Brian Mok, Ken Friedl, Oliver Krause
+
+AI 分: 3.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2608.15048v1</description>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      <category>人机交互</category><category>人机协作</category><category>信任</category><category>人机交互</category>
+    </item>    <item>
+      <title>Adoption of Generative AI in the Workplace: Increasing and Shifting the Balance of Productivity and Communication Activity</title>
+      <link>https://ob-ai-papers.vercel.app/papers/57023</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/57023</guid>
+      <description>📝 Adoption of Generative AI in the Workplace: Increasing and Shifting the Balance of Productivity and Communication Activity
+
+💡 基于微软M365在多家跨国企业的数字足迹数据，采用双重差分法考察生成式AI采用对信息工作的影响。20周后，使用AI超100次的用户生产力行为增加21.2%，沟通行为增加7.1%；在100–500次使用区间，AI用量越高两类活动持续增长。沟通增幅较小反映工作重心向个人文档创作转移，邮件阅读与整理下降。研究提示AI带来效率提升并可能缓解信息过载，但需关注采用不均引发的组织内不平等。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Yulin Yu, Yan Chen, Rui Hu, Siddharth Suri, Scott Counts
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2608.15550v1</description>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      <category>工作未来</category><category>组织变革</category><category>知识管理</category><category>GenAI</category><category>LLM</category>
+    </item>    <item>
+      <title>The Authority Resolution Framework: A Five-Domain Ontology for Governing Who and What Decides, at Scale</title>
+      <link>https://ob-ai-papers.vercel.app/papers/57015</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/57015</guid>
+      <description>📝 The Authority Resolution Framework: A Five-Domain Ontology for Governing Who and What Decides, at Scale
+
+💡 研究AI智能体执行关键行动前的授权决策问题。提出Authority Resolution Framework五域本体论，涵盖组织角色与隐性影响、业务概念、编码流程、机器可读权限及外部语境，定义Authority Relation跨域原语并引入DNA-Coefficient衡量文档化与实际权威结构的偏差。提供JSON-LD与知识图谱查询模式，使AI在执行后果性行动前可判断权威的来源、范围与语境有效性，定位为本体工程与AI治理的交叉问题。
+
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 Parviz Shariff
+
+AI 分: 4.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2608.15832v1</description>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      <category>AI治理</category><category>决策</category><category>知识管理</category><category>算法管理</category><category>AI治理</category><category>可解释AI</category>
+    </item>    <item>
+      <title>Is Our Future Colleague Even Human? Advancing Human–AI Teamwork from an Organizational Perspective</title>
+      <link>https://ob-ai-papers.vercel.app/papers/56495</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/56495</guid>
+      <description>📝 Is Our Future Colleague Even Human? Advancing Human–AI Teamwork from an Organizational Perspective
+
+💡 该编辑性文章综合特刊8篇论文，探讨AI作为未来同事对组织的意涵。分析显示，AI重塑的是集体工作流程而非仅个体判断；类人化与性别化等设计线索影响AI感知，AI也改变决策、信任与压力等团队过程。文章基于社会技术系统思想构建框架，区分AI在工作社会系统中的位置与所行使的代理程度，提出应将团队（而非二元配对）作为分析单位，并就AI在组织中的治理提出规范性问题与研究议程。
+
+📚 JOB · 2026 · 引用 0
+👤 Anna‐Sophie Ulfert, Eleni Georganta, Gudela Grote
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      <category>团队</category><category>人机协作</category><category>组织变革</category><category>人机协作</category><category>AI 治理</category>
+    </item>    <item>
+      <title>What shapes our attitudes towards algorithms in urban governance? The role of perceived friendliness and controllability of the city, and human-algorithm cooperation</title>
+      <link>https://ob-ai-papers.vercel.app/papers/56164</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/56164</guid>
+      <description>📝 What shapes our attitudes towards algorithms in urban governance? The role of perceived friendliness and controllability of the city, and human-algorithm cooperation
+
+💡 探究公众对城市治理中算法态度的影响因素，分析城市感知友好度、可控感以及人机合作在塑造算法接受度中的作用机制。
+
+📚 CHB · 2023 · 引用 14
+👤 Tomasz Oleksy, Anna Wnuk, Anna Domaradzka, Dominika Maison
+
+AI 分: 4.0 / 领域分: 3.0</description>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      <category>信任</category><category>决策</category><category>组织变革</category><category>算法决策</category><category>算法管理</category><category>人机协作</category>
+    </item>    <item>
+      <title>Is anthropomorphizing AI worth it? The role of hands-on experience in shaping advice uptake</title>
+      <link>https://ob-ai-papers.vercel.app/papers/56145</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/56145</guid>
+      <description>📝 Is anthropomorphizing AI worth it? The role of hands-on experience in shaping advice uptake
+
+💡 探讨AI拟人化是否值得——用户对AI建议的采纳是否受动手操作经验的影响。检验在实际接触与使用AI系统后，用户对拟人化AI所提建议的态度与接受行为如何变化，揭示hands-on experience对拟人化效应与建议采纳的调节作用，为人机交互中拟人化设计及建议接受度研究提供实证依据。
+
+📚 CHB · 2026 · 引用 2
+👤 Sisheng Li, Qinghua He, Yawei Qi, Ofir Turel
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      <category>人机交互</category><category>信任</category><category>消费者行为</category><category>人机交互</category>
+    </item>    <item>
+      <title>“Can talking like you make it work?”: The role of linguistic convergence and maintenance in human–robot interaction</title>
+      <link>https://ob-ai-papers.vercel.app/papers/56141</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/56141</guid>
+      <description>📝 “Can talking like you make it work?”: The role of linguistic convergence and maintenance in human–robot interaction
+
+📚 CHB · 2026 · 引用 0
+👤 Jeongmin Lee, Sukyung Yoon, Hyorim Shin, Junho Choi
+
+AI 分: 3.0 / 领域分: 4.0</description>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>Corrigendum to “AI-driven personalization: Unraveling consumer perceptions in social media engagement” [Computers in Human Behavior 165 (2025) 108549]</title>
+      <link>https://ob-ai-papers.vercel.app/papers/56131</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/56131</guid>
+      <description>📝 Corrigendum to “AI-driven personalization: Unraveling consumer perceptions in social media engagement” [Computers in Human Behavior 165 (2025) 108549]
+
+📚 CHB · 2026 · 引用 1
+👤 Tanawat Teepapal
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>Does transparency matter when an AI system meets performance expectations? An experiment with an online dating site</title>
+      <link>https://ob-ai-papers.vercel.app/papers/56113</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/56113</guid>
+      <description>📝 Does transparency matter when an AI system meets performance expectations? An experiment with an online dating site
+
+📚 CHB · 2026 · 引用 2
+👤 Yuan Sun, Mengqi (Maggie) Liao, S. Shyam Sundar, Joseph B. Walther
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>Foundations for Human-AI teaming for self-regulated learning with explainable AI (XAI)</title>
+      <link>https://ob-ai-papers.vercel.app/papers/56112</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/56112</guid>
+      <description>📝 Foundations for Human-AI teaming for self-regulated learning with explainable AI (XAI)
+
+💡 构建人机协作自我调节学习的理论基础，探讨可解释AI(XAI)如何帮助学习者理解并与AI系统有效协作，以促进自主学习。
+
+📚 CHB · 2023 · 引用 12
+👤 Judy Kay
+
+AI 分: 5.0 / 领域分: 3.0</description>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      <category>教育</category><category>人机协作</category><category>培训</category><category>可解释 AI</category><category>人机协作</category>
+    </item>    <item>
+      <title>AI or human: How endorser shapes online purchase intention?</title>
+      <link>https://ob-ai-papers.vercel.app/papers/56097</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/56097</guid>
+      <description>📝 AI or human: How endorser shapes online purchase intention?
+
+💡 探讨AI代言人与人类代言人如何影响消费者在线购买意愿，比较不同代言主体类型对营销传播效果及购买决策的差异。
+
+📚 CHB · 2024 · 引用 39
+👤 Yang Song, Litong Wang, Zhiyuan Zhang, Lubica Hikkerova
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      <category>营销</category><category>消费者行为</category><category>广告</category><category>品牌</category><category>GenAI</category><category>人机交互</category>
+    </item>    <item>
       <title>人文关怀与人工智能：理解未来教育中的用户偏好</title>
       <link>https://ob-ai-papers.vercel.app/papers/56029</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/56029</guid>
@@ -300,188 +470,6 @@ EN: From “cost of asking” to “fit of asking”: How seeking help with AI s
 AI 分: 5.0 / 领域分: 5.0</description>
       <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
       <category>人机协作</category><category>员工幸福感</category><category>工作设计</category><category>人机交互</category><category>人机协作</category><category>AI客服</category>
-    </item>    <item>
-      <title>CASE框架：面向企业智能体AI治理的多学科控制架构</title>
-      <link>https://ob-ai-papers.vercel.app/papers/54956</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/54956</guid>
-      <description>📝 CASE框架：面向企业智能体AI治理的多学科控制架构
-EN: The CASE Framework: A Multi-Disciplinary Control Architecture for Governing Enterprise Agentic AI
-
-💡 针对企业部署自主AI代理时治理能力滞后的问题，提出CASE多学科治理框架，将控制理论映射单体代理、复杂适应系统理论映射代理集群、监督控制论映射人机团队、工程运营映射代理舰队。实证发现82%生产代理故障属多层级轨迹，22个生态工具均未覆盖第二层（涌现层），35个公开部署均处于最低成熟度等级，由此提出"涌现鸿沟"概念及五级成熟度模型。
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Srinivas Telukunta, Georgios Nektarios Lilis, Lucio Baron
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2608.10153v1</description>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <category>伦理</category><category>人机协作</category><category>组织变革</category><category>信任</category><category>AI治理</category><category>人机协作</category><category>算法管理</category>
-    </item>    <item>
-      <title>人体增强的安慰剂效应：预期认知增强会增加冒险行为</title>
-      <link>https://ob-ai-papers.vercel.app/papers/54928</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/54928</guid>
-      <description>📝 人体增强的安慰剂效应：预期认知增强会增加冒险行为
-EN: The placebo effect of human augmentation: Anticipating cognitive augmentation increases risk-taking behavior
-
-💡 研究人类增强的安慰剂效应：仅预期获得认知增强（而非实际增强）是否会改变个体的风险决策行为。通过实验揭示预期增强带来的心理与行为变化，探讨对组织应用增强技术的启示。
-
-📚 CHB · 2023 · 引用 39
-👤 Steeven Villa, Thomas Kosch, Felix Grelka, Albrecht Schmidt, Robin Welsch
-
-AI 分: 3.0 / 领域分: 3.0</description>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <category>决策</category><category>人机协作</category><category>伦理</category><category>人机交互</category>
-    </item>    <item>
-      <title>《公共关系中人工智能的感知与采纳：创新属性、威胁与实践启示》勘误（Computers in Human Behavior, 184C (2026) 109087）</title>
-      <link>https://ob-ai-papers.vercel.app/papers/54900</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/54900</guid>
-      <description>📝 《公共关系中人工智能的感知与采纳：创新属性、威胁与实践启示》勘误（Computers in Human Behavior, 184C (2026) 109087）
-EN: Corrigendum to ‘Perceptions and adoption of AI in public relations: Innovation attributes, threats, and practical implications’ [Computers in Human Behavior 184C (2026) 109087]
-
-💡 原研究从创新属性、威胁感知和实践影响三方面考察公共关系从业者对AI的感知与采纳行为，本勘误对原文若干表述、数据或结论进行更正。
-
-📚 CHB · 2026 · 引用 0
-👤 Sung-Un Yang, Cen April Yue, Arunima Krishna, Donald K. Wright
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <category>营销</category><category>创新</category><category>AI治理</category>
-    </item>    <item>
-      <title>孤独者会寻求机器人陪伴吗？中美孤独感与机器人拟人化关联的比较研究</title>
-      <link>https://ob-ai-papers.vercel.app/papers/54897</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/54897</guid>
-      <description>📝 孤独者会寻求机器人陪伴吗？中美孤独感与机器人拟人化关联的比较研究
-EN: Do lonely people seek robot companionship? A comparative examination of the Loneliness–Robot anthropomorphism link in the United States and China
-
-💡 跨文化比较美国与中国孤独人群对机器人陪伴的寻求倾向及机器人拟人化感知差异，检验孤独感是否驱动个体将机器人视为社交替代品，并分析文化背景对孤独-拟人化关系的调节效应。
-
-📚 CHB · 2023 · 引用 52
-👤 Jianning Dang, Li Liu
-
-AI 分: 3.0 / 领域分: 3.0</description>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <category>消费者行为</category><category>人机交互</category><category>信任</category><category>机器人</category><category>人机交互</category>
-    </item>    <item>
-      <title>"言行一致？"：框架化社交意图与自主智能体行为对信任过程的联合影响</title>
-      <link>https://ob-ai-papers.vercel.app/papers/54894</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/54894</guid>
-      <description>📝 "言行一致？"：框架化社交意图与自主智能体行为对信任过程的联合影响
-EN: “Do what you say?” The combined effects of framed social intent and autonomous agent behavior on the trust process
-
-💡 考察社交意图框架与自主智能体行为如何共同作用于信任形成过程，探讨当智能体行为与其声明意图不一致时信任如何变化。研究关注意图传达方式与实际行为表现对用户信任评估的联合影响，揭示自主代理信任建立的心理机制。
-
-📚 CHB · 2023 · 引用 16
-👤 August Capiola, Joseph B. Lyons, Krista N. Harris, Izz aldin Hamdan, Siva Kailas
-
-AI 分: 3.0 / 领域分: 4.0</description>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <category>信任</category><category>人机协作</category><category>决策</category><category>人机交互</category><category>算法决策</category>
-    </item>    <item>
-      <title>超越效率：知识工作环境中的信任、人工智能与意外</title>
-      <link>https://ob-ai-papers.vercel.app/papers/54880</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/54880</guid>
-      <description>📝 超越效率：知识工作环境中的信任、人工智能与意外
-EN: Beyond efficiency: Trust, AI, and surprise in knowledge work environments
-
-💡 在知识工作场景中超越效率视角，考察AI引入后信任建构与意外发现（惊喜）体验的作用，探讨人机协作中信任形成机制及非效率性体验对员工工作产出、满意度与意义感的影响，丰富AI与知识管理研究。
-
-📚 CHB · 2025 · 引用 13
-👤 Allen S. Brown, Christopher R. Dishop, Andrew Kuznetsov, Ping-Ya Chao, Anita Williams Woolley
-
-AI 分: 4.0 / 领域分: 4.0</description>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <category>知识管理</category><category>信任</category><category>人机协作</category><category>机器学习</category><category>人机协作</category><category>可解释AI</category>
-    </item>    <item>
-      <title>机器学习在数字表型分析中的应用：系统文献综述与分类法</title>
-      <link>https://ob-ai-papers.vercel.app/papers/54851</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/54851</guid>
-      <description>📝 机器学习在数字表型分析中的应用：系统文献综述与分类法
-EN: Machine learning applied to digital phenotyping: A systematic literature review and taxonomy
-
-💡 对机器学习在数字表型（通过智能手机、可穿戴设备等数字痕迹推断个体心理与行为状态）中的应用研究进行系统文献梳理与分类，构建研究框架与类型学，识别研究热点、方法论特征及未来方向。
-
-📚 CHB · 2024 · 引用 20
-👤 Marília Pit dos Santos, Wesllei Felipe Heckler, Rodrigo Simon Bavaresco, Jorge Luis Victória Barbosa
-
-AI 分: 4.0 / 领域分: 3.0</description>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <category>决策</category><category>隐私</category><category>伦理</category><category>机器学习</category>
-    </item>    <item>
-      <title>拟人化如何提升人机交互满意度：双路径模型</title>
-      <link>https://ob-ai-papers.vercel.app/papers/54848</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/54848</guid>
-      <description>📝 拟人化如何提升人机交互满意度：双路径模型
-EN: How does anthropomorphism improve human-AI interaction satisfaction: a dual-path model
-
-💡 基于双路径模型，探讨AI拟人化如何提升人机交互满意度。分别从认知路径（如感知能力、信任）与情感路径（如温暖感、亲近感）切入，分析拟人化设计通过中介机制影响用户满意度的内在过程，为AI交互设计提供理论依据。
-
-📚 CHB · 2023 · 引用 134
-👤 Yuguang Xie, Keyu Zhu, Peiyu Zhou, Changyong Liang
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>人机交互</category><category>信任</category><category>GenAI</category><category>人机交互</category>
-    </item>    <item>
-      <title>当算法记住员工所遗忘之事：颠覆人工智能工作顾问缺乏情境的普遍观点</title>
-      <link>https://ob-ai-papers.vercel.app/papers/54740</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/54740</guid>
-      <description>📝 当算法记住员工所遗忘之事：颠覆人工智能工作顾问缺乏情境的普遍观点
-EN: When algorithms remember what employees forget: Reversing the common view that artificial intelligence (AI) workplace advisors lack context
-
-💡 挑战AI职场顾问因缺乏上下文而不擅长提供建议的固有认知，指出算法可记忆员工遗忘的信息，保留交互历史与情境连续性，形成"算法记忆"优势。研究重新审视AI顾问在职场中的角色，扩展人机协作与算法管理研究视角。
-
-📚 CHB · 2026 · 引用 1
-👤 Christopher R. Dishop
-
-AI 分: 5.0 / 领域分: 5.0</description>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>知识管理</category><category>算法管理</category><category>算法管理</category><category>人机交互</category><category>可解释AI</category>
-    </item>    <item>
-      <title>如何赢得绿色市场？基于文本挖掘的中国消费者满意度与情感探索</title>
-      <link>https://ob-ai-papers.vercel.app/papers/54716</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/54716</guid>
-      <description>📝 如何赢得绿色市场？基于文本挖掘的中国消费者满意度与情感探索
-EN: How to win the green market? Exploring the satisfaction and sentiment of Chinese consumers based on text mining
-
-💡 运用文本挖掘技术分析中国消费者对绿色产品的满意度与情感倾向，挖掘在线评论等数据中的关键影响因素。研究为企业把握绿色市场需求、制定差异化营销策略以赢得绿色市场提供数据支持与实践启示。
-
-📚 CHB · 2023 · 引用 42
-👤 Chuang Li, Yating Niu, Liping Wang
-
-AI 分: 3.0 / 领域分: 4.0</description>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <category>消费者行为</category><category>营销</category><category>机器学习</category>
-    </item>    <item>
-      <title>混合主动多无人系统控制中的智能体透明度：智能体协作者应如何表达想法？</title>
-      <link>https://ob-ai-papers.vercel.app/papers/54699</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/54699</guid>
-      <description>📝 混合主动多无人系统控制中的智能体透明度：智能体协作者应如何表达想法？
-EN: Agent transparency in mixed-initiative multi-UxV control: How should intelligent agent collaborators speak their minds?
-
-💡 针对多人无人系统（UxV）混合主动控制场景，研究智能体的透明度对人与AI协作的影响。探讨智能代理应如何向人类操作员表达意图、推理过程与不确定性，以提升协同决策效率和人机信任水平。
-
-📚 CHB · 2023 · 引用 15
-👤 Ryan W. Wohleber, Kimberly Stowers, Michael Barnes, Jessie Y.C. Chen
-
-AI 分: 5.0 / 领域分: 3.0</description>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>人机交互</category><category>决策</category><category>信任</category><category>算法决策</category><category>可解释 AI</category><category>人机交互</category>
-    </item>    <item>
-      <title>AI赋能的投建议：用户会采纳吗？</title>
-      <link>https://ob-ai-papers.vercel.app/papers/54663</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/54663</guid>
-      <description>📝 AI赋能的投建议：用户会采纳吗？
-EN: AI-enabled investment advice: Will users buy it?
-
-💡 研究考察用户对 AI 生成投资建议的采纳意愿，分析影响其购买或使用 AI 理财建议的因素，涵盖感知价值、信任、风险态度等心理机制，揭示 AI 金融咨询服务在大众市场中的接受度与推广路径。
-
-📚 CHB · 2023 · 引用 55
-👤 Alton Y.K. Chua, Anjan Pal, Snehasish Banerjee
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <category>消费者行为</category><category>信任</category><category>决策</category><category>营销</category><category>LLM</category><category>人机交互</category><category>推荐系统</category>
     </item>
   </channel>
 </rss>
