@@ -6,9 +6,84 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 21 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>EXPRESS：AI辅助一线服务：银行抵押贷款情境下的内外部营销效应</title>
+      <link>https://ob-ai-papers.vercel.app/papers/59194</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/59194</guid>
+      <description>📝 EXPRESS：AI辅助一线服务：银行抵押贷款情境下的内外部营销效应
+EN: EXPRESS: When AI Assists at the Frontline: External and Internal Marketing Effects in the Context of Banking Mortgages
+
+💡 研究AI辅助银行抵押贷款一线员工的影响。准实验与预注册实验发现，AI辅助使员工决策更保守，贷款批准率、违约率与客户满意度均下降；文本分析与实验表明，AI生成方案显得僵化、缺乏灵活替代选项，进而降低员工对回复的满意度，并削弱其感知工作自主性。研究提示，AI在非例行性任务前线岗位未必天然具有支持作用，需谨慎匹配任务特征。
+
+📚 JMR · 2026 · 引用 0
+👤 Anastasia Nanni, Andrea Ordanini, P.K. Kannan
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>员工幸福感</category><category>营销</category><category>决策</category><category>工作设计</category><category>机器学习</category><category>算法决策</category><category>人机协作</category>
+    </item>    <item>
+      <title>EXPRESS：品牌标语记忆度的预测</title>
+      <link>https://ob-ai-papers.vercel.app/papers/59177</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/59177</guid>
+      <description>📝 EXPRESS：品牌标语记忆度的预测
+EN: EXPRESS: Predicting the Memorability of Brand Slogans
+
+💡 针对品牌口号记忆度预测，结合系统文献综述，融合自然语言处理、人类评分与文本嵌入衍生构念，构建预测模型评估现有口号的识别与提示品牌回忆效果，并揭示文献遗漏的文本特征。最终模型可作为工具辅助营销人员在新品牌口号候选方案间进行取舍。
+
+📚 JMR · 2026 · 引用 0
+👤 Ada Aka, John McCoy
+
+AI 分: 3.0 / 领域分: 5.0</description>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+      <category>品牌</category><category>营销</category><category>消费者行为</category><category>机器学习</category><category>LLM</category>
+    </item>    <item>
+      <title>EXPRESS：Agentic AI与营销关系的新架构</title>
+      <link>https://ob-ai-papers.vercel.app/papers/59163</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/59163</guid>
+      <description>📝 EXPRESS：Agentic AI与营销关系的新架构
+EN: EXPRESS: Agentic AI and the New Architecture of Marketing Relationships
+
+💡 论文提出AI智能体代为搜索、谈判与交易背景下，企业与客户经由AI中介互动的新交换结构B2A2C，并构建客户—智能体关系营销理论CARMA，围绕校准、问责、互惠、媒介、调适五大机制展开，提出八项命题论述委托前置条件、关系失败与情境差异，主张信任转为先行条件、机器可读互惠塑造忠诚、人—基础设施—智能体三层协同构成竞争优势来源。
+
+📚 JM · 2026 · 引用 0
+👤 Adithya Pattabhiramaiah, Martin Mende, Huachao Gao, Shrihari Sridhar
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+      <category>营销</category><category>人机协作</category><category>信任</category><category>战略</category><category>GenAI</category><category>LLM</category><category>AI治理</category><category>人机交互</category>
+    </item>    <item>
+      <title>"积极"还是"威胁"？生成式人工智能特征对持续使用行为的影响</title>
+      <link>https://ob-ai-papers.vercel.app/papers/58819</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/58819</guid>
+      <description>📝 "积极"还是"威胁"？生成式人工智能特征对持续使用行为的影响
+EN: “Positive” or “Threatened”? The impact of the features in generative artificial intelligence on continued behavior
+
+💡 基于标题推断：研究生成式人工智能的功能特征如何影响用户的持续使用行为。可能的理论视角涉及技术接受/持续模型，考察AI功能带来的积极体验（如便利、个性化）与威胁感（如隐私、替代焦虑）如何共同作用于持续使用意愿，为GenAI产品的功能设计与用户留存提供启示。
+
+📚 CHB · 2025 · 引用 21
+👤 Li Zhao, Yun Xu, Sheng-kai Zhou
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+      <category>人机交互</category><category>消费者行为</category><category>信任</category><category>隐私</category><category>GenAI</category><category>ChatGPT</category>
+    </item>    <item>
+      <title>家庭中的虚拟助手：理解父母与孩子使用虚拟助手的动机</title>
+      <link>https://ob-ai-papers.vercel.app/papers/58785</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/58785</guid>
+      <description>📝 家庭中的虚拟助手：理解父母与孩子使用虚拟助手的动机
+EN: Virtual assistants in the family home. Understanding parents’ motivations to use virtual assistants with their Child(dren)
+
+💡 基于标题推断：探究家庭场景中父母与孩子共同使用虚拟助手（如智能音箱）的动机因素。研究可能从父母视角出发，识别教育、陪伴、娱乐、安全监护等使用动机，并讨论对儿童发展、家庭互动模式及隐私伦理的影响。
+
+📚 CHB · 2023 · 引用 31
+👤 Rebecca Wald, Jessica T. Piotrowski, Theo Araujo, Johanna M.F. van Oosten
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>消费者行为</category><category>教育</category><category>隐私</category><category>AI客服</category><category>人机交互</category>
+    </item>    <item>
       <title>与服务机器人互动(不)令人满意：顾客情绪社会分享需求的作用</title>
       <link>https://ob-ai-papers.vercel.app/papers/58435</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/58435</guid>
@@ -393,81 +468,6 @@ EN: Is anthropomorphizing AI worth it? The role of hands-on experience in shapin
 AI 分: 5.0 / 领域分: 4.0</description>
       <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
       <category>人机交互</category><category>信任</category><category>消费者行为</category><category>人机交互</category>
-    </item>    <item>
-      <title>「像你一样说话能否奏效？」：语言趋同与维持在人机交互中的作用</title>
-      <link>https://ob-ai-papers.vercel.app/papers/56141</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/56141</guid>
-      <description>📝 「像你一样说话能否奏效？」：语言趋同与维持在人机交互中的作用
-EN: “Can talking like you make it work?”: The role of linguistic convergence and maintenance in human–robot interaction
-
-💡 探讨人机交互中语言趋同(convergence)与语言维持(maintenance)对互动效果的影响，关注机器人通过调整语言风格以匹配用户时，如何影响沟通质量、关系建立及用户体验。
-
-📚 CHB · 2026 · 引用 0
-👤 Jeongmin Lee, Sukyung Yoon, Hyorim Shin, Junho Choi
-
-AI 分: 3.0 / 领域分: 4.0</description>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>人机交互</category><category>沟通</category><category>机器人</category><category>人机交互</category>
-    </item>    <item>
-      <title>对"AI驱动的个性化：解析社交媒体参与中的消费者感知"的勘误</title>
-      <link>https://ob-ai-papers.vercel.app/papers/56131</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/56131</guid>
-      <description>📝 对"AI驱动的个性化：解析社交媒体参与中的消费者感知"的勘误
-EN: Corrigendum to “AI-driven personalization: Unraveling consumer perceptions in social media engagement” [Computers in Human Behavior 165 (2025) 108549]
-
-💡 对发表于CHB的论文《AI驱动的个性化：解析社交媒体互动中的消费者感知》的勘误声明，原研究考察社交媒体平台中AI个性化推荐对消费者态度、参与度与隐私感知的影响。
-
-📚 CHB · 2026 · 引用 1
-👤 Tanawat Teepapal
-
-AI 分: 5.0 / 领域分: 5.0</description>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-      <category>营销</category><category>消费者行为</category><category>推荐系统</category><category>推荐算法</category>
-    </item>    <item>
-      <title>当AI系统达到性能预期时，透明度是否重要？——基于在线交友网站的实验研究</title>
-      <link>https://ob-ai-papers.vercel.app/papers/56113</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/56113</guid>
-      <description>📝 当AI系统达到性能预期时，透明度是否重要？——基于在线交友网站的实验研究
-EN: Does transparency matter when an AI system meets performance expectations? An experiment with an online dating site
-
-💡 以在线约会网站为实验场景，考察当AI推荐系统达到性能预期时，透明度披露是否仍会影响用户的信任、接受度与使用意愿，探究透明度与系统表现之间的交互作用。
-
-📚 CHB · 2026 · 引用 2
-👤 Yuan Sun, Mengqi (Maggie) Liao, S. Shyam Sundar, Joseph B. Walther
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-      <category>消费者行为</category><category>信任</category><category>推荐系统</category><category>公平性</category><category>算法决策</category><category>可解释 AI</category>
-    </item>    <item>
-      <title>人机协同自主学习的基础：基于可解释AI（XAI）</title>
-      <link>https://ob-ai-papers.vercel.app/papers/56112</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/56112</guid>
-      <description>📝 人机协同自主学习的基础：基于可解释AI（XAI）
-EN: Foundations for Human-AI teaming for self-regulated learning with explainable AI (XAI)
-
-💡 构建人机协作自我调节学习的理论基础，探讨可解释AI(XAI)如何帮助学习者理解并与AI系统有效协作，以促进自主学习。
-
-📚 CHB · 2023 · 引用 12
-👤 Judy Kay
-
-AI 分: 5.0 / 领域分: 3.0</description>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-      <category>教育</category><category>人机协作</category><category>培训</category><category>可解释 AI</category><category>人机协作</category>
-    </item>    <item>
-      <title>AI还是人类：代言人对在线购买意愿的影响</title>
-      <link>https://ob-ai-papers.vercel.app/papers/56097</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/56097</guid>
-      <description>📝 AI还是人类：代言人对在线购买意愿的影响
-EN: AI or human: How endorser shapes online purchase intention?
-
-💡 探讨AI代言人与人类代言人如何影响消费者在线购买意愿，比较不同代言主体类型对营销传播效果及购买决策的差异。
-
-📚 CHB · 2024 · 引用 39
-👤 Yang Song, Litong Wang, Zhiyuan Zhang, Lubica Hikkerova
-
-AI 分: 5.0 / 领域分: 5.0</description>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-      <category>营销</category><category>消费者行为</category><category>广告</category><category>品牌</category><category>GenAI</category><category>人机交互</category>
     </item>
   </channel>
 </rss>
