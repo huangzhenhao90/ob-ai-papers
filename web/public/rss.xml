@@ -6,9 +6,51 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 22 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>See what you see, hear what you hear: Theorizing AI Device Embodiment (ADE) and its effects on well-being, perceived social support, and adoption</title>
+      <link>https://ob-ai-papers.vercel.app/papers/59298</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/59298</guid>
+      <description>📝 See what you see, hear what you hear: Theorizing AI Device Embodiment (ADE) and its effects on well-being, perceived social support, and adoption
+
+💡 构建AI设备具身化(ADE)理论框架，考察AI设备在视觉与听觉双通道上的具身化程度如何影响用户幸福感、感知社会支持与技术采纳，揭示具身设计在人机互动中的心理机制。
+
+📚 CHB · 2026 · 引用 0
+👤 Jih-Hsuan (Tammy) Lin, Huai-Yu Chen, Ji-Wei Yang
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>消费者行为</category><category>信任</category><category>机器人</category><category>人机交互</category><category>多模态</category>
+    </item>    <item>
+      <title>Both AI-generated and human influencers can correct misinformation: Investigating the effectiveness of corrections for polarized and non-polarized issues</title>
+      <link>https://ob-ai-papers.vercel.app/papers/59292</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/59292</guid>
+      <description>📝 Both AI-generated and human influencers can correct misinformation: Investigating the effectiveness of corrections for polarized and non-polarized issues
+
+💡 对比AI生成影响者与真人影响者纠正虚假信息的传播效果，区分极化与非极化议题情境，检验AI影响者介入信息纠偏的有效性及其在不同议题类型上的边界条件。
+
+📚 CHB · 2026 · 引用 3
+👤 Christian von Sikorski, Pascal Merz, Raffael Heiss, Michaela Bassler, Clara Buyny
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
+      <category>营销</category><category>消费者行为</category><category>偏见</category><category>信任</category><category>GenAI</category>
+    </item>    <item>
+      <title>How children speak with their voice assistant Sila depends on what they think about her</title>
+      <link>https://ob-ai-papers.vercel.app/papers/59287</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/59287</guid>
+      <description>📝 How children speak with their voice assistant Sila depends on what they think about her
+
+💡 探究儿童与语音助手Sila对话方式如何受其对助手认知评价与态度的影响，揭示儿童心智模型、拟人化判断在塑造人机语音交互行为模式中的中介机制。
+
+📚 CHB · 2023 · 引用 19
+👤 Anja Gampe, Katharina Zahner-Ritter, Joanna Joys Müller, Sarah Rebecca Schmid
+
+AI 分: 4.0 / 领域分: 3.0</description>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>教育</category><category>信任</category><category>人机交互</category><category>LLM</category>
+    </item>    <item>
       <title>EXPRESS：AI辅助一线服务：银行抵押贷款情境下的内外部营销效应</title>
       <link>https://ob-ai-papers.vercel.app/papers/59194</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/59194</guid>
@@ -18,7 +60,7 @@ EN: EXPRESS: When AI Assists at the Frontline: External and Internal Marketing E
 💡 研究AI辅助银行抵押贷款一线员工的影响。准实验与预注册实验发现，AI辅助使员工决策更保守，贷款批准率、违约率与客户满意度均下降；文本分析与实验表明，AI生成方案显得僵化、缺乏灵活替代选项，进而降低员工对回复的满意度，并削弱其感知工作自主性。研究提示，AI在非例行性任务前线岗位未必天然具有支持作用，需谨慎匹配任务特征。
 
 📚 JMR · 2026 · 引用 0
-👤 Anastasia Nanni, Andrea Ordanini, P.K. Kannan
+👤 Anastasia Nanni, Andrea Ordanini, P. K. Kannan
 
 AI 分: 5.0 / 领域分: 5.0</description>
       <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
@@ -423,51 +465,6 @@ EN: Is Our Future Colleague Even Human? Advancing Human–AI Teamwork from an Or
 AI 分: 5.0 / 领域分: 5.0</description>
       <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
       <category>团队</category><category>人机协作</category><category>组织变革</category><category>人机协作</category><category>AI 治理</category>
-    </item>    <item>
-      <title>"人类，我为你写了一首歌"：机器属性对AI作曲评估影响的实验研究</title>
-      <link>https://ob-ai-papers.vercel.app/papers/56251</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/56251</guid>
-      <description>📝 "人类，我为你写了一首歌"：机器属性对AI作曲评估影响的实验研究
-EN: Human, I wrote a song for you: An experiment testing the influence of machines’ attributes on the AI-composed music evaluation
-
-💡 据标题推断，论文以实验方法检验机器的不同属性如何影响人们对AI创作音乐的评价，探究人机交互中AI属性如何塑造消费者对AI生成创意内容的感知、判断与接受。
-
-📚 CHB · 2022 · 引用 57
-👤 Joo-Wha Hong, Katrin Fischer, Yul Ha, Yilei Zeng
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>消费者行为</category><category>创意</category><category>GenAI</category><category>人机交互</category>
-    </item>    <item>
-      <title>什么塑造了我们对城市治理中算法的态度：城市感知友好性、可控性与人机协作的作用</title>
-      <link>https://ob-ai-papers.vercel.app/papers/56164</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/56164</guid>
-      <description>📝 什么塑造了我们对城市治理中算法的态度：城市感知友好性、可控性与人机协作的作用
-EN: What shapes our attitudes towards algorithms in urban governance? The role of perceived friendliness and controllability of the city, and human-algorithm cooperation
-
-💡 探究公众对城市治理中算法态度的影响因素，分析城市感知友好度、可控感以及人机合作在塑造算法接受度中的作用机制。
-
-📚 CHB · 2023 · 引用 14
-👤 Tomasz Oleksy, Anna Wnuk, Anna Domaradzka, Dominika Maison
-
-AI 分: 4.0 / 领域分: 3.0</description>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-      <category>信任</category><category>决策</category><category>组织变革</category><category>算法决策</category><category>算法管理</category><category>人机协作</category>
-    </item>    <item>
-      <title>将AI拟人化是否值得？实践经历对建议采纳的影响</title>
-      <link>https://ob-ai-papers.vercel.app/papers/56145</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/56145</guid>
-      <description>📝 将AI拟人化是否值得？实践经历对建议采纳的影响
-EN: Is anthropomorphizing AI worth it? The role of hands-on experience in shaping advice uptake
-
-💡 探讨AI拟人化是否值得——用户对AI建议的采纳是否受动手操作经验的影响。检验在实际接触与使用AI系统后，用户对拟人化AI所提建议的态度与接受行为如何变化，揭示hands-on experience对拟人化效应与建议采纳的调节作用，为人机交互中拟人化设计及建议接受度研究提供实证依据。
-
-📚 CHB · 2026 · 引用 2
-👤 Sisheng Li, Qinghua He, Yawei Qi, Ofir Turel
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-      <category>人机交互</category><category>信任</category><category>消费者行为</category><category>人机交互</category>
     </item>
   </channel>
 </rss>
