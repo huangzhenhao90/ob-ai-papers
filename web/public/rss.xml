@@ -6,9 +6,67 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 23 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>谁信任AI处理其情绪？LLM情感支持中的信任形成与社会人口学差异</title>
+      <link>https://ob-ai-papers.vercel.app/papers/59788</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/59788</guid>
+      <description>📝 谁信任AI处理其情绪？LLM情感支持中的信任形成与社会人口学差异
+EN: Who Trusts AI with Their Emotions? Trust Formation and Sociodemographic Variation in LLM Use for Emotional Support
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Natalia Amat-Lefort, Mert Yazan, Amanda Cercas Curry, Flor Miriam Plaza-del-Arco
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2608.21220v1</description>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>谁将任务委托给AI？基于53,000个智能体配置的证据</title>
+      <link>https://ob-ai-papers.vercel.app/papers/59782</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/59782</guid>
+      <description>📝 谁将任务委托给AI？基于53,000个智能体配置的证据
+EN: Who Delegates to AI? Evidence from 53,000 Agent Configurations
+
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 Hyeongjae Lee, Jihyang Cheon, Lanu Kim
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2608.20425v1</description>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>不冷亦非热，唯求恰当：结果严重程度如何影响AI聊天机器人的道德心智推断与信任</title>
+      <link>https://ob-ai-papers.vercel.app/papers/59507</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/59507</guid>
+      <description>📝 不冷亦非热，唯求恰当：结果严重程度如何影响AI聊天机器人的道德心智推断与信任
+EN: Not warm or cold, but appropriate: How outcome severity shifts moral-mind inferences and trust in AI chatbots
+
+📚 CHB · 2026 · 引用 1
+👤 Lianshan Zhang, Mei Yin Zhao
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>reddit平台上不孕不育女性的自我披露与获得的社会支持：基于自然语言处理方法</title>
+      <link>https://ob-ai-papers.vercel.app/papers/59496</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/59496</guid>
+      <description>📝 reddit平台上不孕不育女性的自我披露与获得的社会支持：基于自然语言处理方法
+EN: Self-disclosure and received social support among women experiencing infertility on reddit: A natural language processing approach
+
+💡 研究女性不孕患者在Reddit上的自我披露与所获社会支持之间的关系，采用自然语言处理方法分析社区帖文，揭示在线健康社区中情感表达与互助支持之间的关联模式，为理解数字健康社区的互动机制提供实证依据。
+
+📚 CHB · 2024 · 引用 18
+👤 Wenxue Zou, Lu Tang, Mi Zhou, Xinyu Zhang
+
+AI 分: 4.0 / 领域分: 3.0</description>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <category>消费者行为</category><category>信任</category><category>隐私</category><category>机器学习</category>
+    </item>    <item>
       <title>See what you see, hear what you hear: Theorizing AI Device Embodiment (ADE) and its effects on well-being, perceived social support, and adoption</title>
       <link>https://ob-ai-papers.vercel.app/papers/59298</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/59298</guid>
@@ -192,6 +250,8 @@ AI 分: 4.0 / 领域分: 5.0</description>
       <description>📝 虚构的表象：生成式人工智能与工作绩效的不透明性
 EN: The Fabricated Front: Generative AI and the Opacity of Workplace Performance
 
+💡 研究GenAI如何重塑职场互动中的"努力不透明性"。基于戈夫曼戏剧学框架，分析Anthropic AI Interviewer数据集1250份访谈，识别出五种不透明机制：声音、来源、脆弱性、注意力、投入。研究发现，职场人士积极维护身份机制却主动制造劳动过程的不透明，根源在于当代工作以产出为中心的组织逻辑。治理任务应从绩效监督转向"参与管理"。
+
 📚 arXiv:cs.CY · 2026 · 引用 0
 👤 Tom van Nuenen, Pratik S. Sachdeva, Sahiba Chopra
 
@@ -199,7 +259,7 @@ AI 分: 5.0 / 领域分: 5.0
 
 📄 PDF: https://arxiv.org/pdf/2608.18369v1</description>
       <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
-      
+      <category>人机协作</category><category>绩效评估</category><category>信任</category><category>工作设计</category><category>组织变革</category><category>GenAI</category><category>LLM</category><category>AI治理</category>
     </item>    <item>
       <title>连接搜索与CRM：将AI产品研究智能体产品化以实现客户再激活</title>
       <link>https://ob-ai-papers.vercel.app/papers/58376</link>
@@ -399,72 +459,6 @@ AI 分: 5.0 / 领域分: 4.0
 📄 PDF: https://arxiv.org/pdf/2608.16886v1</description>
       <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
       <category>创业</category><category>决策</category><category>人机协作</category><category>GenAI</category><category>ChatGPT</category><category>人机交互</category>
-    </item>    <item>
-      <title>超越显性反应：分析用户对车载系统意外行为的细微情绪响应</title>
-      <link>https://ob-ai-papers.vercel.app/papers/57024</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/57024</guid>
-      <description>📝 超越显性反应：分析用户对车载系统意外行为的细微情绪响应
-EN: Beyond Overt Reactions: Analyzing Subtle User Emotional Response to Unexpected In-Vehicle System Behavior
-
-💡 针对自动驾驶汽车意外行为引发用户细微情绪反应的研究空白，构建驾驶模拟器实验，让用户在平板执行次要任务并通过语音和车内显示与车辆交互，诱发其惊讶、困惑和挫败感。收集视频、音频、心率等多模态数据，系统捕捉面部、语音与生理信号层面的细微反应，弥补现有数据集仅关注强烈情绪与外部路况的不足，揭示自主车载系统设计中识别并响应用户细微反馈的必要性。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Huy Quyen Ngo, Suresh Kumaar Jayaraman, Brian Mok, Ken Friedl, Oliver Krause
-
-AI 分: 3.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2608.15048v1</description>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-      <category>人机交互</category><category>人机协作</category><category>信任</category><category>人机交互</category>
-    </item>    <item>
-      <title>职场中生成式人工智能的采纳：提升并重塑生产力与沟通活动的平衡</title>
-      <link>https://ob-ai-papers.vercel.app/papers/57023</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/57023</guid>
-      <description>📝 职场中生成式人工智能的采纳：提升并重塑生产力与沟通活动的平衡
-EN: Adoption of Generative AI in the Workplace: Increasing and Shifting the Balance of Productivity and Communication Activity
-
-💡 基于微软M365在多家跨国企业的数字足迹数据，采用双重差分法考察生成式AI采用对信息工作的影响。20周后，使用AI超100次的用户生产力行为增加21.2%，沟通行为增加7.1%；在100–500次使用区间，AI用量越高两类活动持续增长。沟通增幅较小反映工作重心向个人文档创作转移，邮件阅读与整理下降。研究提示AI带来效率提升并可能缓解信息过载，但需关注采用不均引发的组织内不平等。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Yulin Yu, Yan Chen, Rui Hu, Siddharth Suri, Scott Counts
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2608.15550v1</description>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-      <category>工作未来</category><category>组织变革</category><category>知识管理</category><category>GenAI</category><category>LLM</category>
-    </item>    <item>
-      <title>权威解析框架：面向规模化决策主体与对象治理的五域本体</title>
-      <link>https://ob-ai-papers.vercel.app/papers/57015</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/57015</guid>
-      <description>📝 权威解析框架：面向规模化决策主体与对象治理的五域本体
-EN: The Authority Resolution Framework: A Five-Domain Ontology for Governing Who and What Decides, at Scale
-
-💡 研究AI智能体执行关键行动前的授权决策问题。提出Authority Resolution Framework五域本体论，涵盖组织角色与隐性影响、业务概念、编码流程、机器可读权限及外部语境，定义Authority Relation跨域原语并引入DNA-Coefficient衡量文档化与实际权威结构的偏差。提供JSON-LD与知识图谱查询模式，使AI在执行后果性行动前可判断权威的来源、范围与语境有效性，定位为本体工程与AI治理的交叉问题。
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Parviz Shariff
-
-AI 分: 4.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2608.15832v1</description>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-      <category>AI治理</category><category>决策</category><category>知识管理</category><category>算法管理</category><category>AI治理</category><category>可解释AI</category>
-    </item>    <item>
-      <title>未来的同事还是人类吗：从组织视角推进人–AI团队协作</title>
-      <link>https://ob-ai-papers.vercel.app/papers/56495</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/56495</guid>
-      <description>📝 未来的同事还是人类吗：从组织视角推进人–AI团队协作
-EN: Is Our Future Colleague Even Human? Advancing Human–AI Teamwork from an Organizational Perspective
-
-💡 该编辑性文章综合特刊8篇论文，探讨AI作为未来同事对组织的意涵。分析显示，AI重塑的是集体工作流程而非仅个体判断；类人化与性别化等设计线索影响AI感知，AI也改变决策、信任与压力等团队过程。文章基于社会技术系统思想构建框架，区分AI在工作社会系统中的位置与所行使的代理程度，提出应将团队（而非二元配对）作为分析单位，并就AI在组织中的治理提出规范性问题与研究议程。
-
-📚 JOB · 2026 · 引用 0
-👤 Anna‐Sophie Ulfert, Eleni Georganta, Gudela Grote
-
-AI 分: 5.0 / 领域分: 5.0</description>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-      <category>团队</category><category>人机协作</category><category>组织变革</category><category>人机协作</category><category>AI 治理</category>
     </item>
   </channel>
 </rss>
