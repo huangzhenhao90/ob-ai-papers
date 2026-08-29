@@ -6,9 +6,66 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 28 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>嘿，Alexa！技能属性如何影响企业价值？</title>
+      <link>https://ob-ai-papers.vercel.app/papers/63632</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/63632</guid>
+      <description>📝 嘿，Alexa！技能属性如何影响企业价值？
+EN: Hey, Alexa! What attributes of Skills affect firm value?
+
+💡 探讨智能语音助手（如 Alexa）平台上技能（Skills）的哪些属性影响企业价值。基于 JAMS 营销学视角，分析语音生态中技能特征与企业绩效/市场价值的关系，为企业在语音助手平台上开发与运营技能提供营销战略启示。
+
+📚 JAMS · 2022 · 引用 23
+👤 Navid Bahmani, Amit Bhatnagar, Dinesh Gauri
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
+      <category>营销</category><category>创新</category><category>战略</category><category>品牌</category><category>GenAI</category><category>人机交互</category>
+    </item>    <item>
+      <title>At the point of risk: Can AI-assisted decision support reduce digital fraud vulnerability across age groups and scam types?</title>
+      <link>https://ob-ai-papers.vercel.app/papers/63493</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/63493</guid>
+      <description>📝 At the point of risk: Can AI-assisted decision support reduce digital fraud vulnerability across age groups and scam types?
+
+💡 研究探讨AI辅助决策支持系统能否降低不同年龄群体在面对各类数字诈骗时的易感性。通过跨年龄组与诈骗类型的比较，考察AI决策工具在欺诈识别与风险预警中的实际效用，重点关注老年等高风险人群的数字安全防护与决策质量提升。
+
+📚 CHB · 2026 · 引用 0
+👤 Yicheng Sun, Jacky Keung, Hi Kuen Yu, Yuchen Cao
+
+AI 分: 5.0 / 领域分: 3.0</description>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
+      <category>决策</category><category>消费者行为</category><category>信任</category><category>公平性</category><category>AI决策</category><category>人机协作</category>
+    </item>    <item>
+      <title>Public attitudes towards police use of AI-driven face recognition technology</title>
+      <link>https://ob-ai-papers.vercel.app/papers/63491</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/63491</guid>
+      <description>📝 Public attitudes towards police use of AI-driven face recognition technology
+
+💡 研究调查公众对警方使用AI人脸识别技术的态度，从隐私顾虑、执法效能、社会信任与算法偏见等维度分析公众接受度差异，揭示影响公众支持或反对意愿的关键因素，为警务AI的伦理规范与公共政策制定提供实证依据。
+
+📚 CHB · 2026 · 引用 4
+👤 Anna Sagana, Mengying Zhang, Melanie Sauerland
+
+AI 分: 5.0 / 领域分: 3.0</description>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
+      <category>伦理</category><category>隐私</category><category>信任</category><category>公平性</category><category>AI治理</category><category>人机交互</category>
+    </item>    <item>
+      <title>Substitution or augmentation? How organisational AI adoption approaches influence the willingness to stay of caregivers</title>
+      <link>https://ob-ai-papers.vercel.app/papers/63490</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/63490</guid>
+      <description>📝 Substitution or augmentation? How organisational AI adoption approaches influence the willingness to stay of caregivers
+
+💡 研究比较组织采用AI替代员工与AI增强员工两种策略对护工留任意愿的影响，揭示不同AI部署方式在员工组织承诺、工作自主性与职业福祉方面的差异化效应，为护理行业智能化转型中的人力资源管理策略提供理论依据与实践启示。
+
+📚 CHB · 2026 · 引用 2
+👤 Li Jiang, Xuli Wang, Yuguang Xie, Junhong Zhu, Dongxiao Gu
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>组织变革</category><category>HR</category><category>员工幸福感</category><category>算法管理</category><category>AI治理</category>
+    </item>    <item>
       <title>GenAI应用的成熟度：来自一家大型企业的实地证据</title>
       <link>https://ob-ai-papers.vercel.app/papers/63432</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/63432</guid>
@@ -425,72 +482,6 @@ AI 分: 5.0 / 领域分: 3.0
 📄 PDF: https://arxiv.org/pdf/2608.22251v1</description>
       <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
       <category>人机协作</category><category>信任</category><category>AI治理</category><category>人机交互</category><category>LLM</category><category>人机协作</category><category>可解释 AI</category>
-    </item>    <item>
-      <title>以数字语义评分衡量数字劳动力市场转型：基于AI的方法在荷兰劳动力市场的应用</title>
-      <link>https://ob-ai-papers.vercel.app/papers/62085</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/62085</guid>
-      <description>📝 以数字语义评分衡量数字劳动力市场转型：基于AI的方法在荷兰劳动力市场的应用
-EN: Measuring Digital Labour Market Transitions with a Digital Semantic Score: An AI-Based Methodology Applied to the Dutch Labour Market
-
-💡 针对荷兰劳动力市场数字化转型，提出基于AI的方法分析职业语言与技能变化。方法结合嵌入相似度搜索与LLM分类，将海量非结构化职位信息映射至ESCO标准，并构建数字语义得分衡量职业与数字概念的语义关联，揭示数字化在不同职业间呈不均匀分布，并可追踪职业转型路径。
-
-📚 arXiv:cs.CL · 2026 · 引用 0
-👤 Sadegh Shahmohammadi, Xavier Pinho, Mairi Bowdler, Suhendan Adiguzel-van Zoelen, Joost van Genabeek
-
-AI 分: 4.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2608.24222v1</description>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-      <category>HR</category><category>战略</category><category>工作未来</category><category>LLM</category><category>机器学习</category>
-    </item>    <item>
-      <title>混合专家组：迈向调查研究中的Human-AI协作</title>
-      <link>https://ob-ai-papers.vercel.app/papers/62076</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/62076</guid>
-      <description>📝 混合专家组：迈向调查研究中的Human-AI协作
-EN: Hybrid Panels: Toward Human-AI Collaboration in Survey Research
-
-💡 提出混合面板概念，将大语言模型与人类受访者共同纳入纵向调查设计。通过迭代让LLM模拟与目标人群对齐，并以模拟偏差指导下一波问卷设计（招募、题目分配），以应对响应率下降、成本上升与非响应偏差等挑战，文章给出定义、框架及首轮试点。
-
-📚 arXiv:cs.CL · 2026 · 引用 0
-👤 Julia Romberg, Tobias Gummer, Gabriella Lapesa, Tanja Kunz, Claudia Wagner
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2608.22582v1</description>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>决策</category><category>伦理</category><category>LLM</category><category>人机协作</category>
-    </item>    <item>
-      <title>申请材料较弱的消费者对算法评估的接受度更低</title>
-      <link>https://ob-ai-papers.vercel.app/papers/61404</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/61404</guid>
-      <description>📝 申请材料较弱的消费者对算法评估的接受度更低
-EN: Consumers with Weaker Applications Are Less Receptive to Algorithmic Evaluation
-
-💡 探讨消费者面对算法评估与人工评估时的差异化反应。基于服务/机会申请情境，发现申请材料较弱的消费者更偏好人工评估，源于其对人类评估者灵活性与宽容度的信念。算法评估因此对弱申请者产生更强抑制效应，降低其申请意愿，丰富了算法作为评估者（非仅建议者）情境下的消费者反应研究。
-
-📚 JCR · 2026 · 引用 0
-👤 Qiao Liu, Gerald Häubl, Noah Castelo
-
-AI 分: 4.0 / 领域分: 5.0</description>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-      <category>消费者行为</category><category>公平性</category><category>算法管理</category><category>算法决策</category><category>算法管理</category>
-    </item>    <item>
-      <title>生成式AI对协作式开源软件开发的影响：来自GitHub Copilot的证据</title>
-      <link>https://ob-ai-papers.vercel.app/papers/61262</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/61262</guid>
-      <description>📝 生成式AI对协作式开源软件开发的影响：来自GitHub Copilot的证据
-EN: The Impact of Generative AI on Collaborative Open-Source Software Development: Evidence from GitHub Copilot
-
-💡 基于GitHub专有Copilot使用数据与公开OSS项目数据，探究生成式AI对协作式开源软件开发的影响。结果显示Copilot使项目级代码贡献提升5.9%，开发者编码参与度提高3.4%，个体贡献增加2.1%，但协调时间增加8%、代码讨论增多。整体净效应为正，代码及时合并率上升。核心开发者贡献增长更显著且协调成本更低，边缘开发者协调时间增幅更大，揭示AI结对编程在贡献扩展与协调效率间的权衡。
-
-📚 ISR · 2026 · 引用 21
-👤 Fangchen Song, Ashish Agarwal, Wen Wen
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://doi.org/10.2139/ssrn.4856935</description>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>创新</category><category>团队</category><category>工作设计</category><category>GenAI</category><category>LLM</category><category>人机协作</category>
     </item>
   </channel>
 </rss>
