@@ -6,9 +6,24 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 29 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>评估人工与大语言模型内容分析：以社交媒体负面口碑分类为例</title>
+      <link>https://ob-ai-papers.vercel.app/papers/63685</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/63685</guid>
+      <description>📝 评估人工与大语言模型内容分析：以社交媒体负面口碑分类为例
+EN: Evaluating human-based and large language model-based content analysis: A case study on negative word-of-mouth classification in social media
+
+💡 比较人工编码与基于大语言模型的内容分析方法，以社交媒体负面口碑分类为案例，评估两类方法在分类准确性、效率和标注一致性上的差异，检验LLM替代或辅助人类进行消费者生成内容分析的可行性。
+
+📚 CHB · 2026 · 引用 1
+👤 Yolande Yunhsiou Yang, Chih-Chien Wang, Pau-Lin Chou, Chieh-Yu Tien, Jia-Ci Wen
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+      <category>消费者行为</category><category>营销</category><category>人机协作</category><category>LLM</category><category>GenAI</category>
+    </item>    <item>
       <title>嘿，Alexa！技能属性如何影响企业价值？</title>
       <link>https://ob-ai-papers.vercel.app/papers/63632</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/63632</guid>
@@ -24,10 +39,11 @@ AI 分: 4.0 / 领域分: 4.0</description>
       <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
       <category>营销</category><category>创新</category><category>战略</category><category>品牌</category><category>GenAI</category><category>人机交互</category>
     </item>    <item>
-      <title>At the point of risk: Can AI-assisted decision support reduce digital fraud vulnerability across age groups and scam types?</title>
+      <title>风险当口：AI辅助决策支持能否跨年龄群体与诈骗类型降低数字欺诈脆弱性？</title>
       <link>https://ob-ai-papers.vercel.app/papers/63493</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/63493</guid>
-      <description>📝 At the point of risk: Can AI-assisted decision support reduce digital fraud vulnerability across age groups and scam types?
+      <description>📝 风险当口：AI辅助决策支持能否跨年龄群体与诈骗类型降低数字欺诈脆弱性？
+EN: At the point of risk: Can AI-assisted decision support reduce digital fraud vulnerability across age groups and scam types?
 
 💡 研究探讨AI辅助决策支持系统能否降低不同年龄群体在面对各类数字诈骗时的易感性。通过跨年龄组与诈骗类型的比较，考察AI决策工具在欺诈识别与风险预警中的实际效用，重点关注老年等高风险人群的数字安全防护与决策质量提升。
 
@@ -38,10 +54,11 @@ AI 分: 5.0 / 领域分: 3.0</description>
       <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
       <category>决策</category><category>消费者行为</category><category>信任</category><category>公平性</category><category>AI决策</category><category>人机协作</category>
     </item>    <item>
-      <title>Public attitudes towards police use of AI-driven face recognition technology</title>
+      <title>公众对警方使用AI驱动人脸识别技术的态度</title>
       <link>https://ob-ai-papers.vercel.app/papers/63491</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/63491</guid>
-      <description>📝 Public attitudes towards police use of AI-driven face recognition technology
+      <description>📝 公众对警方使用AI驱动人脸识别技术的态度
+EN: Public attitudes towards police use of AI-driven face recognition technology
 
 💡 研究调查公众对警方使用AI人脸识别技术的态度，从隐私顾虑、执法效能、社会信任与算法偏见等维度分析公众接受度差异，揭示影响公众支持或反对意愿的关键因素，为警务AI的伦理规范与公共政策制定提供实证依据。
 
@@ -52,10 +69,11 @@ AI 分: 5.0 / 领域分: 3.0</description>
       <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
       <category>伦理</category><category>隐私</category><category>信任</category><category>公平性</category><category>AI治理</category><category>人机交互</category>
     </item>    <item>
-      <title>Substitution or augmentation? How organisational AI adoption approaches influence the willingness to stay of caregivers</title>
+      <title>替代还是增强：组织AI采纳方式如何影响护理人员的留任意愿</title>
       <link>https://ob-ai-papers.vercel.app/papers/63490</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/63490</guid>
-      <description>📝 Substitution or augmentation? How organisational AI adoption approaches influence the willingness to stay of caregivers
+      <description>📝 替代还是增强：组织AI采纳方式如何影响护理人员的留任意愿
+EN: Substitution or augmentation? How organisational AI adoption approaches influence the willingness to stay of caregivers
 
 💡 研究比较组织采用AI替代员工与AI增强员工两种策略对护工留任意愿的影响，揭示不同AI部署方式在员工组织承诺、工作自主性与职业福祉方面的差异化效应，为护理行业智能化转型中的人力资源管理策略提供理论依据与实践启示。
 
@@ -187,6 +205,21 @@ EN: Let the dead talk: How deepfake resurrection narratives influence audience r
 AI 分: 3.0 / 领域分: 3.0</description>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
       <category>广告</category><category>伦理</category><category>消费者行为</category><category>图像生成</category><category>多模态</category>
+    </item>    <item>
+      <title>预测在线学习社区新成员融入：博客社区中的自动对话评估</title>
+      <link>https://ob-ai-papers.vercel.app/papers/62665</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/62665</guid>
+      <description>📝 预测在线学习社区新成员融入：博客社区中的自动对话评估
+EN: Predicting newcomer integration in online learning communities: Automated dialog assessment in blogger communities
+
+💡 针对在线学习社区（如博客社区）新成员融入难的问题，采用自动化对话评估技术分析新成员的发帖与互动内容，预测其能否顺利融入社区，并识别有助于成功融入的对话特征。
+
+📚 CHB · 2020 · 引用 14
+👤 Nicolae Nistor, Mihai Dascalu, Christian Tarnai, Stefan Trausan-Matu
+
+AI 分: 4.0 / 领域分: 3.0</description>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <category>教育</category><category>知识管理</category><category>组织学习</category><category>机器学习</category><category>人机协作</category>
     </item>    <item>
       <title>AVI-Personality：面向异步视频面试中人格与胜任力评估的特征激活多模态数据集</title>
       <link>https://ob-ai-papers.vercel.app/papers/62548</link>
@@ -448,40 +481,6 @@ AI 分: 4.0 / 领域分: 4.0
 📄 PDF: https://arxiv.org/pdf/2608.22056v1</description>
       <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
       <category>招聘</category><category>HR</category><category>推荐系统</category><category>机器学习</category><category>推荐算法</category>
-    </item>    <item>
-      <title>训练智能体与其运行环境协同进化：TaoLive 数字化身智能体技术报告</title>
-      <link>https://ob-ai-papers.vercel.app/papers/62088</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/62088</guid>
-      <description>📝 训练智能体与其运行环境协同进化：TaoLive 数字化身智能体技术报告
-EN: Training Agents to Evolve with Their Harness: TaoLive Digital Avatar Agent Technical Report
-
-💡 针对AI数字人直播中大模型延迟高、小模型易过拟合Harness配置的矛盾，提出Harness感知训练（HAT）。核心是Harness状态增强（HSA），对技能标识、工具模式、提示结构、Hook函数做任务保持变换，经HSA-SFT、通用在线策略蒸馏和HSA-RL三阶段训练。直播问答94.8分、Harness变体问答94.6分且不引起IFEval回归，P95延迟8.1秒，已部署淘宝直播。
-
-📚 arXiv:cs.CL · 2026 · 引用 0
-👤 TaoLive AIGC LLM Team, Yuhan Sun, Wenhao Lin, Yongdong Luo, Yibo Hu
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2608.15763v2</description>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-      <category>推荐系统</category><category>营销</category><category>创新</category><category>LLM</category><category>GenAI</category><category>机器学习</category><category>人机交互</category>
-    </item>    <item>
-      <title>CAIA实践：面向文本在线咨询的AI辅助支持系统实地评估</title>
-      <link>https://ob-ai-papers.vercel.app/papers/62087</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/62087</guid>
-      <description>📝 CAIA实践：面向文本在线咨询的AI辅助支持系统实地评估
-EN: CAIA in Practice: Field Evaluation of an AI-Assisted Support System for Text-Based Online Counselling
-
-💡 针对全球心理健康服务供需失衡，研发CAIA——一个协同设计、含七项LLM驱动功能并结合检索增强生成的在线文字心理咨询AI辅助系统。34名专业咨询师在真实异步咨询场景中的实地评估（36个对话线程、321条消息、1257次AI输出）显示系统采纳率较高，专业自主性与信息准确性是持续接受的决定因素，解释性功能因能提供新视角和促进专业反思而最受认可。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Philipp Steigerwald, Nico Bienlein, Jennifer Burghardt, Mara Stieler, Robert Lehmann
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2608.22251v1</description>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>信任</category><category>AI治理</category><category>人机交互</category><category>LLM</category><category>人机协作</category><category>可解释 AI</category>
     </item>
   </channel>
 </rss>
