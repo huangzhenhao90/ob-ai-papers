@@ -6,9 +6,26 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 30 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>SETU：面向多语言与角色感知沟通指导的智能体生态系统</title>
+      <link>https://ob-ai-papers.vercel.app/papers/63930</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/63930</guid>
+      <description>📝 SETU：面向多语言与角色感知沟通指导的智能体生态系统
+EN: SETU: An Agentic Ecosystem for Multilingual, Persona-Aware Communication Coaching
+
+💡 针对企业培训中多语言沟通辅导需求，构建名为SETU的智能体生态系统，将分析分解为视频、语音、文本相关性、评分、通知与报告等专项智能体，通过信任感知编排进行协调，为销售场景生成可解释的、归因于具体模态的形成性辅导报告，人工审核保留最终判断权。
+
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 Jonnalagadda Maruthi Tejas, Uponika Barman Roy, Tilottama Goswami, Samir Goswami, Mousita Dhar
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2608.27524v1</description>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <category>培训</category><category>沟通</category><category>HR</category><category>GenAI</category><category>LLM</category><category>人机协作</category><category>多模态</category>
+    </item>    <item>
       <title>评估人工与大语言模型内容分析：以社交媒体负面口碑分类为例</title>
       <link>https://ob-ai-papers.vercel.app/papers/63685</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/63685</guid>
@@ -23,6 +40,19 @@ EN: Evaluating human-based and large language model-based content analysis: A ca
 AI 分: 5.0 / 领域分: 4.0</description>
       <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
       <category>消费者行为</category><category>营销</category><category>人机协作</category><category>LLM</category><category>GenAI</category>
+    </item>    <item>
+      <title>政治家还是啦啦队员？基于主题建模的领导者叙事性发展反馈中性别化信息研究</title>
+      <link>https://ob-ai-papers.vercel.app/papers/63643</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/63643</guid>
+      <description>📝 政治家还是啦啦队员？基于主题建模的领导者叙事性发展反馈中性别化信息研究
+EN: Statesmen or cheerleaders? Using topic modeling to examine gendered messages in narrative developmental feedback for leaders
+
+📚 LQ · 2019 · 引用 34
+👤 Elena Doldor, Madeleine Wyatt, Jo Silvester
+
+AI 分: 3.0 / 领域分: 5.0</description>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
+      
     </item>    <item>
       <title>嘿，Alexa！技能属性如何影响企业价值？</title>
       <link>https://ob-ai-papers.vercel.app/papers/63632</link>
@@ -175,6 +205,21 @@ EN: The Effect of Outsourcing Pricing Algorithms on Market Competition
 AI 分: 3.0 / 领域分: 4.0</description>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
       <category>战略</category><category>决策</category><category>算法决策</category><category>机器学习</category>
+    </item>    <item>
+      <title>何时及如何多样化：面向个性化内容推荐的多类别效用模型</title>
+      <link>https://ob-ai-papers.vercel.app/papers/63046</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/63046</guid>
+      <description>📝 何时及如何多样化：面向个性化内容推荐的多类别效用模型
+EN: When and How to Diversify—A Multicategory Utility Model for Personalized Content Recommendation
+
+💡 针对个性化推荐中多样性与准确性的权衡困境，提出多类别效用模型，将会话内消费视为对多类内容效用最大化的序列选择，刻画消费者对不同类别的偏好、品类间替代速度及搜索与推荐列表间的权衡，从而动态调整推荐多样性，利用大型媒体网站点击流数据估计并验证模型在提升推荐准确性和点击率方面的有效性。
+
+📚 MgmtSci · 2019 · 引用 50
+👤 Yicheng Song, Nachiketa Sahoo, Elie Ofek
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <category>推荐系统</category><category>消费者行为</category><category>推荐算法</category><category>机器学习</category>
     </item>    <item>
       <title>当智能胜过AI：消费者对智能产品与AI驱动产品的偏好探究</title>
       <link>https://ob-ai-papers.vercel.app/papers/62711</link>
@@ -430,57 +475,6 @@ AI 分: 5.0 / 领域分: 3.0
 📄 PDF: https://arxiv.org/pdf/2608.24767v1</description>
       <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
       <category>伦理</category><category>偏见</category><category>公平性</category><category>AI治理</category><category>GenAI</category><category>AI治理</category>
-    </item>    <item>
-      <title>谁承担诚实的代价：FAccT 研讨会综述与公平 AI 披露研究议程</title>
-      <link>https://ob-ai-papers.vercel.app/papers/62096</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/62096</guid>
-      <description>📝 谁承担诚实的代价：FAccT 研讨会综述与公平 AI 披露研究议程
-EN: Who Bears the Cost of Honesty? A FAccT Workshop Synthesis and Research Agenda for Equitable AI Disclosure
-
-💡 研究AI披露规范的公平性问题。FAccT工作坊运用情境锚定权力映射与设计虚构方法，分析教育、职场、新闻、人际场景中AI披露带来的利益、危害与权力不对称。揭示披露可能使少数群体遭受能力质疑与监控风险，提出"诚实成本栈"诊断框架，倡导情境化、自下而上的披露方案以兼顾透明度与风险规避。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Runlong Ye, Jessica He, Finola Finn, Angel Hsing-Chi Hwang, Donal Khosrowi
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2608.21671v1</description>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-      <category>伦理</category><category>公平性</category><category>信任</category><category>偏见</category><category>AI治理</category>
-    </item>    <item>
-      <title>专业编辑如何评估AI生成的电影级视频广告的剪辑质量？</title>
-      <link>https://ob-ai-papers.vercel.app/papers/62095</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/62095</guid>
-      <description>📝 专业编辑如何评估AI生成的电影级视频广告的剪辑质量？
-EN: How Do Professional Editors Evaluate the Editing Quality of AI-Generated Cinematic Video Ads?
-
-💡 研究识别社交媒体电影感视频广告格式，分析时长、镜头结构、音画与剪辑技巧后，提出LLM先生成分镜方案再由视频生成模型渲染的两阶段流水线，为35个真实品牌生成70条广告，邀请专业剪辑师评估其编辑选择，由此归纳出叙事推进、音画协调与声音设计、视觉构图与图形、镜头连续性、品牌信息一致性和时间节奏六维编辑质量评估框架。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Po-Ming Law, Weizhi Li, Arpit Narechania
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2608.24329v1</description>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-      <category>广告</category><category>营销</category><category>创意</category><category>GenAI</category><category>LLM</category><category>多模态</category><category>图像生成</category>
-    </item>    <item>
-      <title>个性化与志向导向的职业路径推荐</title>
-      <link>https://ob-ai-papers.vercel.app/papers/62089</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/62089</guid>
-      <description>📝 个性化与志向导向的职业路径推荐
-EN: Personalized and Aspiration-Oriented Career Path Recommendation
-
-💡 针对员工职业发展推荐问题，提出结合职业路径相似度（CPS）与志向相似度（AS）的数据驱动方法。CPS采用领域知识驱动和基于LSTM的无监督表示学习对齐两种方式计算，AS衡量志向与候选路径的匹配度，二者融合兼顾个性化与志向实现。
-
-📚 arXiv:cs.LG · 2026 · 引用 0
-👤 Kuleshwar Sahu, Girish Keshav Palshikar, Rajiv Srivastava
-
-AI 分: 4.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2608.22056v1</description>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-      <category>招聘</category><category>HR</category><category>推荐系统</category><category>机器学习</category><category>推荐算法</category>
     </item>
   </channel>
 </rss>
