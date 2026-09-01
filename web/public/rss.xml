@@ -6,9 +6,67 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 31 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>When
+                    &lt;scp&gt;AI&lt;/scp&gt;
+                    Makes Final Decisions: The Effects of
+                    &lt;scp&gt;HR&lt;/scp&gt;
+                    Decision Authority Within
+                    &lt;scp&gt;AI&lt;/scp&gt;
+                    ‐Enabled
+                    &lt;scp&gt;HRM&lt;/scp&gt;
+                    on Organizational Reputation</title>
+      <link>https://ob-ai-papers.vercel.app/papers/64217</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/64217</guid>
+      <description>📝 When
+                    &amp;lt;scp&amp;gt;AI&amp;lt;/scp&amp;gt;
+                    Makes Final Decisions: The Effects of
+                    &amp;lt;scp&amp;gt;HR&amp;lt;/scp&amp;gt;
+                    Decision Authority Within
+                    &amp;lt;scp&amp;gt;AI&amp;lt;/scp&amp;gt;
+                    ‐Enabled
+                    &amp;lt;scp&amp;gt;HRM&amp;lt;/scp&amp;gt;
+                    on Organizational Reputation
+
+💡 基于信号理论，三项研究探讨AI与人类在HR决策中的最终权限分配如何作为组织信号影响外部利益相关者评价。研究发现：当AI（而非人类HR专家）掌握HR最终决策权时，外部利益相关者会推断出更高的员工物化感知，从而损害组织声誉。该效应受接收方异质性调节——AI拟人化程度高时削弱，HR议题相关度高时增强。
+
+📚 HRM · 2026 · 引用 0
+👤 Xiaoying Zheng, Ye Li, Qiaowei Liu
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <category>HR</category><category>组织变革</category><category>信任</category><category>公平性</category><category>伦理</category><category>AI治理</category><category>算法决策</category><category>人机协作</category>
+    </item>    <item>
+      <title>The Trusted Partner for financial decision making: Romantic partner or AI?</title>
+      <link>https://ob-ai-papers.vercel.app/papers/63974</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/63974</guid>
+      <description>📝 The Trusted Partner for financial decision making: Romantic partner or AI?
+
+💡 探讨在金融决策场景下，消费者将AI视为可信赖伙伴的意愿，并与浪漫伴侣进行比较，考察AI作为财务建议/决策伙伴的信任机制及其与人类社交伙伴的差异。
+
+📚 CHB · 2026 · 引用 4
+👤 Erik Hermann, Max Alberhasky
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <category>信任</category><category>决策</category><category>消费者行为</category><category>AI客服</category><category>人机协作</category>
+    </item>    <item>
+      <title>The affective and relational correlates of algorithmic beliefs among U.S. online daters: Extension of two previous studies</title>
+      <link>https://ob-ai-papers.vercel.app/papers/63972</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/63972</guid>
+      <description>📝 The affective and relational correlates of algorithmic beliefs among U.S. online daters: Extension of two previous studies
+
+💡 扩展先前两项研究，考察美国在线约会者对算法（如匹配、推荐算法）的信念与情感及人际关系变量之间的关联，探索算法信念如何影响约会体验和关系结果。
+
+📚 CHB · 2024 · 引用 6
+👤 Junwen M. Hu
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <category>消费者行为</category><category>推荐系统</category><category>信任</category><category>偏见</category><category>推荐算法</category><category>算法决策</category><category>算法管理</category>
+    </item>    <item>
       <title>SETU：面向多语言与角色感知沟通指导的智能体生态系统</title>
       <link>https://ob-ai-papers.vercel.app/papers/63930</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/63930</guid>
@@ -47,12 +105,14 @@ AI 分: 5.0 / 领域分: 4.0</description>
       <description>📝 政治家还是啦啦队员？基于主题建模的领导者叙事性发展反馈中性别化信息研究
 EN: Statesmen or cheerleaders? Using topic modeling to examine gendered messages in narrative developmental feedback for leaders
 
+💡 运用主题建模（topic modeling）等文本分析技术，对面向领导者的叙事式发展反馈进行挖掘，考察反馈内容是否存在性别化模式，例如男性领导者被喻为 statesman（政治家）而女性领导者被喻为 cheerleader（啦啦队长），揭示领导力反馈中潜在的性别刻板印象与语言偏见。
+
 📚 LQ · 2019 · 引用 34
 👤 Elena Doldor, Madeleine Wyatt, Jo Silvester
 
 AI 分: 3.0 / 领域分: 5.0</description>
       <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
-      
+      <category>领导力</category><category>偏见</category><category>公平性</category><category>机器学习</category>
     </item>    <item>
       <title>嘿，Alexa！技能属性如何影响企业价值？</title>
       <link>https://ob-ai-papers.vercel.app/papers/63632</link>
@@ -424,57 +484,6 @@ EN: Using smartphone app use and lagged-ensemble machine learning for the predic
 AI 分: 3.0 / 领域分: 3.0</description>
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
       <category>员工幸福感</category><category>HR</category><category>工作未来</category><category>机器学习</category><category>算法决策</category>
-    </item>    <item>
-      <title>在线产品搜索中的情境视觉显著性</title>
-      <link>https://ob-ai-papers.vercel.app/papers/62099</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/62099</guid>
-      <description>📝 在线产品搜索中的情境视觉显著性
-EN: Contextual Visual Distinctiveness in Online Product Search
-
-💡 研究电商搜索中产品视觉独特性对选择的影响。基于80万次搜索事件，利用密集表示与搜索事件及产品固定效应，发现缺乏近似外观的产品点击率显著更高，该独特性溢价随相对契合度上升而增强，并在竞品描述高度相似时约翻倍。但独特性吸引的额外点击后续转化率低5-7%，表明视觉差异化是搜索前注意分配机制，而非提升产品内在效用。
-
-📚 arXiv:econ.GN · 2026 · 引用 0
-👤 Felicia Nguyen
-
-AI 分: 3.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2608.21691v1</description>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-      <category>消费者行为</category><category>营销</category><category>决策</category><category>机器学习</category><category>推荐算法</category>
-    </item>    <item>
-      <title>自动化招聘的反事实逐决策偏见审计：申请人追踪系统中差异化影响的定位与解释</title>
-      <link>https://ob-ai-papers.vercel.app/papers/62098</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/62098</guid>
-      <description>📝 自动化招聘的反事实逐决策偏见审计：申请人追踪系统中差异化影响的定位与解释
-EN: Counterfactual, Per-Decision Bias Auditing for Automated Hiring: Localizing and Explaining Disparate Impact in Applicant Tracking Systems
-
-💡 针对自动化招聘系统偏见审计难题，提出AI偏见防火墙（AIBF），逐决策中和受保护属性的代理特征并重新评分，输出有符号的逐决策偏见分数及自然语言解释。在Adult与COMPAS真实数据集上验证，聚合结果可复现已知群体差异，识别受保护属性翻转决策的AUC达0.963，显著优于按群体归属标记的基线。
-
-📚 arXiv:cs.CY · 2026 · 引用 0
-👤 Jay Barach
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2608.21537v1</description>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-      <category>招聘</category><category>HR</category><category>算法管理</category><category>公平性</category><category>偏见</category><category>AI治理</category><category>算法决策</category><category>可解释AI</category>
-    </item>    <item>
-      <title>塑造生成式AI在黑人社区的未来：公共话语与实证学术研究的框架分析</title>
-      <link>https://ob-ai-papers.vercel.app/papers/62097</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/62097</guid>
-      <description>📝 塑造生成式AI在黑人社区的未来：公共话语与实证学术研究的框架分析
-EN: Shaping the Future of Generative AI for Black Communities: A Frame Analysis of Public Discourse and Empirical Scholarly Research
-
-💡 研究通过系统文献综述（91篇实证论文）与媒体话语框架分析（28篇资料），运用Entman框架理论对比生成式AI对黑人社区的影响：学术研究聚焦技术偏见检测，将黑人性还原为可测变量；公共话语将伤害归因于历史系统性力量；二者存在结构性错位，共同抽空了黑人认识能动性，主张框架分析应作为揭示技术评估盲区的AI伦理方法论。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Angela D. R. Smith, Gabriella Thompson, Christopher L. Dancy, Mark Díaz, Seyi Olojo
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2608.24767v1</description>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-      <category>伦理</category><category>偏见</category><category>公平性</category><category>AI治理</category><category>GenAI</category><category>AI治理</category>
     </item>
   </channel>
 </rss>
