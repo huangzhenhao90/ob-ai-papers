@@ -6,9 +6,88 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 03 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>连接形式公平与感知公平：算法决策中跨学科框架的构建</title>
+      <link>https://ob-ai-papers.vercel.app/papers/65272</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/65272</guid>
+      <description>📝 连接形式公平与感知公平：算法决策中跨学科框架的构建
+EN: Bridging Formal and Perceived Fairness: Development of an Interdisciplinary Framework in Algorithmic Decision-Making
+
+💡 针对算法决策领域过度聚焦形式化公平指标而忽视用户主观公平感的问题，从用户中心设计视角提出跨学科概念框架，整合计算机科学的算法公平与社会科学的感知公平、信任及技术接受理论，并嵌入社会技术情境。通过理论文献综合、跨学科工作坊和利益相关者访谈，探讨如何将计算公平审计与用户中心评估相结合，为公平算法系统的设计、评估与治理提供指引。
+
+📚 arXiv:cs.CY · 2026 · 引用 0
+👤 Maike Lindermayr, Mattia Cerrato, Luisa Hübner, Johannes Kraus
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2609.03853v1</description>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <category>公平性</category><category>算法管理</category><category>信任</category><category>人机协作</category><category>算法决策</category><category>AI治理</category><category>人机交互</category>
+    </item>    <item>
+      <title>软件工程中采用人工智能的心理代价</title>
+      <link>https://ob-ai-papers.vercel.app/papers/65265</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/65265</guid>
+      <description>📝 软件工程中采用人工智能的心理代价
+EN: The Psychological Costs of Artificial Intelligence Adoption in Software Engineering
+
+💡 在大型软件开发服务公司AI采用一年后开展案例研究，对21名软件专业人员半结构化访谈，探究组织引入AI对软件工程师造成的心理代价。研究识别出五类心理成本：责任焦虑、工艺身份认同瓦解、意义与满足感侵蚀、认知与工作负荷强化以及不确定性困扰。实践者通过重获控制感、缓解与身份保护等实践进行应对，揭示了AI赋能工作背后被忽视的心理与社会代价。
+
+📚 arXiv:cs.SE · 2026 · 引用 0
+👤 Adam Alami, Elda Paja, Abhishek Tiwari
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2609.03456v1</description>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>员工幸福感</category><category>组织变革</category><category>工作未来</category><category>GenAI</category><category>LLM</category><category>人机协作</category>
+    </item>    <item>
+      <title>人机协作中相对地位对责任归因的影响：责任感的中介作用与权力距离倾向的调节作用</title>
+      <link>https://ob-ai-papers.vercel.app/papers/64984</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/64984</guid>
+      <description>📝 人机协作中相对地位对责任归因的影响：责任感的中介作用与权力距离倾向的调节作用
+EN: Effect of relative status on responsibility attributions in human–robot collaboration: Mediating role of sense of responsibility and moderating role of power distance orientation
+
+💡 研究人机协作中相对地位对责任归因的影响，检验责任感的中间作用以及权力距离取向的调节作用。探讨当人类与机器人作为协作伙伴存在地位差异时，个体如何将任务结果归因于自身或机器人，以及文化层面的权力距离倾向如何改变这一归因过程与责任感知。
+
+📚 CHB · 2021 · 引用 50
+👤 Xin Lei, Pei-Luen Patrick Rau
+
+AI 分: 3.0 / 领域分: 4.0</description>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>团队</category><category>决策</category><category>机器人</category><category>人机协作</category><category>人机交互</category>
+    </item>    <item>
+      <title>多智能体健康指导应用中适配用户动机的指导策略</title>
+      <link>https://ob-ai-papers.vercel.app/papers/64983</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/64983</guid>
+      <description>📝 多智能体健康指导应用中适配用户动机的指导策略
+EN: Tailoring coaching strategies to users’ motivation in a multi-agent health coaching application
+
+💡 针对多智能体健康教练系统，探讨如何根据用户的动机差异定制差异化辅导策略，以提升健康干预的效果与用户参与度，关注个性化教练匹配动机类型对行为改变的影响。
+
+📚 CHB · 2021 · 引用 31
+👤 Tessa Beinema, Harm op den Akker, Lex van Velsen, Hermie Hermens
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>教育</category><category>创新</category><category>人机交互</category><category>多模态</category>
+    </item>    <item>
+      <title>机器的说服：虚拟非言语线索与个体差异对经济谈判中顺从行为的影响</title>
+      <link>https://ob-ai-papers.vercel.app/papers/64978</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/64978</guid>
+      <description>📝 机器的说服：虚拟非言语线索与个体差异对经济谈判中顺从行为的影响
+EN: Persuaded by the machine: The effect of virtual nonverbal cues and individual differences on compliance in economic bargaining
+
+💡 研究虚拟代理在经济议价情境中所展现的非语言线索对用户顺从决策的影响，并考察个体差异（如认知风格、人格特质等）在机器说服效果中的调节作用。
+
+📚 CHB · 2018 · 引用 35
+👤 V.J. Harjunen, M. Spapé, I. Ahmed, G. Jacucci, N. Ravaja
+
+AI 分: 3.0 / 领域分: 4.0</description>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <category>决策</category><category>人机交互</category><category>信任</category><category>人机交互</category><category>机器人</category>
+    </item>    <item>
       <title>大语言模型驱动的上下文感知生态反馈生成与评估</title>
       <link>https://ob-ai-papers.vercel.app/papers/64950</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/64950</guid>
@@ -199,6 +278,21 @@ AI 分: 3.0 / 领域分: 3.0</description>
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
       <category>推荐系统</category><category>教育</category><category>培训</category><category>推荐算法</category><category>机器学习</category>
     </item>    <item>
+      <title>利用计算机智能体与学习者开展对话与三方对话的评估</title>
+      <link>https://ob-ai-papers.vercel.app/papers/64698</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/64698</guid>
+      <description>📝 利用计算机智能体与学习者开展对话与三方对话的评估
+EN: Assessment with computer agents that engage in conversational dialogues and trialogues with learners
+
+💡 探索计算机智能体通过与学习者开展一对一对话及多方三方对话（trialogue）实施教育评估的可行性与有效性，为对话式测评设计与人机教学评估提供参考。
+
+📚 CHB · 2017 · 引用 56
+👤 Arthur C. Graesser, Zhiqiang Cai, Brent Morgan, Lijia Wang
+
+AI 分: 3.0 / 领域分: 3.0</description>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <category>教育</category><category>培训</category><category>绩效评估</category><category>人机交互</category><category>ChatGPT</category>
+    </item>    <item>
       <title>LLM人格中的情绪劳动策略偏好</title>
       <link>https://ob-ai-papers.vercel.app/papers/64670</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/64670</guid>
@@ -385,106 +479,6 @@ EN: Do you want to be a cyborg? The moderating effect of ethics on neural implan
 AI 分: 3.0 / 领域分: 4.0</description>
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
       <category>伦理</category><category>信任</category><category>人机协作</category><category>人机交互</category>
-    </item>    <item>
-      <title>当AI做出最终决策时：AI驱动的人力资源管理中HR决策权对组织声誉的影响</title>
-      <link>https://ob-ai-papers.vercel.app/papers/64217</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/64217</guid>
-      <description>📝 当AI做出最终决策时：AI驱动的人力资源管理中HR决策权对组织声誉的影响
-EN: When
-                    &amp;lt;scp&amp;gt;AI&amp;lt;/scp&amp;gt;
-                    Makes Final Decisions: The Effects of
-                    &amp;lt;scp&amp;gt;HR&amp;lt;/scp&amp;gt;
-                    Decision Authority Within
-                    &amp;lt;scp&amp;gt;AI&amp;lt;/scp&amp;gt;
-                    ‐Enabled
-                    &amp;lt;scp&amp;gt;HRM&amp;lt;/scp&amp;gt;
-                    on Organizational Reputation
-
-💡 基于信号理论，三项研究探讨AI与人类在HR决策中的最终权限分配如何作为组织信号影响外部利益相关者评价。研究发现：当AI（而非人类HR专家）掌握HR最终决策权时，外部利益相关者会推断出更高的员工物化感知，从而损害组织声誉。该效应受接收方异质性调节——AI拟人化程度高时削弱，HR议题相关度高时增强。
-
-📚 HRM · 2026 · 引用 0
-👤 Xiaoying Zheng, Ye Li, Qiaowei Liu
-
-AI 分: 5.0 / 领域分: 5.0</description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <category>HR</category><category>组织变革</category><category>信任</category><category>公平性</category><category>伦理</category><category>AI治理</category><category>算法决策</category><category>人机协作</category>
-    </item>    <item>
-      <title>财务决策的可信赖伙伴：浪漫伴侣还是人工智能？</title>
-      <link>https://ob-ai-papers.vercel.app/papers/63974</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/63974</guid>
-      <description>📝 财务决策的可信赖伙伴：浪漫伴侣还是人工智能？
-EN: The Trusted Partner for financial decision making: Romantic partner or AI?
-
-💡 探讨在金融决策场景下，消费者将AI视为可信赖伙伴的意愿，并与浪漫伴侣进行比较，考察AI作为财务建议/决策伙伴的信任机制及其与人类社交伙伴的差异。
-
-📚 CHB · 2026 · 引用 4
-👤 Erik Hermann, Max Alberhasky
-
-AI 分: 4.0 / 领域分: 4.0</description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <category>信任</category><category>决策</category><category>消费者行为</category><category>AI客服</category><category>人机协作</category>
-    </item>    <item>
-      <title>美国在线约会者算法信念的情感与人际关联：对两项先前研究的扩展</title>
-      <link>https://ob-ai-papers.vercel.app/papers/63972</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/63972</guid>
-      <description>📝 美国在线约会者算法信念的情感与人际关联：对两项先前研究的扩展
-EN: The affective and relational correlates of algorithmic beliefs among U.S. online daters: Extension of two previous studies
-
-💡 扩展先前两项研究，考察美国在线约会者对算法（如匹配、推荐算法）的信念与情感及人际关系变量之间的关联，探索算法信念如何影响约会体验和关系结果。
-
-📚 CHB · 2024 · 引用 6
-👤 Junwen M. Hu
-
-AI 分: 4.0 / 领域分: 4.0</description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <category>消费者行为</category><category>推荐系统</category><category>信任</category><category>偏见</category><category>推荐算法</category><category>算法决策</category><category>算法管理</category>
-    </item>    <item>
-      <title>SETU：面向多语言与角色感知沟通指导的智能体生态系统</title>
-      <link>https://ob-ai-papers.vercel.app/papers/63930</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/63930</guid>
-      <description>📝 SETU：面向多语言与角色感知沟通指导的智能体生态系统
-EN: SETU: An Agentic Ecosystem for Multilingual, Persona-Aware Communication Coaching
-
-💡 针对企业培训中多语言沟通辅导需求，构建名为SETU的智能体生态系统，将分析分解为视频、语音、文本相关性、评分、通知与报告等专项智能体，通过信任感知编排进行协调，为销售场景生成可解释的、归因于具体模态的形成性辅导报告，人工审核保留最终判断权。
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Jonnalagadda Maruthi Tejas, Uponika Barman Roy, Tilottama Goswami, Samir Goswami, Mousita Dhar
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2608.27524v1</description>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-      <category>培训</category><category>沟通</category><category>HR</category><category>GenAI</category><category>LLM</category><category>人机协作</category><category>多模态</category>
-    </item>    <item>
-      <title>评估人工与大语言模型内容分析：以社交媒体负面口碑分类为例</title>
-      <link>https://ob-ai-papers.vercel.app/papers/63685</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/63685</guid>
-      <description>📝 评估人工与大语言模型内容分析：以社交媒体负面口碑分类为例
-EN: Evaluating human-based and large language model-based content analysis: A case study on negative word-of-mouth classification in social media
-
-💡 比较人工编码与基于大语言模型的内容分析方法，以社交媒体负面口碑分类为案例，评估两类方法在分类准确性、效率和标注一致性上的差异，检验LLM替代或辅助人类进行消费者生成内容分析的可行性。
-
-📚 CHB · 2026 · 引用 1
-👤 Yolande Yunhsiou Yang, Chih-Chien Wang, Pau-Lin Chou, Chieh-Yu Tien, Jia-Ci Wen
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
-      <category>消费者行为</category><category>营销</category><category>人机协作</category><category>LLM</category><category>GenAI</category>
-    </item>    <item>
-      <title>政治家还是啦啦队员？基于主题建模的领导者叙事性发展反馈中性别化信息研究</title>
-      <link>https://ob-ai-papers.vercel.app/papers/63643</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/63643</guid>
-      <description>📝 政治家还是啦啦队员？基于主题建模的领导者叙事性发展反馈中性别化信息研究
-EN: Statesmen or cheerleaders? Using topic modeling to examine gendered messages in narrative developmental feedback for leaders
-
-💡 运用主题建模（topic modeling）等文本分析技术，对面向领导者的叙事式发展反馈进行挖掘，考察反馈内容是否存在性别化模式，例如男性领导者被喻为 statesman（政治家）而女性领导者被喻为 cheerleader（啦啦队长），揭示领导力反馈中潜在的性别刻板印象与语言偏见。
-
-📚 LQ · 2019 · 引用 34
-👤 Elena Doldor, Madeleine Wyatt, Jo Silvester
-
-AI 分: 3.0 / 领域分: 5.0</description>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
-      <category>领导力</category><category>偏见</category><category>公平性</category><category>机器学习</category>
     </item>
   </channel>
 </rss>
