@@ -6,9 +6,87 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 06 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>Rhythms of Work: Multi-Scale Interpretation of Human Behavioral Traces for Workplace Agents</title>
+      <link>https://ob-ai-papers.vercel.app/papers/65694</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/65694</guid>
+      <description>📝 Rhythms of Work: Multi-Scale Interpretation of Human Behavioral Traces for Workplace Agents
+
+💡 针对工作场所智能体难以理解周围人类活动的问题，提出多分辨率行为解释框架：从6.67亿条生产力工具事件中构建涵盖操作、模式、情节与日节奏的多层次语义词汇表。在独立2000用户样本上验证了分类体系的结构稳定性，并因其在预测用户下一情节上较基线提升17%宏F1，证明了抽象保留了未来相关信息。
+
+📚 arXiv:cs.CL · 2026 · 引用 0
+👤 Lin Ai, Scott Counts
+
+AI 分: 4.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2609.04556v1</description>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>工作未来</category><category>组织学习</category><category>人机协作</category><category>算法管理</category><category>机器学习</category>
+    </item>    <item>
+      <title>逆境中适应：心理健康危机咨询师长期对话技能发展预测</title>
+      <link>https://ob-ai-papers.vercel.app/papers/65693</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/65693</guid>
+      <description>📝 逆境中适应：心理健康危机咨询师长期对话技能发展预测
+EN: Adapting from Downturns: Prediction of Long-Term Conversational-Skill Development in Mental-Health Crisis Counselors
+
+💡 研究如何在心理健康危机志愿者咨询员职业早期预测其长期对话技能提升。基于咨询员在特定类型对话困境中的应对方式，构建方法识别其初期困难点、捕捉再次遭遇类似情境时的适应性调整，并学习哪些早期适应能预测数月乃至数年后能力的提升。咨询员适应性方法优于直接从对话结果学习等基线，为有限督导资源下的个性化支持分配提供依据。
+
+📚 arXiv:cs.CL · 2026 · 引用 0
+👤 Vivian Nguyen, Lillian Lee, Elizabeth A. Olson, Cristian Danescu-Niculescu-Mizil
+
+AI 分: 3.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2609.04350v1</description>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+      <category>培训</category><category>教育</category><category>人机协作</category><category>决策</category><category>机器学习</category><category>LLM</category><category>人机交互</category>
+    </item>    <item>
+      <title>从匹配模型到招聘智能体：AI招聘系统、评估与治理的系统化叙事综述</title>
+      <link>https://ob-ai-papers.vercel.app/papers/65691</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/65691</guid>
+      <description>📝 从匹配模型到招聘智能体：AI招聘系统、评估与治理的系统化叙事综述
+EN: From Matching Models to Recruiting Agents: A Systematized Narrative Review of AI Recruitment Systems, Evaluation, and Governance
+
+💡 系统化叙述综述追踪AI招聘从双边匹配、行为排序到神经人岗匹配、LLM组件再到工具型招聘代理的演进，整合40项代表性工作及行业法律资料。归纳三重转变：从相似度到互适性、从单模型到复合工作流、从离线预测到证据与生产力对齐的评估。指出行为标签混淆暴露与偏好、私有合成数据外部效度有限、最终分数掩盖流水线失败、隐私未被直接评估且无研究同时评估效用、公平、隐私与安全等缺口，并提出评估框架。
+
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 Ziyi Zhao, Guanzheng Wei
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2609.04286v1</description>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+      <category>招聘</category><category>AI招聘</category><category>公平性</category><category>伦理</category><category>偏见</category><category>隐私</category><category>AI治理</category><category>HR</category>
+    </item>    <item>
+      <title>EXPRESS: Behavioral Research Through Interpretable, Dimensionality-reduced Generative AI Embeddings (BRIDGE): A Method to Incorporate Real-World Stimuli in Consumer Experiments</title>
+      <link>https://ob-ai-papers.vercel.app/papers/65671</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/65671</guid>
+      <description>📝 EXPRESS: Behavioral Research Through Interpretable, Dimensionality-reduced Generative AI Embeddings (BRIDGE): A Method to Incorporate Real-World Stimuli in Consumer Experiments
+
+💡 针对消费者实验中刺激物单一、难以推广的问题，提出BRIDGE方法：利用生成式AI基础嵌入将海量真实产品描述降维为可解释表征，并统计控制非焦点变异以支持因果推断。蒙特卡洛模拟、两项咖啡认证实验及一项千人选择实验（约5万条评估）验证其有效性，发现初始产品的偶然属性可显著塑造后续偏好。
+
+📚 JMR · 2026 · 引用 0
+👤 Anirban Mukherjee, Hannah H. Chang, Sachin Gupta
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+      <category>消费者行为</category><category>实验方法</category><category>营销</category><category>GenAI</category><category>机器学习</category><category>嵌入表示</category>
+    </item>    <item>
+      <title>EXPRESS: Amplifying Insights: Harnessing Voice Technology to Decode Customer Uncertainty in Marketing</title>
+      <link>https://ob-ai-papers.vercel.app/papers/65665</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/65665</guid>
+      <description>📝 EXPRESS: Amplifying Insights: Harnessing Voice Technology to Decode Customer Uncertainty in Marketing
+
+💡 研究如何利用语音技术从消费者口头反馈中推断响应不确定性。比较原始音频与音高特征两种方法，基于实验室NPS实验和全服务音乐连锁店实地NPS数据，发现音高方法在营销应用中效果更优且保护隐私。企业可据此优化优惠券激励投放，并识别能提供说服性证言的品牌大使。
+
+📚 JM · 2026 · 引用 0
+👤 Tongyao Shen, Hye-Jin Kim, Jehoshua Eliashberg, Min Ding
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+      <category>消费者行为</category><category>营销</category><category>人机交互</category><category>机器学习</category><category>AI客服</category>
+    </item>    <item>
       <title>生成式人工智能使用对工作绩效的影响：工作重塑与工作投入的中介作用及数字素养的调节效应</title>
       <link>https://ob-ai-papers.vercel.app/papers/65485</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/65485</guid>
@@ -397,81 +475,6 @@ EN: Can social robots affect children's prosocial behavior? An experimental stud
 AI 分: 3.0 / 领域分: 3.0</description>
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
       <category>教育</category><category>人机协作</category><category>机器人</category><category>人机交互</category>
-    </item>    <item>
-      <title>移动应用促进移民社会融入与身心健康：人工智能能否提升成效？</title>
-      <link>https://ob-ai-papers.vercel.app/papers/64713</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/64713</guid>
-      <description>📝 移动应用促进移民社会融入与身心健康：人工智能能否提升成效？
-EN: Mobile applications aiming to facilitate immigrants’ societal integration and overall level of integration, health and mental health. Does artificial intelligence enhance outcomes?
-
-💡 研究探讨面向移民群体的移动应用能否促进其社会融入及身心健康水平，并比较含AI功能的应用是否带来更优效果。可能采用实验对比或评估研究方法，比较普通整合类应用与AI增强型应用在心理与生理健康指标上的差异，关注AI对社会融入的赋能价值。
-
-📚 CHB · 2021 · 引用 37
-👤 Nick Drydakis
-
-AI 分: 4.0 / 领域分: 3.0</description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>健康</category><category>社会融入</category><category>信任</category><category>机器学习</category><category>AI</category>
-    </item>    <item>
-      <title>自闭特质、人格与青老年群体对仿人机器人的评价</title>
-      <link>https://ob-ai-papers.vercel.app/papers/64707</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/64707</guid>
-      <description>📝 自闭特质、人格与青老年群体对仿人机器人的评价
-EN: Autistic traits, personality, and evaluations of humanoid robots by young and older adults
-
-💡 研究调查自闭症特质与个体人格特质如何影响年轻人和老年人对人形机器人的评价差异。可能采用问卷调查或实验设计，测量不同年龄群体对人形机器人的接受度、信任感与使用意愿，揭示个体特征与年龄因素对机器人感知的交互作用。
-
-📚 CHB · 2020 · 引用 19
-👤 Stefan R. Schweinberger, Maike Pohl, Paul Winkler
-
-AI 分: 3.0 / 领域分: 4.0</description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <category>人机交互</category><category>信任</category><category>人机协作</category><category>机器人</category>
-    </item>    <item>
-      <title>MoodleREC:基于Moodle平台的课程创建推荐系统</title>
-      <link>https://ob-ai-papers.vercel.app/papers/64706</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/64706</guid>
-      <description>📝 MoodleREC:基于Moodle平台的课程创建推荐系统
-EN: MoodleREC: A recommendation system for creating courses using the moodle e-learning platform
-
-💡 研究设计并实现MoodleREC推荐系统，用于在Moodle在线学习平台中辅助课程资源创建与个性化推荐。可能采用协同过滤或内容推荐等技术，结合学习者画像与课程特征提升推荐准确度，并评估系统在课程推荐质量与用户满意度方面的效果。
-
-📚 CHB · 2020 · 引用 133
-👤 Carlo De Medio, Carla Limongelli, Filippo Sciarrone, Marco Temperini
-
-AI 分: 3.0 / 领域分: 3.0</description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <category>推荐系统</category><category>教育</category><category>培训</category><category>推荐算法</category><category>机器学习</category>
-    </item>    <item>
-      <title>利用计算机智能体与学习者开展对话与三方对话的评估</title>
-      <link>https://ob-ai-papers.vercel.app/papers/64698</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/64698</guid>
-      <description>📝 利用计算机智能体与学习者开展对话与三方对话的评估
-EN: Assessment with computer agents that engage in conversational dialogues and trialogues with learners
-
-💡 探索计算机智能体通过与学习者开展一对一对话及多方三方对话（trialogue）实施教育评估的可行性与有效性，为对话式测评设计与人机教学评估提供参考。
-
-📚 CHB · 2017 · 引用 56
-👤 Arthur C. Graesser, Zhiqiang Cai, Brent Morgan, Lijia Wang
-
-AI 分: 3.0 / 领域分: 3.0</description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <category>教育</category><category>培训</category><category>绩效评估</category><category>人机交互</category><category>ChatGPT</category>
-    </item>    <item>
-      <title>与智能辅导系统交互是否存在性别差异：贝叶斯知识追踪与学习曲线分析模型的解答</title>
-      <link>https://ob-ai-papers.vercel.app/papers/64694</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/64694</guid>
-      <description>📝 与智能辅导系统交互是否存在性别差异：贝叶斯知识追踪与学习曲线分析模型的解答
-EN: Is there a gender difference in interacting with intelligent tutoring system? Can Bayesian Knowledge Tracing and Learning Curve Analysis Models answer this question?
-
-💡 研究智能辅导系统中是否存在性别差异的交互模式，采用贝叶斯知识追踪与学习曲线分析模型比较不同性别学习者的行为与学习效果差异，为教育技术中的公平性设计与个性化教学提供依据。
-
-📚 CHB · 2016 · 引用 12
-👤 Leyla Zhuhadar, Scarlett Marklin, Evelyn Thrasher, Miltiadis D. Lytras
-
-AI 分: 4.0 / 领域分: 3.0</description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <category>教育</category><category>培训</category><category>公平性</category><category>机器学习</category><category>人机交互</category>
     </item>
   </channel>
 </rss>
