@@ -6,9 +6,85 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 07 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>面向CLV分布的双LSTM模型：发散路径与双峰性</title>
+      <link>https://ob-ai-papers.vercel.app/papers/65878</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/65878</guid>
+      <description>📝 面向CLV分布的双LSTM模型：发散路径与双峰性
+EN: A dual-LSTM model for CLV distributions: Diverging paths and bimodalities
+
+💡 聚焦客户终身价值(CLV)的分布视角而非期望值，提出双LSTM框架：两个LSTM网络分别建模客户行为与企业营销策略，通过蒙特卡洛模拟刻画二者动态共演化，揭示路径分化与双峰结果。基于21,939名捐赠者九年个体数据校准，在19/24指标上优于Pareto/NBD等六种基准；按CLV右尾排序提升定向效果最高8.3%，双峰客户对营销响应显著更强。
+
+📚 JAMS · 2026 · 引用 0
+👤 Mainak Sarkar, Arnaud De Bruyn
+
+AI 分: 4.0 / 领域分: 5.0</description>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <category>营销</category><category>消费者行为</category><category>决策</category><category>机器学习</category><category>深度学习</category>
+    </item>    <item>
+      <title>何时投放广告？行为广告的最优插入策略</title>
+      <link>https://ob-ai-papers.vercel.app/papers/65831</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/65831</guid>
+      <description>📝 何时投放广告？行为广告的最优插入策略
+EN: When to Play Your Advertisement? Optimal Insertion Policy of Behavioral Advertisement
+
+💡 针对数字行为广告的投放时机优化问题，借助情感追踪与可穿戴设备实时监测用户参与度，提出基于触发阈值与目标水平的阈值型最优广告插入策略。仿真结果表明，该策略相较于预播、中插及混合等传统投放方式，在多种情境下均能显著提升平台收益，并提高消费者的广告完播率，实现平台盈利与用户体验的双赢。
+
+📚 ISR · 2020 · 引用 35
+👤 Subodha Kumar, Yinliang (Ricky) Tan, Lai Wei
+
+AI 分: 3.0 / 领域分: 4.0</description>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <category>广告</category><category>营销</category><category>消费者行为</category><category>算法决策</category><category>机器学习</category>
+    </item>    <item>
+      <title>CEO情绪与首次代币发行中的企业估值：基于人工情感智能的方法</title>
+      <link>https://ob-ai-papers.vercel.app/papers/65783</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/65783</guid>
+      <description>📝 CEO情绪与首次代币发行中的企业估值：基于人工情感智能的方法
+EN: &amp;lt;scp&amp;gt;CEO&amp;lt;/scp&amp;gt;
+                    emotions and firm valuation in initial coin offerings: An artificial emotional intelligence approach
+
+💡 基于人工智能情感识别技术，从初次代币发行(ICO)中CEO公开照片的面部肌肉运动模式中提取正负情感特征，考察CEO情感对企业估值的影响。研究发现：负面情感显著的CEO其估值更易趋同行业同伴（从众机制），同时投资者会将CEO负面情感解读为负面信号并折价定价（信号机制），两种机制在信息不对称情境下均更强，凸显情感因素对初创企业融资定价的重要作用。
+
+📚 SMJ · 2020 · 引用 126
+👤 Paul P. Momtaz
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <category>创业</category><category>战略</category><category>决策</category><category>信任</category><category>机器学习</category><category>人机交互</category>
+    </item>    <item>
+      <title>从人机协作到偏离：智能环境中人机行为的灾变与韧性机制理解</title>
+      <link>https://ob-ai-papers.vercel.app/papers/65727</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/65727</guid>
+      <description>📝 从人机协作到偏离：智能环境中人机行为的灾变与韧性机制理解
+EN: From human-machine collaboration to deviation: Understanding the catastrophe and resilience mechanisms of human-machine behaviors in intelligent environments
+
+💡 探讨智能环境中人机协作如何演变为行为偏差，分析人机交互的灾难触发机制与系统韧性恢复路径，关注偏差行为产生的条件及组织/用户层面的应对策略。
+
+📚 CHB · 2025 · 引用 8
+👤 Haoran Wang, Bin Hu, Yanting Duan
+
+AI 分: 3.0 / 领域分: 4.0</description>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>信任</category><category>组织变革</category><category>人机协作</category><category>人机交互</category>
+    </item>    <item>
+      <title>通过有害情境描绘改进高级机器人的评估</title>
+      <link>https://ob-ai-papers.vercel.app/papers/65716</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/65716</guid>
+      <description>📝 通过有害情境描绘改进高级机器人的评估
+EN: Improving evaluations of advanced robots by depicting them in harmful situations
+
+💡 研究通过将高级机器人描绘于有害情境来改善人们对其的评价，探讨情境化呈现（负面对比）对机器人感知、态度与评价偏差的影响机制。
+
+📚 CHB · 2023 · 引用 20
+👤 Andrea Grundke, Jan-Philipp Stein, Markus Appel
+
+AI 分: 3.0 / 领域分: 3.0</description>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <category>消费者行为</category><category>伦理</category><category>偏见</category><category>机器人</category><category>人机交互</category>
+    </item>    <item>
       <title>Rhythms of Work: Multi-Scale Interpretation of Human Behavioral Traces for Workplace Agents</title>
       <link>https://ob-ai-papers.vercel.app/papers/65694</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/65694</guid>
@@ -398,83 +474,6 @@ AI 分: 5.0 / 领域分: 5.0
 📄 PDF: https://arxiv.org/pdf/2609.01976v1</description>
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
       <category>人机协作</category><category>决策</category><category>组织学习</category><category>LLM</category><category>GenAI</category><category>人机交互</category><category>AI治理</category>
-    </item>    <item>
-      <title>超越结果差距：面向LLM多智能体决策系统的过程感知公平性诊断</title>
-      <link>https://ob-ai-papers.vercel.app/papers/64944</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/64944</guid>
-      <description>📝 超越结果差距：面向LLM多智能体决策系统的过程感知公平性诊断
-EN: Beyond Outcome Gaps: Process-Aware Fairness Diagnosis for LLM-based Multi-Agent Decision Systems
-
-💡 针对LLM多智能体招聘系统，揭示以结果公平掩盖过程不公平的诊断盲区。提出SCOPED-Hiring流程感知公平诊断流水线，构造受控简历变体并模拟角色化招聘委员会，记录31.1万条结构化决策轨迹，通过最终结果、反事实、过程、路径、动态与设计六类透镜量化公平信号。研究发现职业空窗引发怀疑、代理线索扭曲资历判断、身份线索导致调查投入不均。基于诊断的定向修复使总体分层负担降低72.3%，录用率仅变动1.86个百分点。
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Yiran Zhao, Lu Zhou, Liming Fang, Yufei Chen, Jiafei Wu
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2609.02092v1</description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <category>招聘</category><category>公平性</category><category>偏见</category><category>AI治理</category><category>LLM</category><category>算法决策</category><category>人机协作</category>
-    </item>    <item>
-      <title>高校反AI作弊政策与策略的犯罪学混合方法分析：新兴失范与文化滞后的个案研究</title>
-      <link>https://ob-ai-papers.vercel.app/papers/64728</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/64728</guid>
-      <description>📝 高校反AI作弊政策与策略的犯罪学混合方法分析：新兴失范与文化滞后的个案研究
-EN: A Criminological Mixed-Methods Analysis of University Policies and Strategies Against AI Cheating: A Case Study of Novel Deviance and Cultural Lag
-
-💡 基于犯罪学视角，采用混合方法分析大学应对AI作弊的政策与策略，以单一案例探讨新型偏差与文化滞后现象。论文结合规范分析与实证调查，揭示高校制度面对生成式AI冲击时在规则制定、检测手段与学术诚信文化上的滞后与张力。
-
-📚 CHB · 2026 · 引用 0
-👤 William P. McClanahan, Timothy Dickinson
-
-AI 分: 5.0 / 领域分: 3.0</description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <category>伦理</category><category>教育</category><category>组织变革</category><category>GenAI</category><category>AI治理</category>
-    </item>    <item>
-      <title>检测政治信息中AI生成图像及其溢出效应：两项预注册实验的证据</title>
-      <link>https://ob-ai-papers.vercel.app/papers/64727</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/64727</guid>
-      <description>📝 检测政治信息中AI生成图像及其溢出效应：两项预注册实验的证据
-EN: Detection and spill-over effects of AI-generated images in political messages: Evidence from two pre-registered experiments
-
-💡 研究通过两项预注册实验，检验受众对政治信息中AI生成图像的辨别能力，以及接触AI生成图像后产生的溢出效应（如信任、真实性判断与态度变化），为政治传播中虚假信息治理与公众媒介素养提供实证依据。
-
-📚 CHB · 2026 · 引用 2
-👤 Darian Harff
-
-AI 分: 5.0 / 领域分: 3.0</description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <category>伦理</category><category>偏见</category><category>信任</category><category>图像生成</category><category>GenAI</category>
-    </item>    <item>
-      <title>两阶段方法探究顾客转向人工智能银行服务意愿的关键因素：基于推拉锚定模型视角</title>
-      <link>https://ob-ai-papers.vercel.app/papers/64721</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/64721</guid>
-      <description>📝 两阶段方法探究顾客转向人工智能银行服务意愿的关键因素：基于推拉锚定模型视角
-EN: Using a two-stage method to understand the critical factors influencing customers’ intention to switch from traditional to artificial intelligence based banking services: A perspective based on the push–pull–mooring model
-
-💡 基于推-拉-锚定模型，采用两阶段方法识别驱动消费者从传统银行服务转向AI驱动银行服务的关键因素，揭示阻碍与促成转换的核心变量，为银行推广AI服务、制定客户转化策略提供理论参考。
-
-📚 CHB · 2025 · 引用 8
-👤 Jiunn-Woei Lian, Cai-Wei Li
-
-AI 分: 4.0 / 领域分: 4.0</description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <category>消费者行为</category><category>营销</category><category>决策</category><category>AI 客服</category><category>人机交互</category>
-    </item>    <item>
-      <title>社会机器人能否影响儿童亲社会行为：亲社会机器人模型的实验研究</title>
-      <link>https://ob-ai-papers.vercel.app/papers/64714</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/64714</guid>
-      <description>📝 社会机器人能否影响儿童亲社会行为：亲社会机器人模型的实验研究
-EN: Can social robots affect children's prosocial behavior? An experimental study on prosocial robot models
-
-💡 通过实验检验社交机器人作为亲社会榜样能否提升儿童的亲社会行为，探讨机器人示范对儿童助人、合作等行为的影响，为社交机器人在儿童教育与社会化过程中的应用提供实证依据。
-
-📚 CHB · 2021 · 引用 41
-👤 Jochen Peter, Rinaldo Kühne, Alex Barco
-
-AI 分: 3.0 / 领域分: 3.0</description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <category>教育</category><category>人机协作</category><category>机器人</category><category>人机交互</category>
     </item>
   </channel>
 </rss>
