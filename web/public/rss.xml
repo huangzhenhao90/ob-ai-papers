@@ -6,9 +6,141 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 08 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>专用心理健康AI（Ash）用户的医疗利用、慢性病管理与职场功能：一项横断面研究</title>
+      <link>https://ob-ai-papers.vercel.app/papers/66236</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/66236</guid>
+      <description>📝 专用心理健康AI（Ash）用户的医疗利用、慢性病管理与职场功能：一项横断面研究
+EN: Healthcare Utilization, Chronic Condition Management, and Workplace Functioning Among Users of a Purpose-Built Mental Health AI (Ash): Cross-Sectional Study
+
+💡 跨截面研究比较专用心理健康AI（Ash）活跃用户（n=169）与非用户（n=73）在医疗利用、慢性病管理、身心健康和工作表现上的差异。调整高血压后，活跃用户报告更显著的心理健康改善、用药依从性提升、慢性病照护活动减少、急诊复诊与月度以上缺勤率降低，为共病身心问题人群的AI辅助干预提供初步证据。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Kristen M. Van Swearingen, Thomas D. Hull, Jeffrey Swigert, Caitlin A. Stamatis
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2609.08890v1</description>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <category>员工幸福感</category><category>人机协作</category><category>绩效评估</category><category>人机交互</category><category>AI客服</category>
+    </item>    <item>
+      <title>中小企业规模下的意图漂移：部署实践而非模型能力决定智能体合规性</title>
+      <link>https://ob-ai-papers.vercel.app/papers/66229</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/66229</guid>
+      <description>📝 中小企业规模下的意图漂移：部署实践而非模型能力决定智能体合规性
+EN: Intent Drift at SME Scale: Deployment Practice, Not Model Capability, Determines Agentic Compliance
+
+💡 针对受监管小微企业代理 AI 合规难题，提出 Chain of Intent 治理框架，包含机器可读目的、受限工具访问、范围账本、行动前检查四项轻量控制。在模拟香港资管场景的压力测试中，写明目的的代理在 15 次施压中仅 2 次违规；未声明目的的同模型代理 13 次违规，最高可判三年监禁。说明部署实践而非模型能力决定合规，并提出两阶段意图漂移度量方法。
+
+📚 arXiv:cs.CY · 2026 · 引用 0
+👤 Ilia Voroshilov
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2609.05975v1</description>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <category>伦理</category><category>隐私</category><category>算法管理</category><category>公平性</category><category>AI 治理</category><category>GenAI</category><category>算法决策</category>
+    </item>    <item>
+      <title>面向人机协同认知耦合的智能体模型抽象</title>
+      <link>https://ob-ai-papers.vercel.app/papers/66227</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/66227</guid>
+      <description>📝 面向人机协同认知耦合的智能体模型抽象
+EN: An Agent Model Abstraction for Human-AI Teaming Cognitive Coupling
+
+💡 针对工业场景中人与AI代理协作缺乏跨主体认知协同机制的问题，提出一个概念性认知代理模型，形式化认知耦合过程。模型通过输入、过程、输出、状态、价值、记忆、世界模型和目标八个组件，抽象描述代理间认知周期的协调与共同调节机制，为分布式认知分析及认知可互操作的人机系统设计提供理论基础。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Kolitha Kottagaha W. M, Jos A. C. Bokhorst, Ben Gaffinet, Christos Emmanouilidis
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2609.05552v1</description>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>团队</category><category>组织学习</category><category>人机协作</category><category>人机交互</category><category>算法管理</category>
+    </item>    <item>
+      <title>从事件日志到受控行动：BlueSky智能体流程挖掘研究议程</title>
+      <link>https://ob-ai-papers.vercel.app/papers/66226</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/66226</guid>
+      <description>📝 从事件日志到受控行动：BlueSky智能体流程挖掘研究议程
+EN: From Event Logs to Governed Action: A BlueSky Agenda for Agentic Process Mining
+
+💡 探讨过程挖掘从'事件日志分析'向'代理式治理行动'的范式转变。提出 event-to-action 议程，主张构建四类可挖掘资产：事件-对象表示、行动证据包、治理契约、含执行/推迟/询问/拒绝等多类合法输出的基准。研究融合代理式 BPM、LLM 辅助过程挖掘、对象中心事件标准、因果监控与隐私学习，将过程挖掘目标从回顾性洞察拓展为可问责的治理行动。
+
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 Yiyuan Yang, Zheshun Wu, Yong Chu, Zhenghua Chen, Zenglin Xu
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2609.07984v1</description>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <category>决策</category><category>组织变革</category><category>知识管理</category><category>算法管理</category><category>AI 治理</category><category>LLM</category><category>人机协作</category><category>算法决策</category>
+    </item>    <item>
+      <title>量化参与陷阱：短视频推荐系统对ADHD用户的影响</title>
+      <link>https://ob-ai-papers.vercel.app/papers/66225</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/66225</guid>
+      <description>📝 量化参与陷阱：短视频推荐系统对ADHD用户的影响
+EN: Quantifying the Engagement Trap: Impact of Short-form Video Recommender Systems on Users with ADHD
+
+💡 通过 302 名参与者的分层研究，定量比较短视频推荐系统对 ADHD 与非 ADHD 用户的影响差异。提出'参与度陷阱'概念：尽管两组感知相关性相近，ADHD 用户在时间盲感、使用后悔与情绪困扰上显著更高。结合概念性设计干预反馈，论证参与度优化型推荐对神经多样性用户造成系统性不平等，倡导神经包容与人本化的算法设计路径。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Vedad Misirlic, Gregor Mayr, Elisabeth Lex
+
+AI 分: 4.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2609.07795v1</description>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <category>推荐系统</category><category>公平性</category><category>偏见</category><category>消费者行为</category><category>推荐算法</category><category>机器学习</category><category>人机交互</category>
+    </item>    <item>
+      <title>审计决定裁决：LLM决策审计中工具效应与人口统计学偏差相当</title>
+      <link>https://ob-ai-papers.vercel.app/papers/66224</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/66224</guid>
+      <description>📝 审计决定裁决：LLM决策审计中工具效应与人口统计学偏差相当
+EN: The Audit Decides the Verdict: Instrument Effects Rival Demographic Bias in LLM Decision Audits
+
+💡 研究以40,726次请求测试5个LLM在招聘、贷款和医疗分诊场景下人口统计偏见审计的可泛化性，仅以申请人姓名作为差异变量。所有36项预设对比在多重校正后均不显著；评分与排序审计间的方向反转约为已发表效应一半。模型能识别透明审计，对仅在种族或爱好维度差异的内容打分相同，并显著偏好首列候选。审计设计对结果的影响远大于人口学偏见。
+
+📚 arXiv:cs.CL · 2026 · 引用 0
+👤 Siddharth Vohra, Manikandan Ravikiran
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2609.09048v1</description>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <category>公平性</category><category>偏见</category><category>算法决策</category><category>招聘</category><category>LLM</category><category>AI治理</category><category>可解释AI</category><category>算法决策</category>
+    </item>    <item>
+      <title>混合推荐系统的概率主题模型：一种随机变分贝叶斯方法</title>
+      <link>https://ob-ai-papers.vercel.app/papers/66163</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/66163</guid>
+      <description>📝 混合推荐系统的概率主题模型：一种随机变分贝叶斯方法
+EN: Probabilistic Topic Model for Hybrid Recommender Systems: A Stochastic Variational Bayesian Approach
+
+💡 针对在线电影推荐中数据规模大、特征异质、需兼顾准确性与可扩展性的难题，提出一种协变量引导的异质监督主题模型，并设计随机变分贝叶斯推断框架实现大数据下的快速可扩展精确估计，提升混合推荐系统性能。
+
+📚 MktSci · 2018 · 引用 87
+👤 Asim Ansari, Yang Li, Jonathan Z. Zhang
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <category>推荐系统</category><category>营销</category><category>消费者行为</category><category>推荐算法</category><category>机器学习</category>
+    </item>    <item>
+      <title>AI时代的计算创造力：信息系统研究议程</title>
+      <link>https://ob-ai-papers.vercel.app/papers/66120</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/66120</guid>
+      <description>📝 AI时代的计算创造力：信息系统研究议程
+EN: Computational Creativity in the AI Era: A Research Agenda for Information Systems
+
+💡 ISR特刊编者按将计算创造力定义为涵盖搜索、重组、评估与实现的结构化、可仪表化、可改进的过程。核心观点是生成式AI的潜力在于配置人机能动性以产出新颖且有用的创意，同时捍卫创造力的生成性、付出感、问责性与社会意义。提出IS研究议程：流程仪表化、保持多样性的设计、能动性敏感治理、人机创意系统组织能力建设与负责任的计算创造力。
+
+📚 ISR · 2026 · 引用 0
+👤 Min Ding, Ram Gopal, Ulrike Schultze, D. J. Wu
+
+AI 分: 5.0 / 领域分: 3.0</description>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <category>创新</category><category>创意</category><category>人机协作</category><category>组织学习</category><category>GenAI</category><category>LLM</category><category>人机协作</category><category>AI治理</category>
+    </item>    <item>
       <title>面向CLV分布的双LSTM模型：发散路径与双峰性</title>
       <link>https://ob-ai-papers.vercel.app/papers/65878</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/65878</guid>
@@ -20,7 +152,9 @@ EN: A dual-LSTM model for CLV distributions: Diverging paths and bimodalities
 📚 JAMS · 2026 · 引用 0
 👤 Mainak Sarkar, Arnaud De Bruyn
 
-AI 分: 4.0 / 领域分: 5.0</description>
+AI 分: 4.0 / 领域分: 5.0
+
+📄 PDF: https://doi.org/10.1007/s11747-026-01193-x</description>
       <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
       <category>营销</category><category>消费者行为</category><category>决策</category><category>机器学习</category><category>深度学习</category>
     </item>    <item>
@@ -85,10 +219,11 @@ AI 分: 3.0 / 领域分: 3.0</description>
       <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
       <category>消费者行为</category><category>伦理</category><category>偏见</category><category>机器人</category><category>人机交互</category>
     </item>    <item>
-      <title>Rhythms of Work: Multi-Scale Interpretation of Human Behavioral Traces for Workplace Agents</title>
+      <title>工作韵律：面向职场智能体的人类行为轨迹多尺度解读</title>
       <link>https://ob-ai-papers.vercel.app/papers/65694</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/65694</guid>
-      <description>📝 Rhythms of Work: Multi-Scale Interpretation of Human Behavioral Traces for Workplace Agents
+      <description>📝 工作韵律：面向职场智能体的人类行为轨迹多尺度解读
+EN: Rhythms of Work: Multi-Scale Interpretation of Human Behavioral Traces for Workplace Agents
 
 💡 针对工作场所智能体难以理解周围人类活动的问题，提出多分辨率行为解释框架：从6.67亿条生产力工具事件中构建涵盖操作、模式、情节与日节奏的多层次语义词汇表。在独立2000用户样本上验证了分类体系的结构稳定性，并因其在预测用户下一情节上较基线提升17%宏F1，证明了抽象保留了未来相关信息。
 
@@ -135,10 +270,11 @@ AI 分: 5.0 / 领域分: 5.0
       <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
       <category>招聘</category><category>AI招聘</category><category>公平性</category><category>伦理</category><category>偏见</category><category>隐私</category><category>AI治理</category><category>HR</category>
     </item>    <item>
-      <title>EXPRESS: Behavioral Research Through Interpretable, Dimensionality-reduced Generative AI Embeddings (BRIDGE): A Method to Incorporate Real-World Stimuli in Consumer Experiments</title>
+      <title>EXPRESS：基于可解释降维生成式AI嵌入的行为研究（BRIDGE）：消费者实验中引入真实世界刺激的方法</title>
       <link>https://ob-ai-papers.vercel.app/papers/65671</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/65671</guid>
-      <description>📝 EXPRESS: Behavioral Research Through Interpretable, Dimensionality-reduced Generative AI Embeddings (BRIDGE): A Method to Incorporate Real-World Stimuli in Consumer Experiments
+      <description>📝 EXPRESS：基于可解释降维生成式AI嵌入的行为研究（BRIDGE）：消费者实验中引入真实世界刺激的方法
+EN: EXPRESS: Behavioral Research Through Interpretable, Dimensionality-reduced Generative AI Embeddings (BRIDGE): A Method to Incorporate Real-World Stimuli in Consumer Experiments
 
 💡 针对消费者实验中刺激物单一、难以推广的问题，提出BRIDGE方法：利用生成式AI基础嵌入将海量真实产品描述降维为可解释表征，并统计控制非焦点变异以支持因果推断。蒙特卡洛模拟、两项咖啡认证实验及一项千人选择实验（约5万条评估）验证其有效性，发现初始产品的偶然属性可显著塑造后续偏好。
 
@@ -149,10 +285,11 @@ AI 分: 5.0 / 领域分: 5.0</description>
       <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
       <category>消费者行为</category><category>实验方法</category><category>营销</category><category>GenAI</category><category>机器学习</category><category>嵌入表示</category>
     </item>    <item>
-      <title>EXPRESS: Amplifying Insights: Harnessing Voice Technology to Decode Customer Uncertainty in Marketing</title>
+      <title>EXPRESS：放大洞见：利用语音技术解读营销中的客户不确定性</title>
       <link>https://ob-ai-papers.vercel.app/papers/65665</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/65665</guid>
-      <description>📝 EXPRESS: Amplifying Insights: Harnessing Voice Technology to Decode Customer Uncertainty in Marketing
+      <description>📝 EXPRESS：放大洞见：利用语音技术解读营销中的客户不确定性
+EN: EXPRESS: Amplifying Insights: Harnessing Voice Technology to Decode Customer Uncertainty in Marketing
 
 💡 研究如何利用语音技术从消费者口头反馈中推断响应不确定性。比较原始音频与音高特征两种方法，基于实验室NPS实验和全服务音乐连锁店实地NPS数据，发现音高方法在营销应用中效果更优且保护隐私。企业可据此优化优惠券激励投放，并识别能提供说服性证言的品牌大使。
 
@@ -346,134 +483,6 @@ EN: Exploring the impact of sentiment on multi-dimensional information dissemina
 AI 分: 4.0 / 领域分: 3.0</description>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
       <category>消费者行为</category><category>营销</category><category>推荐系统</category><category>机器学习</category><category>推荐算法</category>
-    </item>    <item>
-      <title>视频会议场景下的视线估计</title>
-      <link>https://ob-ai-papers.vercel.app/papers/64989</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/64989</guid>
-      <description>📝 视频会议场景下的视线估计
-EN: Gaze estimation in videoconferencing settings
-
-💡 研究视频会议场景下的视线估计方法，识别远程沟通中用户注视方向与注意力焦点。聚焦算法精度、鲁棒性与实时性，为远程协作注意力评估、人机交互优化及在线沟通效果分析提供技术支持。
-
-📚 CHB · 2023 · 引用 14
-👤 Inka Schmitz, Wolfgang Einhäuser
-
-AI 分: 4.0 / 领域分: 3.0</description>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>人机交互</category><category>机器学习</category><category>人机交互</category>
-    </item>    <item>
-      <title>人机协作中相对地位对责任归因的影响：责任感的中介作用与权力距离倾向的调节作用</title>
-      <link>https://ob-ai-papers.vercel.app/papers/64984</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/64984</guid>
-      <description>📝 人机协作中相对地位对责任归因的影响：责任感的中介作用与权力距离倾向的调节作用
-EN: Effect of relative status on responsibility attributions in human–robot collaboration: Mediating role of sense of responsibility and moderating role of power distance orientation
-
-💡 研究人机协作中相对地位对责任归因的影响，检验责任感的中间作用以及权力距离取向的调节作用。探讨当人类与机器人作为协作伙伴存在地位差异时，个体如何将任务结果归因于自身或机器人，以及文化层面的权力距离倾向如何改变这一归因过程与责任感知。
-
-📚 CHB · 2021 · 引用 50
-👤 Xin Lei, Pei-Luen Patrick Rau
-
-AI 分: 3.0 / 领域分: 4.0</description>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>团队</category><category>决策</category><category>机器人</category><category>人机协作</category><category>人机交互</category>
-    </item>    <item>
-      <title>多智能体健康指导应用中适配用户动机的指导策略</title>
-      <link>https://ob-ai-papers.vercel.app/papers/64983</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/64983</guid>
-      <description>📝 多智能体健康指导应用中适配用户动机的指导策略
-EN: Tailoring coaching strategies to users’ motivation in a multi-agent health coaching application
-
-💡 针对多智能体健康教练系统，探讨如何根据用户的动机差异定制差异化辅导策略，以提升健康干预的效果与用户参与度，关注个性化教练匹配动机类型对行为改变的影响。
-
-📚 CHB · 2021 · 引用 31
-👤 Tessa Beinema, Harm op den Akker, Lex van Velsen, Hermie Hermens
-
-AI 分: 4.0 / 领域分: 4.0</description>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>教育</category><category>创新</category><category>人机交互</category><category>多模态</category>
-    </item>    <item>
-      <title>机器的说服：虚拟非言语线索与个体差异对经济谈判中顺从行为的影响</title>
-      <link>https://ob-ai-papers.vercel.app/papers/64978</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/64978</guid>
-      <description>📝 机器的说服：虚拟非言语线索与个体差异对经济谈判中顺从行为的影响
-EN: Persuaded by the machine: The effect of virtual nonverbal cues and individual differences on compliance in economic bargaining
-
-💡 研究虚拟代理在经济议价情境中所展现的非语言线索对用户顺从决策的影响，并考察个体差异（如认知风格、人格特质等）在机器说服效果中的调节作用。
-
-📚 CHB · 2018 · 引用 35
-👤 V.J. Harjunen, M. Spapé, I. Ahmed, G. Jacucci, N. Ravaja
-
-AI 分: 3.0 / 领域分: 4.0</description>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <category>决策</category><category>人机交互</category><category>信任</category><category>人机交互</category><category>机器人</category>
-    </item>    <item>
-      <title>大语言模型驱动的上下文感知生态反馈生成与评估</title>
-      <link>https://ob-ai-papers.vercel.app/papers/64950</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/64950</guid>
-      <description>📝 大语言模型驱动的上下文感知生态反馈生成与评估
-EN: Large Language Model-Driven Context-Aware Eco-Feedback Generation and Evaluation
-
-💡 针对既有生态反馈忽视家庭个性化特征导致效果浅表的问题，研究构建基于大语言模型的上下文工程框架，通过自一致性结合思维链提示，整合家庭能耗分析数据、公用事业费率结构与特征信息，生成情境感知的生态反馈。经实证验证与组合评估分析，该框架在不同家庭配置下生成的反馈与参考方案平均吻合度达92%，能准确利用家庭数据生成定制化、数据驱动的环保建议。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Wooyoung Jung, Prosper Babon-Ayeng
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2609.02719v1</description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <category>消费者行为</category><category>创新</category><category>算法管理</category><category>LLM</category><category>GenAI</category>
-    </item>    <item>
-      <title>FairLens：视觉-语言模型在高风险决策中的公平性基准测试</title>
-      <link>https://ob-ai-papers.vercel.app/papers/64948</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/64948</guid>
-      <description>📝 FairLens：视觉-语言模型在高风险决策中的公平性基准测试
-EN: FairLens: Benchmarking Fairness in Vision-Language Models for High-Stakes Decision-Making
-
-💡 提出FAIRLENS基准与评估框架，衡量视觉-语言模型在招聘、法律、医疗高风险决策中的公平性与有效性。借助跨性别、种族、年龄的真实人脸图像与封闭式及开放式问题配对，每模型构建逾10万图像-问题对，从人口统计均等、可靠性、对未获支持角色与身份的人口关联、自由文本生成偏差四个互补视角评估八款VLM。研究发现主要失败并非不平等待遇，而是无证据支撑的过度推断，差距指标若仅看绝对值易被掩盖。
-
-📚 arXiv:cs.CV · 2026 · 引用 0
-👤 Vahid Reza Khazaie, Ahmed Y. Radwan, Shaina Raza
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2609.01691v1</description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <category>公平性</category><category>偏见</category><category>招聘</category><category>AI治理</category><category>多模态</category><category>算法决策</category><category>可解释AI</category>
-    </item>    <item>
-      <title>AI 情境测量复原个体与群体效应：基于调查测量与职业应用的验证</title>
-      <link>https://ob-ai-papers.vercel.app/papers/64947</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/64947</guid>
-      <description>📝 AI 情境测量复原个体与群体效应：基于调查测量与职业应用的验证
-EN: AI Contextual Measurement for Recovering Individual and Group-Level Effects: Validation Against Survey Measures and an Occupational Application
-
-💡 针对AI构建社会、组织及职业特征测量但缺乏方法论评估框架的问题，研究提出AICOME框架，主张AI生成的个体层面测量可推导群体聚合值与个体偏差，从而在情境模型中同时估计组间和组内效应。利用2022年中国家庭追踪调查数据，以职业为分组结构，对计算机使用、外语使用、周工时和管理责任等变量进行响应层、模型层、情境层及边界条件的多重效度验证，表明AI情境测量在受访者与岗位特征丰富时可恢复观测调查变量中的大部分情境模型信息。
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Wenxin Jiang, Xuyang Wang, Yuxiao Wu
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2609.02821v1</description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <category>绩效评估</category><category>HR</category><category>方法论</category><category>机器学习</category><category>LLM</category><category>AI治理</category>
-    </item>    <item>
-      <title>知之非足：信息可检索性作为有效 LLM 监督的先决条件</title>
-      <link>https://ob-ai-papers.vercel.app/papers/64945</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/64945</guid>
-      <description>📝 知之非足：信息可检索性作为有效 LLM 监督的先决条件
-EN: Knowing Is Not Enough: Information Retrievability as a Precondition to Effective LLM Oversight
-
-💡 针对大语言模型在组织工作中应用时错误常逃过人工审核的现象，研究提出基于检索的人为监督理论，认为错误检测的有效性取决于审核时相关信息是否可被获取。两项随机实地实验（640名面向客户的员工）显示，自生成解释能提升错误检测并强化验证相关推理的记忆，而再激活线索有助于在反复使用LLM中维持检测能力，由此识别信息可检索性作为有效监督的独立前置条件。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Xinyu Fu, Narayan Ramasubbu, Dennis Galletta
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2609.01976v1</description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>决策</category><category>组织学习</category><category>LLM</category><category>GenAI</category><category>人机交互</category><category>AI治理</category>
     </item>
   </channel>
 </rss>
