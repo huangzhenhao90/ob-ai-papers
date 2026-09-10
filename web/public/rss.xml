@@ -6,9 +6,41 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 09 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>机会、持续优势与生成式人工智能时代的开源软件包职业发展</title>
+      <link>https://ob-ai-papers.vercel.app/papers/66446</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/66446</guid>
+      <description>📝 机会、持续优势与生成式人工智能时代的开源软件包职业发展
+EN: Chance, Persistent Advantage, and the Generative-AI Era in Open-Source Package Careers
+
+💡 基于GitHub全量推送数据(2015-2025)重建1.022亿件作品与615万贡献者职业轨迹，检验开源职业是否遵循"彩票模型"与"持久个人优势"双模式。结果显示：最大影响作品出现时机接近随机抽奖；存在稳定个人因子但仅解释约五分之一的影响持续，其余为自我强化的动量；ChatGPT发布前后同一批贡献者结构未发生实质变化，差异接近零。
+
+📚 arXiv:cs.SI · 2026 · 引用 0
+👤 Hazem Ibrahim, Yasir Zaki
+
+AI 分: 4.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2609.09687v1</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <category>创新</category><category>知识管理</category><category>工作未来</category><category>GenAI</category><category>ChatGPT</category><category>LLM</category>
+    </item>    <item>
+      <title>情感辅导系统在会计补救教学中的应用对学习绩效与可用性的影响</title>
+      <link>https://ob-ai-papers.vercel.app/papers/66249</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/66249</guid>
+      <description>📝 情感辅导系统在会计补救教学中的应用对学习绩效与可用性的影响
+EN: The influence of using affective tutoring system in accounting remedial instruction on learning performance and usability
+
+💡 研究会计补救教学中情感导师系统的应用效果，考察该系统对学习者学习绩效与系统可用性的影响，旨在将情感识别与自适应辅导融入学科补救场景。
+
+📚 CHB · 2014 · 引用 68
+👤 Hao-Chiang Koong Lin, Chih-Hung Wu, Ya-Ping Hsueh
+
+AI 分: 3.0 / 领域分: 4.0</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <category>教育</category><category>培训</category><category>人机交互</category><category>机器学习</category>
+    </item>    <item>
       <title>专用心理健康AI（Ash）用户的医疗利用、慢性病管理与职场功能：一项横断面研究</title>
       <link>https://ob-ai-papers.vercel.app/papers/66236</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/66236</guid>
@@ -140,6 +172,21 @@ EN: Computational Creativity in the AI Era: A Research Agenda for Information Sy
 AI 分: 5.0 / 领域分: 3.0</description>
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
       <category>创新</category><category>创意</category><category>人机协作</category><category>组织学习</category><category>GenAI</category><category>LLM</category><category>人机协作</category><category>AI治理</category>
+    </item>    <item>
+      <title>改进动态决策的机器学习方法</title>
+      <link>https://ob-ai-papers.vercel.app/papers/66118</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/66118</guid>
+      <description>📝 改进动态决策的机器学习方法
+EN: A Machine Learning Approach to Improving Dynamic Decision Making
+
+💡 提出领域无关的迭代方法，对动态环境数据应用数据挖掘分类技术，自动识别决策策略产生不良或次优结果的条件并据此改进策略。以2型糖尿病治疗与制造任务为例验证，显著降低治疗失败率与决策偏差，体现方法通用性。
+
+📚 ISR · 2014 · 引用 109
+👤 Georg Meyer, Gediminas Adomavicius, Paul E. Johnson, Mohamed Elidrisi, William A. Rush
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <category>决策</category><category>机器学习</category><category>算法决策</category><category>人机协作</category>
     </item>    <item>
       <title>面向CLV分布的双LSTM模型：发散路径与双峰性</title>
       <link>https://ob-ai-papers.vercel.app/papers/65878</link>
@@ -438,51 +485,6 @@ AI 分: 5.0 / 领域分: 4.0
 📄 PDF: https://arxiv.org/pdf/2609.03456v1</description>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
       <category>人机协作</category><category>员工幸福感</category><category>组织变革</category><category>工作未来</category><category>GenAI</category><category>LLM</category><category>人机协作</category>
-    </item>    <item>
-      <title>《机器人崛起加剧工作不安全感与适应不良工作行为:多方法证据》补充材料</title>
-      <link>https://ob-ai-papers.vercel.app/papers/65050</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/65050</guid>
-      <description>📝 《机器人崛起加剧工作不安全感与适应不良工作行为:多方法证据》补充材料
-EN: Supplemental Material for The Rise of Robots Increases Job Insecurity and Maladaptive Workplace Behaviors: Multimethod Evidence
-
-💡 采用多方法研究设计，考察工作场所中机器人的兴起如何引发员工的就业不安全感，并进一步导致反生产等适应不良的工作行为，揭示技术替代对员工心理与行为的负面外溢效应。
-
-📚 JAP · 2022 · 引用 4
-👤 Unknown
-
-AI 分: 3.0 / 领域分: 5.0</description>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <category>工作未来</category><category>员工幸福感</category><category>绩效评估</category><category>机器人</category>
-    </item>    <item>
-      <title>富有创意还是缺乏创意的伙伴：协作创意任务中人与AI的比较</title>
-      <link>https://ob-ai-papers.vercel.app/papers/64994</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/64994</guid>
-      <description>📝 富有创意还是缺乏创意的伙伴：协作创意任务中人与AI的比较
-EN: Creative or Uncreative Partner: Comparing Humans and AI in Collaborative Creative Tasks
-
-💡 比较人类与AI在协作型创意任务中作为创意伙伴的表现差异，探讨AI作为协作伙伴在创造力方面的能力与局限，以及人类对AI创意伙伴的感知和互动模式。
-
-📚 CHB · 2026 · 引用 0
-👤 Clin K.Y. Lai, Simone A. Luchini, Nina Lauharatanahirun, Roger Beaty
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <category>创意</category><category>人机协作</category><category>人机交互</category><category>GenAI</category>
-    </item>    <item>
-      <title>探索情感对多维度信息传播的影响：基于中国新冠疫情数据</title>
-      <link>https://ob-ai-papers.vercel.app/papers/64990</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/64990</guid>
-      <description>📝 探索情感对多维度信息传播的影响：基于中国新冠疫情数据
-EN: Exploring the impact of sentiment on multi-dimensional information dissemination using COVID-19 data in China
-
-💡 基于中国新冠疫情期间数据，探讨情感倾向对多维度信息传播的影响。运用情感分析与传播建模方法，揭示不同情感极性在社交媒体跨平台、跨层级传播中的差异化作用及扩散机制。
-
-📚 CHB · 2023 · 引用 44
-👤 Han Luo, Xiao Meng, Yifei Zhao, Meng Cai
-
-AI 分: 4.0 / 领域分: 3.0</description>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <category>消费者行为</category><category>营销</category><category>推荐系统</category><category>机器学习</category><category>推荐算法</category>
     </item>
   </channel>
 </rss>
