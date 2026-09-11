@@ -6,9 +6,101 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 10 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>从协议到证据：人工智能服务公共福祉的有限主张</title>
+      <link>https://ob-ai-papers.vercel.app/papers/66699</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/66699</guid>
+      <description>📝 从协议到证据：人工智能服务公共福祉的有限主张
+EN: From Protocols to Evidence: Bounded Claims for AI in Service of the Common Good
+
+💡 AI不仅是治理难题，更揭示了机构在响应性、归属感、关怀与问责上的既有失败。AI部署后可能修复、加剧、替代或掩盖这些失败。论文提出'破裂测试'，将机构基线与系统评估挂钩，区分'证据有界部署'与'测量有界治理'，并构建RISE AI架构，对责任、包容、安全、赋权做出有界有据的声称，倡导将工程改进、机构修复与道德政治判断结合。
+
+📚 arXiv:cs.LG · 2026 · 引用 0
+👤 Nitesh V. Chawla, Paulo Benanti
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2609.11910v1</description>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+      <category>AI治理</category><category>伦理</category><category>信任</category><category>公平性</category><category>AI治理</category><category>可解释AI</category>
+    </item>    <item>
+      <title>Frontiers：头像照中的女性气质歧视——基于AI可控刺激生成的田野实验</title>
+      <link>https://ob-ai-papers.vercel.app/papers/66642</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/66642</guid>
+      <description>📝 Frontiers：头像照中的女性气质歧视——基于AI可控刺激生成的田野实验
+EN: Frontiers: Discrimination Against Femininity in Headshots: A Field Experiment with AI-Enabled Controllable Stimuli Generation
+
+💡 利用AI生成仅在女性化程度上不同的头像照片，开展田野实验检验消费者对女性气质的歧视。研究发现，消费者对女性化存在独立于性别身份之外的偏见，即即便头像是男性面孔，呈现更女性化特征也会受到歧视，揭示外貌性别刻板印象对评价的独立影响。
+
+📚 MktSci · 2026 · 引用 0
+👤 Lan E. Luo, Olivier Toubia
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+      <category>消费者行为</category><category>偏见</category><category>公平性</category><category>图像生成</category><category>GenAI</category>
+    </item>    <item>
+      <title>基于社交媒体理解用药不依从性：一种情感增强的深度学习方法</title>
+      <link>https://ob-ai-papers.vercel.app/papers/66615</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/66615</guid>
+      <description>📝 基于社交媒体理解用药不依从性：一种情感增强的深度学习方法
+EN: Understanding Medication Nonadherence from Social Media: A Sentiment-Enriched Deep Learning Approach
+
+💡 针对用药不依从(MNA)这一造成巨额医疗损失的问题，构建融合情感信息的深度学习方法SEDEL，从社交媒体长文本中挖掘MNA原因。SEDEL在180种药物、53,180条评论上取得F1达88.86%，显著优于基线，归纳出9类MNA原因并经专家验证，为医疗行业干预设计提供依据。
+
+📚 MISQ · 2022 · 引用 37
+👤 Jiaheng Xie, Xiao Liu, Daniel Dajun Zeng, Xiao Fang
+
+AI 分: 3.0 / 领域分: 3.0</description>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+      <category>消费者行为</category><category>创新</category><category>伦理</category><category>决策</category><category>机器学习</category><category>多模态</category><category>人机交互</category>
+    </item>    <item>
+      <title>基于AI聊天机器人教练指导对目标达成、自我效能感与压力的影响：一项纵向随机实验</title>
+      <link>https://ob-ai-papers.vercel.app/papers/66484</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/66484</guid>
+      <description>📝 基于AI聊天机器人教练指导对目标达成、自我效能感与压力的影响：一项纵向随机实验
+EN: Effects of AI-Based Chatbot Coaching on Goal Attainment, Self-Efficacy, and Stress: A Longitudinal Randomized Experiment
+
+💡 通过纵向随机实验，检验AI聊天机器人教练对用户目标达成、自我效能感与压力水平的影响。关注长期交互过程中智能辅导对个人心理状态与行为结果的差异化作用，为AI教练产品的有效性提供因果证据。
+
+📚 CHB · 2026 · 引用 0
+👤 Marie Luise Ohlms, Patrick D. Dunlop, Markus Langer
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+      <category>员工幸福感</category><category>绩效评估</category><category>培训</category><category>AI客服</category><category>Chatbot</category><category>人机协作</category>
+    </item>    <item>
+      <title>若搜索请寻我：上下文网络搜索结果对幻觉检测的影响</title>
+      <link>https://ob-ai-papers.vercel.app/papers/66482</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/66482</guid>
+      <description>📝 若搜索请寻我：上下文网络搜索结果对幻觉检测的影响
+EN: Catch me if you search: When contextual web search results affect the detection of hallucinations
+
+💡 探讨当大语言模型调用上下文网页搜索时，检索结果如何影响用户对模型回答中事实性错误（幻觉）的识别与判断。聚焦搜索增强生成情境下信息呈现对用户批判性核查行为的影响，揭示外部信源介入对幻觉检测的促进或干扰机制。
+
+📚 CHB · 2025 · 引用 4
+👤 Mahjabin Nahar, Eun-Ju Lee, Jin Won Park, Dongwon Lee
+
+AI 分: 4.0 / 领域分: 3.0</description>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+      <category>决策</category><category>信任</category><category>知识管理</category><category>LLM</category><category>GenAI</category><category>可解释 AI</category>
+    </item>    <item>
+      <title>成年人依然无法抗拒：社交机器人可诱发规范性从众行为</title>
+      <link>https://ob-ai-papers.vercel.app/papers/66475</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/66475</guid>
+      <description>📝 成年人依然无法抗拒：社交机器人可诱发规范性从众行为
+EN: Adults still can't resist: A social robot can induce normative conformity
+
+💡 研究检验成人面对社交机器人时是否仍会产生规范性从众行为。结果表明，社交机器人同人类一样能诱发显著的规范性从众，提示社会机器人已具备充当影响力源头的潜力，对人机交互与说服设计具有重要启示。
+
+📚 CHB · 2022 · 引用 41
+👤 Xin Qin, Chen Chen, Kai Chi Yam, Limei Cao, Wanlu Li
+
+AI 分: 3.0 / 领域分: 4.0</description>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>决策</category><category>信任</category><category>偏见</category><category>机器人</category><category>人机交互</category>
+    </item>    <item>
       <title>机会、持续优势与生成式人工智能时代的开源软件包职业发展</title>
       <link>https://ob-ai-papers.vercel.app/papers/66446</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/66446</guid>
@@ -25,6 +117,40 @@ AI 分: 4.0 / 领域分: 3.0
 📄 PDF: https://arxiv.org/pdf/2609.09687v1</description>
       <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
       <category>创新</category><category>知识管理</category><category>工作未来</category><category>GenAI</category><category>ChatGPT</category><category>LLM</category>
+    </item>    <item>
+      <title>短暂信息流与持久仪式：RushTok 与基于事件的算法社区之形成</title>
+      <link>https://ob-ai-papers.vercel.app/papers/66444</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/66444</guid>
+      <description>📝 短暂信息流与持久仪式：RushTok 与基于事件的算法社区之形成
+EN: Ephemeral Feeds and Enduring Rituals: RushTok and the Formation of Event-Based Algorithmic Communities
+
+💡 以TikTok大学橄榄球赛招募季的RushTok现象为对象，结合71人问卷调查与创作者接触反思，探讨基于事件型算法社区的形成与运作。研究发现：多数受访者视其为社区但鲜少自称成员，认同围绕创作者而非共享实践展开，准社交关注高度集中于少数潜在新成员；内容接触度越高，成员身份认同越强，且伴随评论、关注与跨视频互动。创作者面对访谈多沉默或拒绝，揭示了病毒式可见性下的社群边界维护。据此提出时间限定上下文、渐进可见性与事后关怀等平台治理启示。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Emelia Hughes, Tim Weninger
+
+AI 分: 3.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2609.09331v1</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <category>人机交互</category><category>社区</category><category>信任</category><category>营销</category><category>推荐算法</category><category>算法管理</category>
+    </item>    <item>
+      <title>Pairit：人机协作实时实验平台</title>
+      <link>https://ob-ai-papers.vercel.app/papers/66442</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/66442</guid>
+      <description>📝 Pairit：人机协作实时实验平台
+EN: Pairit: A Platform for Live Experiments on Human-AI Collaboration
+
+💡 组织设计在AI时代需要可实验的人机协作研究方法。论文介绍Pairit在线平台，通过单一YAML配置文件声明可执行实验图（页面、路由、随机化、匹配、聊天、共享工作空间、服务器托管AI代理、问卷等），将任意数量的人类与AI代理组合到实时会话中，为活体人机组织实验提供可复用、可审计、可共享的基础设施。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Harang Ju, Sinan Aral
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2609.09789v1</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>组织变革</category><category>工作设计</category><category>人机协作</category><category>人机交互</category><category>LLM</category>
     </item>    <item>
       <title>情感辅导系统在会计补救教学中的应用对学习绩效与可用性的影响</title>
       <link>https://ob-ai-papers.vercel.app/papers/66249</link>
@@ -361,130 +487,6 @@ EN: The impact of generative artificial intelligence usage on job performance th
 AI 分: 5.0 / 领域分: 5.0</description>
       <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
       <category>HR</category><category>绩效评估</category><category>员工幸福感</category><category>工作设计</category><category>GenAI</category><category>人机协作</category>
-    </item>    <item>
-      <title>"我们发推时展现的是真实的自己吗？"：基于深度学习集成模型的印度Twitter用户人格预测</title>
-      <link>https://ob-ai-papers.vercel.app/papers/65480</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/65480</guid>
-      <description>📝 "我们发推时展现的是真实的自己吗？"：基于深度学习集成模型的印度Twitter用户人格预测
-EN: “Are we tweeting our real selves?” personality prediction of Indian Twitter users using deep learning ensemble model
-
-💡 研究基于深度学习集成模型预测印度Twitter用户的人格特征，探讨社交媒体文本与真实自我呈现的关系。方法上采用多种深度学习模型融合，对比预测准确性，并讨论用户在线人格表达与真实人格的差异。
-
-📚 CHB · 2022 · 引用 17
-👤 Rhea Mahajan, Remia Mahajan, Eishita Sharma, Vibhakar Mansotra
-
-AI 分: 4.0 / 领域分: 3.0</description>
-      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
-      <category>消费者行为</category><category>决策</category><category>机器学习</category>
-    </item>    <item>
-      <title>一种从在线搜索查询估计消费者内容偏好的语义方法</title>
-      <link>https://ob-ai-papers.vercel.app/papers/65434</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/65434</guid>
-      <description>📝 一种从在线搜索查询估计消费者内容偏好的语义方法
-EN: A Semantic Approach for Estimating Consumer Content Preferences from Online Search Queries
-
-💡 提出层次双潜在狄利克雷分配（hierarchical dual LDA）主题模型，从消费者在线搜索查询中实时估计其内容偏好。该语义方法扩展了传统LDA，可为内容推荐与营销决策提供即时依据。
-
-📚 MktSci · 2018 · 引用 95
-👤 Jia Liu, Olivier Toubia
-
-AI 分: 3.0 / 领域分: 5.0</description>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-      <category>消费者行为</category><category>营销</category><category>推荐系统</category><category>机器学习</category><category>推荐算法</category>
-    </item>    <item>
-      <title>增强AI使用：互补系统信息如何提升委派频率与有效性</title>
-      <link>https://ob-ai-papers.vercel.app/papers/65407</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/65407</guid>
-      <description>📝 增强AI使用：互补系统信息如何提升委派频率与有效性
-EN: Enhancing AI Use: How Complementary System Information Drives Delegation Frequency and Effectiveness
-
-💡 研究人类与AI协作中的任务委派问题。通过实验考察AI系统信息的不同呈现方式（事前AI确定性信息与事后AI结果信息）对委派频率和有效性的影响。发现单独提供任一信息对人机综合绩效无改善甚至有负面影响，但同时提供两种信息能显著提升委派频率和有效性，降低算法厌恶，形成更准确的AI能力心智模型，最终实现人机互补绩效增益。
-
-📚 ISR · 2026 · 引用 0
-👤 Anna Taudien, Andreas Fügener, Alok Gupta, Wolfgang Ketter
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>决策</category><category>算法管理</category><category>信任</category><category>人机交互</category><category>算法决策</category><category>可解释 AI</category>
-    </item>    <item>
-      <title>机器人同意（或不同意）对双人决策任务中人人亲密关系的影响</title>
-      <link>https://ob-ai-papers.vercel.app/papers/65308</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/65308</guid>
-      <description>📝 机器人同意（或不同意）对双人决策任务中人人亲密关系的影响
-EN: The impact of a robot's agreement (or disagreement) on human-human interpersonal closeness in a two-person decision-making task
-
-💡 研究在双人决策任务中，机器人表达同意或不同意对人类之间人际亲密度的影响，考察机器人作为第三方介入如何调节人际关系，揭示机器人社会行为对人际动态的溢出效应。
-
-📚 CHB · 2026 · 引用 3
-👤 Ting-Han Lin, Yuval Rubin Kopelman, Madeline Busse, Sarah Sebo, Hadas Erel
-
-AI 分: 3.0 / 领域分: 3.0</description>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>决策</category><category>人机交互</category><category>机器人</category><category>人机交互</category>
-    </item>    <item>
-      <title>医生使用AI辅助诊断意愿的决定因素：基于整合准备度视角</title>
-      <link>https://ob-ai-papers.vercel.app/papers/65303</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/65303</guid>
-      <description>📝 医生使用AI辅助诊断意愿的决定因素：基于整合准备度视角
-EN: Determinants of physicians’ intention to use AI-assisted diagnosis: An integrated readiness perspective
-
-💡 基于整合性技术就绪度视角，探讨医生使用AI辅助诊断意愿的关键前因。整合个体、技术、组织及社会等多维度就绪度因素，构建结构方程模型检验各因素对使用意图的影响路径与作用机制。
-
-📚 CHB · 2023 · 引用 50
-👤 Pi-Jung Hsieh
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-      <category>决策</category><category>创新</category><category>人机协作</category><category>信任</category><category>机器学习</category><category>人机协作</category><category>可解释 AI</category>
-    </item>    <item>
-      <title>学习分析增强的电子档案袋实施以推动高等教育改革</title>
-      <link>https://ob-ai-papers.vercel.app/papers/65301</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/65301</guid>
-      <description>📝 学习分析增强的电子档案袋实施以推动高等教育改革
-EN: Reforming higher education with ePortfolio implementation, enhanced by learning analytics
-
-💡 探讨在高等教育改革中实施电子档案袋（ePortfolio）的路径与效果，并结合学习分析技术提升教学反馈与个性化学习。研究关注ePortfolio在学习评估与学生发展中的作用，以及学习分析如何赋能教育实践。
-
-📚 CHB · 2023 · 引用 20
-👤 Linda Pospíšilová, Lucie Rohlíková
-
-AI 分: 3.0 / 领域分: 3.0</description>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-      <category>教育</category><category>组织学习</category><category>知识管理</category><category>机器学习</category><category>可解释 AI</category>
-    </item>    <item>
-      <title>连接形式公平与感知公平：算法决策中跨学科框架的构建</title>
-      <link>https://ob-ai-papers.vercel.app/papers/65272</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/65272</guid>
-      <description>📝 连接形式公平与感知公平：算法决策中跨学科框架的构建
-EN: Bridging Formal and Perceived Fairness: Development of an Interdisciplinary Framework in Algorithmic Decision-Making
-
-💡 针对算法决策领域过度聚焦形式化公平指标而忽视用户主观公平感的问题，从用户中心设计视角提出跨学科概念框架，整合计算机科学的算法公平与社会科学的感知公平、信任及技术接受理论，并嵌入社会技术情境。通过理论文献综合、跨学科工作坊和利益相关者访谈，探讨如何将计算公平审计与用户中心评估相结合，为公平算法系统的设计、评估与治理提供指引。
-
-📚 arXiv:cs.CY · 2026 · 引用 0
-👤 Maike Lindermayr, Mattia Cerrato, Luisa Hübner, Johannes Kraus
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2609.03853v1</description>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <category>公平性</category><category>算法管理</category><category>信任</category><category>人机协作</category><category>算法决策</category><category>AI治理</category><category>人机交互</category>
-    </item>    <item>
-      <title>软件工程中采用人工智能的心理代价</title>
-      <link>https://ob-ai-papers.vercel.app/papers/65265</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/65265</guid>
-      <description>📝 软件工程中采用人工智能的心理代价
-EN: The Psychological Costs of Artificial Intelligence Adoption in Software Engineering
-
-💡 在大型软件开发服务公司AI采用一年后开展案例研究，对21名软件专业人员半结构化访谈，探究组织引入AI对软件工程师造成的心理代价。研究识别出五类心理成本：责任焦虑、工艺身份认同瓦解、意义与满足感侵蚀、认知与工作负荷强化以及不确定性困扰。实践者通过重获控制感、缓解与身份保护等实践进行应对，揭示了AI赋能工作背后被忽视的心理与社会代价。
-
-📚 arXiv:cs.SE · 2026 · 引用 0
-👤 Adam Alami, Elda Paja, Abhishek Tiwari
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2609.03456v1</description>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>员工幸福感</category><category>组织变革</category><category>工作未来</category><category>GenAI</category><category>LLM</category><category>人机协作</category>
     </item>
   </channel>
 </rss>
