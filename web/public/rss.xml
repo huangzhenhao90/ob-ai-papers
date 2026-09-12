@@ -6,9 +6,35 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 11 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>隐形推手：基于替代数据的金融科技借贷</title>
+      <link>https://ob-ai-papers.vercel.app/papers/66861</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/66861</guid>
+      <description>📝 隐形推手：基于替代数据的金融科技借贷
+EN: Invisible Primes: Fintech Lending with Alternative Data
+
+📚 MgmtSci · 2026 · 引用 2
+👤 Marco Di Maggio, Dimuthu Ratnadiwakara
+
+AI 分: 3.0 / 领域分: 4.0</description>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>受众如何理解深伪复活：现实性、伦理与文化意义的多层次分析</title>
+      <link>https://ob-ai-papers.vercel.app/papers/66744</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/66744</guid>
+      <description>📝 受众如何理解深伪复活：现实性、伦理与文化意义的多层次分析
+EN: How audiences make sense of deepfake resurrections: A multilevel analysis of realism, ethics, and cultural meaning
+
+📚 CHB · 2026 · 引用 6
+👤 María T. Soto-Sanfiel, Qiaofei Wu
+
+AI 分: 4.0 / 领域分: 3.0</description>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
       <title>从协议到证据：人工智能服务公共福祉的有限主张</title>
       <link>https://ob-ai-papers.vercel.app/papers/66699</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/66699</guid>
@@ -35,7 +61,7 @@ EN: Frontiers: Discrimination Against Femininity in Headshots: A Field Experimen
 💡 利用AI生成仅在女性化程度上不同的头像照片，开展田野实验检验消费者对女性气质的歧视。研究发现，消费者对女性化存在独立于性别身份之外的偏见，即即便头像是男性面孔，呈现更女性化特征也会受到歧视，揭示外貌性别刻板印象对评价的独立影响。
 
 📚 MktSci · 2026 · 引用 0
-👤 Lan E. Luo, Olivier Toubia
+👤 Lan Luo, Olivier Toubia
 
 AI 分: 5.0 / 领域分: 5.0</description>
       <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
@@ -457,36 +483,6 @@ EN: EXPRESS: Behavioral Research Through Interpretable, Dimensionality-reduced G
 AI 分: 5.0 / 领域分: 5.0</description>
       <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
       <category>消费者行为</category><category>实验方法</category><category>营销</category><category>GenAI</category><category>机器学习</category><category>嵌入表示</category>
-    </item>    <item>
-      <title>EXPRESS：放大洞见：利用语音技术解读营销中的客户不确定性</title>
-      <link>https://ob-ai-papers.vercel.app/papers/65665</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/65665</guid>
-      <description>📝 EXPRESS：放大洞见：利用语音技术解读营销中的客户不确定性
-EN: EXPRESS: Amplifying Insights: Harnessing Voice Technology to Decode Customer Uncertainty in Marketing
-
-💡 研究如何利用语音技术从消费者口头反馈中推断响应不确定性。比较原始音频与音高特征两种方法，基于实验室NPS实验和全服务音乐连锁店实地NPS数据，发现音高方法在营销应用中效果更优且保护隐私。企业可据此优化优惠券激励投放，并识别能提供说服性证言的品牌大使。
-
-📚 JM · 2026 · 引用 0
-👤 Tongyao Shen, Hye-Jin Kim, Jehoshua Eliashberg, Min Ding
-
-AI 分: 5.0 / 领域分: 5.0</description>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
-      <category>消费者行为</category><category>营销</category><category>人机交互</category><category>机器学习</category><category>AI客服</category>
-    </item>    <item>
-      <title>生成式人工智能使用对工作绩效的影响：工作重塑与工作投入的中介作用及数字素养的调节效应</title>
-      <link>https://ob-ai-papers.vercel.app/papers/65485</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/65485</guid>
-      <description>📝 生成式人工智能使用对工作绩效的影响：工作重塑与工作投入的中介作用及数字素养的调节效应
-EN: The impact of generative artificial intelligence usage on job performance through job crafting and work engagement: Does digital competence matter?
-
-💡 探讨员工使用生成式AI对工作绩效的影响机制，检验工作重塑与工作投入的中介作用，以及数字素养的调节效应。研究问题聚焦于GenAI如何通过改变员工工作方式与投入程度影响绩效，并考察数字能力是否改变该路径的强度。
-
-📚 CHB · 2026 · 引用 3
-👤 Bui Nhat Vuong
-
-AI 分: 5.0 / 领域分: 5.0</description>
-      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
-      <category>HR</category><category>绩效评估</category><category>员工幸福感</category><category>工作设计</category><category>GenAI</category><category>人机协作</category>
     </item>
   </channel>
 </rss>
