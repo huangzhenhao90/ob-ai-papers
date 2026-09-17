@@ -6,9 +6,92 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 16 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>测量AI领导力：AI原生组织多维量表的开发与验证</title>
+      <link>https://ob-ai-papers.vercel.app/papers/68451</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/68451</guid>
+      <description>📝 测量AI领导力：AI原生组织多维量表的开发与验证
+EN: Measuring AI Leadership: Development and Validation of a Multidimensional Measure for AI-Native Organizations
+
+💡 针对AI原生组织中领导力行为缺乏有效测量工具的问题，研究者通过演绎式条目生成、内容验证、探索性与验证性因子分析等多阶段量表开发流程，构建了包含11个内容家族、36个子维度的AI领导力量表。该量表在AI团队绩效、决策速度、组织增长、风险治理等增量效度上表现优异，为研究AI环境下领导者的判断、学习、适应、透明与问责行为提供了系统的行为框架。
+
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 Mustafa Akben, Leslie Coyne
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2609.17965v1</description>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <category>领导力</category><category>绩效评估</category><category>组织变革</category><category>人机协作</category><category>AI治理</category>
+    </item>    <item>
+      <title>开放权重大语言模型在招聘中的性别与种族偏见语言触发因素</title>
+      <link>https://ob-ai-papers.vercel.app/papers/68447</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/68447</guid>
+      <description>📝 开放权重大语言模型在招聘中的性别与种族偏见语言触发因素
+EN: Linguistic Triggers of Gender and Racial Bias in Open-Weight LLMs Applied to Recruitment
+
+💡 研究对6个开源大语言模型（Llama 3.2、Mistral、Gemma 3、Qwen 3、Phi 3、DeepSeek-R1）进行系统性招聘偏见审计，以职位描述语言为核心实验变量。发现主动型语言显著降低女性候选人推荐分（r=0.309），共情型语言部分逆转该惩罚；编码排他性语言大幅抑制非白人候选人评分（r=0.646-0.758），并对非白人就职意愿产生寒蝉效应。标签消融实验证实人口统计标签为主要因果驱动，并据此提出部署前审计协议。
+
+📚 arXiv:cs.CL · 2026 · 引用 0
+👤 Kosuke Kitahara, Nobuhiro Yamaguchi
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2609.18106v1</description>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <category>招聘</category><category>公平性</category><category>偏见</category><category>LLM</category><category>AI招聘</category><category>算法决策</category>
+    </item>    <item>
+      <title>PACT：企业AI助手在压力下是否值得信任？</title>
+      <link>https://ob-ai-papers.vercel.app/papers/68446</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/68446</guid>
+      <description>📝 PACT：企业AI助手在压力下是否值得信任？
+EN: PACT: Can Enterprise AI Assistants Be Trusted Under Pressure?
+
+💡 研究提出PACT压力合规测试基准，用于评估企业级AI助手在压力情境下的规则遵循表现。基准覆盖12个受监管领域、48个多轮对话场景，每项对照既定规则与违规捷径，并施以用户催促、经理催促、违规便利等多重压力。在严格LLM评判审计下构建样本，从六维指标综合刻画鲁棒性、透明度与规则适用判断能力，最终聚合为PACTScore加权合规率，用以系统衡量企业LLM代理的可信度。
+
+📚 arXiv:cs.CL · 2026 · 引用 0
+👤 Mika Okamoto, Ansel Kaplan Erol
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2609.18605v1</description>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <category>信任</category><category>伦理</category><category>决策</category><category>LLM</category><category>AI治理</category><category>人机交互</category>
+    </item>    <item>
+      <title>准备就绪还是准备不足？尼日利亚医护人员临床应用人工智能准备度评估</title>
+      <link>https://ob-ai-papers.vercel.app/papers/68445</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/68445</guid>
+      <description>📝 准备就绪还是准备不足？尼日利亚医护人员临床应用人工智能准备度评估
+EN: Prepared Or Unprepared? Evaluating Healthcare Workforce Readiness for Clinical Adoption of Artificial Intelligence in Nigeria
+
+💡 基于尼日利亚761名医护人员横断面调查，评估其对临床AI的认知、态度、准备度与障碍。结果显示认知度高达92.6%，但客观知识与自评准备度不足（63.0%感到准备充分），92.5%愿意接受培训，78.7%支持本科开设AI课程。主要障碍为培训缺乏(84.7%)、基础设施差(71.1%)、成本高、岗位被替代担忧(60.6%)以及伦理(52.9%)与数据隐私顾虑(52.7%)。不同地区和专业群体间准备度与态度差异显著。
+
+📚 arXiv:cs.CY · 2026 · 引用 0
+👤 Abbas M. Rabiu, Abdulrazaq A. Zubair, Um-mulkhairi Ibrahim, Tolulope Olusuyi, Shaheeda Farouq
+
+AI 分: 4.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2609.19096v1</description>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <category>培训</category><category>HR</category><category>组织变革</category><category>伦理</category><category>AI治理</category><category>人机协作</category>
+    </item>    <item>
+      <title>Sequential Search Transformer：一种深度结构计量经济模型</title>
+      <link>https://ob-ai-papers.vercel.app/papers/68235</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/68235</guid>
+      <description>📝 Sequential Search Transformer：一种深度结构计量经济模型
+EN: Sequential Search Transformer: A Deep Structural Econometric Model
+
+💡 提出序贯搜索Transformer(SST)，将深度学习与序贯搜索理论融合，建模消费者跨会话的搜索与购买决策过程。该端到端可训练模型在保留结构模型决策可解释性的同时，利用Transformer捕捉高维行为特征，理论上证明参数可识别。应用于美国电商点击流数据，SST在搜索与购买预测上优于现有深度学习和结构模型，并支持政策评估。
+
+📚 MgmtSci · 2026 · 引用 0
+👤 Yicheng Song, Tianshu Sun
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <category>消费者行为</category><category>决策</category><category>推荐系统</category><category>营销</category><category>机器学习</category>
+    </item>    <item>
       <title>迈向可持续AI部署：面向企业供应链系统的碳感知决策框架</title>
       <link>https://ob-ai-papers.vercel.app/papers/67895</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/67895</guid>
@@ -100,6 +183,8 @@ AI 分: 4.0 / 领域分: 3.0
       <description>📝 从网络不平等到网络公平：负责任决策的视角
 EN: From Network Inequality to Network Fairness: A Perspective on Responsible Decision-Making
 
+💡 研究关注社会网络驱动的算法决策中的结构性偏见。现有算法公平研究将网络视为静态背景，忽视网络结构如何系统性偏决策。作者识别十种网络效应，以学术招聘为例，论证网络偏见需通过分配正义与程序正义双重视角、结合利益相关者参与来评估其合法性，倡导超越静态群体类别的整体性网络公平观。
+
 📚 arXiv:cs.SI · 2026 · 引用 0
 👤 Lisette Espín-Noboa, Tina Eliassi-Rad, Pak-Hang Wong, Erich Prem, Meike Zehlike
 
@@ -107,7 +192,7 @@ AI 分: 3.0 / 领域分: 3.0
 
 📄 PDF: https://arxiv.org/pdf/2609.13867v1</description>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      
+      <category>公平性</category><category>招聘</category><category>决策</category><category>伦理</category><category>算法决策</category><category>AI治理</category>
     </item>    <item>
       <title>人工创业认知：定位并因果调控大型语言模型内部的机会识别旋钮</title>
       <link>https://ob-ai-papers.vercel.app/papers/67879</link>
@@ -322,9 +407,11 @@ EN: The Alignment Paradox: A Theory of
 💡 基于战略人力资源管理与HRM系统强度过程模型，构建AI驱动HR系统错位的理论框架。提出四项命题：AI操作要求在HR系统内部制造逻辑冲突，削弱水平一致性；导致员工技能发展偏离战略需求；使员工默认遵从指标对齐行为；削弱员工作为竞争资源的价值。综合形成战略协同、对抗性对齐、战略碎片化、算法捕获四种组织状态，刻画企业AI驱动错位的不同阶段与组织风险。
 
 📚 HRM · 2026 · 引用 0
-👤 Pankaj Patel, Yasin Rofcanin, Rifat Kamasak, Maksim Belitski
+👤 Pankaj C. Patel, Yasin Rofcanın, Rıfat Kamaşak, Maksim Belitski
 
-AI 分: 5.0 / 领域分: 5.0</description>
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://doi.org/10.1002/hrm.70099</description>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
       <category>HR</category><category>战略</category><category>组织变革</category><category>算法管理</category><category>AI治理</category><category>算法管理</category>
     </item>    <item>
@@ -417,83 +504,6 @@ EN: When expert recommendation contradicts peer opinion: Relative social influen
 AI 分: 4.0 / 领域分: 4.0</description>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
       <category>消费者行为</category><category>决策</category><category>信任</category><category>推荐算法</category><category>算法决策</category>
-    </item>    <item>
-      <title>社交机器人传达天气风险时的记忆保持与行为意向探究</title>
-      <link>https://ob-ai-papers.vercel.app/papers/67040</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/67040</guid>
-      <description>📝 社交机器人传达天气风险时的记忆保持与行为意向探究
-EN: Exploring retention and behavioral intentions when using social robotics to communicate a weather risk
-
-💡 研究使用社交机器人传递天气风险信息时，受众的信息保留度与行为意愿（防护行动倾向），评估社交机器人作为风险沟通媒介的有效性及其对行为决策的影响。
-
-📚 CHB · 2019 · 引用 10
-👤 Adam M. Rainear, Kenneth A. Lachlan, Joshua Fishlock
-
-AI 分: 3.0 / 领域分: 3.0</description>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <category>消费者行为</category><category>人机协作</category><category>决策</category><category>机器人</category><category>人机交互</category>
-    </item>    <item>
-      <title>广告故事中人声与人工语音的有效性、注意力与回忆：韵律影响及语音功能</title>
-      <link>https://ob-ai-papers.vercel.app/papers/67038</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/67038</guid>
-      <description>📝 广告故事中人声与人工语音的有效性、注意力与回忆：韵律影响及语音功能
-EN: Effectiveness, attention, and recall of human and artificial voices in an advertising story. Prosody influence and functions of voices
-
-💡 对比人类声音与人工智能声音在广告叙事中的传播效果，考察韵律特征（语调、节奏）及声音功能对受众注意力、品牌回忆与广告说服力的影响差异。
-
-📚 CHB · 2017 · 引用 31
-👤 Emma Rodero
-
-AI 分: 3.0 / 领域分: 4.0</description>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <category>广告</category><category>消费者行为</category><category>品牌</category><category>GenAI</category><category>多模态</category><category>人机交互</category>
-    </item>    <item>
-      <title>隐形推手：基于替代数据的金融科技借贷</title>
-      <link>https://ob-ai-papers.vercel.app/papers/66861</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/66861</guid>
-      <description>📝 隐形推手：基于替代数据的金融科技借贷
-EN: Invisible Primes: Fintech Lending with Alternative Data
-
-💡 研究金融科技平台采用非传统数据（教育、就业等）进行信贷审批的影响。基于美国某大型fintech平台匿名数据，发现该算法比传统模型多批准15%–30%的低信用分申请人且利率更低，特别惠及信用档案薄但违约风险低的"隐形优质借款人"。替代数据是主要驱动力，模型复杂度在传统信用信息丰富的客群中带来额外提升；利用外生变异证明扩展信贷改善了借款人后续财务表现。
-
-📚 MgmtSci · 2026 · 引用 2
-👤 Marco Di Maggio, Dimuthu Ratnadiwakara
-
-AI 分: 3.0 / 领域分: 4.0</description>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
-      <category>算法管理</category><category>决策</category><category>公平性</category><category>创新</category><category>机器学习</category><category>算法决策</category>
-    </item>    <item>
-      <title>受众如何理解深伪复活：现实性、伦理与文化意义的多层次分析</title>
-      <link>https://ob-ai-papers.vercel.app/papers/66744</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/66744</guid>
-      <description>📝 受众如何理解深伪复活：现实性、伦理与文化意义的多层次分析
-EN: How audiences make sense of deepfake resurrections: A multilevel analysis of realism, ethics, and cultural meaning
-
-💡 采用多层分析框架，探讨受众如何理解深度伪造（deepfake）"复活"已故人物的影像。研究从写实度、伦理争议与文化意义三个层面切入，揭示观众对深度伪造的真实性感知、道德判断与文化解读机制，为AI生成内容在媒体、纪念与娱乐场景中的应用提供受众视角的理论依据。
-
-📚 CHB · 2026 · 引用 6
-👤 María T. Soto-Sanfiel, Qiaofei Wu
-
-AI 分: 4.0 / 领域分: 3.0</description>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
-      <category>伦理</category><category>人机交互</category><category>消费者行为</category><category>创意</category><category>GenAI</category><category>图像生成</category>
-    </item>    <item>
-      <title>从协议到证据：人工智能服务公共福祉的有限主张</title>
-      <link>https://ob-ai-papers.vercel.app/papers/66699</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/66699</guid>
-      <description>📝 从协议到证据：人工智能服务公共福祉的有限主张
-EN: From Protocols to Evidence: Bounded Claims for AI in Service of the Common Good
-
-💡 AI不仅是治理难题，更揭示了机构在响应性、归属感、关怀与问责上的既有失败。AI部署后可能修复、加剧、替代或掩盖这些失败。论文提出'破裂测试'，将机构基线与系统评估挂钩，区分'证据有界部署'与'测量有界治理'，并构建RISE AI架构，对责任、包容、安全、赋权做出有界有据的声称，倡导将工程改进、机构修复与道德政治判断结合。
-
-📚 arXiv:cs.LG · 2026 · 引用 0
-👤 Nitesh V. Chawla, Paulo Benanti
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2609.11910v1</description>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-      <category>AI治理</category><category>伦理</category><category>信任</category><category>公平性</category><category>AI治理</category><category>可解释AI</category>
     </item>
   </channel>
 </rss>
