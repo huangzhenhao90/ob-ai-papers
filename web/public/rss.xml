@@ -6,9 +6,114 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 18 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>部署算法定价工具的挑战：来自Airbnb的证据</title>
+      <link>https://ob-ai-papers.vercel.app/papers/69748</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/69748</guid>
+      <description>📝 部署算法定价工具的挑战：来自Airbnb的证据
+EN: The Challenges of Deploying an Algorithmic Pricing Tool: Evidence from Airbnb
+
+💡 研究 Airbnb 部署 AI 定价工具的实践挑战。基于 Airbnb 案例证据，探讨算法定价工具在实际落地中遇到的困难（如房东接受度、定价准确性、市场反馈等），并提出应对方案，为平台型企业的算法定价部署提供管理启示。
+
+📚 MktSci · 2026 · 引用 0
+👤 Mohsen Foroughifar, Nitin Mehta
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+      <category>营销</category><category>定价</category><category>推荐系统</category><category>平台经济</category><category>算法决策</category><category>机器学习</category>
+    </item>    <item>
+      <title>撰写更具说服力的创意诉求：一种基于深度学习的方法</title>
+      <link>https://ob-ai-papers.vercel.app/papers/69746</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/69746</guid>
+      <description>📝 撰写更具说服力的创意诉求：一种基于深度学习的方法
+EN: Writing More Compelling Creative Appeals: A Deep Learning-Based Approach
+
+💡 研究开发了基于深度学习的决策支持工具，帮助营销人员撰写更具说服力的创意诉求文案。该工具通过数据驱动模型辅助创意写作，提升广告创意的传播效果，为创意人员提供系统化的写作指导。
+
+📚 MktSci · 2022 · 引用 26
+👤 Jiyeon Hong, Paul R. Hoban
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+      <category>广告</category><category>创意</category><category>营销</category><category>深度学习</category><category>机器学习</category>
+    </item>    <item>
+      <title>将文本信息整合到选择与定标响应数据模型中</title>
+      <link>https://ob-ai-papers.vercel.app/papers/69745</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/69745</guid>
+      <description>📝 将文本信息整合到选择与定标响应数据模型中
+EN: Integrating Textual Information into Models of Choice and Scaled Response Data
+
+💡 提出一种将文本信息纳入消费者选择与评分数据异质性建模的新方法，能够同时处理固定点评分与文本数据。该方法拓展了传统选择模型的表达力，提升对消费者偏好异质性的预测与解释精度。
+
+📚 MktSci · 2022 · 引用 16
+👤 Hyowon Kim, Greg M. Allenby
+
+AI 分: 4.0 / 领域分: 5.0</description>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+      <category>消费者行为</category><category>决策</category><category>机器学习</category><category>自然语言处理</category>
+    </item>    <item>
+      <title>克服客户关系管理的冷启动问题：基于概率机器学习方法</title>
+      <link>https://ob-ai-papers.vercel.app/papers/69722</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/69722</guid>
+      <description>📝 克服客户关系管理的冷启动问题：基于概率机器学习方法
+EN: Overcoming the Cold Start Problem of Customer Relationship Management Using  a Probabilistic Machine Learning Approach
+
+💡 针对CRM中新客户仅有首次购买、缺乏重复观测而难以推断异质性的冷启动难题，构建概率机器学习框架，借助深层指数族模型灵活捕捉获取时行为及未来购买与营销响应倾向的潜在维度，可与多种需求模型整合，并在零售数据中验证其在首次购买后即识别高价值客户及营销敏感客户的有效性。
+
+📚 JMR · 2021 · 引用 37
+👤 Nicolas Padilla, Eva Ascarza
+
+AI 分: 4.0 / 领域分: 5.0</description>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+      <category>营销</category><category>消费者行为</category><category>推荐系统</category><category>机器学习</category><category>推荐算法</category>
+    </item>    <item>
+      <title>音乐成功的动态变化：基于机器学习的多媒体数据融合方法</title>
+      <link>https://ob-ai-papers.vercel.app/papers/69721</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/69721</guid>
+      <description>📝 音乐成功的动态变化：基于机器学习的多媒体数据融合方法
+EN: Dynamics of Musical Success: A Machine Learning Approach for Multimedia Data Fusion
+
+💡 开发融合元数据、声学特征和用户生成文本的多模态机器学习框架，用于预测音乐专辑与播放列表的成功。模型结合惩罚样条、监督式层次Dirichlet过程与状态空间规范，可支持新专辑预测、专辑调优、播放列表生成和情境推荐等营销决策。
+
+📚 JMR · 2021 · 引用 51
+👤 Khaled Boughanmi, Asim Ansari
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+      <category>营销</category><category>推荐系统</category><category>创意</category><category>机器学习</category><category>多模态</category><category>推荐算法</category>
+    </item>    <item>
+      <title>生成式AI中的利润释放：AI自适应学习对免费增值策略的影响</title>
+      <link>https://ob-ai-papers.vercel.app/papers/69614</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/69614</guid>
+      <description>📝 生成式AI中的利润释放：AI自适应学习对免费增值策略的影响
+EN: Unlocking Profits in Generative AI: The Impact of AI Adaptive Learning on Freemium Strategy
+
+💡 研究生成式 AI 自适应学习能力对企业免费增值（freemium）策略的影响。通过解析模型分析预训练-微调两阶段中用户交互对 AI 能力的迭代优化，发现免费版虽能扩大用户基数并产生学习数据，却加剧需求蚕食和服务成本；自适应学习过强反而损害利润，可能使企业放弃免费版；缩小版本间基线能力差距、降低付费价可提升利润与消费者剩余。
+
+📚 ISR · 2026 · 引用 0
+👤 Yinliang Tan, Ling Zhong, Yi Lu, Jiajia Nie
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+      <category>营销</category><category>定价</category><category>消费者行为</category><category>战略</category><category>GenAI</category><category>LLM</category><category>机器学习</category>
+    </item>    <item>
+      <title>超越算法建立信任：努力、服务速度与新颖性如何提升机器人服务中的信任</title>
+      <link>https://ob-ai-papers.vercel.app/papers/69287</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/69287</guid>
+      <description>📝 超越算法建立信任：努力、服务速度与新颖性如何提升机器人服务中的信任
+EN: Building trust beyond algorithm: How effort, service speed, and novelty increase trust in robot services
+
+💡 研究在算法之外，如何通过机器人服务中的努力程度、服务速度和新鲜感提升消费者信任。探讨当算法透明度有限时，服务过程中的有形要素如何弥补并增强用户对机器人服务的信任感，为服务机器人设计与运营提供参考。
+
+📚 CHB · 2026 · 引用 3
+👤 Ye Eun Jeon, Hee Sun Park
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+      <category>信任</category><category>消费者行为</category><category>服务营销</category><category>人机协作</category><category>机器人</category><category>人机交互</category>
+    </item>    <item>
       <title>可检验处的忠实性：随机试验中对照系统提示的反思智能体审计</title>
       <link>https://ob-ai-papers.vercel.app/papers/69227</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/69227</guid>
@@ -393,125 +498,6 @@ AI 分: 5.0 / 领域分: 4.0
 📄 PDF: https://arxiv.org/pdf/2609.16517v1</description>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
       <category>招聘</category><category>AI招聘</category><category>决策</category><category>公平性</category><category>LLM</category><category>算法决策</category>
-    </item>    <item>
-      <title>从过程损失到组合增益：多智能体LLM协作的人本诊断</title>
-      <link>https://ob-ai-papers.vercel.app/papers/67870</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/67870</guid>
-      <description>📝 从过程损失到组合增益：多智能体LLM协作的人本诊断
-EN: From Process Loss to Assembly Bonus: Human-Grounded Diagnosis of Multi-Agent LLM Collaboration
-
-💡 比较人类小组讨论与多智能体LLM协作在演绎推理任务中的过程机制，发现两者均出现'组装增益'不对称性，但LLM群体更易跟随多数、独特信息更少、收敛更早。借鉴人类群体决策研究的干预措施仅带来有限改善，表明LLM群体在结果层面可模拟人类审议模式，但过程机制上存在根本差异，对群体模拟与人机协作具启示。
-
-📚 arXiv:cs.MA · 2026 · 引用 0
-👤 Ala N. Tak, Teruhisa Misu, Kumar Akash, Zhaobo K. Zheng, Kevin H. Joo
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2609.13261v1</description>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <category>团队</category><category>决策</category><category>人机协作</category><category>LLM</category><category>人机协作</category><category>人机交互</category>
-    </item>    <item>
-      <title>机器速度治理：实时AI政策执行的自适应智能架构</title>
-      <link>https://ob-ai-papers.vercel.app/papers/67869</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/67869</guid>
-      <description>📝 机器速度治理：实时AI政策执行的自适应智能架构
-EN: Governing at Machine Speed: An Adaptive Intelligence Architecture for Real-Time AI Policy Enforcement
-
-💡 研究企业AI治理中的'证明赤字'问题，即组织虽有治理政策却无法在监管时限内提供可审计的合规证据。基于斯坦福AI指数报告、IBM数据泄露成本研究等多源数据，指出治理失败源于组织与架构层面。提出五层AGIL架构：自主发现影子AI、行为风险分类、亚百毫秒策略执行网关、持续证明引擎及自适应策略智能，以实现实时AI治理。
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Sandeep Bokkasam, B. Durgalakshmi
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2609.13466v1</description>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <category>AI治理</category><category>伦理</category><category>组织变革</category><category>信任</category><category>AI治理</category><category>机器学习</category><category>算法管理</category>
-    </item>    <item>
-      <title>映射美国联邦AI治理与行业脆弱性</title>
-      <link>https://ob-ai-papers.vercel.app/papers/67866</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/67866</guid>
-      <description>📝 映射美国联邦AI治理与行业脆弱性
-EN: Mapping U.S. Federal AI Governance Against Sector Vulnerability
-
-💡 评估美国联邦 684 份 AI 治理文件对 14 个行业与 24 类 AI 风险的覆盖广度与深度，并与 272 位专家的 Delphi 脆弱性评估对比。研究发现：稳健性、系统安全与治理类风险关注度显著高于社会经济、环境及多智能体等新兴风险；公共行政、国安与信息科技行业覆盖较高，而专家认定为高脆弱性的金融与医疗行业覆盖不足，揭示出治理缺口。
-
-📚 arXiv:cs.CY · 2026 · 引用 0
-👤 Ho Ting Hung, Angelica Chowdhury, James Teague, Simon Mylius, Spencer Michaels
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2609.16260v1</description>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <category>AI治理</category><category>风险评估</category><category>公共管理</category><category>战略</category><category>AI治理</category><category>机器学习</category><category>算法管理</category>
-    </item>    <item>
-      <title>PeerPen:面向在线心理健康同伴支持的AI辅助写作</title>
-      <link>https://ob-ai-papers.vercel.app/papers/67865</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/67865</guid>
-      <description>📝 PeerPen:面向在线心理健康同伴支持的AI辅助写作
-EN: PeerPen: AI-Assisted Writing for Online Mental Health Peer Support
-
-💡 针对在线心理健康社群中志愿者缺乏训练、难以撰写支持性回复的问题，研究者开发嵌入类 Reddit 界面的 AI 协作写作工具 PeerPen，支持草稿生成与修改。对 15 名参与者进行半结构化访谈，发现该工具降低了回复负担并提升信心，但用户期望 AI 辅助而不接管作者身份；AI 介入可能模糊真实作者边界，削弱社群层面信任。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Jiwon Kim, Sherry Gong, Maya Ajit, Soorya Ram Shimgekar, Yunhao Yuan
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2609.14886v1</description>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>信任</category><category>人机交互</category><category>员工幸福感</category><category>GenAI</category><category>LLM</category><category>人机协作</category><category>人机交互</category>
-    </item>    <item>
-      <title>临床医师非机构AI工具使用情况评估</title>
-      <link>https://ob-ai-papers.vercel.app/papers/67863</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/67863</guid>
-      <description>📝 临床医师非机构AI工具使用情况评估
-EN: Assessment of Non-Institutional AI Tool Usage Among Clinicians
-
-💡 对亚利桑那大学医学院与Banner医疗中心临床医生开展描述性调查，评估其在工作中使用非机构管理AI工具的现状。44名受访者中43人过去6个月在至少一项工作任务中用过AI，对话式AI与临床决策支持/诊断AI使用最普遍；行政与临床任务使用频率最高，AI也被用于诊断辅助等高风险场景。研究揭示非机构AI使用广泛存在，伴随隐私、安全与准确性等隐患。
-
-📚 arXiv:physics.soc-ph · 2026 · 引用 0
-👤 Sarah Pungitore, Jarrod Mosier
-
-AI 分: 4.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2609.11990v1</description>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <category>伦理</category><category>人机协作</category><category>工作未来</category><category>隐私</category><category>GenAI</category><category>LLM</category><category>AI治理</category>
-    </item>    <item>
-      <title>AI何时增强工作：人机智能体协作的工作流级框架</title>
-      <link>https://ob-ai-papers.vercel.app/papers/67861</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/67861</guid>
-      <description>📝 AI何时增强工作：人机智能体协作的工作流级框架
-EN: When Does AI Augment Work? A Workflow-Level Framework for Human-Agent Collaboration
-
-💡 针对AI如何为工作创造价值的问题，批评现有研究以自动化能力与公众采纳度衡量价值的局限，提出应从任务层面转向工作流层面来考察人机协作。基于此，给出AI增强的精确定义及六项条件（持久净价值、有意义的人类控制、问责与恢复、通过学习与职业路径实现长期人类发展），并以AI辅助社会调查为案例展开应用，最后为组织、研究者与政策制定者提供评估未来工作的分析框架。
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 CIVIC-AI Collaboration, :, Jiaying Wu, Caleb Ziems, Raymond Chan
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2609.12482v1</description>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>工作未来</category><category>工作设计</category><category>组织变革</category><category>人机协作</category><category>人机交互</category><category>AI治理</category>
-    </item>    <item>
-      <title>超越AI素养:胜任性生成式AI使用评估的系统综述与探索性元分析</title>
-      <link>https://ob-ai-papers.vercel.app/papers/67859</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/67859</guid>
-      <description>📝 超越AI素养:胜任性生成式AI使用评估的系统综述与探索性元分析
-EN: Beyond AI Literacy: A Structured Review and Exploratory Meta-Analysis of Measures for Competent Generative-AI Use
-
-💡 对 24 项实证研究进行结构化综述与探索性元分析，归纳衡量工作场所生成式 AI 胜任使用的四类工具：知识与使用、认知监督、依赖校准与操作控制。元分析汇总三项主观-客观相关（r=.055）和敏感性分析（r=.079），因证据不足无法建立总体相关、验证工作场所切分点或以自评替代绩效。研究识别出基础知识测试与监督依赖量表，但尚无覆盖智能体完整控制维度的有效工具。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Daniele Veri'
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2609.15624v1</description>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <category>培训</category><category>绩效评估</category><category>工作设计</category><category>教育</category><category>GenAI</category><category>LLM</category><category>人机协作</category><category>可解释AI</category>
     </item>
   </channel>
 </rss>
