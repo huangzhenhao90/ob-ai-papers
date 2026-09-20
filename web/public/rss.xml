@@ -6,9 +6,24 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 19 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>大规模品类下的产品选择：一种可扩展的深度学习模型</title>
+      <link>https://ob-ai-papers.vercel.app/papers/70314</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/70314</guid>
+      <description>📝 大规模品类下的产品选择：一种可扩展的深度学习模型
+EN: Product Choice with Large Assortments: A Scalable Deep-Learning Model
+
+💡 针对大规模零售场景下个性化产品选择预测难题，提出可扩展的深度神经网络模型，通过瓶颈层编码跨产品关系、校准的时间序列滤波器捕捉不同再购买间隔产品的动态，并利用权重共享应对大品类。在忠诚度卡交易数据上无需预定义品类或属性即可预测个体购买概率，在优惠券个性化模拟与实证中均显著优于基线，带来更高收入。
+
+📚 MgmtSci · 2022 · 引用 69
+👤 Sebastian Gabel, Artem Timoshenko
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
+      <category>营销</category><category>推荐系统</category><category>消费者行为</category><category>机器学习</category><category>推荐算法</category>
+    </item>    <item>
       <title>部署算法定价工具的挑战：来自Airbnb的证据</title>
       <link>https://ob-ai-papers.vercel.app/papers/69748</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/69748</guid>
@@ -215,6 +230,21 @@ AI 分: 5.0 / 领域分: 3.0
 📄 PDF: https://arxiv.org/pdf/2609.20077v1</description>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
       <category>人机交互</category><category>信任</category><category>隐私</category><category>LLM</category><category>人机交互</category>
+    </item>    <item>
+      <title>一种用于协同过滤的隐马尔可夫模型</title>
+      <link>https://ob-ai-papers.vercel.app/papers/68952</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/68952</guid>
+      <description>📝 一种用于协同过滤的隐马尔可夫模型
+EN: A Hidden Markov Model for Collaborative Filtering1
+
+💡 针对用户偏好随时间动态变化使静态协同过滤假设失效的问题，提出基于隐马尔可夫模型的协同过滤方法，将用户偏好建模为隐马尔可夫序列，并设计负二项-多项混合分布以刻画每周期内多类型产品选择的可变观察。在企业博客阅读、Netflix电影评分和last.fm音乐三组真实数据上，推荐效果优于多种协同过滤与时序链路预测算法。
+
+📚 MISQ · 2012 · 引用 109
+👤 Nachiketa Sahoo, Param Vir Singh, Tridas Mukhopadhyay
+
+AI 分: 3.0 / 领域分: 4.0</description>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <category>推荐系统</category><category>消费者行为</category><category>推荐算法</category><category>机器学习</category>
     </item>    <item>
       <title>组织责任归因：公众对政府服务中人工智能与人为失误的回应</title>
       <link>https://ob-ai-papers.vercel.app/papers/68513</link>
@@ -464,40 +494,6 @@ AI 分: 5.0 / 领域分: 4.0
 📄 PDF: https://arxiv.org/pdf/2609.15094v1</description>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
       <category>推荐系统</category><category>营销</category><category>LLM</category><category>推荐算法</category>
-    </item>    <item>
-      <title>生成式推荐的自演化记忆</title>
-      <link>https://ob-ai-papers.vercel.app/papers/67875</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/67875</guid>
-      <description>📝 生成式推荐的自演化记忆
-EN: Self-Evolving Memory for Generative Recommendation
-
-💡 针对生成式推荐中用户偏好动态演化难题，指出持续训练等现有策略因共享自回归参数空间会引发"演化冲突"，使主导行为模式压制小众模式。提出自演化记忆范式及隔离记忆、强化演化、可扩展应用三项原则，并据此设计LION框架，通过稀疏键值记忆层隔离不同行为模式的演化，配合整合损失强化学习。
-
-📚 arXiv:cs.IR · 2026 · 引用 0
-👤 Xinyu Lin, Zhuosong Jiang, Zixiao Suo, Siqin Wang, Hanqing Zeng
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2609.15598v1</description>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <category>推荐系统</category><category>LLM</category><category>推荐算法</category><category>机器学习</category>
-    </item>    <item>
-      <title>保留能力的简历扰动揭示 LLM 筛选中的呈现敏感性</title>
-      <link>https://ob-ai-papers.vercel.app/papers/67871</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/67871</guid>
-      <description>📝 保留能力的简历扰动揭示 LLM 筛选中的呈现敏感性
-EN: Competence-Preserving Resume Perturbations Expose Presentation Sensitivity in LLM Screening
-
-💡 审计LLM简历筛选对呈现方式的敏感性。构建职业背景候选人档案，在受控能力水平下生成多种简历呈现，通过确定性验证门确保底层证据不变。发现六种开源指令调优LLM均存在筛选有效性与呈现稳定性之间的脱节：Llama-3.1-8B有效性达0.781但匹配决策翻转率29.6%，Mistral-7B-v0.3有效性0.644但翻转率高达41.4%。原生聊天模板可提升有效性，却无法消除呈现变更引发的不稳定性。
-
-📚 arXiv:cs.CL · 2026 · 引用 0
-👤 Qiangju Chen, Yang Xiao
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2609.16517v1</description>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <category>招聘</category><category>AI招聘</category><category>决策</category><category>公平性</category><category>LLM</category><category>算法决策</category>
     </item>
   </channel>
 </rss>
