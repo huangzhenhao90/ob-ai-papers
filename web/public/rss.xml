@@ -6,9 +6,90 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 20 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>AI进入职场，谁面临更大风险？一项性别分析</title>
+      <link>https://ob-ai-papers.vercel.app/papers/71376</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/71376</guid>
+      <description>📝 AI进入职场，谁面临更大风险？一项性别分析
+EN: When AI Enters the Workplace, Who Faces Greater Risks? A Gendered Analysis
+
+💡 研究AI对劳动力市场不同性别职业的差异化影响。基于职业特征与AI暴露度的新型数据集，分析LLM等技术在男女主导职业中的分布。发现：男性主导职业的AI暴露集中于高技能高薪岗位，而女性主导职业在各技能/薪资层级暴露较为均匀；LLM相关暴露在女性主导职业中更高，但广义AI创新仍集中于男性主导职业。低技能低薪女性主导职业中的女性面临最大风险，提示自动化与技能提升机会的不平等可能放大既有差距。
+
+📚 arXiv:cs.CY · 2026 · 引用 0
+👤 Miriam Fernandez, Ángel Pavón Pérez, Damiano Giallongo, Davide Ghia, Maryam Yaqub
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2609.21756v1</description>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <category>公平性</category><category>偏见</category><category>工作未来</category><category>HR</category><category>LLM</category><category>机器学习</category><category>算法决策</category><category>AI治理</category>
+    </item>    <item>
+      <title>两亦成众：ADHD开发者的人机共在研究</title>
+      <link>https://ob-ai-papers.vercel.app/papers/71373</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/71373</guid>
+      <description>📝 两亦成众：ADHD开发者的人机共在研究
+EN: Two's a Crowd: Human and AI-Based Copresence for Developers with ADHD
+
+💡 研究ADHD开发者在协作中的人机协同在场实践。基于14位ADHD软件工程师的半结构访谈，比较传统人际在场与新兴AI在场协作。发现人际在场虽提供社会支持与入职引导，但需持续管理职业声誉并牺牲隐私；人机AI在场则帮助维持责任感与认知流畅性，避免社交焦虑、绩效评判和监视感。将发现映射到Goffman共在理论与SPACE开发者生产力框架，并提出面向ADHD开发者的AI编码助手设计建议。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Veronica Pimenova, Seth Bernstein, Shalini Madan, Dhruv Jain, Venkatesh Potluri
+
+AI 分: 4.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2609.21254v1</description>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>员工幸福感</category><category>隐私</category><category>工作设计</category><category>人机协作</category><category>人机交互</category><category>GenAI</category><category>LLM</category>
+    </item>    <item>
+      <title>医疗系统中算法的社会技术综述：技术、成本与人本考量</title>
+      <link>https://ob-ai-papers.vercel.app/papers/71372</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/71372</guid>
+      <description>📝 医疗系统中算法的社会技术综述：技术、成本与人本考量
+EN: A Sociotechnical Review of Algorithms in Health Systems: Technical, Cost, and Human-Centered Considerations
+
+💡 对医疗系统中AI算法进行社会技术综述，系统分析114篇文献，考察成本感知型AI模型在数据、方法、结果选择上与成本及人为中心维度的交叉。研究定义模型成本的多重维度（财务、计算、组织、社会），批评当前AI模型在设计与评估中对成本与可持续性考虑不足，揭示严格社会技术模型设计的空白，呼吁在医疗AI开发中纳入更全面的多维度评估与社会技术考量。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Victoria Chui, Kelly McConvey, Shion Guha
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2609.22070v1</description>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <category>决策</category><category>伦理</category><category>算法管理</category><category>人机协作</category><category>机器学习</category><category>算法决策</category><category>可解释AI</category><category>AI治理</category>
+    </item>    <item>
+      <title>聊天机器人何时应表达幽默：探究幽默对服务满意度的不同影响机制</title>
+      <link>https://ob-ai-papers.vercel.app/papers/70691</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/70691</guid>
+      <description>📝 聊天机器人何时应表达幽默：探究幽默对服务满意度的不同影响机制
+EN: When should chatbots express humor? Exploring different influence mechanisms of humor on service satisfaction
+
+💡 研究聊天机器人在服务场景中使用幽默的时机及其对服务满意度的影响机制。探讨不同情境下幽默表达如何通过情感、感知等路径影响用户满意度,为设计更具人情味的聊天机器人交互策略提供依据。
+
+📚 CHB · 2024 · 引用 27
+👤 Yuguang Xie, Changyong Liang, Peiyu Zhou, Junhong Zhu
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>消费者行为</category><category>营销</category><category>ChatGPT</category><category>人机交互</category><category>人机协作</category>
+    </item>    <item>
+      <title>隐式反馈技术在电子书推荐系统中的应用</title>
+      <link>https://ob-ai-papers.vercel.app/papers/70670</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/70670</guid>
+      <description>📝 隐式反馈技术在电子书推荐系统中的应用
+EN: Implicit feedback techniques on recommender systems applied to electronic books
+
+💡 研究在电子书推荐系统中应用隐式反馈技术,通过用户行为数据(如浏览、停留、阅读时长)推断偏好以提升推荐效果,弥补显式评分稀疏问题,为电子书平台的个性化推荐提供方法参考。
+
+📚 CHB · 2012 · 引用 132
+👤 Edward Rolando Núñez-Valdéz, Juan Manuel Cueva Lovelle, Oscar Sanjuán Martínez, Vicente García-Díaz, Patricia Ordoñez de Pablos
+
+AI 分: 3.0 / 领域分: 4.0</description>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <category>推荐系统</category><category>消费者行为</category><category>推荐算法</category><category>机器学习</category>
+    </item>    <item>
       <title>大规模品类下的产品选择：一种可扩展的深度学习模型</title>
       <link>https://ob-ai-papers.vercel.app/papers/70314</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/70314</guid>
@@ -409,91 +490,6 @@ AI 分: 5.0 / 领域分: 5.0
 📄 PDF: https://arxiv.org/pdf/2609.13786v1</description>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
       <category>人机协作</category><category>团队</category><category>工作设计</category><category>工作未来</category><category>人机协作</category><category>人机交互</category><category>LLM</category><category>GenAI</category>
-    </item>    <item>
-      <title>迈向可扩展的持久性技能测量</title>
-      <link>https://ob-ai-papers.vercel.app/papers/67887</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/67887</guid>
-      <description>📝 迈向可扩展的持久性技能测量
-EN: Towards Scalable Measurement of Durable Skills
-
-💡 论文提出利用大语言模型评估协作、创造力、批判性思维等"持久性技能"的框架：受试者与AI队友对话以模拟真实人际互动，由"执行型LLM"引导对话以高密度诱发可观察证据，并辅以AI评估者量化技能水平，从而兼顾生态效度与心理测量严谨性。基于多技能人机交互转录的实证显示该协议有效，并以创造力为例做了进一步验证。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Amir Globerson, Amy Keeling, Anisha Choudhury, Anna Iurchenko, Aviad Segal
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2609.15864v1</description>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <category>教育</category><category>培训</category><category>人机协作</category><category>绩效评估</category><category>LLM</category><category>人机交互</category><category>人机协作</category>
-    </item>    <item>
-      <title>识别管理层在财报电话会议中的回避行为：基于对话音频编码器的方法</title>
-      <link>https://ob-ai-papers.vercel.app/papers/67885</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/67885</guid>
-      <description>📝 识别管理层在财报电话会议中的回避行为：基于对话音频编码器的方法
-EN: Lie to me: Detecting Managerial Evasiveness in Earnings Calls via Conversational Audio Encoders
-
-💡 研究电话会议中管理层闪避行为对SEC不良事件（主要为延迟提交）的预警能力。提出双分支晚期融合框架：LLM评委依结构化二元量表将问答文本映射为可解释向量，冻结的对话音频编码器配合DeepVoice式序列读取器生成声学表征。1039次电话会议(212次延迟提交)的公司分组5折交叉验证显示，融合模型AUROC约0.89，显著优于纯文本评委(0.55)与通话时长(0.71)，证明对话音频动态编码了超越词汇内容与时长的闪避信号。
-
-📚 arXiv:cs.LG · 2026 · 引用 0
-👤 Huizhong Chen, Huan Zhang
-
-AI 分: 4.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2609.13893v1</description>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <category>决策</category><category>信任</category><category>公平性</category><category>LLM</category><category>多模态</category><category>机器学习</category>
-    </item>    <item>
-      <title>从网络不平等到网络公平：负责任决策的视角</title>
-      <link>https://ob-ai-papers.vercel.app/papers/67880</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/67880</guid>
-      <description>📝 从网络不平等到网络公平：负责任决策的视角
-EN: From Network Inequality to Network Fairness: A Perspective on Responsible Decision-Making
-
-💡 研究关注社会网络驱动的算法决策中的结构性偏见。现有算法公平研究将网络视为静态背景，忽视网络结构如何系统性偏决策。作者识别十种网络效应，以学术招聘为例，论证网络偏见需通过分配正义与程序正义双重视角、结合利益相关者参与来评估其合法性，倡导超越静态群体类别的整体性网络公平观。
-
-📚 arXiv:cs.SI · 2026 · 引用 0
-👤 Lisette Espín-Noboa, Tina Eliassi-Rad, Pak-Hang Wong, Erich Prem, Meike Zehlike
-
-AI 分: 3.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2609.13867v1</description>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <category>公平性</category><category>招聘</category><category>决策</category><category>伦理</category><category>算法决策</category><category>AI治理</category>
-    </item>    <item>
-      <title>人工创业认知：定位并因果调控大型语言模型内部的机会识别旋钮</title>
-      <link>https://ob-ai-papers.vercel.app/papers/67879</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/67879</guid>
-      <description>📝 人工创业认知：定位并因果调控大型语言模型内部的机会识别旋钮
-EN: Artificial entrepreneurial cognition: Locating and causally steering an opportunity recognition dial inside large language models (LLMs)
-
-💡 研究将"人工创业认知"概念引入创业领域，借助机制可解释性与表征工程技术，在Llama 3.1 8B-Instruct等五个大语言模型中定位并因果干预"机会识别"方向的内部表征。通过636对正负场景样本构建机会识别"刻度盘"，实验证明该方向可恢复、可操控，且与机会评估、开发方向存在几何分离，调节它会同步改变模型对邻近创业阶段的判断。
-
-📚 arXiv:cs.CL · 2026 · 引用 0
-👤 Christian Fisch, Angela Altmeier, Martin Obschonka, Michal Kosinski, Pin Ni
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2609.15277v1</description>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <category>创业</category><category>创新</category><category>决策</category><category>LLM</category><category>可解释 AI</category>
-    </item>    <item>
-      <title>生成以探索，选择以利用：基于LLM的标题生成与个性化推荐对齐</title>
-      <link>https://ob-ai-papers.vercel.app/papers/67876</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/67876</guid>
-      <description>📝 生成以探索，选择以利用：基于LLM的标题生成与个性化推荐对齐
-EN: Generate to Explore, Select to Exploit: Aligning LLM-based Headline Generation with Personalized Recommendation
-
-💡 针对推荐场景中静态标题难以满足长尾用户多元兴趣的问题，提出GESE框架，将个性化拆分为生成探索与选择利用两阶段。以LLM为概率探索者，通过GSPO与分层奖励机制生成语义覆盖广的候选标题集，再由实时反馈选择器挑选最优标题。商业平台部署后点击率提升2.57%，停留时长提升0.87%，验证了解耦多样性与精确性策略的有效性。
-
-📚 arXiv:cs.IR · 2026 · 引用 0
-👤 Yi Chen, Rufeng Cheng, Qiang Xie, Tao Li
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2609.15094v1</description>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <category>推荐系统</category><category>营销</category><category>LLM</category><category>推荐算法</category>
     </item>
   </channel>
 </rss>
