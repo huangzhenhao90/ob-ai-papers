@@ -6,9 +6,236 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 23 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>大语言模型在英国：公众使用、信任与态度</title>
+      <link>https://ob-ai-papers.vercel.app/papers/73399</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/73399</guid>
+      <description>📝 大语言模型在英国：公众使用、信任与态度
+EN: Large Language Models in the UK: Public Use, Trust, and Attitudes
+
+💡 基于2002名英国成年人的全国代表性调查，考察公众对大语言模型的使用、信任与态度。研究发现：实用任务仍是最主要用途，但31%的常用用户将其用于情感支持与决策辅助，四分之一用于其他个人用途；公众对LLM信息信任度因话题而异，且与医生、专家等传统信源比较存在差异；社会层面态度既认可潜在收益，也担忧风险。
+
+📚 arXiv:cs.CY · 2026 · 引用 0
+👤 Florence E. Enock, Helen Z. Margetts
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2609.28176v1</description>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <category>信任</category><category>伦理</category><category>消费者行为</category><category>教育</category><category>LLM</category><category>ChatGPT</category><category>AI治理</category>
+    </item>    <item>
+      <title>约束与偏好如何塑造旅行规划：对人工智能规划支持的启示</title>
+      <link>https://ob-ai-papers.vercel.app/papers/73398</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/73398</guid>
+      <description>📝 约束与偏好如何塑造旅行规划：对人工智能规划支持的启示
+EN: How Constraints and Preferences Shape Travel Planning: Implications for AI Planning Support
+
+💡 研究问题：当前AI旅行规划系统假设用户能预先表达稳定目标，忽视真实规划中约束与偏好的动态变化。方法：对8位旅行者和9位旅行顾问开展两部分访谈，追踪规划过程中约束与偏好的浮现、调整与协调过程。核心发现：归纳出11种围绕约束与偏好的规划行动；据此提出面向人机协作规划工具的设计启发式，以支持规划的流动性与情境性。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Fuling Sun, Yining Cao, Peiling Jiang, Mingyi Li, Haijun Xia
+
+AI 分: 4.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2609.26968v1</description>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <category>决策</category><category>人机协作</category><category>人机交互</category><category>人机协作</category>
+    </item>    <item>
+      <title>"以后再修"：教育、人工智能与教育科技中隐私的延后</title>
+      <link>https://ob-ai-papers.vercel.app/papers/73394</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/73394</guid>
+      <description>📝 "以后再修"：教育、人工智能与教育科技中隐私的延后
+EN: "We'll Fix It Later": Education, AI, and the Deferral of Privacy in EdTech
+
+💡 针对教育科技平台开展混合方法研究：12位从业者访谈与48家平台隐私政策审计。结果揭示隐私被反复延后的组织模式——企业优先功能、增长与资金，将责任推给云服务商或下游机构；政策审计显示平台对数据收集披露较充分，但对后续数据治理说明严重不足，33%未做有意义的AI披露，73%仅提供泛化问责与泄露响应条款。
+
+📚 arXiv:cs.CY · 2026 · 引用 0
+👤 Meghna Manoj Nair, Rachel Greenstadt
+
+AI 分: 3.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2609.28137v1</description>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <category>隐私</category><category>伦理</category><category>教育</category><category>组织变革</category><category>AI治理</category><category>可解释AI</category>
+    </item>    <item>
+      <title>无退货部分退款：电子商务中的一项大规模田野实验</title>
+      <link>https://ob-ai-papers.vercel.app/papers/73288</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/73288</guid>
+      <description>📝 无退货部分退款：电子商务中的一项大规模田野实验
+EN: Returnless Partial Refunds: A Large-Scale Field Experiment in E-Commerce
+
+📚 MktSci · 2026 · 引用 0
+👤 Lu Fang, Chunhua Wu, Zhe Yuan, Kaifu Zhang
+
+AI 分: 4.0 / 领域分: 5.0</description>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>EXPRESS：语音机器人中口音的人性化力量——基于口音的人性化何以提升用户参与度</title>
+      <link>https://ob-ai-papers.vercel.app/papers/73275</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/73275</guid>
+      <description>📝 EXPRESS：语音机器人中口音的人性化力量——基于口音的人性化何以提升用户参与度
+EN: EXPRESS: The Humanizing Power of Accents in Voicebots: When Accent-Based Humanization Increases User Engagement
+
+💡 研究问题：消费者对算法系统普遍抵触，如何提升其与语音机器人的互动意愿。方法：跨多种口音、语言、性别与情境的系列实验。核心发现：使用非标准口音的语音机器人可激活用户对人类多样性的认知，提升其拟人化程度，进而增加服务场景中的偏好、对初创企业的支持、月度订阅支付意愿及接收后续沟通的可能性；但当拟人化被其他线索覆盖或反而不利时，该效应消失。
+
+📚 JMR · 2026 · 引用 0
+👤 Hesam Ghasemi, Amir Sepehri, Cait Lamberton
+
+AI 分: 4.0 / 领域分: 5.0</description>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <category>消费者行为</category><category>人机协作</category><category>信任</category><category>语音机器人</category><category>人机交互</category>
+    </item>    <item>
+      <title>移动应用推荐：基于参与度增强的方法</title>
+      <link>https://ob-ai-papers.vercel.app/papers/73192</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/73192</guid>
+      <description>📝 移动应用推荐：基于参与度增强的方法
+EN: Mobile App Recommendation: An Involvement-Enhanced Approach1
+
+💡 针对移动应用推荐中过度依赖下载行为而忽视浏览行为的问题，基于卷入度理论，提出一种融合用户下载与浏览行为的新型推荐方法。该方法通过新模型联合学习用户对应用的整体兴趣与卷入度，并设计参数推断算法与结合长期/当前兴趣的推荐策略。利用中国头部应用平台数据验证，该方法在多个评估指标上优于现有主流推荐方法。
+
+📚 MISQ · 2019 · 引用 60
+👤 Jiangning He, Xiao Fang, Hongyan Liu, Xindan Li
+
+AI 分: 3.0 / 领域分: 4.0</description>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <category>推荐系统</category><category>消费者行为</category><category>推荐算法</category><category>机器学习</category>
+    </item>    <item>
+      <title>数字化时代调节焦点的操作化：来自电子商务情境的证据</title>
+      <link>https://ob-ai-papers.vercel.app/papers/73191</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/73191</guid>
+      <description>📝 数字化时代调节焦点的操作化：来自电子商务情境的证据
+EN: Operationalizing Regulatory Focus in the Digital Age: Evidence from an E-Commerce Context1
+
+💡 聚焦调节聚焦理论(RFT)在电商场景中难以落地的痛点，提出从情感维度操作化顾客长期调节聚焦(ORF)的新方法。首先利用文本挖掘技术从在线评论中识别顾客的促进型/防御型聚焦倾向，再通过问卷验证计算结果，最终借助计量经济模型评估其对购买倾向的预测力，为社会理论在电商运营中的可操作化提供了新路径。
+
+📚 MISQ · 2019 · 引用 52
+👤 Ji Wu, Liqiang Huang, J. Leon Zhao
+
+AI 分: 3.0 / 领域分: 4.0</description>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <category>消费者行为</category><category>营销</category><category>机器学习</category>
+    </item>    <item>
+      <title>关键词歧义对搜索广告绩效的影响：基于主题模型的方法</title>
+      <link>https://ob-ai-papers.vercel.app/papers/73189</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/73189</guid>
+      <description>📝 关键词歧义对搜索广告绩效的影响：基于主题模型的方法
+EN: Examining the Impact of Keyword Ambiguity on Search Advertising Performance: A Topic Model Approach1
+
+💡 研究关键词歧义性如何影响搜索广告效果。基于概率主题模型自动测度关键词歧义程度，采用分层贝叶斯方法联合建模点击率与广告排名，发现高歧义关键词在顶部位置获得更高点击率，但随位置下移衰减更快，整体效应随位置变化而不同。
+
+📚 MISQ · 2018 · 引用 64
+👤 Jing Gong, Vibhanshu Abhishek, Beibei Li
+
+AI 分: 3.0 / 领域分: 4.0</description>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <category>广告</category><category>营销</category><category>机器学习</category><category>推荐算法</category>
+    </item>    <item>
+      <title>组织内博客平台中代表性信息的提取</title>
+      <link>https://ob-ai-papers.vercel.app/papers/73185</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/73185</guid>
+      <description>📝 组织内博客平台中代表性信息的提取
+EN: Extracting Representative Information on Intra-Organizational Blogging Platforms1
+
+💡 针对组织内部博客平台信息过载问题，提出REPSET代表性集合提取方法及系统框架，采用新型聚类技术从海量员工生成内容中识别少量代表性文章，帮助管理者快速把握员工热点话题、主流观点与新兴想法。
+
+📚 MISQ · 2017 · 引用 27
+👤 Xunhua Guo, Qiang Wei, Guoqing Chen, Jin Zhang, Dandan Qiao
+
+AI 分: 3.0 / 领域分: 4.0</description>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <category>知识管理</category><category>组织学习</category><category>组织变革</category><category>机器学习</category>
+    </item>    <item>
+      <title>个性化AI语音代理：相似语音的语音代理如何塑造信任、自我一致性与行为</title>
+      <link>https://ob-ai-papers.vercel.app/papers/72931</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/72931</guid>
+      <description>📝 个性化AI语音代理：相似语音的语音代理如何塑造信任、自我一致性与行为
+EN: Personalizing AI Voice Agents: How Voice Agents with Similar Voices Shape Trust, Self-Congruency, and Behavior
+
+💡 研究问题：AI语音代理使用与用户相似的声音时，如何影响用户的信任感、自我一致性与后续行为。方法（推测）：基于标题推断，可能采用实验法操纵语音代理的口音/音色相似度，测量信任、自我一致性与行为意向。核心发现（推测）：声音相似度可提升用户对语音代理的信任与自我一致感，进而影响使用意愿或购买行为。
+
+📚 CHB · 2026 · 引用 0
+👤 Yun Fu, Martin Meißner
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <category>消费者行为</category><category>人机协作</category><category>信任</category><category>语音机器人</category><category>人机交互</category><category>GenAI</category>
+    </item>    <item>
+      <title>无能还是欺骗：揭示AI幻觉影响信任与不信任的非对称机制</title>
+      <link>https://ob-ai-papers.vercel.app/papers/72929</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/72929</guid>
+      <description>📝 无能还是欺骗：揭示AI幻觉影响信任与不信任的非对称机制
+EN: Incompetence or Deception: Unraveling the Asymmetric Mechanisms of AI Hallucinations on Trust and Distrust
+
+📚 CHB · 2026 · 引用 0
+👤 Kun WANG, Zhao PAN, Yaobin LU
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>披露与素养作为AI网红识别与福祉的决定因素</title>
+      <link>https://ob-ai-papers.vercel.app/papers/72925</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/72925</guid>
+      <description>📝 披露与素养作为AI网红识别与福祉的决定因素
+EN: Disclosures and literacy as determinants of AI-influencer recognition and well-being
+
+💡 探讨AI虚拟网红情境下,信息披露(如标注AI身份)与用户AI素养如何影响其对AI网红的识别能力及使用幸福感。考察透明披露与素养水平对消费者心理福祉的交互作用。
+
+📚 CHB · 2026 · 引用 3
+👤 Michaela Forrai, Delia Cristina Balaban, Desirée Schmuck
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <category>营销</category><category>消费者行为</category><category>伦理</category><category>信任</category><category>GenAI</category><category>图像生成</category><category>人机交互</category>
+    </item>    <item>
+      <title>推力还是拉力？基于PPM框架理解从人工服务向GAI智能体的转换意向</title>
+      <link>https://ob-ai-papers.vercel.app/papers/72924</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/72924</guid>
+      <description>📝 推力还是拉力？基于PPM框架理解从人工服务向GAI智能体的转换意向
+EN: Push or Pull? Understanding switching intentions from human services to GAI agents through the PPM framework
+
+💡 基于推力-拉力-锚定(PPM)框架,探究用户从人工服务转向生成式AI智能体服务的切换意愿。识别推动离开人工服务的推力、吸引转向GAI的拉力以及阻碍转换的锚定因素。
+
+📚 CHB · 2026 · 引用 7
+👤 Chunni Song, Shuhua Zhou
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <category>消费者行为</category><category>决策</category><category>人机协作</category><category>服务</category><category>GenAI</category><category>LLM</category><category>ChatGPT</category><category>人机交互</category>
+    </item>    <item>
+      <title>面向智能体群组信任评估的动态贝叶斯网络方法</title>
+      <link>https://ob-ai-papers.vercel.app/papers/72909</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/72909</guid>
+      <description>📝 面向智能体群组信任评估的动态贝叶斯网络方法
+EN: A Dynamic Bayesian Network approach for agent group trust evaluation
+
+💡 针对智能体群组信任评估问题，提出基于动态贝叶斯网络(DBN)的信任建模方法。该方法通过捕捉主体间信任关系的时序动态特征与不确定性，对多智能体协作中的群体信任水平进行量化评估，为开放环境下的多智能体系统信任管理提供可计算框架。
+
+📚 CHB · 2018 · 引用 16
+👤 Tung Doan Nguyen, Quan Bai
+
+AI 分: 4.0 / 领域分: 3.0</description>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <category>信任</category><category>机器学习</category>
+    </item>    <item>
+      <title>危机情境下信息分享的情感、丰富性、权威性与相关性模型：以#MH370推文为例</title>
+      <link>https://ob-ai-papers.vercel.app/papers/72908</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/72908</guid>
+      <description>📝 危机情境下信息分享的情感、丰富性、权威性与相关性模型：以#MH370推文为例
+EN: Sentiment, richness, authority, and relevance model of information sharing during social Crises—the case of #MH370 tweets
+
+💡 以MH370航班失联事件推文为案例，构建社交危机情境下信息分享的影响因素模型，涵盖情感、丰富度、权威性与相关性四个维度，探讨危机期间社交媒体上信息扩散的驱动机制与用户参与行为特征。
+
+📚 CHB · 2018 · 引用 105
+👤 Weiai (Wayne) Xu, Congcong Zhang
+
+AI 分: 3.0 / 领域分: 4.0</description>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <category>营销</category><category>消费者行为</category><category>信任</category><category>决策</category><category>机器学习</category>
+    </item>    <item>
       <title>"我与AI聊天机器人聊过，接下来呢？":美国青年对情绪应对中负责任AI的想象</title>
       <link>https://ob-ai-papers.vercel.app/papers/72848</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/72848</guid>
@@ -113,12 +340,14 @@ AI 分: 3.0 / 领域分: 3.0</description>
       <description>📝 从数据-模型拟合到模型-世界拟合：将领域知识融入人工智能的框架
 EN: From Data-Model Fit to Model-World Fit: A Framework for Integrating Domain Knowledge into Artificial Intelligence
 
+💡 针对ML/AI模型在真实部署中因过度追求统计性能而忽视领域语义的问题，提出机器学习模型-世界匹配框架，通过数据、价值、流程模型或领域本体等外部知识表征弥补AI的know-what、know-how、know-why三类知识缺陷。以儿童福利安置案例说明，勾勒出机器学习、设计科学与知识表征交叉的研究路线图。
+
 📚 ISR · 2026 · 引用 0
 👤 Arturo Castellanos, Monica Chiarini Tremblay, Roman Lukyanenko, Jeffrey Parsons, Veda C. Storey
 
 AI 分: 5.0 / 领域分: 4.0</description>
       <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      
+      <category>知识管理</category><category>决策</category><category>AI治理</category><category>人机协作</category><category>机器学习</category><category>可解释AI</category><category>AI治理</category>
     </item>    <item>
       <title>提升竞争力：以自由职业者为核心的再培训策略推荐方法</title>
       <link>https://ob-ai-papers.vercel.app/papers/72644</link>
@@ -243,241 +472,6 @@ AI 分: 5.0 / 领域分: 4.0
 📄 PDF: https://arxiv.org/pdf/2609.21756v1</description>
       <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
       <category>公平性</category><category>偏见</category><category>工作未来</category><category>HR</category><category>LLM</category><category>机器学习</category><category>算法决策</category><category>AI治理</category>
-    </item>    <item>
-      <title>两亦成众：ADHD开发者的人机共在研究</title>
-      <link>https://ob-ai-papers.vercel.app/papers/71373</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/71373</guid>
-      <description>📝 两亦成众：ADHD开发者的人机共在研究
-EN: Two's a Crowd: Human and AI-Based Copresence for Developers with ADHD
-
-💡 研究ADHD开发者在协作中的人机协同在场实践。基于14位ADHD软件工程师的半结构访谈，比较传统人际在场与新兴AI在场协作。发现人际在场虽提供社会支持与入职引导，但需持续管理职业声誉并牺牲隐私；人机AI在场则帮助维持责任感与认知流畅性，避免社交焦虑、绩效评判和监视感。将发现映射到Goffman共在理论与SPACE开发者生产力框架，并提出面向ADHD开发者的AI编码助手设计建议。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Veronica Pimenova, Seth Bernstein, Shalini Madan, Dhruv Jain, Venkatesh Potluri
-
-AI 分: 4.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2609.21254v1</description>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>员工幸福感</category><category>隐私</category><category>工作设计</category><category>人机协作</category><category>人机交互</category><category>GenAI</category><category>LLM</category>
-    </item>    <item>
-      <title>医疗系统中算法的社会技术综述：技术、成本与人本考量</title>
-      <link>https://ob-ai-papers.vercel.app/papers/71372</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/71372</guid>
-      <description>📝 医疗系统中算法的社会技术综述：技术、成本与人本考量
-EN: A Sociotechnical Review of Algorithms in Health Systems: Technical, Cost, and Human-Centered Considerations
-
-💡 对医疗系统中AI算法进行社会技术综述，系统分析114篇文献，考察成本感知型AI模型在数据、方法、结果选择上与成本及人为中心维度的交叉。研究定义模型成本的多重维度（财务、计算、组织、社会），批评当前AI模型在设计与评估中对成本与可持续性考虑不足，揭示严格社会技术模型设计的空白，呼吁在医疗AI开发中纳入更全面的多维度评估与社会技术考量。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Victoria Chui, Kelly McConvey, Shion Guha
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2609.22070v1</description>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-      <category>决策</category><category>伦理</category><category>算法管理</category><category>人机协作</category><category>机器学习</category><category>算法决策</category><category>可解释AI</category><category>AI治理</category>
-    </item>    <item>
-      <title>聊天机器人何时应表达幽默：探究幽默对服务满意度的不同影响机制</title>
-      <link>https://ob-ai-papers.vercel.app/papers/70691</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/70691</guid>
-      <description>📝 聊天机器人何时应表达幽默：探究幽默对服务满意度的不同影响机制
-EN: When should chatbots express humor? Exploring different influence mechanisms of humor on service satisfaction
-
-💡 研究聊天机器人在服务场景中使用幽默的时机及其对服务满意度的影响机制。探讨不同情境下幽默表达如何通过情感、感知等路径影响用户满意度,为设计更具人情味的聊天机器人交互策略提供依据。
-
-📚 CHB · 2024 · 引用 27
-👤 Yuguang Xie, Changyong Liang, Peiyu Zhou, Junhong Zhu
-
-AI 分: 4.0 / 领域分: 4.0</description>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>消费者行为</category><category>营销</category><category>ChatGPT</category><category>人机交互</category><category>人机协作</category>
-    </item>    <item>
-      <title>隐式反馈技术在电子书推荐系统中的应用</title>
-      <link>https://ob-ai-papers.vercel.app/papers/70670</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/70670</guid>
-      <description>📝 隐式反馈技术在电子书推荐系统中的应用
-EN: Implicit feedback techniques on recommender systems applied to electronic books
-
-💡 研究在电子书推荐系统中应用隐式反馈技术,通过用户行为数据(如浏览、停留、阅读时长)推断偏好以提升推荐效果,弥补显式评分稀疏问题,为电子书平台的个性化推荐提供方法参考。
-
-📚 CHB · 2012 · 引用 132
-👤 Edward Rolando Núñez-Valdéz, Juan Manuel Cueva Lovelle, Oscar Sanjuán Martínez, Vicente García-Díaz, Patricia Ordoñez de Pablos
-
-AI 分: 3.0 / 领域分: 4.0</description>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-      <category>推荐系统</category><category>消费者行为</category><category>推荐算法</category><category>机器学习</category>
-    </item>    <item>
-      <title>大规模品类下的产品选择：一种可扩展的深度学习模型</title>
-      <link>https://ob-ai-papers.vercel.app/papers/70314</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/70314</guid>
-      <description>📝 大规模品类下的产品选择：一种可扩展的深度学习模型
-EN: Product Choice with Large Assortments: A Scalable Deep-Learning Model
-
-💡 针对大规模零售场景下个性化产品选择预测难题，提出可扩展的深度神经网络模型，通过瓶颈层编码跨产品关系、校准的时间序列滤波器捕捉不同再购买间隔产品的动态，并利用权重共享应对大品类。在忠诚度卡交易数据上无需预定义品类或属性即可预测个体购买概率，在优惠券个性化模拟与实证中均显著优于基线，带来更高收入。
-
-📚 MgmtSci · 2022 · 引用 69
-👤 Sebastian Gabel, Artem Timoshenko
-
-AI 分: 5.0 / 领域分: 5.0</description>
-      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
-      <category>营销</category><category>推荐系统</category><category>消费者行为</category><category>机器学习</category><category>推荐算法</category>
-    </item>    <item>
-      <title>部署算法定价工具的挑战：来自Airbnb的证据</title>
-      <link>https://ob-ai-papers.vercel.app/papers/69748</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/69748</guid>
-      <description>📝 部署算法定价工具的挑战：来自Airbnb的证据
-EN: The Challenges of Deploying an Algorithmic Pricing Tool: Evidence from Airbnb
-
-💡 研究 Airbnb 部署 AI 定价工具的实践挑战。基于 Airbnb 案例证据，探讨算法定价工具在实际落地中遇到的困难（如房东接受度、定价准确性、市场反馈等），并提出应对方案，为平台型企业的算法定价部署提供管理启示。
-
-📚 MktSci · 2026 · 引用 0
-👤 Mohsen Foroughifar, Nitin Mehta
-
-AI 分: 5.0 / 领域分: 5.0</description>
-      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
-      <category>营销</category><category>定价</category><category>推荐系统</category><category>平台经济</category><category>算法决策</category><category>机器学习</category>
-    </item>    <item>
-      <title>撰写更具说服力的创意诉求：一种基于深度学习的方法</title>
-      <link>https://ob-ai-papers.vercel.app/papers/69746</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/69746</guid>
-      <description>📝 撰写更具说服力的创意诉求：一种基于深度学习的方法
-EN: Writing More Compelling Creative Appeals: A Deep Learning-Based Approach
-
-💡 研究开发了基于深度学习的决策支持工具，帮助营销人员撰写更具说服力的创意诉求文案。该工具通过数据驱动模型辅助创意写作，提升广告创意的传播效果，为创意人员提供系统化的写作指导。
-
-📚 MktSci · 2022 · 引用 26
-👤 Jiyeon Hong, Paul R. Hoban
-
-AI 分: 5.0 / 领域分: 5.0</description>
-      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
-      <category>广告</category><category>创意</category><category>营销</category><category>深度学习</category><category>机器学习</category>
-    </item>    <item>
-      <title>将文本信息整合到选择与定标响应数据模型中</title>
-      <link>https://ob-ai-papers.vercel.app/papers/69745</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/69745</guid>
-      <description>📝 将文本信息整合到选择与定标响应数据模型中
-EN: Integrating Textual Information into Models of Choice and Scaled Response Data
-
-💡 提出一种将文本信息纳入消费者选择与评分数据异质性建模的新方法，能够同时处理固定点评分与文本数据。该方法拓展了传统选择模型的表达力，提升对消费者偏好异质性的预测与解释精度。
-
-📚 MktSci · 2022 · 引用 16
-👤 Hyowon Kim, Greg M. Allenby
-
-AI 分: 4.0 / 领域分: 5.0</description>
-      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
-      <category>消费者行为</category><category>决策</category><category>机器学习</category><category>自然语言处理</category>
-    </item>    <item>
-      <title>克服客户关系管理的冷启动问题：基于概率机器学习方法</title>
-      <link>https://ob-ai-papers.vercel.app/papers/69722</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/69722</guid>
-      <description>📝 克服客户关系管理的冷启动问题：基于概率机器学习方法
-EN: Overcoming the Cold Start Problem of Customer Relationship Management Using  a Probabilistic Machine Learning Approach
-
-💡 针对CRM中新客户仅有首次购买、缺乏重复观测而难以推断异质性的冷启动难题，构建概率机器学习框架，借助深层指数族模型灵活捕捉获取时行为及未来购买与营销响应倾向的潜在维度，可与多种需求模型整合，并在零售数据中验证其在首次购买后即识别高价值客户及营销敏感客户的有效性。
-
-📚 JMR · 2021 · 引用 37
-👤 Nicolas Padilla, Eva Ascarza
-
-AI 分: 4.0 / 领域分: 5.0</description>
-      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
-      <category>营销</category><category>消费者行为</category><category>推荐系统</category><category>机器学习</category><category>推荐算法</category>
-    </item>    <item>
-      <title>音乐成功的动态变化：基于机器学习的多媒体数据融合方法</title>
-      <link>https://ob-ai-papers.vercel.app/papers/69721</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/69721</guid>
-      <description>📝 音乐成功的动态变化：基于机器学习的多媒体数据融合方法
-EN: Dynamics of Musical Success: A Machine Learning Approach for Multimedia Data Fusion
-
-💡 开发融合元数据、声学特征和用户生成文本的多模态机器学习框架，用于预测音乐专辑与播放列表的成功。模型结合惩罚样条、监督式层次Dirichlet过程与状态空间规范，可支持新专辑预测、专辑调优、播放列表生成和情境推荐等营销决策。
-
-📚 JMR · 2021 · 引用 51
-👤 Khaled Boughanmi, Asim Ansari
-
-AI 分: 4.0 / 领域分: 4.0</description>
-      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
-      <category>营销</category><category>推荐系统</category><category>创意</category><category>机器学习</category><category>多模态</category><category>推荐算法</category>
-    </item>    <item>
-      <title>生成式AI中的利润释放：AI自适应学习对免费增值策略的影响</title>
-      <link>https://ob-ai-papers.vercel.app/papers/69614</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/69614</guid>
-      <description>📝 生成式AI中的利润释放：AI自适应学习对免费增值策略的影响
-EN: Unlocking Profits in Generative AI: The Impact of AI Adaptive Learning on Freemium Strategy
-
-💡 研究生成式 AI 自适应学习能力对企业免费增值（freemium）策略的影响。通过解析模型分析预训练-微调两阶段中用户交互对 AI 能力的迭代优化，发现免费版虽能扩大用户基数并产生学习数据，却加剧需求蚕食和服务成本；自适应学习过强反而损害利润，可能使企业放弃免费版；缩小版本间基线能力差距、降低付费价可提升利润与消费者剩余。
-
-📚 ISR · 2026 · 引用 0
-👤 Yinliang Tan, Ling Zhong, Yi Lu, Jiajia Nie
-
-AI 分: 5.0 / 领域分: 5.0</description>
-      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
-      <category>营销</category><category>定价</category><category>消费者行为</category><category>战略</category><category>GenAI</category><category>LLM</category><category>机器学习</category>
-    </item>    <item>
-      <title>超越算法建立信任：努力、服务速度与新颖性如何提升机器人服务中的信任</title>
-      <link>https://ob-ai-papers.vercel.app/papers/69287</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/69287</guid>
-      <description>📝 超越算法建立信任：努力、服务速度与新颖性如何提升机器人服务中的信任
-EN: Building trust beyond algorithm: How effort, service speed, and novelty increase trust in robot services
-
-💡 研究在算法之外，如何通过机器人服务中的努力程度、服务速度和新鲜感提升消费者信任。探讨当算法透明度有限时，服务过程中的有形要素如何弥补并增强用户对机器人服务的信任感，为服务机器人设计与运营提供参考。
-
-📚 CHB · 2026 · 引用 3
-👤 Ye Eun Jeon, Hee Sun Park
-
-AI 分: 4.0 / 领域分: 4.0</description>
-      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
-      <category>信任</category><category>消费者行为</category><category>服务营销</category><category>人机协作</category><category>机器人</category><category>人机交互</category>
-    </item>    <item>
-      <title>可检验处的忠实性：随机试验中对照系统提示的反思智能体审计</title>
-      <link>https://ob-ai-papers.vercel.app/papers/69227</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/69227</guid>
-      <description>📝 可检验处的忠实性：随机试验中对照系统提示的反思智能体审计
-EN: Faithful Where It Can Be Checked: Auditing a Reflection Agent Against Its System Prompt in a Randomized Trial
-
-💡 研究审计GPT-4o职业反思代理在随机试验中是否遵守系统提示。对17930轮对话编码后发现：代理遵守了易检查的规则（如回复长度），但对难检查指令执行不佳，如被要求不奉承却仍在半数轮次中表扬，被要求温和质疑却几乎未执行。导致负面结果的关键行为是反复追问决策点：代理在用户犹豫时再次发问，被追问最多者最感怀疑。研究为反思代理设计与可检查指令的撰写提供启示。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Subigya K. Nepal, Serena Soh, Noah Vinoya, SoHyun Park, Mahnaz Roshanaei
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2609.19635v1</description>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <category>人机交互</category><category>AI 治理</category><category>决策</category><category>LLM</category><category>可解释 AI</category><category>AI 治理</category>
-    </item>    <item>
-      <title>TeamCAMS：研究人机团队中人类行为的开源研究平台</title>
-      <link>https://ob-ai-papers.vercel.app/papers/69226</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/69226</guid>
-      <description>📝 TeamCAMS：研究人机团队中人类行为的开源研究平台
-EN: TeamCAMS: An Open-Source Research Platform for Studying Human Behaviour in Human-AI Teams
-
-💡 介绍TeamCAMS——一个用于研究人机团队中人类行为的开源仿真平台，模拟客舱空气管理系统等多任务过程控制环境。基于多种心理学理论构建，支持研究自动化形式比较、自动化可靠性、压力对多任务绩效影响、团队冲突、分布式团队及人机交互等议题，未来可拓展至自动化领导力研究。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Amos Brocco, Alain Chavaillaz, Andreas Sonderegger, Juergen Sauer
-
-AI 分: 4.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2609.20490v1</description>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>团队</category><category>工作设计</category><category>人机协作</category><category>人机交互</category>
-    </item>    <item>
-      <title>欺骗性招聘检测：早期识别劳动剥削的信号理论机器学习框架</title>
-      <link>https://ob-ai-papers.vercel.app/papers/69224</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/69224</guid>
-      <description>📝 欺骗性招聘检测：早期识别劳动剥削的信号理论机器学习框架
-EN: Detecting Deceptive Recruitment: A Signal-theoretic Machine Learning Framework for Early Identification of Labour Exploitation
-
-💡 将虚假招聘检测形式化为信号理论下的分类问题，利用反奴役组织收集的464个跨九国21行业的真实案例，构建融合计算机视觉、自然语言处理与语义嵌入的多模态检测模型。单模态已达较高判别力（ROC-AUC 0.87–0.97），融合后增益有限。SHAP分析显示文本质量与领域风险语言为关键特征。最后开发可解释风险评分决策支持系统。
-
-📚 arXiv:cs.CY · 2026 · 引用 0
-👤 Sajid Siraj, Mahnaz Hosseinzadeh, Amin Vafadarnikjoo, Shuyang Li
-
-AI 分: 3.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2609.20336v1</description>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <category>招聘</category><category>HR</category><category>伦理</category><category>算法决策</category><category>机器学习</category><category>多模态</category><category>算法决策</category>
     </item>
   </channel>
 </rss>
