@@ -6,9 +6,122 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 24 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>装配、打破与拒绝面具：直播中人工智能中介自我呈现的能动性</title>
+      <link>https://ob-ai-papers.vercel.app/papers/74110</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/74110</guid>
+      <description>📝 装配、打破与拒绝面具：直播中人工智能中介自我呈现的能动性
+EN: Assembling, Breaking, and Refusing the Mask: Agency in AI-Mediated Self-Presentation in Livestreaming
+
+💡 通过627条招聘帖分析与26位中国女主播的直播观察和深度访谈，探讨女性主播如何借助身体、AI中介技术、空间、表演与社会关系等多重面具构建理想化数字人设，并揭示其在压力下打破、抵制与拒绝面具的行为，将面具概念理论化为社会技术组合中能动性协商的实践过程。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Yang Hong, Nusrat Jahan Mim, Sharifa Sultana
+
+AI 分: 4.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2609.28721v1</description>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <category>营销</category><category>消费者行为</category><category>人机协作</category><category>人机交互</category><category>多模态</category>
+    </item>    <item>
+      <title>当无人主导判断时：人机协作中贡献消解下的责任归属</title>
+      <link>https://ob-ai-papers.vercel.app/papers/74107</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/74107</guid>
+      <description>📝 当无人主导判断时：人机协作中贡献消解下的责任归属
+EN: When No One Owns the Judgment: Accountability Under Contribution Dissolution in Human-AI Collaboration
+
+💡 针对人机协作中'判断无人拥有'的责任真空问题，通过AI辅助同行评审和创作中隐瞒AI使用两个案例，揭示披露规则与来源记录的局限。提出三个讨论方向：区分AI所扮演的角色、识别需要明确人类拥有的判断、创造AI参与可披露而不被默认惩罚的条件。核心目标是使AI塑造的贡献可讨论、可归因、可争议、可修复。
+
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 Hengzhi Ye
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2609.29312v1</description>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <category>伦理</category><category>人机协作</category><category>AI治理</category><category>GenAI</category><category>AI治理</category><category>人机协作</category>
+    </item>    <item>
+      <title>与智能体"队友"协作：当新型组织行动者冲击人类工作生态</title>
+      <link>https://ob-ai-papers.vercel.app/papers/74104</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/74104</guid>
+      <description>📝 与智能体"队友"协作：当新型组织行动者冲击人类工作生态
+EN: Working with Agentic `Teammates': When a New Organizational Actor Collides with the Human Ecosystem of Work
+
+💡 基于对一家大型科技公司中持续主动型AI智能体'队友'的实地质性研究，揭示人机工作场所边界正处于剧烈变动期。研究发现三方面张力：人类协作流程的隐性规则被打破、非人类行动者的关系边界需重新协商、信任与人类能动性被重新分配。据此提出旨在保留人类能动性的研究、设计与组织议程。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Rida Qadri, Remi Denton, Michael Madaio, Mahima Pushkarna, Leslie Lai
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2609.29901v1</description>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>团队</category><category>信任</category><category>组织变革</category><category>人机协作</category><category>AI治理</category><category>人机交互</category>
+    </item>    <item>
+      <title>人工智能时代劳动力市场能否正常运作：招聘中的评估瓶颈</title>
+      <link>https://ob-ai-papers.vercel.app/papers/74103</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/74103</guid>
+      <description>📝 人工智能时代劳动力市场能否正常运作：招聘中的评估瓶颈
+EN: Can Labor Markets Function in the Age of AI? The Evaluation Bottleneck in Hiring
+
+💡 研究AI辅助求职工具在降低申请成本的同时削弱申请材料信息含量的权衡。在申请者经验与潜在匹配质量异质、企业按贝叶斯规则筛选的模型中，AI使企业更依赖经验等粗信号，'经验不足但高匹配'的申请者受冲击最大，可能导致低效筛选失败。进而证明多阶段招聘是企业内生响应，低成本中间评估可恢复此类申请者的筛选机会。
+
+📚 arXiv:cs.GT · 2026 · 引用 0
+👤 Itai Ashlagi, Ramesh Johari, Jon Kleinberg, Anushka Murthy
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2609.30058v1</description>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <category>招聘</category><category>决策</category><category>算法管理</category><category>公平性</category><category>算法决策</category><category>AI招聘</category><category>机器学习</category>
+    </item>    <item>
+      <title>早晚去YouTube找我：社交媒体在慢性病中的应用</title>
+      <link>https://ob-ai-papers.vercel.app/papers/73851</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/73851</guid>
+      <description>📝 早晚去YouTube找我：社交媒体在慢性病中的应用
+EN: Go To YouTube and Call Me in the Morning: Use of Social Media for Chronic Conditions
+
+💡 融合深度学习（双向LSTM）与信息系统及健康信息学视角，分析YouTube视频中编码的医疗信息含量与用户集体参与模式。识别出非参与、选择性注意参与、持续性注意参与三种维度，发现低医疗信息视频易致非参与，高医疗信息视频反难维持持续注意，为慢病教育视频内容规范提供依据。
+
+📚 MISQ · 2020 · 引用 86
+👤 Xiao Liu, Bin Zhang, Anjana Susarla, Rema Padman
+
+AI 分: 3.0 / 领域分: 3.0</description>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <category>消费者行为</category><category>教育</category><category>决策</category><category>机器学习</category>
+    </item>    <item>
+      <title>生成式搜索：来自一项大规模田野实验的证据</title>
+      <link>https://ob-ai-papers.vercel.app/papers/73840</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/73840</guid>
+      <description>📝 生成式搜索：来自一项大规模田野实验的证据
+EN: Generative Search: Evidence from a Large-Scale Field Experiment
+
+💡 基于美团大规模现场实验，考察生成式搜索（GenAI嵌入传统搜索引擎）对消费者购买的影响。研究发现生成式搜索显著提升购买量，机制在于AI生成答案帮助消费者形成更有效、更多样的关键词查询，减少探索性浏览和点击，并将评估集中于相关品类和商家。
+
+📚 MgmtSci · 2026 · 引用 0
+👤 Shuang Zheng, Yuting Zhu, Xin Ye, Liang Shen
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <category>营销</category><category>消费者行为</category><category>推荐系统</category><category>GenAI</category><category>LLM</category><category>推荐算法</category><category>人机交互</category>
+    </item>    <item>
+      <title>人机协作中协商与互惠的交换结构</title>
+      <link>https://ob-ai-papers.vercel.app/papers/73464</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/73464</guid>
+      <description>📝 人机协作中协商与互惠的交换结构
+EN: Negotiated and reciprocal exchange structures in human-agent cooperation
+
+💡 基于社会交换理论，探讨人与AI代理合作中的两类交换结构：谈判式交换（明确条款约定）与互惠式交换（隐性互惠规范）。分析不同交换结构如何影响人机合作中的信任建立、关系维持与合作绩效，揭示何种条件下人类更愿意与智能代理建立稳定的协作关系。
+
+📚 CHB · 2019 · 引用 22
+👤 Erin K. Chiou, John D. Lee, Tianshuo Su
+
+AI 分: 3.0 / 领域分: 3.0</description>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>信任</category><category>人机协作</category><category>人机交互</category><category>算法管理</category>
+    </item>    <item>
       <title>大语言模型在英国：公众使用、信任与态度</title>
       <link>https://ob-ai-papers.vercel.app/papers/73399</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/73399</guid>
@@ -169,12 +282,14 @@ AI 分: 5.0 / 领域分: 5.0</description>
       <description>📝 无能还是欺骗：揭示AI幻觉影响信任与不信任的非对称机制
 EN: Incompetence or Deception: Unraveling the Asymmetric Mechanisms of AI Hallucinations on Trust and Distrust
 
+💡 探讨AI幻觉（生成看似合理实则错误的内容）如何以不对称机制影响用户信任：能力不足型失误与欺骗型失误引发不同归因，前者更易引发不信任与负面口碑，后者影响机制更为复杂，揭示人机交互中信任形成与崩塌的差异化心理路径。
+
 📚 CHB · 2026 · 引用 0
 👤 Kun WANG, Zhao PAN, Yaobin LU
 
 AI 分: 5.0 / 领域分: 4.0</description>
       <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      
+      <category>信任</category><category>人机协作</category><category>消费者行为</category><category>GenAI</category><category>LLM</category><category>人机交互</category>
     </item>    <item>
       <title>披露与素养作为AI网红识别与福祉的决定因素</title>
       <link>https://ob-ai-papers.vercel.app/papers/72925</link>
@@ -363,115 +478,6 @@ EN: Improving Competitiveness: A Freelancer-Centric Approach for Recommending Re
 AI 分: 5.0 / 领域分: 4.0</description>
       <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
       <category>零工经济</category><category>推荐系统</category><category>培训</category><category>决策</category><category>推荐算法</category><category>机器学习</category><category>人机交互</category>
-    </item>    <item>
-      <title>面向在线工作的动态、多维与技能专属声誉系统</title>
-      <link>https://ob-ai-papers.vercel.app/papers/72643</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/72643</guid>
-      <description>📝 面向在线工作的动态、多维与技能专属声誉系统
-EN: Dynamic, Multidimensional, and Skillset-Specific Reputation Systems for Online Work
-
-💡 针对在线劳动力市场声誉系统过于正面且单一的缺陷，结合人类输入与机器学习，构建动态、多维度、基于技能集的声誉评估框架。该框架显著优于现有系统，能帮助劳动者差异化竞争、雇主明智决策、平台优化推荐与供需匹配，并可推广至其他过度正面与单一的声誉场景，揭示了人机协同智能增强的潜力。
-
-📚 ISR · 2021 · 引用 34
-👤 Marios Kokkodis
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <category>推荐系统</category><category>人机协作</category><category>绩效评估</category><category>工作未来</category><category>机器学习</category><category>人机协作</category><category>推荐算法</category>
-    </item>    <item>
-      <title>德国AI聊天机器人用户与非用户的比较：使用原因、成瘾性使用、心理健康与孤独感</title>
-      <link>https://ob-ai-papers.vercel.app/papers/72336</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/72336</guid>
-      <description>📝 德国AI聊天机器人用户与非用户的比较：使用原因、成瘾性使用、心理健康与孤独感
-EN: Comparing AI chatbot users and non-users in Germany: Reasons for use, addictive AI chatbot use, mental health, and loneliness
-
-💡 基于德国样本对比AI聊天机器人用户与非用户的使用动机、成瘾性使用倾向、心理健康与孤独感差异，揭示过度依赖AI陪伴可能带来的心理风险及其对使用者福祉的潜在影响。
-
-📚 CHB · 2026 · 引用 0
-👤 Julia Brailovskaia, Lena-Marie Precht, Falk Gerrik Verhees, Pauline Schmidt, Jürgen Margraf
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <category>消费者行为</category><category>伦理</category><category>信任</category><category>LLM</category><category>人机交互</category><category>AI客服</category>
-    </item>    <item>
-      <title>AI人格、服务消费与用户意图熵：来自LLM平台的实地实验证据</title>
-      <link>https://ob-ai-papers.vercel.app/papers/72244</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/72244</guid>
-      <description>📝 AI人格、服务消费与用户意图熵：来自LLM平台的实地实验证据
-EN: AI Persona, Service Consumption, and User Intent Entropy: Field Experimental Evidence from an LLM Platform
-
-💡 在LLM平台上开展随机田野实验(N=9,586)，控制底层模型不变，比较关系型（更温暖、共情）与非关系型AI人格对用户服务消费与目标演化的影响。结果显示关系型人格显著提升交互量(会话+8.1%、时长+10.6%、轮次+24.2%)和产出(文件+12.3%、目标数+12.1%)，并提高意图熵。效应因用户进入意图异质：社交型意图熵升但产出不增，知识探索型产出升且对话持续性更强(+12.8%)，后续使用中各组均获益。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Junjie Li, Xiaofan Li, Lauren Xiaoyuan Lu, Yiwei Wang, Bruce Yang
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2609.23274v1</description>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>消费者行为</category><category>营销</category><category>决策</category><category>LLM</category><category>GenAI</category><category>人机交互</category>
-    </item>    <item>
-      <title>基于计算方法的营销图像个人吸引力预测</title>
-      <link>https://ob-ai-papers.vercel.app/papers/72073</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/72073</guid>
-      <description>📝 基于计算方法的营销图像个人吸引力预测
-EN: Predicting the Personal Appeal of Marketing Images Using Computational Methods
-
-💡 针对数字营销从大众传播向一对一个性化传播转变的需求，基于大五人格模型，利用机器学习算法从89个自动提取的图像特征中预测图像的人格吸引力，即图像最能吸引哪类人格特质的消费者。三项研究表明，消费者与图像的人格匹配度在预测图像喜好度、消费者态度和购买意向时，比图像的总体吸引力具有显著的增量预测力。
-
-📚 JCP · 2019 · 引用 59
-👤 Sandra C. Matz, Cristina Segalin, David Stillwell, Sandrine R. Müller, Maarten W. Bos
-
-AI 分: 4.0 / 领域分: 5.0</description>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <category>营销</category><category>消费者行为</category><category>品牌</category><category>机器学习</category><category>推荐算法</category>
-    </item>    <item>
-      <title>人机交互中对话AI的性别化：交互情境与性别歧视意识形态在塑造用户评价中的作用</title>
-      <link>https://ob-ai-papers.vercel.app/papers/71457</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/71457</guid>
-      <description>📝 人机交互中对话AI的性别化：交互情境与性别歧视意识形态在塑造用户评价中的作用
-EN: Gendering Conversational AI in Human–AI Interaction: The Role of Interaction Context and Sexist Ideology in Shaping User Evaluations
-
-💡 研究对话式AI的性别化呈现如何影响用户评价，并考察互动情境与用户自身性别歧视意识形态的调节作用。基于CHB发表背景，推测发现：AI性别线索对用户评价的效应受互动场景（任务型vs社交型）和用户性别平等观念水平的共同影响，揭示AI拟人化设计中的偏见与公平问题。
-
-📚 CHB · 2026 · 引用 0
-👤 Ye Wang, Xuxu Liu, Yaling Deng, Hongjiang Xiao, Yuan Zhang
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>偏见</category><category>公平性</category><category>伦理</category><category>ChatGPT</category><category>人机交互</category><category>GenAI</category>
-    </item>    <item>
-      <title>公共情绪与情感建模：基于预期计算方法的股市趋势预测</title>
-      <link>https://ob-ai-papers.vercel.app/papers/71446</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/71446</guid>
-      <description>📝 公共情绪与情感建模：基于预期计算方法的股市趋势预测
-EN: Modeling public mood and emotion: Stock market trend prediction with anticipatory computing approach
-
-💡 采用预期计算方法，利用公众情绪与情感数据建模预测股市趋势，属于计算金融与情绪计算的交叉研究。通过挖掘社交媒体或网络中的情绪信号，构建预测模型以辅助市场趋势判断，强调情绪线索对金融市场决策的前瞻性价值。
-
-📚 CHB · 2019 · 引用 66
-👤 Mu-Yen Chen, Chien-Hsiang Liao, Ren-Pao Hsieh
-
-AI 分: 3.0 / 领域分: 3.0</description>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <category>决策</category><category>营销</category><category>机器学习</category>
-    </item>    <item>
-      <title>AI进入职场，谁面临更大风险？一项性别分析</title>
-      <link>https://ob-ai-papers.vercel.app/papers/71376</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/71376</guid>
-      <description>📝 AI进入职场，谁面临更大风险？一项性别分析
-EN: When AI Enters the Workplace, Who Faces Greater Risks? A Gendered Analysis
-
-💡 研究AI对劳动力市场不同性别职业的差异化影响。基于职业特征与AI暴露度的新型数据集，分析LLM等技术在男女主导职业中的分布。发现：男性主导职业的AI暴露集中于高技能高薪岗位，而女性主导职业在各技能/薪资层级暴露较为均匀；LLM相关暴露在女性主导职业中更高，但广义AI创新仍集中于男性主导职业。低技能低薪女性主导职业中的女性面临最大风险，提示自动化与技能提升机会的不平等可能放大既有差距。
-
-📚 arXiv:cs.CY · 2026 · 引用 0
-👤 Miriam Fernandez, Ángel Pavón Pérez, Damiano Giallongo, Davide Ghia, Maryam Yaqub
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2609.21756v1</description>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-      <category>公平性</category><category>偏见</category><category>工作未来</category><category>HR</category><category>LLM</category><category>机器学习</category><category>算法决策</category><category>AI治理</category>
     </item>
   </channel>
 </rss>
