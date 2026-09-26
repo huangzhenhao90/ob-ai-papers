@@ -6,9 +6,69 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 25 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>组织安全产出的决定因素：利用O*NET数据预测职业事故率</title>
+      <link>https://ob-ai-papers.vercel.app/papers/74308</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/74308</guid>
+      <description>📝 组织安全产出的决定因素：利用O*NET数据预测职业事故率
+EN: Determinants of safety outcomes in organizations: Exploring O*NET data to predict occupational accident rates
+
+💡 整合O*NET职业描述数据，采用弹性网络、随机森林与梯度提升三种机器学习方法预测美国职业伤害率。发现能力、工作情境与工作活动等子域描述符为显著预测因子，解释变异量介于54.2%—58.8%，扩展了基于横截面数据的安全研究。
+
+📚 PPsych · 2022 · 引用 6
+👤 Lavanya S. Kumar, Gary N. Burns
+
+AI 分: 3.0 / 领域分: 3.0</description>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+      <category>HR</category><category>工作设计</category><category>机器学习</category>
+    </item>    <item>
+      <title>群体智慧：推荐系统能否预测员工离职及其去向？</title>
+      <link>https://ob-ai-papers.vercel.app/papers/74307</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/74307</guid>
+      <description>📝 群体智慧：推荐系统能否预测员工离职及其去向？
+EN: Wisdom from the crowd: Can recommender systems predict employee turnover and its destinations?
+
+💡 将推荐系统中的协同过滤算法迁移至员工离职预测，通过工作历史与过往满意度推断替代工作的数量与质量，发现两者均与未来离职行为正相关，为人才保留提供算法化决策工具。
+
+📚 PPsych · 2022 · 引用 17
+👤 Hanyi Min, Baojiang Yang, David G. Allen, Alicia A. Grandey, Mengqiao Liu
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+      <category>HR</category><category>推荐系统</category><category>员工幸福感</category><category>推荐算法</category><category>机器学习</category><category>算法决策</category>
+    </item>    <item>
+      <title>探究机器学习在提升职业选择预测方面的能力</title>
+      <link>https://ob-ai-papers.vercel.app/papers/74306</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/74306</guid>
+      <description>📝 探究机器学习在提升职业选择预测方面的能力
+EN: Investigating machine learning's capacity to enhance the prediction of career choices
+
+💡 基于大样本(N=81,267),比较传统职业兴趣剖面匹配法与机器学习增强法在预测职业选择(在职者职业归属与失业者职业志向)上的准确性。结果显示ML增强法整体准确率更高,尤其在捕捉兴趣与职业选择间复杂、特定关系时优势明显,表明机器学习能有效弥补传统群体平均化打分的不足,提升兴趣量表对个体职业决策的预测效度。
+
+📚 PPsych · 2022 · 引用 30
+👤 Q. Chelsea Song, Hyun Joo Shin, Chen Tang, Alexis Hanna, Tara Behrend
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+      <category>招聘</category><category>HR</category><category>决策</category><category>机器学习</category>
+    </item>    <item>
+      <title>教导智能体理解团队协作：基于隐马尔可夫模型评估与预测集体智能潜变量</title>
+      <link>https://ob-ai-papers.vercel.app/papers/74155</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/74155</guid>
+      <description>📝 教导智能体理解团队协作：基于隐马尔可夫模型评估与预测集体智能潜变量
+EN: Teaching agents to understand teamwork: Evaluating and predicting collective intelligence as a latent variable via Hidden Markov Models
+
+💡 用隐马尔可夫模型将集体智能建模为潜变量，评估并预测智能体在团队任务中的协作表现，探索AI代理识别团队动态的能力。基于团队交互序列推断群体智能水平，有助于在人机协同场景中训练团队导向的智能体。
+
+📚 CHB · 2023 · 引用 18
+👤 Michelle Zhao, Fade R. Eadeh, Thuy-Ngoc Nguyen, Pranav Gupta, Henny Admoni
+
+AI 分: 3.0 / 领域分: 3.0</description>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+      <category>团队</category><category>人机协作</category><category>决策</category><category>机器学习</category><category>人机交互</category>
+    </item>    <item>
       <title>装配、打破与拒绝面具：直播中人工智能中介自我呈现的能动性</title>
       <link>https://ob-ai-papers.vercel.app/papers/74110</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/74110</guid>
@@ -122,6 +182,21 @@ AI 分: 3.0 / 领域分: 3.0</description>
       <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
       <category>人机协作</category><category>信任</category><category>人机协作</category><category>人机交互</category><category>算法管理</category>
     </item>    <item>
+      <title>虚拟研究助理：通过自动化虚拟化身在虚拟世界中取代人类访谈者</title>
+      <link>https://ob-ai-papers.vercel.app/papers/73431</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/73431</guid>
+      <description>📝 虚拟研究助理：通过自动化虚拟化身在虚拟世界中取代人类访谈者
+EN: Virtual research assistants: Replacing human interviewers by automated avatars in virtual worlds
+
+💡 探讨在虚拟世界中以自动化虚拟形象替代真人访谈员充当研究助手(用于访谈/调研)的可行性与效果,关注受访者与AI代理交互时的反应、数据质量及对研究结论的影响,为研究方法中的人机替代提供实证依据。
+
+📚 CHB · 2013 · 引用 44
+👤 Béatrice S. Hasler, Peleg Tuchman, Doron Friedman
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>人机交互</category><category>消费者行为</category><category>人机交互</category><category>AI客服</category>
+    </item>    <item>
       <title>大语言模型在英国：公众使用、信任与态度</title>
       <link>https://ob-ai-papers.vercel.app/papers/73399</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/73399</guid>
@@ -179,12 +254,14 @@ AI 分: 3.0 / 领域分: 3.0
       <description>📝 无退货部分退款：电子商务中的一项大规模田野实验
 EN: Returnless Partial Refunds: A Large-Scale Field Experiment in E-Commerce
 
+💡 在大规模实地实验中，AI驱动的无退货部分退款机制既能提升客户价值、降低运营成本，也会引发客户策略性行为风险（如薅羊毛）。研究为电商平台设计AI辅助退款策略提供了权衡客户价值与滥用风险的实证依据。
+
 📚 MktSci · 2026 · 引用 0
 👤 Lu Fang, Chunhua Wu, Zhe Yuan, Kaifu Zhang
 
 AI 分: 4.0 / 领域分: 5.0</description>
       <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      
+      <category>营销</category><category>消费者行为</category><category>信任</category><category>算法决策</category><category>机器学习</category>
     </item>    <item>
       <title>EXPRESS：语音机器人中口音的人性化力量——基于口音的人性化何以提升用户参与度</title>
       <link>https://ob-ai-papers.vercel.app/papers/73275</link>
@@ -401,83 +478,6 @@ AI 分: 4.0 / 领域分: 3.0
 📄 PDF: https://arxiv.org/pdf/2609.25924v1</description>
       <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
       <category>决策</category><category>创新</category><category>机器学习</category><category>算法决策</category>
-    </item>    <item>
-      <title>看见不等于感知：合成消费者预测试视觉营销的能与不能</title>
-      <link>https://ob-ai-papers.vercel.app/papers/72838</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/72838</guid>
-      <description>📝 看见不等于感知：合成消费者预测试视觉营销的能与不能
-EN: Seeing Is Not Perceiving: When Synthetic Consumers Can and Cannot Pretest Visual Marketing
-
-💡 用六项经典视觉营销实验检验生成式AI代理作为合成消费者预测试视觉素材的有效性。变换模型版本与输入格式后，所有配置均通过操控检验，但均未能复现超过两项人类效应，多数不显著。上下文学习引导可部分提升方向一致性，但即便成功也难以再现人类反应的自然离散度。研究据此提出校准—干预—部署AI治理协议，界定合成消费者的适用边界。
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Yi-Lin Tsai, Yung-Hsiu, Lai
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2609.25677v1</description>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <category>营销</category><category>消费者行为</category><category>广告</category><category>GenAI</category><category>LLM</category><category>多模态</category><category>AI治理</category>
-    </item>    <item>
-      <title>生态位划分、本地场景与人工智能在单口喜剧中的应用</title>
-      <link>https://ob-ai-papers.vercel.app/papers/72652</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/72652</guid>
-      <description>📝 生态位划分、本地场景与人工智能在单口喜剧中的应用
-EN: Niche Partitioning, Local Scenes, and AI in Stand-Up Comedy
-
-💡 探讨AI在脱口秀喜剧领域的生态位划分，结合本地喜剧场景理论，分析人类喜剧演员与AI喜剧生成工具如何在不同受众、内容风格和表演场域中形成互补或竞争关系，揭示AI介入下喜剧创作的创新路径与生态重塑。
-
-📚 AOM-Discoveries · 2026 · 引用 0
-👤 Clayton Childress, Paul DiMaggio
-
-AI 分: 4.0 / 领域分: 3.0</description>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <category>创意</category><category>创新</category><category>人机协作</category><category>GenAI</category><category>LLM</category>
-    </item>    <item>
-      <title>意义的媒介：评Döring等《当艺术邂逅算法》</title>
-      <link>https://ob-ai-papers.vercel.app/papers/72651</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/72651</guid>
-      <description>📝 意义的媒介：评Döring等《当艺术邂逅算法》
-EN: The Medium of Meaning: A Commentary on “When Art Meets Algorithm” by Döring, Chae, Efendić, Finken, and Nikulina
-
-💡 对艺术与算法交叉领域研究的学术评论，聚焦AI作为意义生成媒介的角色，探讨人机协作创作中艺术性、作者主体性及算法中介的边界，反思算法时代艺术创作的本质与价值。
-
-📚 AOM-Discoveries · 2026 · 引用 0
-👤 Irene Vega-Ramón, Jaan-Pauli Kimpimäki
-
-AI 分: 3.0 / 领域分: 3.0</description>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <category>创意</category><category>人机协作</category><category>创新</category><category>人机协作</category><category>算法</category><category>GenAI</category>
-    </item>    <item>
-      <title>从数据-模型拟合到模型-世界拟合：将领域知识融入人工智能的框架</title>
-      <link>https://ob-ai-papers.vercel.app/papers/72645</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/72645</guid>
-      <description>📝 从数据-模型拟合到模型-世界拟合：将领域知识融入人工智能的框架
-EN: From Data-Model Fit to Model-World Fit: A Framework for Integrating Domain Knowledge into Artificial Intelligence
-
-💡 针对ML/AI模型在真实部署中因过度追求统计性能而忽视领域语义的问题，提出机器学习模型-世界匹配框架，通过数据、价值、流程模型或领域本体等外部知识表征弥补AI的know-what、know-how、know-why三类知识缺陷。以儿童福利安置案例说明，勾勒出机器学习、设计科学与知识表征交叉的研究路线图。
-
-📚 ISR · 2026 · 引用 0
-👤 Arturo Castellanos, Monica Chiarini Tremblay, Roman Lukyanenko, Jeffrey Parsons, Veda C. Storey
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <category>知识管理</category><category>决策</category><category>AI治理</category><category>人机协作</category><category>机器学习</category><category>可解释AI</category><category>AI治理</category>
-    </item>    <item>
-      <title>提升竞争力：以自由职业者为核心的再培训策略推荐方法</title>
-      <link>https://ob-ai-papers.vercel.app/papers/72644</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/72644</guid>
-      <description>📝 提升竞争力：以自由职业者为核心的再培训策略推荐方法
-EN: Improving Competitiveness: A Freelancer-Centric Approach for Recommending Reskilling Strategies
-
-💡 针对在线劳务市场，提出以零工者为中心的技能顾问FESA，结合深度学习推荐系统与对比学习评估人岗匹配度，并利用优化模型推荐再培训策略，支持探索与利用两种模式。基于大规模真实数据与受控实验验证，发现与组织情境中排名激励努力的结论相反，披露低排名信息显著降低再培训动机，该效应在探索策略下更为突出。
-
-📚 ISR · 2026 · 引用 0
-👤 Haoxin Liu, Shuo Yu, Stephen X. He, Wen Wen, Yidong Chai
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <category>零工经济</category><category>推荐系统</category><category>培训</category><category>决策</category><category>推荐算法</category><category>机器学习</category><category>人机交互</category>
     </item>
   </channel>
 </rss>
