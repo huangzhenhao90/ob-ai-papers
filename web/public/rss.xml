@@ -6,9 +6,54 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 26 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>从Twitter社交网络中挖掘品牌认知</title>
+      <link>https://ob-ai-papers.vercel.app/papers/75245</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/75245</guid>
+      <description>📝 从Twitter社交网络中挖掘品牌认知
+EN: Mining Brand Perceptions from Twitter Social Networks
+
+💡 针对品牌感知监测成本高、易过时的问题，提出一种从 Twitter 社交关系中自动挖掘属性级品牌感知评分（如环保性、营养性、奢华感）的通用方法。基于200多个品牌与三类感知属性的数据，该自动评分与直接问卷调查结果呈现稳定强相关，为品牌感知追踪提供了可扩展、低成本的解决方案。
+
+📚 MktSci · 2016 · 引用 218
+👤 Aron Culotta, Jennifer Cutler
+
+AI 分: 3.0 / 领域分: 5.0</description>
+      <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
+      <category>品牌</category><category>消费者行为</category><category>营销</category><category>机器学习</category><category>推荐算法</category>
+    </item>    <item>
+      <title>利用社交网络活动数据识别并定位求职者</title>
+      <link>https://ob-ai-papers.vercel.app/papers/75106</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/75106</guid>
+      <description>📝 利用社交网络活动数据识别并定位求职者
+EN: Using Social Network Activity Data to Identify and Target Job Seekers
+
+💡 针对社交网络平台难以识别用户职业转换状态的问题，提出基于隐马尔可夫模型（HMM）的部分可观测框架，将横截面调查数据与纵向用户行为数据融合，从嘈杂信号中恢复潜在求职状态。该模型可预测用户是否在求职、相关平台行为及求职持续时长，并发现以此指导定向投放可使活动利润提升29%。
+
+📚 MgmtSci · 2022 · 引用 7
+👤 Peter Ebbes, Oded Netzer
+
+AI 分: 3.0 / 领域分: 4.0</description>
+      <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
+      <category>招聘</category><category>营销</category><category>算法决策</category><category>机器学习</category><category>推荐算法</category>
+    </item>    <item>
+      <title>基于少量标注样本的文本分类</title>
+      <link>https://ob-ai-papers.vercel.app/papers/74758</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/74758</guid>
+      <description>📝 基于少量标注样本的文本分类
+EN: Text classification using a few labeled examples
+
+💡 标题表明研究在仅有少量标注样本的条件下实现文本分类。CHB期刊背景下，推测其面向人类行为相关文本（如评论、帖子）的小样本分类场景，结合半监督、迁移或数据增强等策略提升分类效果，以应对标注数据稀缺的现实约束。
+
+📚 CHB · 2014 · 引用 33
+👤 Francesco Colace, Massimo De Santo, Luca Greco, Paolo Napoletano
+
+AI 分: 3.0 / 领域分: 3.0</description>
+      <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
+      <category>消费者行为</category><category>营销</category><category>机器学习</category><category>LLM</category>
+    </item>    <item>
       <title>组织安全产出的决定因素：利用O*NET数据预测职业事故率</title>
       <link>https://ob-ai-papers.vercel.app/papers/74308</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/74308</guid>
@@ -427,57 +472,6 @@ EN: Sentiment, richness, authority, and relevance model of information sharing d
 AI 分: 3.0 / 领域分: 4.0</description>
       <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
       <category>营销</category><category>消费者行为</category><category>信任</category><category>决策</category><category>机器学习</category>
-    </item>    <item>
-      <title>"我与AI聊天机器人聊过，接下来呢？":美国青年对情绪应对中负责任AI的想象</title>
-      <link>https://ob-ai-papers.vercel.app/papers/72848</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/72848</guid>
-      <description>📝 "我与AI聊天机器人聊过，接下来呢？":美国青年对情绪应对中负责任AI的想象
-EN: "I Talked an AI Chatbot, So What's Next?" How U.S. Young Adults Imagine Responsible AI for Emotion Coping
-
-💡 基于关怀伦理学，通过17名美国年轻人在四种情绪应对场景中的情景研究，探讨AI聊天机器人如何塑造情绪应对的关联条件。识别AI可扮演的八种支持角色及三类挑战：扁平化关联条件、抑制互惠性、将关联劳动转嫁给用户。提出负责任AI应响应个体情境化关联条件，并给出促进互惠与增强情绪自我效能两项设计原则。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Jiaying Liu, Nimra Ishfaq
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2609.25311v1</description>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>伦理</category><category>消费者行为</category><category>ChatGPT</category><category>人机交互</category><category>AI 治理</category>
-    </item>    <item>
-      <title>AI生成的邮件草稿改变专业邮件中的文化特色沟通风格</title>
-      <link>https://ob-ai-papers.vercel.app/papers/72846</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/72846</guid>
-      <description>📝 AI生成的邮件草稿改变专业邮件中的文化特色沟通风格
-EN: AI-Generated Email Drafts Shift Culturally Distinctive Communication Styles in Professional Email
-
-💡 通过预注册被试内实验，让日本和美国参与者在无AI、低语境AI与高语境AI辅助下撰写工作邮件。结果发现AI草稿会将邮件风格显著拉向草稿方向，且文化错配时偏移更大：日本人在低语境草稿下偏移最明显，美国人在高语境草稿下偏移最大。研究警示AI草稿可能覆写文化沟通规范，需适配用户沟通风格。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Shintaro Sakai, Alice Gao, Yuichi Shoda, Katharina Reinecke
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2609.26403v1</description>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>伦理</category><category>工作未来</category><category>GenAI</category><category>LLM</category><category>人机交互</category>
-    </item>    <item>
-      <title>条件张量扩散：分布反事实学习与推断</title>
-      <link>https://ob-ai-papers.vercel.app/papers/72842</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/72842</guid>
-      <description>📝 条件张量扩散：分布反事实学习与推断
-EN: Conditional Tensor Diffusion: Distributional Counterfactual Learning and Inference
-
-💡 针对高维面板/张量数据中因果推断难题，提出Counterfactual Tucker Diffusion方法，将处理掩码与潜在Tucker结构融入条件扩散模型，在低维核空间高效学习非线性得分函数。理论上证明得分估计误差以Tucker秩等参数为界，模拟与挪威iFlex实验均显示其在缺失结果填补和反事实分布估计上优于现有因果面板与张量补全方法。
-
-📚 arXiv:stat.ML · 2026 · 引用 0
-👤 Xinbing Kong, Zeyu Li, Junfan Mao, Bin Wu
-
-AI 分: 4.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2609.25924v1</description>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <category>决策</category><category>创新</category><category>机器学习</category><category>算法决策</category>
     </item>
   </channel>
 </rss>
