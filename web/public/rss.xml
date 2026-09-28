@@ -323,6 +323,19 @@ AI 分: 4.0 / 领域分: 5.0</description>
       <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
       <category>消费者行为</category><category>人机协作</category><category>信任</category><category>语音机器人</category><category>人机交互</category>
     </item>    <item>
+      <title>经济体制引导的智能体实时战术与战略销售管理</title>
+      <link>https://ob-ai-papers.vercel.app/papers/73200</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/73200</guid>
+      <description>📝 经济体制引导的智能体实时战术与战略销售管理
+EN: Real-Time Tactical and Strategic Sales Management for Intelligent Agents Guided by Economic Regimes
+
+📚 ISR · 2012 · 引用 49
+👤 Wolfgang Ketter, John Collins, Maria Gini, Alok Gupta, Paul Schrater
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
       <title>移动应用推荐：基于参与度增强的方法</title>
       <link>https://ob-ai-papers.vercel.app/papers/73192</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/73192</guid>
@@ -457,21 +470,6 @@ EN: A Dynamic Bayesian Network approach for agent group trust evaluation
 AI 分: 4.0 / 领域分: 3.0</description>
       <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
       <category>信任</category><category>机器学习</category>
-    </item>    <item>
-      <title>危机情境下信息分享的情感、丰富性、权威性与相关性模型：以#MH370推文为例</title>
-      <link>https://ob-ai-papers.vercel.app/papers/72908</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/72908</guid>
-      <description>📝 危机情境下信息分享的情感、丰富性、权威性与相关性模型：以#MH370推文为例
-EN: Sentiment, richness, authority, and relevance model of information sharing during social Crises—the case of #MH370 tweets
-
-💡 以MH370航班失联事件推文为案例，构建社交危机情境下信息分享的影响因素模型，涵盖情感、丰富度、权威性与相关性四个维度，探讨危机期间社交媒体上信息扩散的驱动机制与用户参与行为特征。
-
-📚 CHB · 2018 · 引用 105
-👤 Weiai (Wayne) Xu, Congcong Zhang
-
-AI 分: 3.0 / 领域分: 4.0</description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <category>营销</category><category>消费者行为</category><category>信任</category><category>决策</category><category>机器学习</category>
     </item>
   </channel>
 </rss>
