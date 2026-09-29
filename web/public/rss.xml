@@ -6,9 +6,41 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 27 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>Is AI Widening the Wage Gap? A Hybrid Agentic Simulation for Labor Equity</title>
+      <link>https://ob-ai-papers.vercel.app/papers/76232</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/76232</guid>
+      <description>📝 Is AI Widening the Wage Gap? A Hybrid Agentic Simulation for Labor Equity
+
+💡 针对AI冲击下工资不平等演化机制不清的问题，研究者构建融合规则模型可扩展性与LLM智能体可解释性的混合代理仿真框架，基于中国社会人口数据模拟反复AI冲击下工资分布变化。结果显示，顶底十等分工资比与基尼系数持续上升，表明AI冲击扩大工资差距、加剧不平等，且在多种LLM决策引擎与30次蒙特卡洛模拟下稳健。进一步反事实实验发现，针对低收入工人的教育补贴能提升其技能升级成功率，部分缓解工资不平等。
+
+📚 arXiv:cs.CY · 2026 · 引用 0
+👤 Zhongbo Hu, Zonghang Wu, Georgina Curto, Aocheng Tang, Yilei Shao
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2609.33367v1</description>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <category>算法管理</category><category>公平性</category><category>工作未来</category><category>教育</category><category>LLM</category><category>人机协作</category><category>算法管理</category>
+    </item>    <item>
+      <title>AI-based matching improves refugee employment in a double-blind randomized trial</title>
+      <link>https://ob-ai-papers.vercel.app/papers/76231</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/76231</guid>
+      <description>📝 AI-based matching improves refugee employment in a double-blind randomized trial
+
+💡 针对难民安置中信息有限导致匹配效率低的问题，研究者在瑞士对约2000名难民案例开展双盲随机试验，将算法驱动的就业优化安置推荐与既有流程对比。算法利用行政数据、机器学习与约束优化，实时推荐最有利于就业的州，并保留人类安置官员最终决定权。结果显示，算法组在安置后三年内的就业月占比相对对照组提升2.2个百分点（疫情后队列达3.9个百分点），效应随时间扩大，证实数据驱动的算法匹配可显著改善难民就业整合。
+
+📚 arXiv:econ.GN · 2026 · 引用 0
+👤 Kirk Bansak, Jens Hainmueller, Dominik Hangartner, Jeremy Ferwerda, Elisabeth Paulson
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2609.35448v1</description>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>决策</category><category>HR</category><category>算法管理</category><category>机器学习</category><category>算法决策</category><category>人机协作</category>
+    </item>    <item>
       <title>从Twitter社交网络中挖掘品牌认知</title>
       <link>https://ob-ai-papers.vercel.app/papers/75245</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/75245</guid>
@@ -329,12 +361,14 @@ AI 分: 4.0 / 领域分: 5.0</description>
       <description>📝 经济体制引导的智能体实时战术与战略销售管理
 EN: Real-Time Tactical and Strategic Sales Management for Intelligent Agents Guided by Economic Regimes
 
+💡 针对动态市场中企业实时定价与库存决策问题，构建统计模型族刻画经济环境并预测未来走势，将经济条件表征为可解释的循环统计模式（经济体制）。模型用于实时预测价格、趋势及客户下单概率，并在多时间尺度上支撑短期定价与长期资源分配决策。基于供应链交易代理竞赛平台的测试表明，该方法优于传统短长期预测模型。
+
 📚 ISR · 2012 · 引用 49
 👤 Wolfgang Ketter, John Collins, Maria Gini, Alok Gupta, Paul Schrater
 
 AI 分: 4.0 / 领域分: 4.0</description>
       <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      
+      <category>决策</category><category>战略</category><category>人机协作</category><category>推荐系统</category><category>机器学习</category><category>算法决策</category><category>人机交互</category>
     </item>    <item>
       <title>移动应用推荐：基于参与度增强的方法</title>
       <link>https://ob-ai-papers.vercel.app/papers/73192</link>
@@ -440,36 +474,6 @@ EN: Disclosures and literacy as determinants of AI-influencer recognition and we
 AI 分: 5.0 / 领域分: 4.0</description>
       <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
       <category>营销</category><category>消费者行为</category><category>伦理</category><category>信任</category><category>GenAI</category><category>图像生成</category><category>人机交互</category>
-    </item>    <item>
-      <title>推力还是拉力？基于PPM框架理解从人工服务向GAI智能体的转换意向</title>
-      <link>https://ob-ai-papers.vercel.app/papers/72924</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/72924</guid>
-      <description>📝 推力还是拉力？基于PPM框架理解从人工服务向GAI智能体的转换意向
-EN: Push or Pull? Understanding switching intentions from human services to GAI agents through the PPM framework
-
-💡 基于推力-拉力-锚定(PPM)框架,探究用户从人工服务转向生成式AI智能体服务的切换意愿。识别推动离开人工服务的推力、吸引转向GAI的拉力以及阻碍转换的锚定因素。
-
-📚 CHB · 2026 · 引用 7
-👤 Chunni Song, Shuhua Zhou
-
-AI 分: 5.0 / 领域分: 5.0</description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <category>消费者行为</category><category>决策</category><category>人机协作</category><category>服务</category><category>GenAI</category><category>LLM</category><category>ChatGPT</category><category>人机交互</category>
-    </item>    <item>
-      <title>面向智能体群组信任评估的动态贝叶斯网络方法</title>
-      <link>https://ob-ai-papers.vercel.app/papers/72909</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/72909</guid>
-      <description>📝 面向智能体群组信任评估的动态贝叶斯网络方法
-EN: A Dynamic Bayesian Network approach for agent group trust evaluation
-
-💡 针对智能体群组信任评估问题，提出基于动态贝叶斯网络(DBN)的信任建模方法。该方法通过捕捉主体间信任关系的时序动态特征与不确定性，对多智能体协作中的群体信任水平进行量化评估，为开放环境下的多智能体系统信任管理提供可计算框架。
-
-📚 CHB · 2018 · 引用 16
-👤 Tung Doan Nguyen, Quan Bai
-
-AI 分: 4.0 / 领域分: 3.0</description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <category>信任</category><category>机器学习</category>
     </item>
   </channel>
 </rss>
