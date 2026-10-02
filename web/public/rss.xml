@@ -6,9 +6,69 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 01 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>追求理想数据：人工智能数据化中的认识论迷魅与意外后果</title>
+      <link>https://ob-ai-papers.vercel.app/papers/77590</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/77590</guid>
+      <description>📝 追求理想数据：人工智能数据化中的认识论迷魅与意外后果
+EN: In Pursuit of Ideal Data: Epistemic Enchantment and the Unintended Consequences of Datafying for Artificial Intelligence
+
+💡 基于三年HR部门民族志调查，探讨AI候选人筛选场景下数据化实践的扩张机制。研究发现，数据化远超技术最初设想范围；据此提出"认知魅惑"概念：组织成员被AI预测性、客观性、持续改进的承诺所俘获与动员，忽视成本与风险，将"理想数据"当作永恒追求却永不可及的目标。
+
+📚 ASQ · 2026 · 引用 0
+👤 Elmira van den Broek, Natalia Levina
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <category>HR</category><category>AI招聘</category><category>算法管理</category><category>组织变革</category><category>AI招聘</category><category>算法决策</category><category>机器学习</category>
+    </item>    <item>
+      <title>评估医生与基于大语言模型聊天机器人的交互：ChatGPT在希腊医疗领域的全国性研究启示</title>
+      <link>https://ob-ai-papers.vercel.app/papers/77488</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/77488</guid>
+      <description>📝 评估医生与基于大语言模型聊天机器人的交互：ChatGPT在希腊医疗领域的全国性研究启示
+EN: Evaluating the interactions of Medical Doctors with chatbots based on large language models: Insights from a nationwide study in the Greek healthcare sector using ChatGPT
+
+💡 基于希腊全国性调查，评估医生在医疗场景中与基于大语言模型的ChatGPT聊天机器人的交互情况，考察使用态度、信任水平与实际效果，揭示临床实践中LLM辅助决策的机遇、局限及医患人机协作的关键挑战。
+
+📚 CHB · 2024 · 引用 21
+👤 Loukas Triantafyllopoulos, Georgios Feretzakis, Lazaros Tzelves, Aikaterini Sakagianni, Vassilios S. Verykios
+
+AI 分: 5.0 / 领域分: 3.0</description>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <category>人机交互</category><category>人机协作</category><category>信任</category><category>决策</category><category>LLM</category><category>ChatGPT</category><category>人机交互</category>
+    </item>    <item>
+      <title>提升医生诊疗表现的脑卒中CDSS：基于认知契合设计方法</title>
+      <link>https://ob-ai-papers.vercel.app/papers/77470</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/77470</guid>
+      <description>📝 提升医生诊疗表现的脑卒中CDSS：基于认知契合设计方法
+EN: Improving physicians' performance with a stroke CDSS: A cognitive fit design approach
+
+💡 针对中风临床决策支持系统（CDSS），基于认知适配理论研究系统信息呈现方式与医生任务需求之间的匹配机制，探讨如何通过优化设计提升系统对医生诊断与治疗决策绩效的改善效果。
+
+📚 CHB · 2016 · 引用 11
+👤 Te-Min Chang, Hao-Yun Kao, Jen-Her Wu, Yu-Feng Su
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <category>决策</category><category>人机交互</category><category>绩效评估</category><category>工作设计</category><category>可解释AI</category><category>人机交互</category><category>机器学习</category>
+    </item>    <item>
+      <title>与虚拟人的对话：合成情感与人类反应</title>
+      <link>https://ob-ai-papers.vercel.app/papers/77466</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/77466</guid>
+      <description>📝 与虚拟人的对话：合成情感与人类反应
+EN: Conversations with a virtual human: Synthetic emotions and human responses
+
+💡 研究虚拟人类（虚拟代理/数字人）在对话情境中表达合成情绪时，用户的情感反应与互动行为。通过实验比较不同情绪表达类型对用户体验、共情感知、信任及态度的影响，揭示合成情绪在人机沟通中的作用机制，为虚拟代理的情绪设计与人机交互优化提供依据。
+
+📚 CHB · 2014 · 引用 45
+👤 Chao Qu, Willem-Paul Brinkman, Yun Ling, Pascal Wiggers, Ingrid Heynderickx
+
+AI 分: 3.0 / 领域分: 4.0</description>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <category>人机交互</category><category>信任</category><category>营销</category><category>人机交互</category><category>机器人</category>
+    </item>    <item>
       <title>AI介导决策环境中的高管判断：形成、资格衰减与授权的过程理论</title>
       <link>https://ob-ai-papers.vercel.app/papers/77427</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/77427</guid>
@@ -100,6 +160,8 @@ AI 分: 5.0 / 领域分: 5.0
       <description>📝 谁的声音在摘要中幸存？：LLM员工倾听中的声音保留审计
 EN: Whose Voice Survives the Summary? A Voice-Retention Audit of LLM Employee Listening
 
+💡 研究LLM摘要员工反馈给领导时的代表性偏差。提出"声音保留比"指标，分析2586条英德双语反馈与45份领导摘要，发现：批评比表扬更易保留，但独立关切被丢弃86%，短文本与德语内容系统性流失；偏差由主题频次驱动而非情感，情感审计无法捕捉；针对性提示仅恢复已命名主题。
+
 📚 arXiv:cs.AI · 2026 · 引用 0
 👤 Thilo Tamme, Anton Hantel, Bijan Khosrawi-Rad
 
@@ -107,7 +169,7 @@ AI 分: 5.0 / 领域分: 5.0
 
 📄 PDF: https://arxiv.org/pdf/2609.38818v1</description>
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      
+      <category>HR</category><category>偏见</category><category>公平性</category><category>员工幸福感</category><category>LLM</category><category>算法决策</category>
     </item>    <item>
       <title>虚拟现实中与人工智能体交互的社会压力：排斥效应与潜在精神病理学</title>
       <link>https://ob-ai-papers.vercel.app/papers/76939</link>
@@ -203,7 +265,9 @@ EN: Psychological Reactions to Subordinates’ LLM Use at Work
 📚 LQ · 2026 · 引用 0
 👤 Samuel Meyers, Roman Briker, Yochanan E. Bigman
 
-AI 分: 5.0 / 领域分: 5.0</description>
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://doi.org/10.1016/j.leaqua.2026.102004</description>
       <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
       <category>领导力</category><category>人机协作</category><category>信任</category><category>员工幸福感</category><category>LLM</category><category>ChatGPT</category><category>人机交互</category>
     </item>    <item>
@@ -426,70 +490,6 @@ EN: Wisdom from the crowd: Can recommender systems predict employee turnover and
 AI 分: 4.0 / 领域分: 4.0</description>
       <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
       <category>HR</category><category>推荐系统</category><category>员工幸福感</category><category>推荐算法</category><category>机器学习</category><category>算法决策</category>
-    </item>    <item>
-      <title>探究机器学习在提升职业选择预测方面的能力</title>
-      <link>https://ob-ai-papers.vercel.app/papers/74306</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/74306</guid>
-      <description>📝 探究机器学习在提升职业选择预测方面的能力
-EN: Investigating machine learning's capacity to enhance the prediction of career choices
-
-💡 基于大样本(N=81,267),比较传统职业兴趣剖面匹配法与机器学习增强法在预测职业选择(在职者职业归属与失业者职业志向)上的准确性。结果显示ML增强法整体准确率更高,尤其在捕捉兴趣与职业选择间复杂、特定关系时优势明显,表明机器学习能有效弥补传统群体平均化打分的不足,提升兴趣量表对个体职业决策的预测效度。
-
-📚 PPsych · 2022 · 引用 30
-👤 Q. Chelsea Song, Hyun Joo Shin, Chen Tang, Alexis Hanna, Tara Behrend
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
-      <category>招聘</category><category>HR</category><category>决策</category><category>机器学习</category>
-    </item>    <item>
-      <title>教导智能体理解团队协作：基于隐马尔可夫模型评估与预测集体智能潜变量</title>
-      <link>https://ob-ai-papers.vercel.app/papers/74155</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/74155</guid>
-      <description>📝 教导智能体理解团队协作：基于隐马尔可夫模型评估与预测集体智能潜变量
-EN: Teaching agents to understand teamwork: Evaluating and predicting collective intelligence as a latent variable via Hidden Markov Models
-
-💡 用隐马尔可夫模型将集体智能建模为潜变量，评估并预测智能体在团队任务中的协作表现，探索AI代理识别团队动态的能力。基于团队交互序列推断群体智能水平，有助于在人机协同场景中训练团队导向的智能体。
-
-📚 CHB · 2023 · 引用 18
-👤 Michelle Zhao, Fade R. Eadeh, Thuy-Ngoc Nguyen, Pranav Gupta, Henny Admoni
-
-AI 分: 3.0 / 领域分: 3.0</description>
-      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
-      <category>团队</category><category>人机协作</category><category>决策</category><category>机器学习</category><category>人机交互</category>
-    </item>    <item>
-      <title>装配、打破与拒绝面具：直播中人工智能中介自我呈现的能动性</title>
-      <link>https://ob-ai-papers.vercel.app/papers/74110</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/74110</guid>
-      <description>📝 装配、打破与拒绝面具：直播中人工智能中介自我呈现的能动性
-EN: Assembling, Breaking, and Refusing the Mask: Agency in AI-Mediated Self-Presentation in Livestreaming
-
-💡 通过627条招聘帖分析与26位中国女主播的直播观察和深度访谈，探讨女性主播如何借助身体、AI中介技术、空间、表演与社会关系等多重面具构建理想化数字人设，并揭示其在压力下打破、抵制与拒绝面具的行为，将面具概念理论化为社会技术组合中能动性协商的实践过程。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Yang Hong, Nusrat Jahan Mim, Sharifa Sultana
-
-AI 分: 4.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2609.28721v1</description>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <category>营销</category><category>消费者行为</category><category>人机协作</category><category>人机交互</category><category>多模态</category>
-    </item>    <item>
-      <title>当无人主导判断时：人机协作中贡献消解下的责任归属</title>
-      <link>https://ob-ai-papers.vercel.app/papers/74107</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/74107</guid>
-      <description>📝 当无人主导判断时：人机协作中贡献消解下的责任归属
-EN: When No One Owns the Judgment: Accountability Under Contribution Dissolution in Human-AI Collaboration
-
-💡 针对人机协作中'判断无人拥有'的责任真空问题，通过AI辅助同行评审和创作中隐瞒AI使用两个案例，揭示披露规则与来源记录的局限。提出三个讨论方向：区分AI所扮演的角色、识别需要明确人类拥有的判断、创造AI参与可披露而不被默认惩罚的条件。核心目标是使AI塑造的贡献可讨论、可归因、可争议、可修复。
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Hengzhi Ye
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2609.29312v1</description>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <category>伦理</category><category>人机协作</category><category>AI治理</category><category>GenAI</category><category>AI治理</category><category>人机协作</category>
     </item>
   </channel>
 </rss>
