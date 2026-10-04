@@ -6,9 +6,24 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 02 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>探究平衡性新闻聊天机器人在不同阴谋论信念群体中的感知信任与效用</title>
+      <link>https://ob-ai-papers.vercel.app/papers/78716</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/78716</guid>
+      <description>📝 探究平衡性新闻聊天机器人在不同阴谋论信念群体中的感知信任与效用
+EN: Investigating perceived trust and utility of balanced news chatbots among individuals with varying conspiracy beliefs
+
+💡 研究调查阴谋论信念程度不同的个体对平衡报道新闻聊天机器人的感知信任与感知效用差异。预期发现阴谋论信念越强者，对呈现多元观点的AI新闻聊天机器人信任度与有用性评价越低，揭示AI新闻工具在虚假信息生态中说服不同受众的边界条件与设计启示。
+
+📚 CHB · 2026 · 引用 2
+👤 Shreya Dubey, Paul E. Ketelaar, Tilman Dingler, Hannah K. Peetz, Hein T. van Schie
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+      <category>信任</category><category>偏见</category><category>消费者行为</category><category>推荐系统</category><category>ChatGPT</category><category>LLM</category><category>人机交互</category><category>人机协作</category>
+    </item>    <item>
       <title>追求理想数据：人工智能数据化中的认识论迷魅与意外后果</title>
       <link>https://ob-ai-papers.vercel.app/papers/77590</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/77590</guid>
@@ -477,21 +492,6 @@ EN: Determinants of safety outcomes in organizations: Exploring O*NET data to pr
 AI 分: 3.0 / 领域分: 3.0</description>
       <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
       <category>HR</category><category>工作设计</category><category>机器学习</category>
-    </item>    <item>
-      <title>群体智慧：推荐系统能否预测员工离职及其去向？</title>
-      <link>https://ob-ai-papers.vercel.app/papers/74307</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/74307</guid>
-      <description>📝 群体智慧：推荐系统能否预测员工离职及其去向？
-EN: Wisdom from the crowd: Can recommender systems predict employee turnover and its destinations?
-
-💡 将推荐系统中的协同过滤算法迁移至员工离职预测，通过工作历史与过往满意度推断替代工作的数量与质量，发现两者均与未来离职行为正相关，为人才保留提供算法化决策工具。
-
-📚 PPsych · 2022 · 引用 17
-👤 Hanyi Min, Baojiang Yang, David G. Allen, Alicia A. Grandey, Mengqiao Liu
-
-AI 分: 4.0 / 领域分: 4.0</description>
-      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
-      <category>HR</category><category>推荐系统</category><category>员工幸福感</category><category>推荐算法</category><category>机器学习</category><category>算法决策</category>
     </item>
   </channel>
 </rss>
