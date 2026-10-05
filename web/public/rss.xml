@@ -6,9 +6,184 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 04 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>LearnAdapt Praxis：面向成人职场学习的可控AI辅助与证据追踪</title>
+      <link>https://ob-ai-papers.vercel.app/papers/80089</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/80089</guid>
+      <description>📝 LearnAdapt Praxis：面向成人职场学习的可控AI辅助与证据追踪
+EN: LearnAdapt Praxis: Controlled AI Assistance and Evidence Traces for Adult Workplace Learning
+
+💡 针对成人职场学习中AI辅助难以审查独立推理的问题，设计五阶段学习工作空间（Frame/Learn/Build/Validate/Transfer），通过版本化规约、辅导记录与服务器端权限控制记录证据链。用120个合成项目回合测试，3990项检查全部通过，验证了工作流、权限、故障恢复与溯源等工程属性，但未证明学习成效或独立评估结果。
+
+📚 arXiv:cs.CY · 2026 · 引用 0
+👤 Nizam Kadir
+
+AI 分: 4.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2610.02699v1</description>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <category>培训</category><category>组织学习</category><category>工作设计</category><category>LLM</category><category>人机协作</category><category>人机交互</category>
+    </item>    <item>
+      <title>通过蒸馏生产环境LLM信号构建可解释的简历-职位匹配特征表示</title>
+      <link>https://ob-ai-papers.vercel.app/papers/80088</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/80088</guid>
+      <description>📝 通过蒸馏生产环境LLM信号构建可解释的简历-职位匹配特征表示
+EN: Building Interpretable Feature Representations for Resume-Vacancy Matching by Distilling Production LLM Signals
+
+💡 为提升招聘中简历—职位匹配的透明度，提出LLM标注器+蒸馏特征双编码器的两阶段方案：LLM负责离线生成8个可解释匹配维度的标签，双编码器（LoRA适配骨干+紧凑维度头）部署于CPU负责在线推理。在168,772对标注数据上训练，招聘人员可在界面确认或修改预测；927条反馈中双方一致率达95.79%，属非盲操作一致性。
+
+📚 arXiv:cs.CL · 2026 · 引用 0
+👤 Ilya Chekin, Vyacheslav Malyugin, Vladimir Chirkov, Mikhail Yurushkin
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2610.03112v1</description>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <category>招聘</category><category>HR</category><category>可解释性</category><category>LLM</category><category>AI招聘</category><category>可解释AI</category>
+    </item>    <item>
+      <title>超越单一视频：电子商务跨视频推理的基准测试与主动证据寻求</title>
+      <link>https://ob-ai-papers.vercel.app/papers/80087</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/80087</guid>
+      <description>📝 超越单一视频：电子商务跨视频推理的基准测试与主动证据寻求
+EN: Beyond Single Videos: Benchmarking and Active Evidence Seeking for E-Commerce Cross-Video Reasoning
+
+💡 针对电商视频多源信息比较难题，构建首个跨视频推理基准AdsCVR（含2483个视频、6110个问答对，覆盖六类推理），并提出智能体框架AdSeek：在多轮探索中动态选择视听工具进行主动取证，配合离线轨迹矫正机制以缓解强化学习稀疏奖励问题。该方法在测试集上达74.30%准确率，较Qwen3-VL-8B基线提升27.90个百分点，并能泛化至开放域。
+
+📚 arXiv:cs.CV · 2026 · 引用 0
+👤 Jinghan Zhao, Yiman Hu, Liang Wu, Jian Xu, Bo Zheng
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2610.03099v1</description>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <category>营销</category><category>广告</category><category>消费者行为</category><category>多模态</category><category>LLM</category><category>机器学习</category>
+    </item>    <item>
+      <title>顺序正确，量度有误：职业AI测量中LLM评判者的审计</title>
+      <link>https://ob-ai-papers.vercel.app/papers/80086</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/80086</guid>
+      <description>📝 顺序正确，量度有误：职业AI测量中LLM评判者的审计
+EN: Right Order, Wrong Scale: Auditing LLM Judges for Occupational AI Measurement
+
+💡 研究关注LLM评判器在职业AI输出评估中的可靠性，构建O*NET-BENCH审计套件评估33种评判器配置。多数配置对响应排序一致性尚可（配对准确率≥0.60），但对可接受率的估计范围高达3.0%–97.9%，与工人实际值61.1%严重偏离；点对点改列表式协议后排序改善却反而降低与工人均值的吻合。校准后最多仅解释8.5%的评分方差，排序一致不足以支撑职业层级测量。
+
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 Harry Lyu, Neil Thompson
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2610.02492v1</description>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <category>HR</category><category>绩效评估</category><category>公平性</category><category>伦理</category><category>LLM</category><category>算法决策</category><category>可解释AI</category>
+    </item>    <item>
+      <title>CreateScore：融合领域理论的贝叶斯路由用于基于LLM的简历筛选</title>
+      <link>https://ob-ai-papers.vercel.app/papers/80084</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/80084</guid>
+      <description>📝 CreateScore：融合领域理论的贝叶斯路由用于基于LLM的简历筛选
+EN: CreateScore: Domain-Theory-Informed Bayesian Routing for LLM-Based CV Screening
+
+💡 针对LLM简历筛选成本高的问题，提出CreateScore框架——基于领域理论的贝叶斯网络在准则层路由LLM决策：低不确定度由本地8B模型处理，高不确定度升级至120B模型。200份合成数据科学简历测试显示，77.7%决策本地解决，token消耗降低65.2%，评分一致性从32.8%提升至42.6%；但不确定性信号未能有效识别8B模型的错误，AUROC仅0.47。
+
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 Rupsa Roy
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2610.02972v1</description>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <category>招聘</category><category>HR</category><category>算法管理</category><category>绩效评估</category><category>LLM</category><category>AI招聘</category><category>算法决策</category>
+    </item>    <item>
+      <title>利用大规模自然语言数据预测领导力感知</title>
+      <link>https://ob-ai-papers.vercel.app/papers/79992</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/79992</guid>
+      <description>📝 利用大规模自然语言数据预测领导力感知
+EN: Predicting leadership perception with large-scale natural language data
+
+💡 利用大规模自然语言数据（如领导者演讲、传记、社交媒体文本等），借助自然语言处理与机器学习方法预测他人对领导者的感知与评价，揭示语言表达特征与领导力认知之间的关系，为领导力测量提供基于文本的大规模量化路径。
+
+📚 LQ · 2022 · 引用 26
+👤 Sudeep Bhatia, Christopher Y. Olivola, Nazlı Bhatia, Amnah Ameen
+
+AI 分: 4.0 / 领域分: 5.0</description>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <category>领导力</category><category>机器学习</category><category>LLM</category>
+    </item>    <item>
+      <title>打开黑箱：通过机器学习揭示领导者特质范式</title>
+      <link>https://ob-ai-papers.vercel.app/papers/79991</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/79991</guid>
+      <description>📝 打开黑箱：通过机器学习揭示领导者特质范式
+EN: Opening the black box: Uncovering the leader trait paradigm through machine learning
+
+💡 针对领导特质研究长期存在的"黑箱"问题，采用机器学习方法系统筛选与领导有效性相关的人格与行为特质，识别关键预测变量及其相对重要性，弥补传统领导特质范式在变量选择和数据驱动预测上的不足。
+
+📚 LQ · 2022 · 引用 50
+👤 Brian M. Doornenbal, Brian R. Spisak, Paul A. van der Laken
+
+AI 分: 3.0 / 领域分: 5.0</description>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <category>领导力</category><category>机器学习</category>
+    </item>    <item>
+      <title>利用机器学习确定领导力研究中的因果关系：实验与数据科学的强大协同</title>
+      <link>https://ob-ai-papers.vercel.app/papers/79990</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/79990</guid>
+      <description>📝 利用机器学习确定领导力研究中的因果关系：实验与数据科学的强大协同
+EN: Determining causal relationships in leadership research using Machine Learning: The powerful synergy of experiments and data science
+
+💡 提出将机器学习与实验设计相结合的领导力研究方法论，利用ML处理高维变量、识别异质性并辅助因果推断，倡导实验与数据科学的协同以提升领导力研究的因果识别能力和外部效度。
+
+📚 LQ · 2022 · 引用 39
+👤 Allan Lee, Ilke Inceoglu, Oliver Hauser, Michael Greene
+
+AI 分: 3.0 / 领域分: 5.0</description>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <category>领导力</category><category>机器学习</category>
+    </item>    <item>
+      <title>为分析引擎寻找合适燃料：通过机器学习拓展领导力特质范式</title>
+      <link>https://ob-ai-papers.vercel.app/papers/79989</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/79989</guid>
+      <description>📝 为分析引擎寻找合适燃料：通过机器学习拓展领导力特质范式
+EN: Finding the right fuel for the analytical engine: Expanding the leader trait paradigm through machine learning?
+
+💡 基于标题推断，该研究运用机器学习方法拓展领导者特质研究范式，从大数据中识别可能被传统理论忽略的领导特质维度或高阶交互效应，丰富领导力特质的实证识别与理论建构。
+
+📚 LQ · 2019 · 引用 24
+👤 Brian R. Spisak, Paul A. van der Laken, Brian M. Doornenbal
+
+AI 分: 3.0 / 领域分: 5.0</description>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <category>领导力</category><category>机器学习</category>
+    </item>    <item>
+      <title>面向消费者动态的自适应：老虎机与隐马尔可夫模型的结合</title>
+      <link>https://ob-ai-papers.vercel.app/papers/79943</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/79943</guid>
+      <description>📝 面向消费者动态的自适应：老虎机与隐马尔可夫模型的结合
+EN: Morphing for Consumer Dynamics: Bandits Meet Hidden Markov Models
+
+💡 针对消费者在购买漏斗中位置动态变化的问题，研究者结合多臂老虎机与隐马尔可夫模型，提出并验证了一种能实时推断用户所处漏斗阶段、动态调整网站设计（如外观与内容）的算法框架，实现个性化的营销干预与优化。
+
+📚 MktSci · 2022 · 引用 22
+👤 Gui Liberali, Alina Ferecatu
+
+AI 分: 3.0 / 领域分: 5.0</description>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <category>营销</category><category>消费者行为</category><category>个性化</category><category>机器学习</category>
+    </item>    <item>
+      <title>算法化环境中的网络集体攻击：算法意识、道德愤慨与负面描述性规范的作用</title>
+      <link>https://ob-ai-papers.vercel.app/papers/79413</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/79413</guid>
+      <description>📝 算法化环境中的网络集体攻击：算法意识、道德愤慨与负面描述性规范的作用
+EN: Online Collective Aggression in Algorithmic Environments: The Roles of Algorithm Awareness, Moral Outrage, and Negative Descriptive Norms
+
+💡 研究算法环境下网络集体攻击行为的形成机制，考察算法意识、道德义愤与负面描述性规范的交互作用，探讨用户在算法平台中为何及如何参与集体性攻击行为。
+
+📚 CHB · 2026 · 引用 0
+👤 Zilin Wang, Jingyuan Yang, Xiaofei Qiao, Lei Li
+
+AI 分: 3.0 / 领域分: 4.0</description>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <category>伦理</category><category>消费者行为</category><category>信任</category><category>算法管理</category><category>推荐算法</category>
+    </item>    <item>
       <title>探究平衡性新闻聊天机器人在不同阴谋论信念群体中的感知信任与效用</title>
       <link>https://ob-ai-papers.vercel.app/papers/78716</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/78716</guid>
@@ -319,179 +494,6 @@ AI 分: 5.0 / 领域分: 5.0
 📄 PDF: https://arxiv.org/pdf/2609.32859v1</description>
       <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
       <category>绩效评估</category><category>组织变革</category><category>人机协作</category><category>激励设计</category><category>GenAI</category><category>LLM</category><category>算法管理</category><category>人机协作</category>
-    </item>    <item>
-      <title>人工智能是否扩大工资差距：面向劳动公平的混合智能体仿真</title>
-      <link>https://ob-ai-papers.vercel.app/papers/76232</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/76232</guid>
-      <description>📝 人工智能是否扩大工资差距：面向劳动公平的混合智能体仿真
-EN: Is AI Widening the Wage Gap? A Hybrid Agentic Simulation for Labor Equity
-
-💡 针对AI冲击下工资不平等演化机制不清的问题，研究者构建融合规则模型可扩展性与LLM智能体可解释性的混合代理仿真框架，基于中国社会人口数据模拟反复AI冲击下工资分布变化。结果显示，顶底十等分工资比与基尼系数持续上升，表明AI冲击扩大工资差距、加剧不平等，且在多种LLM决策引擎与30次蒙特卡洛模拟下稳健。进一步反事实实验发现，针对低收入工人的教育补贴能提升其技能升级成功率，部分缓解工资不平等。
-
-📚 arXiv:cs.CY · 2026 · 引用 0
-👤 Zhongbo Hu, Zonghang Wu, Georgina Curto, Aocheng Tang, Yilei Shao
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2609.33367v1</description>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <category>算法管理</category><category>公平性</category><category>工作未来</category><category>教育</category><category>LLM</category><category>人机协作</category><category>算法管理</category>
-    </item>    <item>
-      <title>基于AI的匹配改善难民就业：一项双盲随机试验</title>
-      <link>https://ob-ai-papers.vercel.app/papers/76231</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/76231</guid>
-      <description>📝 基于AI的匹配改善难民就业：一项双盲随机试验
-EN: AI-based matching improves refugee employment in a double-blind randomized trial
-
-💡 针对难民安置中信息有限导致匹配效率低的问题，研究者在瑞士对约2000名难民案例开展双盲随机试验，将算法驱动的就业优化安置推荐与既有流程对比。算法利用行政数据、机器学习与约束优化，实时推荐最有利于就业的州，并保留人类安置官员最终决定权。结果显示，算法组在安置后三年内的就业月占比相对对照组提升2.2个百分点（疫情后队列达3.9个百分点），效应随时间扩大，证实数据驱动的算法匹配可显著改善难民就业整合。
-
-📚 arXiv:econ.GN · 2026 · 引用 0
-👤 Kirk Bansak, Jens Hainmueller, Dominik Hangartner, Jeremy Ferwerda, Elisabeth Paulson
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2609.35448v1</description>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>决策</category><category>HR</category><category>算法管理</category><category>机器学习</category><category>算法决策</category><category>人机协作</category>
-    </item>    <item>
-      <title>谁在AI时代治理数据？基于美国隐私岗位招聘的计算分析</title>
-      <link>https://ob-ai-papers.vercel.app/papers/76221</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/76221</guid>
-      <description>📝 谁在AI时代治理数据？基于美国隐私岗位招聘的计算分析
-EN: Who Governs Data in the AI Era? A Computational Analysis of the U.S. Privacy Workforce in Job Postings
-
-💡 基于LinkedIn和Indeed上1143条美国隐私岗位招聘数据,结合规则文本挖掘与BERTopic主题建模,识别出18个潜在主题并归纳为4大类,系统刻画隐私岗位的能力、薪酬、认证与AI相关要求分布。研究发现隐私岗位呈现法律、技术与人际能力的混合特征;超过半数岗位提及AI,且AI语言广泛渗透合规、法律、治理与安全主题,表明AI治理职责正被嵌入既有隐私岗位,与独立AI治理岗位并行发展。
-
-📚 arXiv:cs.CY · 2026 · 引用 0
-👤 Ramazan Yener, Muhammad Hassan, Masooda Bashir
-
-AI 分: 4.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2609.32030v1</description>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <category>招聘</category><category>HR</category><category>隐私</category><category>AI治理</category><category>AI治理</category><category>机器学习</category><category>LLM</category>
-    </item>    <item>
-      <title>与AI共事：人机协作的设计框架</title>
-      <link>https://ob-ai-papers.vercel.app/papers/76210</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/76210</guid>
-      <description>📝 与AI共事：人机协作的设计框架
-EN: Working with AI: A Design Framework for Human-AI Collaboration
-
-💡 该白皮书针对GenAI在工作场景中的落地,提出一个人机协作设计框架,涵盖人、AI系统、任务、组织与社会环境五个层面,阐明有效协作的表现、影响因素、需满足的需求及组织应做的设计决策。框架以人机协作装配系统及协作机器人为应用案例,展示如何将设计需求转化为具体协作功能并通过案例研究评估,为组织提供以人为本、有效且负责任的人机协作设计指南。
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Yuqian Lu, Regina Lee, Rui Zhou, Lixin Jiang, Andrew McDaid
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2609.31793v1</description>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>工作设计</category><category>工作未来</category><category>组织变革</category><category>GenAI</category><category>人机协作</category><category>人机交互</category><category>机器人</category>
-    </item>    <item>
-      <title>产品组合的排序学习</title>
-      <link>https://ob-ai-papers.vercel.app/papers/76047</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/76047</guid>
-      <description>📝 产品组合的排序学习
-EN: Learning to Rank an Assortment of Products
-
-💡 针对线上零售商面临的'橱窗浏览'型顾客排序难题，在顾客偏好与注意力未知且相关、且无产品属性可利用的约束下，设计了一类先学习后收益的在线产品排序算法，在热门与多样性之间取得平衡。理论证明算法收敛至已知最优近似比，并与Wayfair合作基于真实点击流数据模拟，显示顾客参与度提升5%–30%。
-
-📚 MgmtSci · 2022 · 引用 39
-👤 Kris J. Ferreira, Sunanda Parthasarathy, Shreyas Sekar
-
-AI 分: 4.0 / 领域分: 4.0</description>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <category>推荐系统</category><category>消费者行为</category><category>营销</category><category>决策</category><category>推荐算法</category><category>机器学习</category>
-    </item>    <item>
-      <title>虚拟代理的社会保真度：对临场感与学习的影响</title>
-      <link>https://ob-ai-papers.vercel.app/papers/75795</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/75795</guid>
-      <description>📝 虚拟代理的社会保真度：对临场感与学习的影响
-EN: Social fidelity in virtual agents: Impacts on presence and learning
-
-💡 聚焦虚拟代理的社会保真度（即虚拟人物在社交线索上的拟真程度），探讨其如何影响用户在与虚拟代理交互过程中的临场感与学习成效，为虚拟代理在教育、培训等场景的设计与效果优化提供依据。
-
-📚 CHB · 2021 · 引用 56
-👤 Anne M. Sinatra, Kimberly A. Pollard, Benjamin T. Files, Ashley H. Oiknine, Mark Ericson
-
-AI 分: 3.0 / 领域分: 4.0</description>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <category>教育</category><category>人机协作</category><category>培训</category><category>人机交互</category><category>机器人</category>
-    </item>    <item>
-      <title>基于鼠标动态识别电子商务中伪造的五星评价</title>
-      <link>https://ob-ai-papers.vercel.app/papers/75793</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/75793</guid>
-      <description>📝 基于鼠标动态识别电子商务中伪造的五星评价
-EN: Spotting faked 5 stars ratings in E-Commerce using mouse dynamics
-
-💡 利用用户在浏览电商页面时的鼠标动态（移动轨迹、点击模式等行为生物特征）作为输入，识别伪造的五星好评，属于基于行为信号的反虚假评论欺诈检测研究，对平台信任与评价真实性具有实践意义。
-
-📚 CHB · 2020 · 引用 18
-👤 Merylin Monaro, Emanuela Cannonito, Luciano Gamberini, Giuseppe Sartori
-
-AI 分: 3.0 / 领域分: 3.0</description>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <category>消费者行为</category><category>信任</category><category>偏见</category><category>机器学习</category><category>人机交互</category>
-    </item>    <item>
-      <title>从Twitter社交网络中挖掘品牌认知</title>
-      <link>https://ob-ai-papers.vercel.app/papers/75245</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/75245</guid>
-      <description>📝 从Twitter社交网络中挖掘品牌认知
-EN: Mining Brand Perceptions from Twitter Social Networks
-
-💡 针对品牌感知监测成本高、易过时的问题，提出一种从 Twitter 社交关系中自动挖掘属性级品牌感知评分（如环保性、营养性、奢华感）的通用方法。基于200多个品牌与三类感知属性的数据，该自动评分与直接问卷调查结果呈现稳定强相关，为品牌感知追踪提供了可扩展、低成本的解决方案。
-
-📚 MktSci · 2016 · 引用 218
-👤 Aron Culotta, Jennifer Cutler
-
-AI 分: 3.0 / 领域分: 5.0</description>
-      <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
-      <category>品牌</category><category>消费者行为</category><category>营销</category><category>机器学习</category><category>推荐算法</category>
-    </item>    <item>
-      <title>利用社交网络活动数据识别并定位求职者</title>
-      <link>https://ob-ai-papers.vercel.app/papers/75106</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/75106</guid>
-      <description>📝 利用社交网络活动数据识别并定位求职者
-EN: Using Social Network Activity Data to Identify and Target Job Seekers
-
-💡 针对社交网络平台难以识别用户职业转换状态的问题，提出基于隐马尔可夫模型（HMM）的部分可观测框架，将横截面调查数据与纵向用户行为数据融合，从嘈杂信号中恢复潜在求职状态。该模型可预测用户是否在求职、相关平台行为及求职持续时长，并发现以此指导定向投放可使活动利润提升29%。
-
-📚 MgmtSci · 2022 · 引用 7
-👤 Peter Ebbes, Oded Netzer
-
-AI 分: 3.0 / 领域分: 4.0</description>
-      <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
-      <category>招聘</category><category>营销</category><category>算法决策</category><category>机器学习</category><category>推荐算法</category>
-    </item>    <item>
-      <title>基于少量标注样本的文本分类</title>
-      <link>https://ob-ai-papers.vercel.app/papers/74758</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/74758</guid>
-      <description>📝 基于少量标注样本的文本分类
-EN: Text classification using a few labeled examples
-
-💡 标题表明研究在仅有少量标注样本的条件下实现文本分类。CHB期刊背景下，推测其面向人类行为相关文本（如评论、帖子）的小样本分类场景，结合半监督、迁移或数据增强等策略提升分类效果，以应对标注数据稀缺的现实约束。
-
-📚 CHB · 2014 · 引用 33
-👤 Francesco Colace, Massimo De Santo, Luca Greco, Paolo Napoletano
-
-AI 分: 3.0 / 领域分: 3.0</description>
-      <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
-      <category>消费者行为</category><category>营销</category><category>机器学习</category><category>LLM</category>
-    </item>    <item>
-      <title>组织安全产出的决定因素：利用O*NET数据预测职业事故率</title>
-      <link>https://ob-ai-papers.vercel.app/papers/74308</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/74308</guid>
-      <description>📝 组织安全产出的决定因素：利用O*NET数据预测职业事故率
-EN: Determinants of safety outcomes in organizations: Exploring O*NET data to predict occupational accident rates
-
-💡 整合O*NET职业描述数据，采用弹性网络、随机森林与梯度提升三种机器学习方法预测美国职业伤害率。发现能力、工作情境与工作活动等子域描述符为显著预测因子，解释变异量介于54.2%—58.8%，扩展了基于横截面数据的安全研究。
-
-📚 PPsych · 2022 · 引用 6
-👤 Lavanya S. Kumar, Gary N. Burns
-
-AI 分: 3.0 / 领域分: 3.0</description>
-      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
-      <category>HR</category><category>工作设计</category><category>机器学习</category>
     </item>
   </channel>
 </rss>
