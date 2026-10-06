@@ -6,9 +6,139 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 05 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>记者意识形态与新闻生产：来自迁移者的证据</title>
+      <link>https://ob-ai-papers.vercel.app/papers/80704</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/80704</guid>
+      <description>📝 记者意识形态与新闻生产：来自迁移者的证据
+EN: Journalist Ideology and the Production of News: Evidence from Movers
+
+💡 构建记者与报社就政治倾向与薪酬签约的模型，利用记者跨报社流动的准自然实验识别记者偏好对新闻倾向的因果效应。基于训练好的transformer模型对2013–2018年美国900万篇报纸文章进行倾向测量，估计结果显示记者意识形态偏好解释了约10%的倾向变异；流动记者的倾向平均向目标报社偏移77%的差距，重新平衡党派构成仅使平均倾向右移0.04个标准差。
+
+📚 arXiv:econ.GN · 2026 · 引用 0
+👤 Levi Boxell, Jacob Conway, Nicolas Longuet-Marx
+
+AI 分: 3.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2610.04182v1</description>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <category>决策</category><category>算法管理</category><category>人机协作</category><category>机器学习</category>
+    </item>    <item>
+      <title>Logic-Logit：基于逻辑的选择建模方法</title>
+      <link>https://ob-ai-papers.vercel.app/papers/80700</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/80700</guid>
+      <description>📝 Logic-Logit：基于逻辑的选择建模方法
+EN: Logic-Logit: A Logic-Based Approach to Choice Modeling
+
+💡 提出Logic-Logit模型，基于逻辑规则（OR-of-ANDs的析取范式）解释人类选择行为。该模型结合列生成技术与Frank-Wolfe算法，高效提取可解释的偏好规则，解决神经网络模型参数庞大且缺乏透明度的问题。实证检验覆盖合成数据与商业、医疗真实场景，验证了模型在保持预测精度的同时提供决策可解释性的优势。
+
+📚 arXiv:cs.LG · 2026 · 引用 0
+👤 Shuhan Zhang, Wendi Ren, Shuang Li
+
+AI 分: 3.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2610.05501v1</description>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <category>决策</category><category>推荐系统</category><category>消费者行为</category><category>可解释 AI</category><category>机器学习</category>
+    </item>    <item>
+      <title>TrustmeWatcher：工作场所微感知与可解释幸福感反馈应用</title>
+      <link>https://ob-ai-papers.vercel.app/papers/80697</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/80697</guid>
+      <description>📝 TrustmeWatcher：工作场所微感知与可解释幸福感反馈应用
+EN: TrustmeWatcher: An Application for Workplace Micro-Sensing and Explainable Well-Being Feedback
+
+💡 TrustmeWatcher是一款整合工作场所感知与可解释幸福感反馈的应用，基于ActivityWatch采集电脑活动轨迹，结合StreamDeck问卷与视频片段生成带标签记录，训练本地AI模型预测六项标准化状态分与总体幸福感，通过XAI解释活动贡献，并提供摄像头与眼动仪的隐私暂停控制，以17名参与者验证完整工作流。
+
+📚 arXiv:cs.LG · 2026 · 引用 0
+👤 Chengyu Yu, Leon Jacopo Costa, Zoja Anžur, Mohan Li, Gašper Slapničar
+
+AI 分: 3.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2610.06657v1</description>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <category>员工幸福感</category><category>隐私</category><category>人机协作</category><category>机器学习</category><category>可解释 AI</category><category>人机交互</category>
+    </item>    <item>
+      <title>评估职位描述中经验等级分类的建模方法</title>
+      <link>https://ob-ai-papers.vercel.app/papers/80696</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/80696</guid>
+      <description>📝 评估职位描述中经验等级分类的建模方法
+EN: Evaluating Modeling Approaches for Experience-Level Classification in Job Description
+
+💡 针对招聘文本中的岗位经验等级预测任务，提出结构感知的 Section-Aware BERT 方法，将职位描述分割为标题、职责、要求等关键段落进行联合编码，并与 TF-IDF 基线及大语言模型在少样本和微调设置下进行对比。实验表明，显式利用文本结构能显著提升经验等级预测效果，在职位名称模糊时尤为明显。误差分析揭示了入门级与高级混淆、中级边界模糊等系统性挑战。
+
+📚 arXiv:cs.CL · 2026 · 引用 0
+👤 Celia Liang, Eddie Wu, Shiqi Wang, Yonah You
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2610.04304v1</description>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <category>招聘</category><category>HR</category><category>LLM</category><category>AI 招聘</category>
+    </item>    <item>
+      <title>从 Token 最大化到结果最大化：你使用 AI 的方式决定其生产力</title>
+      <link>https://ob-ai-papers.vercel.app/papers/80689</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/80689</guid>
+      <description>📝 从 Token 最大化到结果最大化：你使用 AI 的方式决定其生产力
+EN: From Token-Max to Outcome-Max: How You Use AI Determines Its Productivity
+
+💡 研究GenAI使用效率问题，识别token-max目标导致的过度计算消耗，提出outcome-max目标——按单位成本奖励独立验证的任务完成并给出原则性停止规则。通过覆盖个体交互、长期行为适应与组织协作的三层仿真，证明outcome-max在保持任务表现的同时提升效率；并设计OutcomeShare激励机制，实现员工、企业与LLM提供商间的收益共享。
+
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 Chen Xu, Mengqiao Liu, Beibei Li, Chenyan Xiong
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2610.05697v1</description>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>绩效评估</category><category>工作设计</category><category>GenAI</category><category>LLM</category><category>人机协作</category>
+    </item>    <item>
+      <title>穿越评论海洋：揭示电子商务中引入 AI 生成摘要的效果</title>
+      <link>https://ob-ai-papers.vercel.app/papers/80460</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/80460</guid>
+      <description>📝 穿越评论海洋：揭示电子商务中引入 AI 生成摘要的效果
+EN: Navigating the Sea of Reviews: Unveiling the Effects of Introducing AI-Generated Summaries in E-Commerce
+
+💡 在电商平台引入AI生成评论摘要（AIGS）后，消费者撰写评论数量反而增加。现场实验与受控实验发现，机制在于AIGS强化了用户对集体效能的感知，使贡献者相信个人输入对产品知识共同体有实质贡献。调节分析显示该效应对好评较多与争议性产品更显著，内容分析亦发现AIGS引入后评论丰富度提升。
+
+📚 ISR · 2026 · 引用 0
+👤 Qili Wang, Yi SU, Liangfei Qiu, Runyu Chen
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <category>消费者行为</category><category>营销</category><category>推荐系统</category><category>GenAI</category><category>LLM</category>
+    </item>    <item>
+      <title>信任的虚饰：采用AI增强头像对信任的影响</title>
+      <link>https://ob-ai-papers.vercel.app/papers/80459</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/80459</guid>
+      <description>📝 信任的虚饰：采用AI增强头像对信任的影响
+EN: Facade of Trust: The Impact of Adopting AI-Enhanced Profile Pictures on Trust
+
+💡 基于自我呈现理论，采用信任博弈随机实验，探讨AI美颜头像对行为信任与可信度的影响。研究发现发送者使用AI增强头像后信任度下降（转出金额更少），而接收者使用增强头像后可信度上升（返还比例更高）；当双方均使用增强头像时上述效应相互抵消。机制分析表明增强自我呈现提升了感知风险，从而降低信任，且存在性别差异。
+
+📚 ISR · 2026 · 引用 0
+👤 Sijia Ma, Chong (Alex) Wang, Xiaoquan (Michael) Zhang, Tao Lu
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <category>信任</category><category>消费者行为</category><category>人机交互</category><category>AI 治理</category><category>人机交互</category>
+    </item>    <item>
+      <title>保守派认同金融科技？个人调节聚焦削弱自动化财富管理中的算法厌恶效应</title>
+      <link>https://ob-ai-papers.vercel.app/papers/80138</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/80138</guid>
+      <description>📝 保守派认同金融科技？个人调节聚焦削弱自动化财富管理中的算法厌恶效应
+EN: Conservatives endorse Fintech? Individual regulatory focus attenuates the algorithm aversion effects in automated wealth management
+
+💡 探讨保守主义者对金融科技的态度。研究发现个体调节聚焦（促进聚焦 vs 防御聚焦）会调节算法厌恶效应：当促进聚焦较高时，即便偏好保守的个体也会减弱对自动化理财的抵触，更愿意接受算法驱动的财富管理建议，揭示了个人动机取向对算法接受度的边界作用。
+
+📚 CHB · 2023 · 引用 24
+👤 Yaping Chang, Ran Wang
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <category>决策</category><category>信任</category><category>算法决策</category>
+    </item>    <item>
       <title>LearnAdapt Praxis：面向成人职场学习的可控AI辅助与证据追踪</title>
       <link>https://ob-ai-papers.vercel.app/papers/80089</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/80089</guid>
@@ -362,138 +492,6 @@ AI 分: 5.0 / 领域分: 5.0
 📄 PDF: https://arxiv.org/pdf/2609.38818v1</description>
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
       <category>HR</category><category>偏见</category><category>公平性</category><category>员工幸福感</category><category>LLM</category><category>算法决策</category>
-    </item>    <item>
-      <title>虚拟现实中与人工智能体交互的社会压力：排斥效应与潜在精神病理学</title>
-      <link>https://ob-ai-papers.vercel.app/papers/76939</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/76939</guid>
-      <description>📝 虚拟现实中与人工智能体交互的社会压力：排斥效应与潜在精神病理学
-EN: Social stress in an interaction with artificial agents in virtual reality: Effects of ostracism and underlying psychopathology
-
-💡 基于虚拟现实实验范式，考察人工智能代理对参与者实施社会排斥（ostracism）时所引发的社会压力反应，并探讨个体潜在精神病理学特质（如自闭谱系、社交焦虑等）对压力效应的调节作用，旨在揭示人与AI互动中的社会心理机制。
-
-📚 CHB · 2024 · 引用 12
-👤 Marius Rubo, Simone Munsch
-
-AI 分: 3.0 / 领域分: 3.0</description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <category>人机交互</category><category>信任</category><category>公平性</category><category>偏见</category><category>人机交互</category><category>机器人</category>
-    </item>    <item>
-      <title>隐私友好的群组判定：面向无身份广告的职业细分浏览器内机器学习推理</title>
-      <link>https://ob-ai-papers.vercel.app/papers/76880</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/76880</guid>
-      <description>📝 隐私友好的群组判定：面向无身份广告的职业细分浏览器内机器学习推理
-EN: Privacy-Friendly Cohort Determination: Sealed, CSP-Independent In-Browser ML Inference of Professional Segments for Identity-Less Advertising
-
-💡 针对第三方Cookie被屏蔽、Privacy Sandbox停用、反向IP受众在远程办公下失效的B2B广告困境，提出SIF框架：在浏览器跨源iframe中以WebAssembly本地推理专业人群属性，通过嵌套worker和默认CSP封锁网络，结合本地差分隐私、k-anonymity与OpenRTB user.data字段输出标签，实现无跨站标识符的隐私友好型B2B投放。
-
-📚 arXiv:cs.CR · 2026 · 引用 0
-👤 Om Shankar Tiwari, Navnit Shukla, Guanyu Wang, Akshay Jain
-
-AI 分: 3.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2609.36153v1</description>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-      <category>广告</category><category>隐私</category><category>公平性</category><category>营销</category><category>机器学习</category><category>推荐算法</category>
-    </item>    <item>
-      <title>人机协作：从悖论到范式</title>
-      <link>https://ob-ai-papers.vercel.app/papers/76877</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/76877</guid>
-      <description>📝 人机协作：从悖论到范式
-EN: Human-AI Collaboration: From Paradoxes to Patterns
-
-💡 探讨人机协作中自主性与主动性两大设计维度所引发的内在张力，采用悖论视角识别底层问题与解决方案，梳理出从悖论到模式的推导流程，最终归纳出指令、委派、辅助与共创四种人机协作模式，为人机协同系统的设计与实践提供分类框架。
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Michael Weiss
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2609.36481v1</description>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>决策</category><category>工作设计</category><category>人机协作</category><category>人机交互</category>
-    </item>    <item>
-      <title>从词汇基线到智能体检索增强生成：基于SFIA框架的结构化技能与责任层级抽取</title>
-      <link>https://ob-ai-papers.vercel.app/papers/76875</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/76875</guid>
-      <description>📝 从词汇基线到智能体检索增强生成：基于SFIA框架的结构化技能与责任层级抽取
-EN: From Lexical Baselines to Agentic Retrieval-Augmented Generation: Structured Skill and Responsibility-Level Extraction with the SFIA Framework
-
-💡 针对劳动力规划中的技能自动提取问题，以SFIA框架（147项技能、7个责任层级）为封闭词表，将任务形式化为从自由文本中结构化预测（技能, 层级）配对。比较词法基线、稠密检索+LLM重排序、零样本模式约束LLM、单智能体RAG及三智能体crew五种策略，基于自动构建的SFIA 9语料与欧洲ICT岗位专家标注评测。检索式覆盖技能更多但精度低，生成式精度高；只有显式决策层级的策略才能可靠预测层级；多智能体增加延迟却未提升准确率。
-
-📚 arXiv:cs.CL · 2026 · 引用 0
-👤 Ranuga Disansa, U. S. Samarasinghe, Lasith Gunawardena
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2609.35806v1</description>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-      <category>招聘</category><category>HR</category><category>知识管理</category><category>LLM</category><category>推荐算法</category><category>人机协作</category>
-    </item>    <item>
-      <title>EnterpriseBench：面向企业级战略推理与决策的 LLM 智能体基准测试</title>
-      <link>https://ob-ai-papers.vercel.app/papers/76873</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/76873</guid>
-      <description>📝 EnterpriseBench：面向企业级战略推理与决策的 LLM 智能体基准测试
-EN: EnterpriseBench: Benchmarking LLM Agents on Enterprise-Level Strategic Reasoning and Decision-Making
-
-💡 针对LLM智能体在企业级长程、交互式战略推理与决策任务中评估不足的问题，构建EnterpriseBench基准，整合问答与三组交互场景（管理咨询式诊断、啤酒游戏供应链模拟、企业数字孪生项目），在9种智能体方法与4个基座模型上实验，发现现有智能体在企业场景中尚缺乏稳定且跨任务的可靠性。
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Min Yang, Yichen Pan, Jinghua Piao, Dandan Song, Yongshun Gong
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2609.37658v1</description>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-      <category>决策</category><category>战略</category><category>绩效评估</category><category>创新</category><category>LLM</category><category>算法决策</category>
-    </item>    <item>
-      <title>工作中下属使用大语言模型的心理反应</title>
-      <link>https://ob-ai-papers.vercel.app/papers/76774</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/76774</guid>
-      <description>📝 工作中下属使用大语言模型的心理反应
-EN: Psychological Reactions to Subordinates’ LLM Use at Work
-
-💡 研究领导者对下属在工作中使用大语言模型的心理反应，探讨上级如何看待、评价与回应下属借助LLM完成任务的行为，揭示由此引发的信任、公平、地位威胁等感知及其对领导—下属关系的影响。
-
-📚 LQ · 2026 · 引用 0
-👤 Samuel Meyers, Roman Briker, Yochanan E. Bigman
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://doi.org/10.1016/j.leaqua.2026.102004</description>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-      <category>领导力</category><category>人机协作</category><category>信任</category><category>员工幸福感</category><category>LLM</category><category>ChatGPT</category><category>人机交互</category>
-    </item>    <item>
-      <title>评估未知者：评论者人格推断与评论有用性</title>
-      <link>https://ob-ai-papers.vercel.app/papers/76637</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/76637</guid>
-      <description>📝 评估未知者：评论者人格推断与评论有用性
-EN: Assessing the Unacquainted: Inferred Reviewer Personality and Review Helpfulness
-
-💡 基于深度学习模型推断在线评论者的大五人格特质，结合大数据分析检验人格与评论有用性的关系，发现开放性、尽责性、外向性、宜人性越高、情绪稳定性越低，评论越具有用性。进而构建基于集成监督分类算法的预测模型，性能优于基准，可用于预测评论者未来贡献有用评论的可能性。
-
-📚 MISQ · 2021 · 引用 59
-👤 Angela Xia Liu, Yilin Li, Sean Xin Xu
-
-AI 分: 4.0 / 领域分: 3.0</description>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-      <category>消费者行为</category><category>信任</category><category>营销</category><category>机器学习</category><category>深度学习</category>
-    </item>    <item>
-      <title>少即是多：基于适应性激励设计的AI采用管理</title>
-      <link>https://ob-ai-papers.vercel.app/papers/76234</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/76234</guid>
-      <description>📝 少即是多：基于适应性激励设计的AI采用管理
-EN: When Less Is More: Managing AI Adoption with Adaptive Incentive Design
-
-💡 研究某医疗器械公司在内部AI助手推广中采用强制查询量指标后的博弈行为及激励调整效果。起初要求5000名员工每月至少提交200次查询,虽首次使用率显著上升,但出现指标临界点堆叠、31%查询为重复或离任务等问题。将目标下调至100后,利用分店交错实施识别因果效应,查询总量下降30%,其中约90%来自重复或离任务查询,真实工作相关查询无显著变化,而销售人员月销售额提升7%。研究表明,激励适配是AI技术采纳的关键调节变量。
-
-📚 arXiv:econ.GN · 2026 · 引用 0
-👤 Jie Gong, Jiayi Hou, Jin Li, Fei Pu, Xinjue Yao
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2609.32859v1</description>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <category>绩效评估</category><category>组织变革</category><category>人机协作</category><category>激励设计</category><category>GenAI</category><category>LLM</category><category>算法管理</category><category>人机协作</category>
     </item>
   </channel>
 </rss>
