@@ -6,9 +6,110 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 07 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>当我的技能成为智能体技能：知识工作者如何与AI系统共享其专业知识</title>
+      <link>https://ob-ai-papers.vercel.app/papers/81210</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/81210</guid>
+      <description>📝 当我的技能成为智能体技能：知识工作者如何与AI系统共享其专业知识
+EN: When My Skill Becomes Agent Skill: How Knowledge Workers Share Their Expertise with AI Systems
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Tianqi Song, Zicheng Zhu, Hancheng Cao, Yi-Chieh Lee
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2610.09608v1</description>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>多智能体系统中的同质化现象</title>
+      <link>https://ob-ai-papers.vercel.app/papers/81208</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/81208</guid>
+      <description>📝 多智能体系统中的同质化现象
+EN: Homogenization in Multi-Agent Systems
+
+💡 研究多智能体系统(MAS)中的同质化失败模式。用从众、极化、惯性三类指标衡量，在代码生成、招聘、同行评审三个场景中实证：同质化会隐藏并放大代码关联错误、延续偏见代理在招聘中的影响、导致同行评审标准不均衡。简单增加多样性的策略（如采样随机性、混合模型MAS）无法有效降低风险。
+
+📚 arXiv:cs.LG · 2026 · 引用 0
+👤 Prakhar Ganesh, Kyra Wilson, Luca Zappella, Barry-John Theobald, Nicholas Apostoloff
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2610.09824v1</description>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <category>算法管理</category><category>AI治理</category><category>招聘</category><category>偏见</category><category>多智能体系统</category><category>算法决策</category><category>AI治理</category>
+    </item>    <item>
+      <title>交接问题：人机协作中自主权转换的治理</title>
+      <link>https://ob-ai-papers.vercel.app/papers/81202</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/81202</guid>
+      <description>📝 交接问题：人机协作中自主权转换的治理
+EN: The Handover Problem: Governing Autonomy Transitions in Human-AI Collaboration
+
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 Vicente Pelechano, Antoni Mestre, Manoli Albert, Miriam Gil
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2610.10352v1</description>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>Research Note—In CARSs We Trust: How Context-Aware Recommendations Affect Customers’ Trust and Other Business Performance Measures of Recommender Systems</title>
+      <link>https://ob-ai-papers.vercel.app/papers/81150</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/81150</guid>
+      <description>📝 Research Note—In CARSs We Trust: How Context-Aware Recommendations Affect Customers’ Trust and Other Business Performance Measures of Recommender Systems
+
+💡 研究情境化推荐对客户信任及销售等商业绩效的影响。通过欧洲在线出版商的真实用户现场对照实验，发现引入情境信息可提升推荐的准确性和多样性，进而增强客户信任并最终改善购买量、客单价等业务绩效，弥合了推荐准确度与商业价值之间的研究缺口。
+
+📚 ISR · 2016 · 引用 78
+👤 Umberto Panniello, Michele Gorgoglione, Alexander Tuzhilin
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <category>推荐系统</category><category>信任</category><category>消费者行为</category><category>推荐算法</category><category>人机交互</category>
+    </item>    <item>
+      <title>The “Most Popular News” Recommender: Count Amplification and Manipulation Resistance</title>
+      <link>https://ob-ai-papers.vercel.app/papers/81148</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/81148</guid>
+      <description>📝 The “Most Popular News” Recommender: Count Amplification and Manipulation Resistance
+
+📚 ISR · 2014 · 引用 34
+👤 Shankar Prawesh, Balaji Padmanabhan
+
+AI 分: 3.0 / 领域分: 3.0</description>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>Personalization, Engagement, and Content Quality on Social Media: An Evaluation of Reddit’s News Feed</title>
+      <link>https://ob-ai-papers.vercel.app/papers/81146</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/81146</guid>
+      <description>📝 Personalization, Engagement, and Content Quality on Social Media: An Evaluation of Reddit’s News Feed
+
+💡 研究Reddit政治社区中个性化参与度最大化算法对新闻内容可信度的影响。利用排序算法的不连续性识别因果效应，发现个性化算法会扩大用户接触内容在可信度上的差异。进一步评估可信度感知算法，证明平台可以以小幅总参与度损失，大幅提升用户与高可信度发布者的互动占比。
+
+📚 MgmtSci · 2026 · 引用 0
+👤 Alex Moehring
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <category>算法管理</category><category>信任</category><category>内容质量</category><category>消费者行为</category><category>推荐算法</category><category>算法决策</category><category>算法管理</category>
+    </item>    <item>
+      <title>Using Representation Learning and Website Text to Identify Competitor Networks</title>
+      <link>https://ob-ai-papers.vercel.app/papers/81145</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/81145</guid>
+      <description>📝 Using Representation Learning and Website Text to Identify Competitor Networks
+
+💡 提出基于公司网站文本与表征学习构建竞争网络的新方法WTNIC，将上市公司与私营企业映射到同一嵌入空间以识别同行竞争对手。多个基准验证显示，即便使用噪声较大的网站数据，WTNIC仍匹配或优于依赖精选数据的方法，并通过对华竞争案例展示其在公私混合竞争分析中的价值。
+
+📚 MgmtSci · 2026 · 引用 0
+👤 Gerard Hoberg, Craig Knoblock, Gordon Phillips, Jay Pujara, Zhiqiang Qiu
+
+AI 分: 3.0 / 领域分: 4.0</description>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <category>战略</category><category>竞争分析</category><category>创新</category><category>机器学习</category><category>表示学习</category>
+    </item>    <item>
       <title>基于在线职业档案理解跨企业人工智能人才流动网络</title>
       <link>https://ob-ai-papers.vercel.app/papers/81069</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/81069</guid>
@@ -76,6 +177,20 @@ AI 分: 5.0 / 领域分: 5.0
 📄 PDF: https://arxiv.org/pdf/2610.07800v1</description>
       <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
       <category>人机协作</category><category>决策</category><category>培训</category><category>信任</category><category>可解释AI</category><category>人机交互</category>
+    </item>    <item>
+      <title>&lt;b&gt;Practice Prize Paper&lt;/b&gt;—PIN Optimal Distribution of Auction Vehicles System: Applying Price Forecasting, Elasticity Estimation, and Genetic Algorithms to Used-Vehicle Distribution</title>
+      <link>https://ob-ai-papers.vercel.app/papers/80989</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/80989</guid>
+      <description>📝 &amp;lt;b&amp;gt;Practice Prize Paper&amp;lt;/b&amp;gt;—PIN Optimal Distribution of Auction Vehicles System: Applying Price Forecasting, Elasticity Estimation, and Genetic Algorithms to Used-Vehicle Distribution
+
+💡 介绍 J.D. Power 旗下 PIN 部门为汽车制造商再营销业务开发的二手车拍卖最优分配系统（ODAV）。系统融合三个模型：最近邻线性回归预测短期拍卖价格、ARIMA 估算成交量-价格弹性、遗传算法优化车辆分配决策。自 2003 年上线以来已分配超 200 万辆车辆，帮助再营销商在每日拍卖中实现利润最大化的车辆分配。
+
+📚 MktSci · 2009 · 引用 23
+👤 Jie Du, Lili Xie, Stephan Schroeder
+
+AI 分: 3.0 / 领域分: 5.0</description>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+      <category>营销</category><category>决策</category><category>推荐系统</category><category>机器学习</category><category>算法决策</category>
     </item>    <item>
       <title>利用认知大语言模型改进在线反钓鱼训练</title>
       <link>https://ob-ai-papers.vercel.app/papers/80741</link>
@@ -366,128 +481,6 @@ EN: Determining causal relationships in leadership research using Machine Learni
 AI 分: 3.0 / 领域分: 5.0</description>
       <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
       <category>领导力</category><category>机器学习</category>
-    </item>    <item>
-      <title>为分析引擎寻找合适燃料：通过机器学习拓展领导力特质范式</title>
-      <link>https://ob-ai-papers.vercel.app/papers/79989</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/79989</guid>
-      <description>📝 为分析引擎寻找合适燃料：通过机器学习拓展领导力特质范式
-EN: Finding the right fuel for the analytical engine: Expanding the leader trait paradigm through machine learning?
-
-💡 基于标题推断，该研究运用机器学习方法拓展领导者特质研究范式，从大数据中识别可能被传统理论忽略的领导特质维度或高阶交互效应，丰富领导力特质的实证识别与理论建构。
-
-📚 LQ · 2019 · 引用 24
-👤 Brian R. Spisak, Paul A. van der Laken, Brian M. Doornenbal
-
-AI 分: 3.0 / 领域分: 5.0</description>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-      <category>领导力</category><category>机器学习</category>
-    </item>    <item>
-      <title>面向消费者动态的自适应：老虎机与隐马尔可夫模型的结合</title>
-      <link>https://ob-ai-papers.vercel.app/papers/79943</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/79943</guid>
-      <description>📝 面向消费者动态的自适应：老虎机与隐马尔可夫模型的结合
-EN: Morphing for Consumer Dynamics: Bandits Meet Hidden Markov Models
-
-💡 针对消费者在购买漏斗中位置动态变化的问题，研究者结合多臂老虎机与隐马尔可夫模型，提出并验证了一种能实时推断用户所处漏斗阶段、动态调整网站设计（如外观与内容）的算法框架，实现个性化的营销干预与优化。
-
-📚 MktSci · 2022 · 引用 22
-👤 Gui Liberali, Alina Ferecatu
-
-AI 分: 3.0 / 领域分: 5.0</description>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-      <category>营销</category><category>消费者行为</category><category>个性化</category><category>机器学习</category>
-    </item>    <item>
-      <title>算法化环境中的网络集体攻击：算法意识、道德愤慨与负面描述性规范的作用</title>
-      <link>https://ob-ai-papers.vercel.app/papers/79413</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/79413</guid>
-      <description>📝 算法化环境中的网络集体攻击：算法意识、道德愤慨与负面描述性规范的作用
-EN: Online Collective Aggression in Algorithmic Environments: The Roles of Algorithm Awareness, Moral Outrage, and Negative Descriptive Norms
-
-💡 研究算法环境下网络集体攻击行为的形成机制，考察算法意识、道德义愤与负面描述性规范的交互作用，探讨用户在算法平台中为何及如何参与集体性攻击行为。
-
-📚 CHB · 2026 · 引用 0
-👤 Zilin Wang, Jingyuan Yang, Xiaofei Qiao, Lei Li
-
-AI 分: 3.0 / 领域分: 4.0</description>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-      <category>伦理</category><category>消费者行为</category><category>信任</category><category>算法管理</category><category>推荐算法</category>
-    </item>    <item>
-      <title>探究平衡性新闻聊天机器人在不同阴谋论信念群体中的感知信任与效用</title>
-      <link>https://ob-ai-papers.vercel.app/papers/78716</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/78716</guid>
-      <description>📝 探究平衡性新闻聊天机器人在不同阴谋论信念群体中的感知信任与效用
-EN: Investigating perceived trust and utility of balanced news chatbots among individuals with varying conspiracy beliefs
-
-💡 研究调查阴谋论信念程度不同的个体对平衡报道新闻聊天机器人的感知信任与感知效用差异。预期发现阴谋论信念越强者，对呈现多元观点的AI新闻聊天机器人信任度与有用性评价越低，揭示AI新闻工具在虚假信息生态中说服不同受众的边界条件与设计启示。
-
-📚 CHB · 2026 · 引用 2
-👤 Shreya Dubey, Paul E. Ketelaar, Tilman Dingler, Hannah K. Peetz, Hein T. van Schie
-
-AI 分: 4.0 / 领域分: 4.0</description>
-      <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-      <category>信任</category><category>偏见</category><category>消费者行为</category><category>推荐系统</category><category>ChatGPT</category><category>LLM</category><category>人机交互</category><category>人机协作</category>
-    </item>    <item>
-      <title>追求理想数据：人工智能数据化中的认识论迷魅与意外后果</title>
-      <link>https://ob-ai-papers.vercel.app/papers/77590</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/77590</guid>
-      <description>📝 追求理想数据：人工智能数据化中的认识论迷魅与意外后果
-EN: In Pursuit of Ideal Data: Epistemic Enchantment and the Unintended Consequences of Datafying for Artificial Intelligence
-
-💡 基于三年HR部门民族志调查，探讨AI候选人筛选场景下数据化实践的扩张机制。研究发现，数据化远超技术最初设想范围；据此提出"认知魅惑"概念：组织成员被AI预测性、客观性、持续改进的承诺所俘获与动员，忽视成本与风险，将"理想数据"当作永恒追求却永不可及的目标。
-
-📚 ASQ · 2026 · 引用 0
-👤 Elmira van den Broek, Natalia N. Levina
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://doi.org/10.1177/00018392261484887</description>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-      <category>HR</category><category>AI招聘</category><category>算法管理</category><category>组织变革</category><category>AI招聘</category><category>算法决策</category><category>机器学习</category>
-    </item>    <item>
-      <title>评估医生与基于大语言模型聊天机器人的交互：ChatGPT在希腊医疗领域的全国性研究启示</title>
-      <link>https://ob-ai-papers.vercel.app/papers/77488</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/77488</guid>
-      <description>📝 评估医生与基于大语言模型聊天机器人的交互：ChatGPT在希腊医疗领域的全国性研究启示
-EN: Evaluating the interactions of Medical Doctors with chatbots based on large language models: Insights from a nationwide study in the Greek healthcare sector using ChatGPT
-
-💡 基于希腊全国性调查，评估医生在医疗场景中与基于大语言模型的ChatGPT聊天机器人的交互情况，考察使用态度、信任水平与实际效果，揭示临床实践中LLM辅助决策的机遇、局限及医患人机协作的关键挑战。
-
-📚 CHB · 2024 · 引用 21
-👤 Loukas Triantafyllopoulos, Georgios Feretzakis, Lazaros Tzelves, Aikaterini Sakagianni, Vassilios S. Verykios
-
-AI 分: 5.0 / 领域分: 3.0</description>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-      <category>人机交互</category><category>人机协作</category><category>信任</category><category>决策</category><category>LLM</category><category>ChatGPT</category><category>人机交互</category>
-    </item>    <item>
-      <title>提升医生诊疗表现的脑卒中CDSS：基于认知契合设计方法</title>
-      <link>https://ob-ai-papers.vercel.app/papers/77470</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/77470</guid>
-      <description>📝 提升医生诊疗表现的脑卒中CDSS：基于认知契合设计方法
-EN: Improving physicians' performance with a stroke CDSS: A cognitive fit design approach
-
-💡 针对中风临床决策支持系统（CDSS），基于认知适配理论研究系统信息呈现方式与医生任务需求之间的匹配机制，探讨如何通过优化设计提升系统对医生诊断与治疗决策绩效的改善效果。
-
-📚 CHB · 2016 · 引用 11
-👤 Te-Min Chang, Hao-Yun Kao, Jen-Her Wu, Yu-Feng Su
-
-AI 分: 4.0 / 领域分: 4.0</description>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-      <category>决策</category><category>人机交互</category><category>绩效评估</category><category>工作设计</category><category>可解释AI</category><category>人机交互</category><category>机器学习</category>
-    </item>    <item>
-      <title>与虚拟人的对话：合成情感与人类反应</title>
-      <link>https://ob-ai-papers.vercel.app/papers/77466</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/77466</guid>
-      <description>📝 与虚拟人的对话：合成情感与人类反应
-EN: Conversations with a virtual human: Synthetic emotions and human responses
-
-💡 研究虚拟人类（虚拟代理/数字人）在对话情境中表达合成情绪时，用户的情感反应与互动行为。通过实验比较不同情绪表达类型对用户体验、共情感知、信任及态度的影响，揭示合成情绪在人机沟通中的作用机制，为虚拟代理的情绪设计与人机交互优化提供依据。
-
-📚 CHB · 2014 · 引用 45
-👤 Chao Qu, Willem-Paul Brinkman, Yun Ling, Pascal Wiggers, Ingrid Heynderickx
-
-AI 分: 3.0 / 领域分: 4.0</description>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-      <category>人机交互</category><category>信任</category><category>营销</category><category>人机交互</category><category>机器人</category>
     </item>
   </channel>
 </rss>
