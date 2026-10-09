@@ -6,14 +6,112 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 08 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>谁主导、谁获利：异构语言模型市场中的算法合谋</title>
+      <link>https://ob-ai-papers.vercel.app/papers/81327</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/81327</guid>
+      <description>📝 谁主导、谁获利：异构语言模型市场中的算法合谋
+EN: Who Leads and Who Collects:Algorithmic Collusion in Markets of Heterogeneous Language Models
+
+💡 研究不同语言模型定价算法在四企业伯特兰德市场中的合谋行为。通过对四个LLM（Claude、Gemini、DeepSeek、GPT）进行同质与混合组合的实验（11种配置、20次运行、200期），发现合谋程度是模型固有属性：Claude和Gemini市场达72%-79%垄断租金，DeepSeek仅24%，GPT几乎无合谋。混合本身未必降低合谋，含Gemini的市场更趋合谋，含Claude的则反之。租金按传递性秩序分配，验证价格领导模型预测。
+
+📚 arXiv:econ.GN · 2026 · 引用 0
+👤 Jun Yeong Lee
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2610.11256v1</description>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <category>决策</category><category>战略</category><category>信任</category><category>LLM</category><category>算法决策</category>
+    </item>    <item>
+      <title>Workerville：迈向基于组织行为学的智能体安全解释</title>
+      <link>https://ob-ai-papers.vercel.app/papers/81324</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/81324</guid>
+      <description>📝 Workerville：迈向基于组织行为学的智能体安全解释
+EN: Workerville: Towards an Organizational Behavior Account of Agent Safety
+
+💡 从组织行为学视角研究LLM智能体安全性，提出智能体反生产行为（ACB）框架，将组织前因（垂直领导关系、水平同伴规范、内部认知结构）映射到三类反生产结果（未授权披露、破坏性操作、生产偏离）。构建Workerville基准（16种组织配置、210个任务、3360个挑战），对6个前沿LLM评估，发现负面组织前因组合时呈非单调放大效应。
+
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 Hanjun Luo, Junting Mao, Yuhan Lu, Haobo Zhang, Zhimu Huang
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2610.11561v1</description>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <category>伦理</category><category>组织变革</category><category>知识管理</category><category>LLM</category><category>AI治理</category>
+    </item>    <item>
+      <title>基于本地LLM的证据可追溯动态访谈架构：面向专业知识自适应的质性访谈</title>
+      <link>https://ob-ai-papers.vercel.app/papers/81321</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/81321</guid>
+      <description>📝 基于本地LLM的证据可追溯动态访谈架构：面向专业知识自适应的质性访谈
+EN: Evidence-Traceable Dynamic Interviewer Architecture for Expertise-Adaptive Qualitative Interviews Using Local LLMs
+
+💡 提出基于本地LLM的证据可追溯动态访谈架构，根据参与者回复实时调整问题深度与语义递进。五模块提示驱动架构结合持久访谈状态记录，246名参与者评估显示：专业知识画像模块与自报水平一致率78.9%（加权Kappa=0.80），迭代问题生成模块展现强专业复杂度关联（r=0.79），参与者在相关性、投入度和满意度方面评分较高。
+
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 Aisvarya Adeseye, Jouni Isoaho, Adeyemi Adeseye, Seppo Virtanen, Mohammad Tahir
+
+AI 分: 4.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2610.11651v1</description>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <category>招聘</category><category>教育</category><category>人机协作</category><category>LLM</category><category>人机交互</category>
+    </item>    <item>
+      <title>基于实验的广告测量增量性预测</title>
+      <link>https://ob-ai-papers.vercel.app/papers/81281</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/81281</guid>
+      <description>📝 基于实验的广告测量增量性预测
+EN: Predicted Incrementality by Experimentation for Ad Measurement
+
+💡 针对广告效果因果测量难以大规模开展 RCT 的痛点，提出 PIE 方法：以少量 RCT 估计的增量转化为标签，将广告活动特征映射到因果效应，从而对非实验活动做预测。允许使用活动结束后才可得的特征（如测试组结果、曝光率、最后点击转化），这些虽不可作因果控制变量，却能预测增量。在 Meta 2226 个广告实验上，PIE 对每美元增量转化的样本外 R² 显著高于行业标准的 7 天最后点击归因；在决策层面与 RCT 决策仅 8%–12% 不一致，优于归因法。
+
+📚 MgmtSci · 2026 · 引用 0
+👤 Brett R. Gordon, Robert Moakler, Florian Zettelmeyer
+
+AI 分: 3.0 / 领域分: 5.0</description>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <category>广告</category><category>营销</category><category>决策</category><category>机器学习</category>
+    </item>    <item>
+      <title>当数据科学家遇上领域专家：人工智能、认知冲突与知识转化</title>
+      <link>https://ob-ai-papers.vercel.app/papers/81249</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/81249</guid>
+      <description>📝 当数据科学家遇上领域专家：人工智能、认知冲突与知识转化
+EN: When Data Scientists Meet Domain Experts: Artificial Intelligence, Epistemic Conflict, and Knowledge Transformation
+
+💡 基于对印度三家大型银行 18 个月的归纳研究，揭示数据科学家与领域专家在 AI 项目中围绕知识生产与评价标准产生的认识论冲突。研究区分认识论冲突与管辖权冲突，发现前者可经同化实践（追随单一认识论立场）缓解；当其失败后，数据科学家通过四项桥接实践，将预测嵌入领域专家既有的边界对象与实践，从而推动知识转化与模型部署，揭示了组织中专业知识权力的运作。
+
+📚 OrgSci · 2026 · 引用 0
+👤 Mayur Joshi, Ning Su, Mark Zbaracki
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <category>知识管理</category><category>组织学习</category><category>人机协作</category><category>机器学习</category><category>可解释 AI</category><category>人机交互</category>
+    </item>    <item>
+      <title>书评文章：质疑人类与机器——阶级冲突中的人工智能</title>
+      <link>https://ob-ai-papers.vercel.app/papers/81235</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/81235</guid>
+      <description>📝 书评文章：质疑人类与机器——阶级冲突中的人工智能
+EN: Book Review Essay: Questioning Humans versus Machines: Artificial Intelligence in Class Conflict
+
+💡 书评论文，探讨 AI 时代的人机关系与阶级冲突议题，反思技术变革背景下的劳动、权力与不平等问题，以及 AI 在重塑社会阶级结构中的角色。
+
+📚 ASQ · 2022 · 引用 3
+👤 David Stark
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <category>伦理</category><category>组织变革</category><category>工作未来</category><category>AI 治理</category>
+    </item>    <item>
       <title>当我的技能成为智能体技能：知识工作者如何与AI系统共享其专业知识</title>
       <link>https://ob-ai-papers.vercel.app/papers/81210</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/81210</guid>
       <description>📝 当我的技能成为智能体技能：知识工作者如何与AI系统共享其专业知识
 EN: When My Skill Becomes Agent Skill: How Knowledge Workers Share Their Expertise with AI Systems
+
+💡 知识工作者将专业知识共享给AI系统时，更可能选择不共享（而非改变共享内容本身），其推理从面向人类的利他动机转向对失控、被替代及下游治理的担忧。实验表明AI重用会加剧组织知识复用与贡献者利益之间的张力，建议在AI与知识管理政策中保护员工的权利与自主性。
 
 📚 arXiv:cs.HC · 2026 · 引用 0
 👤 Tianqi Song, Zicheng Zhu, Hancheng Cao, Yi-Chieh Lee
@@ -22,7 +120,7 @@ AI 分: 5.0 / 领域分: 5.0
 
 📄 PDF: https://arxiv.org/pdf/2610.09608v1</description>
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-      
+      <category>知识管理</category><category>人机协作</category><category>工作设计</category><category>组织变革</category><category>GenAI</category><category>人机协作</category><category>AI治理</category>
     </item>    <item>
       <title>多智能体系统中的同质化现象</title>
       <link>https://ob-ai-papers.vercel.app/papers/81208</link>
@@ -47,6 +145,8 @@ AI 分: 5.0 / 领域分: 3.0
       <description>📝 交接问题：人机协作中自主权转换的治理
 EN: The Handover Problem: Governing Autonomy Transitions in Human-AI Collaboration
 
+💡 将人机协作中何时提升、维持或回退AI自主权形式化为"交接问题"。提出交接就绪度评分（HRS），整合操作者准备度、人机信任、学习稳定性与运行绩效四个信号维度，并结合迟滞转换策略与硬性安全护栏：护栏处理单指标越界，HRS识别多信号缓慢侵蚀，在软件工程与制造场景中实现可审计、可逆的自主权过渡。
+
 📚 arXiv:cs.AI · 2026 · 引用 0
 👤 Vicente Pelechano, Antoni Mestre, Manoli Albert, Miriam Gil
 
@@ -54,7 +154,7 @@ AI 分: 5.0 / 领域分: 4.0
 
 📄 PDF: https://arxiv.org/pdf/2610.10352v1</description>
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-      
+      <category>人机协作</category><category>决策</category><category>信任</category><category>AI治理</category><category>人机协作</category><category>算法决策</category><category>可解释AI</category>
     </item>    <item>
       <title>Research Note—In CARSs We Trust: How Context-Aware Recommendations Affect Customers’ Trust and Other Business Performance Measures of Recommender Systems</title>
       <link>https://ob-ai-papers.vercel.app/papers/81150</link>
@@ -70,22 +170,26 @@ AI 分: 4.0 / 领域分: 4.0</description>
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
       <category>推荐系统</category><category>信任</category><category>消费者行为</category><category>推荐算法</category><category>人机交互</category>
     </item>    <item>
-      <title>The “Most Popular News” Recommender: Count Amplification and Manipulation Resistance</title>
+      <title>"最热门新闻"推荐器：计数放大与抗操纵</title>
       <link>https://ob-ai-papers.vercel.app/papers/81148</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/81148</guid>
-      <description>📝 The “Most Popular News” Recommender: Count Amplification and Manipulation Resistance
+      <description>📝 "最热门新闻"推荐器：计数放大与抗操纵
+EN: The “Most Popular News” Recommender: Count Amplification and Manipulation Resistance
+
+💡 针对主流媒体广泛使用的"N条最热门新闻"推荐机制，指出其因微小初始差异被放大而易被操纵，并对恰好落选的第N+1篇文章产生不当惩罚。基于经典urn模型提出概率选择变体，理论证明其对常见操纵策略更具鲁棒性，且消除了边界惩罚效应。
 
 📚 ISR · 2014 · 引用 34
 👤 Shankar Prawesh, Balaji Padmanabhan
 
 AI 分: 3.0 / 领域分: 3.0</description>
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-      
+      <category>推荐系统</category><category>推荐算法</category><category>算法决策</category>
     </item>    <item>
-      <title>Personalization, Engagement, and Content Quality on Social Media: An Evaluation of Reddit’s News Feed</title>
+      <title>社交媒体中的个性化、参与度与内容质量：Reddit 新闻信息流评估</title>
       <link>https://ob-ai-papers.vercel.app/papers/81146</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/81146</guid>
-      <description>📝 Personalization, Engagement, and Content Quality on Social Media: An Evaluation of Reddit’s News Feed
+      <description>📝 社交媒体中的个性化、参与度与内容质量：Reddit 新闻信息流评估
+EN: Personalization, Engagement, and Content Quality on Social Media: An Evaluation of Reddit’s News Feed
 
 💡 研究Reddit政治社区中个性化参与度最大化算法对新闻内容可信度的影响。利用排序算法的不连续性识别因果效应，发现个性化算法会扩大用户接触内容在可信度上的差异。进一步评估可信度感知算法，证明平台可以以小幅总参与度损失，大幅提升用户与高可信度发布者的互动占比。
 
@@ -96,15 +200,16 @@ AI 分: 4.0 / 领域分: 4.0</description>
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
       <category>算法管理</category><category>信任</category><category>内容质量</category><category>消费者行为</category><category>推荐算法</category><category>算法决策</category><category>算法管理</category>
     </item>    <item>
-      <title>Using Representation Learning and Website Text to Identify Competitor Networks</title>
+      <title>利用表示学习与网站文本识别竞争者网络</title>
       <link>https://ob-ai-papers.vercel.app/papers/81145</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/81145</guid>
-      <description>📝 Using Representation Learning and Website Text to Identify Competitor Networks
+      <description>📝 利用表示学习与网站文本识别竞争者网络
+EN: Using Representation Learning and Website Text to Identify Competitor Networks
 
 💡 提出基于公司网站文本与表征学习构建竞争网络的新方法WTNIC，将上市公司与私营企业映射到同一嵌入空间以识别同行竞争对手。多个基准验证显示，即便使用噪声较大的网站数据，WTNIC仍匹配或优于依赖精选数据的方法，并通过对华竞争案例展示其在公私混合竞争分析中的价值。
 
 📚 MgmtSci · 2026 · 引用 0
-👤 Gerard Hoberg, Craig Knoblock, Gordon Phillips, Jay Pujara, Zhiqiang Qiu
+👤 Gerard Hoberg, Craig A. Knoblock, Gordon M. Phillips, Jay Pujara, Zhiqiang Qiu
 
 AI 分: 3.0 / 领域分: 4.0</description>
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
@@ -385,102 +490,6 @@ AI 分: 5.0 / 领域分: 4.0
 📄 PDF: https://arxiv.org/pdf/2610.03112v1</description>
       <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
       <category>招聘</category><category>HR</category><category>可解释性</category><category>LLM</category><category>AI招聘</category><category>可解释AI</category>
-    </item>    <item>
-      <title>超越单一视频：电子商务跨视频推理的基准测试与主动证据寻求</title>
-      <link>https://ob-ai-papers.vercel.app/papers/80087</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/80087</guid>
-      <description>📝 超越单一视频：电子商务跨视频推理的基准测试与主动证据寻求
-EN: Beyond Single Videos: Benchmarking and Active Evidence Seeking for E-Commerce Cross-Video Reasoning
-
-💡 针对电商视频多源信息比较难题，构建首个跨视频推理基准AdsCVR（含2483个视频、6110个问答对，覆盖六类推理），并提出智能体框架AdSeek：在多轮探索中动态选择视听工具进行主动取证，配合离线轨迹矫正机制以缓解强化学习稀疏奖励问题。该方法在测试集上达74.30%准确率，较Qwen3-VL-8B基线提升27.90个百分点，并能泛化至开放域。
-
-📚 arXiv:cs.CV · 2026 · 引用 0
-👤 Jinghan Zhao, Yiman Hu, Liang Wu, Jian Xu, Bo Zheng
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2610.03099v1</description>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-      <category>营销</category><category>广告</category><category>消费者行为</category><category>多模态</category><category>LLM</category><category>机器学习</category>
-    </item>    <item>
-      <title>顺序正确，量度有误：职业AI测量中LLM评判者的审计</title>
-      <link>https://ob-ai-papers.vercel.app/papers/80086</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/80086</guid>
-      <description>📝 顺序正确，量度有误：职业AI测量中LLM评判者的审计
-EN: Right Order, Wrong Scale: Auditing LLM Judges for Occupational AI Measurement
-
-💡 研究关注LLM评判器在职业AI输出评估中的可靠性，构建O*NET-BENCH审计套件评估33种评判器配置。多数配置对响应排序一致性尚可（配对准确率≥0.60），但对可接受率的估计范围高达3.0%–97.9%，与工人实际值61.1%严重偏离；点对点改列表式协议后排序改善却反而降低与工人均值的吻合。校准后最多仅解释8.5%的评分方差，排序一致不足以支撑职业层级测量。
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Harry Lyu, Neil Thompson
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2610.02492v1</description>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-      <category>HR</category><category>绩效评估</category><category>公平性</category><category>伦理</category><category>LLM</category><category>算法决策</category><category>可解释AI</category>
-    </item>    <item>
-      <title>CreateScore：融合领域理论的贝叶斯路由用于基于LLM的简历筛选</title>
-      <link>https://ob-ai-papers.vercel.app/papers/80084</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/80084</guid>
-      <description>📝 CreateScore：融合领域理论的贝叶斯路由用于基于LLM的简历筛选
-EN: CreateScore: Domain-Theory-Informed Bayesian Routing for LLM-Based CV Screening
-
-💡 针对LLM简历筛选成本高的问题，提出CreateScore框架——基于领域理论的贝叶斯网络在准则层路由LLM决策：低不确定度由本地8B模型处理，高不确定度升级至120B模型。200份合成数据科学简历测试显示，77.7%决策本地解决，token消耗降低65.2%，评分一致性从32.8%提升至42.6%；但不确定性信号未能有效识别8B模型的错误，AUROC仅0.47。
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Rupsa Roy
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2610.02972v1</description>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-      <category>招聘</category><category>HR</category><category>算法管理</category><category>绩效评估</category><category>LLM</category><category>AI招聘</category><category>算法决策</category>
-    </item>    <item>
-      <title>利用大规模自然语言数据预测领导力感知</title>
-      <link>https://ob-ai-papers.vercel.app/papers/79992</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/79992</guid>
-      <description>📝 利用大规模自然语言数据预测领导力感知
-EN: Predicting leadership perception with large-scale natural language data
-
-💡 利用大规模自然语言数据（如领导者演讲、传记、社交媒体文本等），借助自然语言处理与机器学习方法预测他人对领导者的感知与评价，揭示语言表达特征与领导力认知之间的关系，为领导力测量提供基于文本的大规模量化路径。
-
-📚 LQ · 2022 · 引用 26
-👤 Sudeep Bhatia, Christopher Y. Olivola, Nazlı Bhatia, Amnah Ameen
-
-AI 分: 4.0 / 领域分: 5.0</description>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-      <category>领导力</category><category>机器学习</category><category>LLM</category>
-    </item>    <item>
-      <title>打开黑箱：通过机器学习揭示领导者特质范式</title>
-      <link>https://ob-ai-papers.vercel.app/papers/79991</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/79991</guid>
-      <description>📝 打开黑箱：通过机器学习揭示领导者特质范式
-EN: Opening the black box: Uncovering the leader trait paradigm through machine learning
-
-💡 针对领导特质研究长期存在的"黑箱"问题，采用机器学习方法系统筛选与领导有效性相关的人格与行为特质，识别关键预测变量及其相对重要性，弥补传统领导特质范式在变量选择和数据驱动预测上的不足。
-
-📚 LQ · 2022 · 引用 50
-👤 Brian M. Doornenbal, Brian R. Spisak, Paul A. van der Laken
-
-AI 分: 3.0 / 领域分: 5.0</description>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-      <category>领导力</category><category>机器学习</category>
-    </item>    <item>
-      <title>利用机器学习确定领导力研究中的因果关系：实验与数据科学的强大协同</title>
-      <link>https://ob-ai-papers.vercel.app/papers/79990</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/79990</guid>
-      <description>📝 利用机器学习确定领导力研究中的因果关系：实验与数据科学的强大协同
-EN: Determining causal relationships in leadership research using Machine Learning: The powerful synergy of experiments and data science
-
-💡 提出将机器学习与实验设计相结合的领导力研究方法论，利用ML处理高维变量、识别异质性并辅助因果推断，倡导实验与数据科学的协同以提升领导力研究的因果识别能力和外部效度。
-
-📚 LQ · 2022 · 引用 39
-👤 Allan Lee, Ilke Inceoglu, Oliver Hauser, Michael Greene
-
-AI 分: 3.0 / 领域分: 5.0</description>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-      <category>领导力</category><category>机器学习</category>
     </item>
   </channel>
 </rss>
