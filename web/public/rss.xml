@@ -6,9 +6,52 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 09 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>告知用户大语言模型的环境成本可促进伦理消费</title>
+      <link>https://ob-ai-papers.vercel.app/papers/81356</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/81356</guid>
+      <description>📝 告知用户大语言模型的环境成本可促进伦理消费
+EN: Informing users about LLMs' environmental costs encourages ethical consumption
+
+💡 研究在用户使用大语言模型时告知其环境成本（如算力、碳排放）能否引导更负责任的使用行为。围绕提示设计、用户感知与伦理消费意愿展开，预期发现信息透明可促使用户减少使用频率或选择轻量替代方案，推动LLM的可持续消费。
+
+📚 CHB · 2026 · 引用 0
+👤 Hagai Rabinovitch, Isabel Kashi, Shaul Shalvi
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+      <category>伦理</category><category>消费者行为</category><category>人机交互</category><category>LLM</category><category>GenAI</category>
+    </item>    <item>
+      <title>Designing medical artificial intelligence for in- and out-groups</title>
+      <link>https://ob-ai-papers.vercel.app/papers/81343</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/81343</guid>
+      <description>📝 Designing medical artificial intelligence for in- and out-groups
+
+💡 探讨医疗AI在设计与部署中如何兼顾内群体（受惠患者）与外群体（被边缘化人群）的需求与公平性。研究关注算法偏差、代表性数据、用户信任与接受度，旨在提出兼顾多元群体利益的医疗AI设计原则。
+
+📚 CHB · 2021 · 引用 13
+👤 Wanyue Li, Xinyue Zhou, Qian Yang
+
+AI 分: 5.0 / 领域分: 3.0</description>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+      <category>公平性</category><category>伦理</category><category>信任</category><category>人机协作</category><category>可解释 AI</category><category>人机交互</category>
+    </item>    <item>
+      <title>Connections between e-learning, web science, cognitive computation and social sensing, and their relevance to learning analytics: A preliminary study</title>
+      <link>https://ob-ai-papers.vercel.app/papers/81336</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/81336</guid>
+      <description>📝 Connections between e-learning, web science, cognitive computation and social sensing, and their relevance to learning analytics: A preliminary study
+
+💡 初步探讨电子学习、网络科学、认知计算与社会感知之间的关联，并分析其对学习分析学的意义。研究整合多源数据与计算方法，用于刻画学习行为、改进学习干预，为学习分析领域提供跨学科理论框架与方法路径。
+
+📚 CHB · 2019 · 引用 28
+👤 Sachi Arafat, Naif Aljohani, Rabeeh Abbasi, Amir Hussain, Miltiadis Lytras
+
+AI 分: 3.0 / 领域分: 3.0</description>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+      <category>教育</category><category>培训</category><category>机器学习</category><category>多模态</category><category>推荐算法</category>
+    </item>    <item>
       <title>谁主导、谁获利：异构语言模型市场中的算法合谋</title>
       <link>https://ob-ai-papers.vercel.app/papers/81327</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/81327</guid>
@@ -84,7 +127,7 @@ EN: When Data Scientists Meet Domain Experts: Artificial Intelligence, Epistemic
 💡 基于对印度三家大型银行 18 个月的归纳研究，揭示数据科学家与领域专家在 AI 项目中围绕知识生产与评价标准产生的认识论冲突。研究区分认识论冲突与管辖权冲突，发现前者可经同化实践（追随单一认识论立场）缓解；当其失败后，数据科学家通过四项桥接实践，将预测嵌入领域专家既有的边界对象与实践，从而推动知识转化与模型部署，揭示了组织中专业知识权力的运作。
 
 📚 OrgSci · 2026 · 引用 0
-👤 Mayur Joshi, Ning Su, Mark Zbaracki
+👤 Mayur Prataprai Joshi, Ning Su, Mark Zbaracki
 
 AI 分: 5.0 / 领域分: 5.0</description>
       <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
@@ -441,55 +484,6 @@ EN: Facade of Trust: The Impact of Adopting AI-Enhanced Profile Pictures on Trus
 AI 分: 5.0 / 领域分: 5.0</description>
       <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
       <category>信任</category><category>消费者行为</category><category>人机交互</category><category>AI 治理</category><category>人机交互</category>
-    </item>    <item>
-      <title>保守派认同金融科技？个人调节聚焦削弱自动化财富管理中的算法厌恶效应</title>
-      <link>https://ob-ai-papers.vercel.app/papers/80138</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/80138</guid>
-      <description>📝 保守派认同金融科技？个人调节聚焦削弱自动化财富管理中的算法厌恶效应
-EN: Conservatives endorse Fintech? Individual regulatory focus attenuates the algorithm aversion effects in automated wealth management
-
-💡 探讨保守主义者对金融科技的态度。研究发现个体调节聚焦（促进聚焦 vs 防御聚焦）会调节算法厌恶效应：当促进聚焦较高时，即便偏好保守的个体也会减弱对自动化理财的抵触，更愿意接受算法驱动的财富管理建议，揭示了个人动机取向对算法接受度的边界作用。
-
-📚 CHB · 2023 · 引用 24
-👤 Yaping Chang, Ran Wang
-
-AI 分: 4.0 / 领域分: 4.0</description>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <category>决策</category><category>信任</category><category>算法决策</category>
-    </item>    <item>
-      <title>LearnAdapt Praxis：面向成人职场学习的可控AI辅助与证据追踪</title>
-      <link>https://ob-ai-papers.vercel.app/papers/80089</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/80089</guid>
-      <description>📝 LearnAdapt Praxis：面向成人职场学习的可控AI辅助与证据追踪
-EN: LearnAdapt Praxis: Controlled AI Assistance and Evidence Traces for Adult Workplace Learning
-
-💡 针对成人职场学习中AI辅助难以审查独立推理的问题，设计五阶段学习工作空间（Frame/Learn/Build/Validate/Transfer），通过版本化规约、辅导记录与服务器端权限控制记录证据链。用120个合成项目回合测试，3990项检查全部通过，验证了工作流、权限、故障恢复与溯源等工程属性，但未证明学习成效或独立评估结果。
-
-📚 arXiv:cs.CY · 2026 · 引用 0
-👤 Nizam Kadir
-
-AI 分: 4.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2610.02699v1</description>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-      <category>培训</category><category>组织学习</category><category>工作设计</category><category>LLM</category><category>人机协作</category><category>人机交互</category>
-    </item>    <item>
-      <title>通过蒸馏生产环境LLM信号构建可解释的简历-职位匹配特征表示</title>
-      <link>https://ob-ai-papers.vercel.app/papers/80088</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/80088</guid>
-      <description>📝 通过蒸馏生产环境LLM信号构建可解释的简历-职位匹配特征表示
-EN: Building Interpretable Feature Representations for Resume-Vacancy Matching by Distilling Production LLM Signals
-
-💡 为提升招聘中简历—职位匹配的透明度，提出LLM标注器+蒸馏特征双编码器的两阶段方案：LLM负责离线生成8个可解释匹配维度的标签，双编码器（LoRA适配骨干+紧凑维度头）部署于CPU负责在线推理。在168,772对标注数据上训练，招聘人员可在界面确认或修改预测；927条反馈中双方一致率达95.79%，属非盲操作一致性。
-
-📚 arXiv:cs.CL · 2026 · 引用 0
-👤 Ilya Chekin, Vyacheslav Malyugin, Vladimir Chirkov, Mikhail Yurushkin
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2610.03112v1</description>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-      <category>招聘</category><category>HR</category><category>可解释性</category><category>LLM</category><category>AI招聘</category><category>可解释AI</category>
     </item>
   </channel>
 </rss>
