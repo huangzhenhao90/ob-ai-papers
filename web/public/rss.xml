@@ -6,9 +6,24 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 10 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>发现以学生为中心的网络开放学习环境：学术虚拟实践共同体中的自动对话评估</title>
+      <link>https://ob-ai-papers.vercel.app/papers/81478</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/81478</guid>
+      <description>📝 发现以学生为中心的网络开放学习环境：学术虚拟实践共同体中的自动对话评估
+EN: Finding student-centered open learning environments on the internet: Automated dialogue assessment in academic virtual communities of practice
+
+💡 基于标题推断：研究在网络学术实践社区中，如何利用自动化对话评估技术识别和构建以学生为中心的开放式学习环境，聚焦在线学习场景下学习者对话的智能测评与方法支持。
+
+📚 CHB · 2015 · 引用 23
+👤 Nicolae Nistor, Ştefan Trăuşan-Matu, Mihai Dascălu, Heather Duttweiler, Costin Chiru
+
+AI 分: 3.0 / 领域分: 3.0</description>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+      <category>教育</category><category>培训</category><category>知识管理</category><category>机器学习</category><category>人机交互</category>
+    </item>    <item>
       <title>告知用户大语言模型的环境成本可促进伦理消费</title>
       <link>https://ob-ai-papers.vercel.app/papers/81356</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/81356</guid>
@@ -24,10 +39,11 @@ AI 分: 5.0 / 领域分: 4.0</description>
       <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
       <category>伦理</category><category>消费者行为</category><category>人机交互</category><category>LLM</category><category>GenAI</category>
     </item>    <item>
-      <title>Designing medical artificial intelligence for in- and out-groups</title>
+      <title>面向群体内外成员的医疗人工智能设计</title>
       <link>https://ob-ai-papers.vercel.app/papers/81343</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/81343</guid>
-      <description>📝 Designing medical artificial intelligence for in- and out-groups
+      <description>📝 面向群体内外成员的医疗人工智能设计
+EN: Designing medical artificial intelligence for in- and out-groups
 
 💡 探讨医疗AI在设计与部署中如何兼顾内群体（受惠患者）与外群体（被边缘化人群）的需求与公平性。研究关注算法偏差、代表性数据、用户信任与接受度，旨在提出兼顾多元群体利益的医疗AI设计原则。
 
@@ -326,10 +342,11 @@ AI 分: 5.0 / 领域分: 5.0
       <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
       <category>人机协作</category><category>决策</category><category>培训</category><category>信任</category><category>可解释AI</category><category>人机交互</category>
     </item>    <item>
-      <title>&lt;b&gt;Practice Prize Paper&lt;/b&gt;—PIN Optimal Distribution of Auction Vehicles System: Applying Price Forecasting, Elasticity Estimation, and Genetic Algorithms to Used-Vehicle Distribution</title>
+      <title>实践奖论文——PIN拍卖车辆最优调配系统：价格预测、弹性估计与遗传算法的应用</title>
       <link>https://ob-ai-papers.vercel.app/papers/80989</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/80989</guid>
-      <description>📝 &amp;lt;b&amp;gt;Practice Prize Paper&amp;lt;/b&amp;gt;—PIN Optimal Distribution of Auction Vehicles System: Applying Price Forecasting, Elasticity Estimation, and Genetic Algorithms to Used-Vehicle Distribution
+      <description>📝 实践奖论文——PIN拍卖车辆最优调配系统：价格预测、弹性估计与遗传算法的应用
+EN: &amp;lt;b&amp;gt;Practice Prize Paper&amp;lt;/b&amp;gt;—PIN Optimal Distribution of Auction Vehicles System: Applying Price Forecasting, Elasticity Estimation, and Genetic Algorithms to Used-Vehicle Distribution
 
 💡 介绍 J.D. Power 旗下 PIN 部门为汽车制造商再营销业务开发的二手车拍卖最优分配系统（ODAV）。系统融合三个模型：最近邻线性回归预测短期拍卖价格、ARIMA 估算成交量-价格弹性、遗传算法优化车辆分配决策。自 2003 年上线以来已分配超 200 万辆车辆，帮助再营销商在每日拍卖中实现利润最大化的车辆分配。
 
@@ -469,21 +486,6 @@ EN: Navigating the Sea of Reviews: Unveiling the Effects of Introducing AI-Gener
 AI 分: 5.0 / 领域分: 5.0</description>
       <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
       <category>消费者行为</category><category>营销</category><category>推荐系统</category><category>GenAI</category><category>LLM</category>
-    </item>    <item>
-      <title>信任的虚饰：采用AI增强头像对信任的影响</title>
-      <link>https://ob-ai-papers.vercel.app/papers/80459</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/80459</guid>
-      <description>📝 信任的虚饰：采用AI增强头像对信任的影响
-EN: Facade of Trust: The Impact of Adopting AI-Enhanced Profile Pictures on Trust
-
-💡 基于自我呈现理论，采用信任博弈随机实验，探讨AI美颜头像对行为信任与可信度的影响。研究发现发送者使用AI增强头像后信任度下降（转出金额更少），而接收者使用增强头像后可信度上升（返还比例更高）；当双方均使用增强头像时上述效应相互抵消。机制分析表明增强自我呈现提升了感知风险，从而降低信任，且存在性别差异。
-
-📚 ISR · 2026 · 引用 0
-👤 Sijia Ma, Chong Wang, Xiaoquan Zhang, Tao Lu
-
-AI 分: 5.0 / 领域分: 5.0</description>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <category>信任</category><category>消费者行为</category><category>人机交互</category><category>AI 治理</category><category>人机交互</category>
     </item>
   </channel>
 </rss>
