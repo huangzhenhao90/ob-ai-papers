@@ -6,9 +6,98 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 15 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>Agentic-Priors: Using Large Language Models to Address the Cold Start Problem in Preference Elicitation</title>
+      <link>https://ob-ai-papers.vercel.app/papers/82157</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82157</guid>
+      <description>📝 Agentic-Priors: Using Large Language Models to Address the Cold Start Problem in Preference Elicitation
+
+💡 针对偏好获取中的冷启动难题，提出Agentic-Priors方法：让大语言模型以可解释方式陈述用户权衡（如支付意愿、时间价值），将其映射为多项Logit系数的先验，再由贝叶斯学习者随选择数据逐步更新。在7个选择数据集上，冷启动准确率较无信息先验提升5–40个百分点，多数场景优于AutoElicit与上下文学习，相当于省去6–40名用户调查的成本，价值集中在部署初期。
+
+📚 arXiv:cs.MA · 2026 · 引用 0
+👤 Bruno Arcanjo, Zhaoxing Li, Sebastian Stein
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2610.21938v1</description>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <category>决策</category><category>推荐系统</category><category>信任</category><category>LLM</category><category>推荐算法</category><category>人机协作</category>
+    </item>    <item>
+      <title>Marketing misinformation in the age of
+                    &lt;scp&gt;AI&lt;/scp&gt;</title>
+      <link>https://ob-ai-papers.vercel.app/papers/82136</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82136</guid>
+      <description>📝 Marketing misinformation in the age of
+                    &amp;lt;scp&amp;gt;AI&amp;lt;/scp&amp;gt;
+
+💡 聚焦AI时代营销误导信息问题，系统讨论由大语言模型生成的文本、音频、图像与视频如何被企业、竞争对手、消费者或第三方用于制造、混淆与传播虚假品牌和产品信息，分析其对品牌安全的风险及消费者识别能力不足的现状，并从信息生态中各方利益相关者角度提出预防与纠正框架及未来研究方向。
+
+📚 JCP · 2026 · 引用 0
+👤 Gita Venkataramani Johar, Amna Kirmani
+
+AI 分: 4.0 / 领域分: 5.0</description>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <category>营销</category><category>品牌</category><category>消费者行为</category><category>伦理</category><category>GenAI</category><category>LLM</category><category>多模态</category><category>AI治理</category>
+    </item>    <item>
+      <title>从上下文数据到报童决策：数据驱动算法的实际性能</title>
+      <link>https://ob-ai-papers.vercel.app/papers/82116</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82116</guid>
+      <description>📝 从上下文数据到报童决策：数据驱动算法的实际性能
+EN: From Contextual Data to Newsvendor Decisions: On the Actual Performance of Data-Driven Algorithms
+
+💡 研究情境型Newsvendor问题中，历史数据的相关性/质量与数量如何影响数据驱动决策性能。分析加权经验风险最小化（WERM）策略类（含ERM、k近邻、核方法），提出上下文相关的最坏期望遗憾度量，精确刻画任意WERM策略在给定上下文配置下的最坏遗憾，揭示了先前泛界未能呈现的底层结构与数据规模-质量-分布的内在关系。
+
+📚 MgmtSci · 2026 · 引用 1
+👤 Omar Besbes, Will Ma, Omar Mouchtaki
+
+AI 分: 4.0 / 领域分: 3.0</description>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <category>决策</category><category>机器学习</category>
+    </item>    <item>
+      <title>基于离线数据的在线定价：相变与平方反比定律</title>
+      <link>https://ob-ai-papers.vercel.app/papers/82115</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82115</guid>
+      <description>📝 基于离线数据的在线定价：相变与平方反比定律
+EN: Online Pricing with Offline Data: Phase Transition and Inverse Square Law
+
+📚 MgmtSci · 2022 · 引用 17
+👤 Jinzhi Bu, David Simchi-Levi, Yunzong Xu
+
+AI 分: 4.0 / 领域分: 3.0</description>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>Does AI Encourage Lax Thinking, or Does the Human Preference for Validation Make It That Way?</title>
+      <link>https://ob-ai-papers.vercel.app/papers/82069</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82069</guid>
+      <description>📝 Does AI Encourage Lax Thinking, or Does the Human Preference for Validation Make It That Way?
+
+💡 探讨使用AI时人类思维是否会变得懒惰：究竟是AI本身助长了松懈思考，还是人类对确认与验证的偏好导致过度依赖AI。标题暗示需区分AI工具特性与用户心理动因，呼吁审视人机交互中认知投入与批判性思维的变化。
+
+📚 CHB · 2026 · 引用 0
+👤 Braden T. Hall, William Hart
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <category>决策</category><category>信任</category><category>人机协作</category><category>人机交互</category><category>AI治理</category>
+    </item>    <item>
+      <title>数据监控如何塑造用户行为：感知价值在披露与中止使用中的作用</title>
+      <link>https://ob-ai-papers.vercel.app/papers/82068</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82068</guid>
+      <description>📝 数据监控如何塑造用户行为：感知价值在披露与中止使用中的作用
+EN: How dataveillance shapes user behavior: The role of perceived value in disclosure and discontinuation
+
+💡 探讨数据监控（dataveillance）如何塑造用户行为，分析用户对数据收集的感知价值在信息披露意愿与平台中断使用决策中的中介作用，揭示数据监控情境下用户行为的形成机制。
+
+📚 CHB · 2025 · 引用 6
+👤 Jooyoung Kim, Hangjung Zo, Jongkun Jun
+
+AI 分: 3.0 / 领域分: 4.0</description>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <category>隐私</category><category>消费者行为</category><category>算法决策</category>
+    </item>    <item>
       <title>创造性破坏：实验市场中的人机竞争</title>
       <link>https://ob-ai-papers.vercel.app/papers/82048</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82048</guid>
@@ -64,6 +153,8 @@ AI 分: 3.0 / 领域分: 3.0
       <description>📝 AI原生产品管理：一种愿景
 EN: AI-Native Product Management: A Vision
 
+💡 探讨AI原生研发条件下产品管理如何被重新构想。综合软件产品管理、产品学习、人机协作及PM与R&amp;amp;D边界等文献，提出AI作为产品工作持续参与者的愿景，涵盖感知、探索、决策、实现与学习五个环节，给出六项原则及由人类专业人士、AI角色、代理、技能与共享产品上下文构成的运营模型，主张AI原生产品管理与R&amp;amp;D可形成持续的产品学习闭环，并提出四个待实证的AI专项研究方向。
+
 📚 arXiv:cs.SE · 2026 · 引用 0
 👤 Ricardo Britto
 
@@ -71,7 +162,7 @@ AI 分: 5.0 / 领域分: 4.0
 
 📄 PDF: https://arxiv.org/pdf/2610.14823v1</description>
       <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-      
+      <category>人机协作</category><category>创新</category><category>知识管理</category><category>组织变革</category><category>GenAI</category><category>LLM</category><category>人机协作</category><category>人机交互</category>
     </item>    <item>
       <title>生成式人工智能赋能音乐营销</title>
       <link>https://ob-ai-papers.vercel.app/papers/81995</link>
@@ -94,12 +185,14 @@ AI 分: 5.0 / 领域分: 5.0</description>
       <description>📝 AI驱动的人类任务替代：来自Google翻译与ChatGPT的证据
 EN: AI-Driven Human Task Substitution: Evidence from Google Translate and ChatGPT
 
+💡 利用翻译在线劳动力市场两个自然实验，比较预测式AI（Google GNMT）与生成式AI（ChatGPT）对人类知识工作的替代效应。基于2016–2017和2022–2023交易级数据的DiD分析显示，GNMT显著减少分析性翻译需求但不影响需创意文化适配的直译类任务；ChatGPT则对两类任务均产生更大且更均匀的替代，表明生成式AI显著扩大了自动化范围，过去关于人类工作韧性的结论不能简单从预测式AI推广到生成式AI。
+
 📚 MgmtSci · 2026 · 引用 0
 👤 Erdem Dogukan Yilmaz, Ivana Naumovska, Vikas A. Aggarwal
 
 AI 分: 5.0 / 领域分: 5.0</description>
       <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-      
+      <category>工作未来</category><category>战略</category><category>人机协作</category><category>GenAI</category><category>LLM</category><category>ChatGPT</category><category>机器学习</category>
     </item>    <item>
       <title>为何选用此款AI应用？生成式人工智能对教育者教育应用选择的影响</title>
       <link>https://ob-ai-papers.vercel.app/papers/81906</link>
@@ -390,96 +483,6 @@ EN: Furnishing your home? The impact of voice assistant avatars in virtual reali
 AI 分: 4.0 / 领域分: 4.0</description>
       <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
       <category>营销</category><category>消费者行为</category><category>广告</category><category>人机交互</category><category>多模态</category>
-    </item>    <item>
-      <title>探索多自主智能体系统中的信任普遍性与缓解策略</title>
-      <link>https://ob-ai-papers.vercel.app/papers/81507</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/81507</guid>
-      <description>📝 探索多自主智能体系统中的信任普遍性与缓解策略
-EN: Exploring system wide trust prevalence and mitigation strategies with multiple autonomous agents
-
-💡 研究多自主代理系统中的信任问题，探讨系统层面信任的普遍存在性及缓解策略。聚焦多智能体环境下信任的形成机制、影响因素与潜在风险应对，旨在为可信自主系统的设计提供思路。
-
-📚 CHB · 2023 · 引用 29
-👤 James C. Walliser, Ewart J. de Visser, Tyler H. Shaw
-
-AI 分: 3.0 / 领域分: 3.0</description>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-      <category>信任</category><category>人机协作</category><category>机器人</category><category>人机协作</category>
-    </item>    <item>
-      <title>与人工对话智能体共同构建主体间性：用户更倾向主动修复与拟人化智能体的误解</title>
-      <link>https://ob-ai-papers.vercel.app/papers/81501</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/81501</guid>
-      <description>📝 与人工对话智能体共同构建主体间性：用户更倾向主动修复与拟人化智能体的误解
-EN: Co-constructing intersubjectivity with artificial conversational agents: People are more likely to initiate repairs of misunderstandings with agents represented as human
-
-💡 探究人与对话式AI代理之间的主体间性共建过程。研究发现当AI代理被表征为人类形象时，用户更倾向于主动发起对沟通误解的修复，揭示拟人化表征对人机沟通模式与纠错意愿的影响。
-
-📚 CHB · 2016 · 引用 96
-👤 Kevin Corti, Alex Gillespie
-
-AI 分: 4.0 / 领域分: 3.0</description>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>信任</category><category>ChatGPT</category><category>LLM</category><category>人机交互</category>
-    </item>    <item>
-      <title>社交网络与协作学习环境中的情感检测</title>
-      <link>https://ob-ai-papers.vercel.app/papers/81497</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/81497</guid>
-      <description>📝 社交网络与协作学习环境中的情感检测
-EN: Sentiment detection in social networks and in collaborative learning environments
-
-💡 研究社交网络与协作学习环境中的情感检测方法，通过自然语言处理与机器学习技术识别用户在社交平台和在线学习场景中的情感倾向，为社交媒体分析、教育反馈与学习者状态监测提供技术支撑。
-
-📚 CHB · 2015 · 引用 35
-👤 Francesco Colace, Luca Casaburi, Massimo De Santo, Luca Greco
-
-AI 分: 3.0 / 领域分: 3.0</description>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-      <category>教育</category><category>培训</category><category>机器学习</category><category>LLM</category>
-    </item>    <item>
-      <title>发现以学生为中心的网络开放学习环境：学术虚拟实践共同体中的自动对话评估</title>
-      <link>https://ob-ai-papers.vercel.app/papers/81478</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/81478</guid>
-      <description>📝 发现以学生为中心的网络开放学习环境：学术虚拟实践共同体中的自动对话评估
-EN: Finding student-centered open learning environments on the internet: Automated dialogue assessment in academic virtual communities of practice
-
-💡 基于标题推断：研究在网络学术实践社区中，如何利用自动化对话评估技术识别和构建以学生为中心的开放式学习环境，聚焦在线学习场景下学习者对话的智能测评与方法支持。
-
-📚 CHB · 2015 · 引用 23
-👤 Nicolae Nistor, Ştefan Trăuşan-Matu, Mihai Dascălu, Heather Duttweiler, Costin Chiru
-
-AI 分: 3.0 / 领域分: 3.0</description>
-      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-      <category>教育</category><category>培训</category><category>知识管理</category><category>机器学习</category><category>人机交互</category>
-    </item>    <item>
-      <title>告知用户大语言模型的环境成本可促进伦理消费</title>
-      <link>https://ob-ai-papers.vercel.app/papers/81356</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/81356</guid>
-      <description>📝 告知用户大语言模型的环境成本可促进伦理消费
-EN: Informing users about LLMs' environmental costs encourages ethical consumption
-
-💡 研究在用户使用大语言模型时告知其环境成本（如算力、碳排放）能否引导更负责任的使用行为。围绕提示设计、用户感知与伦理消费意愿展开，预期发现信息透明可促使用户减少使用频率或选择轻量替代方案，推动LLM的可持续消费。
-
-📚 CHB · 2026 · 引用 0
-👤 Hagai Rabinovitch, Isabel Kashi, Shaul Shalvi
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
-      <category>伦理</category><category>消费者行为</category><category>人机交互</category><category>LLM</category><category>GenAI</category>
-    </item>    <item>
-      <title>面向群体内外成员的医疗人工智能设计</title>
-      <link>https://ob-ai-papers.vercel.app/papers/81343</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/81343</guid>
-      <description>📝 面向群体内外成员的医疗人工智能设计
-EN: Designing medical artificial intelligence for in- and out-groups
-
-💡 探讨医疗AI在设计与部署中如何兼顾内群体（受惠患者）与外群体（被边缘化人群）的需求与公平性。研究关注算法偏差、代表性数据、用户信任与接受度，旨在提出兼顾多元群体利益的医疗AI设计原则。
-
-📚 CHB · 2021 · 引用 13
-👤 Wanyue Li, Xinyue Zhou, Qian Yang
-
-AI 分: 5.0 / 领域分: 3.0</description>
-      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
-      <category>公平性</category><category>伦理</category><category>信任</category><category>人机协作</category><category>可解释 AI</category><category>人机交互</category>
     </item>
   </channel>
 </rss>
