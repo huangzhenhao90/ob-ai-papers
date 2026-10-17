@@ -6,13 +6,29 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 16 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
-      <title>Agentic-Priors: Using Large Language Models to Address the Cold Start Problem in Preference Elicitation</title>
+      <title>生成式人工智能中的竞争与多样性</title>
+      <link>https://ob-ai-papers.vercel.app/papers/82226</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82226</guid>
+      <description>📝 生成式人工智能中的竞争与多样性
+EN: Competition and Diversity in Generative AI
+
+💡 研究生成式AI市场中竞争对内容多样性的影响。通过博弈论模型与文本/图像生成实验发现，竞争性市场会筛选出差异化的AI模型，缓解内容同质化；在基准测试中表现优异的模型未必在竞争环境中创造价值，强调应从输出分布全貌评估生成式AI。
+
+📚 MgmtSci · 2026 · 引用 0
+👤 Manish Raghavan
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+      <category>创新</category><category>创意</category><category>营销</category><category>决策</category><category>GenAI</category><category>LLM</category><category>图像生成</category><category>多模态</category>
+    </item>    <item>
+      <title>Agentic-Priors：利用大语言模型解决偏好获取中的冷启动问题</title>
       <link>https://ob-ai-papers.vercel.app/papers/82157</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82157</guid>
-      <description>📝 Agentic-Priors: Using Large Language Models to Address the Cold Start Problem in Preference Elicitation
+      <description>📝 Agentic-Priors：利用大语言模型解决偏好获取中的冷启动问题
+EN: Agentic-Priors: Using Large Language Models to Address the Cold Start Problem in Preference Elicitation
 
 💡 针对偏好获取中的冷启动难题，提出Agentic-Priors方法：让大语言模型以可解释方式陈述用户权衡（如支付意愿、时间价值），将其映射为多项Logit系数的先验，再由贝叶斯学习者随选择数据逐步更新。在7个选择数据集上，冷启动准确率较无信息先验提升5–40个百分点，多数场景优于AutoElicit与上下文学习，相当于省去6–40名用户调查的成本，价值集中在部署初期。
 
@@ -25,11 +41,11 @@ AI 分: 5.0 / 领域分: 3.0
       <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
       <category>决策</category><category>推荐系统</category><category>信任</category><category>LLM</category><category>推荐算法</category><category>人机协作</category>
     </item>    <item>
-      <title>Marketing misinformation in the age of
-                    &lt;scp&gt;AI&lt;/scp&gt;</title>
+      <title>AI时代的营销虚假信息</title>
       <link>https://ob-ai-papers.vercel.app/papers/82136</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82136</guid>
-      <description>📝 Marketing misinformation in the age of
+      <description>📝 AI时代的营销虚假信息
+EN: Marketing misinformation in the age of
                     &amp;lt;scp&amp;gt;AI&amp;lt;/scp&amp;gt;
 
 💡 聚焦AI时代营销误导信息问题，系统讨论由大语言模型生成的文本、音频、图像与视频如何被企业、竞争对手、消费者或第三方用于制造、混淆与传播虚假品牌和产品信息，分析其对品牌安全的风险及消费者识别能力不足的现状，并从信息生态中各方利益相关者角度提出预防与纠正框架及未来研究方向。
@@ -37,7 +53,9 @@ AI 分: 5.0 / 领域分: 3.0
 📚 JCP · 2026 · 引用 0
 👤 Gita Venkataramani Johar, Amna Kirmani
 
-AI 分: 4.0 / 领域分: 5.0</description>
+AI 分: 4.0 / 领域分: 5.0
+
+📄 PDF: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jcpy.70043</description>
       <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
       <category>营销</category><category>品牌</category><category>消费者行为</category><category>伦理</category><category>GenAI</category><category>LLM</category><category>多模态</category><category>AI治理</category>
     </item>    <item>
@@ -69,10 +87,11 @@ AI 分: 4.0 / 领域分: 3.0</description>
       <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
       
     </item>    <item>
-      <title>Does AI Encourage Lax Thinking, or Does the Human Preference for Validation Make It That Way?</title>
+      <title>AI助长思维懈怠，还是人类对获得肯定的偏好使之如此？</title>
       <link>https://ob-ai-papers.vercel.app/papers/82069</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82069</guid>
-      <description>📝 Does AI Encourage Lax Thinking, or Does the Human Preference for Validation Make It That Way?
+      <description>📝 AI助长思维懈怠，还是人类对获得肯定的偏好使之如此？
+EN: Does AI Encourage Lax Thinking, or Does the Human Preference for Validation Make It That Way?
 
 💡 探讨使用AI时人类思维是否会变得懒惰：究竟是AI本身助长了松懈思考，还是人类对确认与验证的偏好导致过度依赖AI。标题暗示需区分AI工具特性与用户心理动因，呼吁审视人机交互中认知投入与批判性思维的变化。
 
@@ -121,6 +140,8 @@ AI 分: 5.0 / 领域分: 4.0
       <description>📝 一思二省：反馈如何塑造人机协作
 EN: Think Once, Reflect Twice: How Feedback Shapes Human-AI Collaboration
 
+💡 研究反馈干预如何影响人类与AI协作中的依赖行为。通过N=244行为实验，考察对AI建议覆盖行为的反馈如何塑造回顾性反思与即时反思。结果发现：单向反馈会削弱后续即时反思，并引发依赖行为的相反方向变化，使团队整体绩效不变；平衡反馈则能同时保留两种反思，为设计合理的AI依赖机制提供启示。
+
 📚 arXiv:cs.HC · 2026 · 引用 0
 👤 Joshua Holstein, Philipp Spitzer, Sebastian Schäfer, Maximilian Förster, Gerhard Satzger
 
@@ -128,7 +149,7 @@ AI 分: 5.0 / 领域分: 3.0
 
 📄 PDF: https://arxiv.org/pdf/2610.19991v1</description>
       <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-      
+      <category>人机协作</category><category>决策</category><category>信任</category><category>人机协作</category><category>人机交互</category><category>可解释 AI</category>
     </item>    <item>
       <title>当职业派生技能失效：技能增强型职业路径预测的局限</title>
       <link>https://ob-ai-papers.vercel.app/papers/82040</link>
@@ -409,6 +430,21 @@ AI 分: 3.0 / 领域分: 4.0</description>
       <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
       <category>营销</category><category>消费者行为</category><category>推荐系统</category><category>机器学习</category><category>推荐算法</category>
     </item>    <item>
+      <title>两种神经网络范式在员工自愿离职研究中的应用</title>
+      <link>https://ob-ai-papers.vercel.app/papers/81669</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/81669</guid>
+      <description>📝 两种神经网络范式在员工自愿离职研究中的应用
+EN: Application of two neural network paradigms to the study of voluntary employee turnover.
+
+💡 应用两种神经网络范式对员工自愿离职行为进行建模与预测，探讨神经网络方法在人力资源管理研究中相较于传统统计方法的解释力与应用价值。
+
+📚 JAP · 1999 · 引用 43
+👤 Mark John Somers
+
+AI 分: 3.0 / 领域分: 5.0</description>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+      <category>HR</category><category>机器学习</category>
+    </item>    <item>
       <title>对智能虚拟代理的自我表露：范围综述与披露可供性—实现—治理框架</title>
       <link>https://ob-ai-papers.vercel.app/papers/81632</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/81632</guid>
@@ -453,36 +489,6 @@ EN: Information Design of Online Platforms
 AI 分: 3.0 / 领域分: 4.0</description>
       <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
       <category>推荐系统</category><category>营销</category><category>广告</category><category>消费者行为</category><category>推荐算法</category><category>算法决策</category>
-    </item>    <item>
-      <title>人工智能人机交互中的情感基础：来自演化连续性与种间沟通的启示</title>
-      <link>https://ob-ai-papers.vercel.app/papers/81509</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/81509</guid>
-      <description>📝 人工智能人机交互中的情感基础：来自演化连续性与种间沟通的启示
-EN: Affective foundations in AI-human interactions: Insights from evolutionary continuity and interspecies communications
-
-💡 从进化连续性与跨物种沟通视角，探讨AI与人交互中的情感基础。借鉴人类与其他物种在长期演化中形成的沟通机制，分析情感信号如何塑造人与AI互动中的信任建立、关系发展与社会临场感，为理解人机情感交互提供演化心理学与跨物种比较的理论框架。
-
-📚 CHB · 2024 · 引用 25
-👤 Chong-Yi Liu, Bin Yin
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>信任</category><category>消费者行为</category><category>人机交互</category>
-    </item>    <item>
-      <title>装修家居？虚拟现实购物中语音助手化身的影响：一项神经生理学研究</title>
-      <link>https://ob-ai-papers.vercel.app/papers/81508</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/81508</guid>
-      <description>📝 装修家居？虚拟现实购物中语音助手化身的影响：一项神经生理学研究
-EN: Furnishing your home? The impact of voice assistant avatars in virtual reality shopping: A neurophysiological study
-
-💡 采用神经生理学方法，考察虚拟现实家居购物情境中语音助手化身对消费者体验与决策的影响。通过对比有无AI化身条件下的生理与认知反应，揭示语音助手化身在VR零售环境中如何影响消费者注意力、情感唤起与购买意向，为VR电商中AI化身设计提供实证依据。
-
-📚 CHB · 2024 · 引用 23
-👤 Enrique Bigne, Carla Ruiz, Rafael Curras-Perez
-
-AI 分: 4.0 / 领域分: 4.0</description>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-      <category>营销</category><category>消费者行为</category><category>广告</category><category>人机交互</category><category>多模态</category>
     </item>
   </channel>
 </rss>
