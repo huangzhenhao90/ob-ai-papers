@@ -6,9 +6,111 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 17 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>基于新型可解释机器学习模型的购物中心营销活动效果评估</title>
+      <link>https://ob-ai-papers.vercel.app/papers/82396</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82396</guid>
+      <description>📝 基于新型可解释机器学习模型的购物中心营销活动效果评估
+EN: Evaluating the Effectiveness of Marketing Campaigns for Malls Using a Novel Interpretable Machine Learning Model
+
+💡 研究开发可解释机器学习模型GANNM,利用新数据评估购物中心不同类型营销活动及预算分配对客流的影响。发现销售激励、体验激励等不同类别活动在高峰、非高峰与线上促销期的响应曲线差异显著;基于优化预算分配可带来11.2%的客流提升。建议增加对曾被忽视领域的营销投入,避免在高竞争期过度投放,并验证线上促销对线下客流的带动作用。
+
+📚 ISR · 2022 · 引用 26
+👤 Tong Wang, Cheng He, Fujie Jin, Yu Jeffrey Hu
+
+AI 分: 4.0 / 领域分: 5.0</description>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+      <category>营销</category><category>广告</category><category>消费者行为</category><category>决策</category><category>机器学习</category><category>可解释AI</category>
+    </item>    <item>
+      <title>基于在线学习的库存平衡</title>
+      <link>https://ob-ai-papers.vercel.app/papers/82391</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82391</guid>
+      <description>📝 基于在线学习的库存平衡
+EN: Inventory Balancing with Online Learning
+
+💡 研究在模型不确定条件下向异质客户随时间分配有限资源的通用问题。通过整合库存平衡(基于竞争比)与在线学习(基于遗憾分析)两类算法框架,构造辅助问题统一两类性能保证,并提出新UCB变体lazyUCB以在资源稀缺下减少探索、强化利用。借助信息论反例族证明集成框架达到(近)最优性能。
+
+📚 MgmtSci · 2022 · 引用 19
+👤 Wang Chi Cheung, Will Ma, David Simchi-Levi, Xinshang Wang
+
+AI 分: 3.0 / 领域分: 4.0</description>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+      <category>决策</category><category>战略</category><category>机器学习</category><category>算法决策</category>
+    </item>    <item>
+      <title>机器中的幽灵：论机器学习时代的组织理论</title>
+      <link>https://ob-ai-papers.vercel.app/papers/82328</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82328</guid>
+      <description>📝 机器中的幽灵：论机器学习时代的组织理论
+EN: Ghost in the Machine: On Organizational Theory in the Age of Machine Learning
+
+💡 探讨机器学习时代组织理论的演进与挑战,反思算法决策、数据驱动与自动化如何重塑组织的结构、流程及理论建构,呼吁发展契合智能时代的新型组织理论。
+
+📚 AMR · 2021 · 引用 91
+👤 Keith Leavitt, Kira Schabram, Prashanth Hariharan, Christopher M. Barnes
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+      <category>组织变革</category><category>组织学习</category><category>算法管理</category><category>机器学习</category><category>算法管理</category>
+    </item>    <item>
+      <title>Prevalence and Correlates of GenerativeAI Chatbot Use for Mental Health Concerns in Higher Education Students</title>
+      <link>https://ob-ai-papers.vercel.app/papers/82309</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82309</guid>
+      <description>📝 Prevalence and Correlates of GenerativeAI Chatbot Use for Mental Health Concerns in Higher Education Students
+
+💡 调查大学生群体使用生成式AI聊天机器人处理心理健康问题的普遍率及相关因素。聚焦高等教育情境下学生借助ChatGPT等GenAI工具寻求心理支持的现象，分析使用率、相关人口学与心理变量，评估其在校园心理服务中的角色与潜在风险。
+
+📚 CHB · 2026 · 引用 0
+👤 Elyse J. Thulin
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+      <category>教育</category><category>心理健康</category><category>幸福感</category><category>GenAI</category><category>LLM</category><category>聊天机器人</category>
+    </item>    <item>
+      <title>From pixels to perceptions: Predicting video game ratings through reviews and metadata</title>
+      <link>https://ob-ai-papers.vercel.app/papers/82297</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82297</guid>
+      <description>📝 From pixels to perceptions: Predicting video game ratings through reviews and metadata
+
+💡 利用游戏评论文本与元数据预测电子游戏评级，整合玩家评价和游戏类型、平台等元数据信息，通过机器学习方法建立预测模型，帮助理解市场感知与游戏表现的关系。
+
+📚 CHB · 2026 · 引用 1
+👤 Yavuz Selim Balcioğlu, Erkut Altindağ
+
+AI 分: 3.0 / 领域分: 4.0</description>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+      <category>营销</category><category>消费者行为</category><category>推荐系统</category><category>机器学习</category><category>NLP</category><category>推荐算法</category>
+    </item>    <item>
+      <title>Efficacy of a context-aware mobile app with adaptive feedback for promoting behavioral change in problematic smartphone use: Evidence from a randomized controlled trial</title>
+      <link>https://ob-ai-papers.vercel.app/papers/82296</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82296</guid>
+      <description>📝 Efficacy of a context-aware mobile app with adaptive feedback for promoting behavioral change in problematic smartphone use: Evidence from a randomized controlled trial
+
+💡 一项随机对照试验，评估具备情境感知与自适应反馈功能的移动应用在减少问题性手机使用、促进行为改变方面的干预效果。该应用能根据用户所处情境提供个性化提醒，验证其对手机过度使用行为的改善作用。
+
+📚 CHB · 2026 · 引用 1
+👤 Sandy C. Li, Stella Cheung, Ming Lui, Andrew K.F. Lui, Jackie W.W. Chan
+
+AI 分: 3.0 / 领域分: 4.0</description>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+      <category>健康行为</category><category>行为改变</category><category>消费者行为</category><category>人机交互</category><category>推荐算法</category><category>机器学习</category>
+    </item>    <item>
+      <title>基于在线自由文本的评估专业素养语义分析方法</title>
+      <link>https://ob-ai-papers.vercel.app/papers/82270</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82270</guid>
+      <description>📝 基于在线自由文本的评估专业素养语义分析方法
+EN: A semantic analysis approach for assessing professionalism using free-form text entered online
+
+💡 研究采用语义分析方法，对在线自由文本进行专业度评估。基于标题推断，论文提出一套基于NLP的文本分析框架，用以从用户在在线场景中输入的非结构化文本（如申请材料、帖子、评论等）里自动判别其专业素养水平，应用于招聘筛选或在线行为评估等情境。
+
+📚 CHB · 2011 · 引用 15
+👤 Roger Blake, Oscar Gutierrez
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+      <category>招聘</category><category>HR</category><category>机器学习</category>
+    </item>    <item>
       <title>生成式人工智能中的竞争与多样性</title>
       <link>https://ob-ai-papers.vercel.app/papers/82226</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82226</guid>
@@ -20,7 +122,9 @@ EN: Competition and Diversity in Generative AI
 📚 MgmtSci · 2026 · 引用 0
 👤 Manish Raghavan
 
-AI 分: 5.0 / 领域分: 4.0</description>
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2412.08610</description>
       <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
       <category>创新</category><category>创意</category><category>营销</category><category>决策</category><category>GenAI</category><category>LLM</category><category>图像生成</category><category>多模态</category>
     </item>    <item>
@@ -80,12 +184,14 @@ AI 分: 4.0 / 领域分: 3.0</description>
       <description>📝 基于离线数据的在线定价：相变与平方反比定律
 EN: Online Pricing with Offline Data: Phase Transition and Inverse Square Law
 
+💡 研究单产品动态定价中预存离线数据对在线学习后悔值的影响。需求服从线性模型且参数未知，基于OFU原则设计算法，联合刻画离线数据规模、位置与离散度对最优后悔的作用，发现相变现象与反平方律。算法在单/多历史价格设定下均达到近最优后悔界。
+
 📚 MgmtSci · 2022 · 引用 17
 👤 Jinzhi Bu, David Simchi-Levi, Yunzong Xu
 
 AI 分: 4.0 / 领域分: 3.0</description>
       <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-      
+      <category>决策</category><category>算法管理</category><category>机器学习</category><category>算法决策</category>
     </item>    <item>
       <title>AI助长思维懈怠，还是人类对获得肯定的偏好使之如此？</title>
       <link>https://ob-ai-papers.vercel.app/papers/82069</link>
@@ -380,115 +486,6 @@ AI 分: 5.0 / 领域分: 4.0
 📄 PDF: https://arxiv.org/pdf/2610.16689v1</description>
       <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
       <category>招聘</category><category>HR</category><category>算法管理</category><category>LLM</category><category>AI招聘</category><category>算法决策</category>
-    </item>    <item>
-      <title>基于LLM的跨协议人格评估：行为证据与人类评分的对齐</title>
-      <link>https://ob-ai-papers.vercel.app/papers/81859</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/81859</guid>
-      <description>📝 基于LLM的跨协议人格评估：行为证据与人类评分的对齐
-EN: Cross-Protocol Personality Assessment with LLMs: Aligning Behavioral Evidence with Human Ratings
-
-💡 针对异步视频面试中人格评估受限于单一面试协议的问题，提出跨协议证据对齐框架CEPA，将源协议的行为记录投射到目标协议的构念导向表征空间，检索行为相关且人格互补的人类评分范例以驱动大模型评分集成。跨协议实验显示平均MSE较最强基线降低43.8%（正向）和17.0%（反向），证明无需目标域监督即可实现跨协议人格评估。
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Wei Shan, Tianyi Zhang, Yuan Zong, Wenming Zheng
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2610.16050v1</description>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <category>招聘</category><category>HR</category><category>决策</category><category>偏见</category><category>LLM</category><category>AI招聘</category><category>人机协作</category>
-    </item>    <item>
-      <title>透明性即可问责性：角色相关的信息流建模</title>
-      <link>https://ob-ai-papers.vercel.app/papers/81858</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/81858</guid>
-      <description>📝 透明性即可问责性：角色相关的信息流建模
-EN: Transparency as Answerability: Role-Dependent Information Flow Modeling
-
-💡 透明度在AI决策系统中被广泛要求却缺乏统一定义。研究将透明度重新界定为关系属性——系统对某利益相关者透明的程度取决于其合法问题能否从系统结构中得到回答。基于信息流网络提出形式化框架，支持结构性、跨组织边界的可组合性、角色依赖三类分析，并在某公共部门AI招聘工具的预集成评估中通过参与式设计与访谈进行实证。
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Mattias Brännström, Themis Dimitra Xanthopoulou, Lili Jiang
-
-AI 分: 4.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2610.16887v1</description>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <category>AI治理</category><category>招聘</category><category>公平性</category><category>信任</category><category>可解释AI</category><category>AI治理</category><category>AI招聘</category>
-    </item>    <item>
-      <title>识别在线交易平台买方画像中的逆向激励</title>
-      <link>https://ob-ai-papers.vercel.app/papers/81775</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/81775</guid>
-      <description>📝 识别在线交易平台买方画像中的逆向激励
-EN: Identifying Perverse Incentives in Buyer Profiling on Online Trading Platforms
-
-💡 研究在线交易平台对消费者画像的激励问题。通过分析模型发现，按交易收费的平台有动机尽可能精确地刻画消费者，而按发现收费的平台则存在偏离精确画像的反常激励，并揭示了驱动该反常激励的内在机制及触发条件。
-
-📚 ISR · 2022 · 引用 11
-👤 Karthik Kannan, Rajib L. Saha, Warut Khern-am-nuai
-
-AI 分: 3.0 / 领域分: 4.0</description>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <category>营销</category><category>消费者行为</category><category>推荐系统</category><category>机器学习</category><category>推荐算法</category>
-    </item>    <item>
-      <title>两种神经网络范式在员工自愿离职研究中的应用</title>
-      <link>https://ob-ai-papers.vercel.app/papers/81669</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/81669</guid>
-      <description>📝 两种神经网络范式在员工自愿离职研究中的应用
-EN: Application of two neural network paradigms to the study of voluntary employee turnover.
-
-💡 应用两种神经网络范式对员工自愿离职行为进行建模与预测，探讨神经网络方法在人力资源管理研究中相较于传统统计方法的解释力与应用价值。
-
-📚 JAP · 1999 · 引用 43
-👤 Mark John Somers
-
-AI 分: 3.0 / 领域分: 5.0</description>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <category>HR</category><category>机器学习</category>
-    </item>    <item>
-      <title>对智能虚拟代理的自我表露：范围综述与披露可供性—实现—治理框架</title>
-      <link>https://ob-ai-papers.vercel.app/papers/81632</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/81632</guid>
-      <description>📝 对智能虚拟代理的自我表露：范围综述与披露可供性—实现—治理框架
-EN: Self-Disclosure to Intelligent Virtual Agents: A Scoping Review and the Disclosure Affordance–Actualization–Governance Framework
-
-💡 通过对用户向智能虚拟代理（如聊天机器人）进行自我披露的研究进行范围综述，梳理披露行为的影响因素、过程与机制，并提出"披露可供性—实现—治理"框架，系统解释用户为何及如何向智能虚拟体透露个人信息，为可信虚拟代理的设计与治理提供理论参考。
-
-📚 CHB · 2026 · 引用 0
-👤 Yimin WANG, Zhanghui WANG, Yu ZOU, Yanping SONG, Guobin XIA
-
-AI 分: 4.0 / 领域分: 4.0</description>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <category>人机交互</category><category>隐私</category><category>信任</category><category>智能虚拟代理</category><category>人机交互</category><category>AI治理</category>
-    </item>    <item>
-      <title>基于漂移扩散模型理解人类对算法偏见的检测</title>
-      <link>https://ob-ai-papers.vercel.app/papers/81631</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/81631</guid>
-      <description>📝 基于漂移扩散模型理解人类对算法偏见的检测
-EN: Understanding Human Detection of Algorithmic Bias Through Drift-Diffusion Modeling
-
-💡 采用认知建模中的漂移扩散模型(drift-diffusion)刻画人类在交互中检测算法偏见的判断过程，揭示人们识别AI决策偏见时的信息累积与决策阈值机制，为理解人机协同中算法偏见的可感知性提供量化分析框架。
-
-📚 CHB · 2026 · 引用 0
-👤 Hannah Overbye-Thompson, Kristy A. Hamilton, Jacob Fisher
-
-AI 分: 4.0 / 领域分: 4.0</description>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <category>公平性</category><category>偏见</category><category>决策</category><category>人机协作</category><category>算法决策</category><category>可解释AI</category><category>机器学习</category>
-    </item>    <item>
-      <title>在线平台的信息设计</title>
-      <link>https://ob-ai-papers.vercel.app/papers/81569</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/81569</guid>
-      <description>📝 在线平台的信息设计
-EN: Information Design of Online Platforms
-
-💡 研究在线平台如何策略性地利用信息设计引导消费者搜索并影响卖家的定向广告。将个性化推荐与定向广告统一在信息设计框架下分析，揭示平台面临核心权衡：提升匹配效率与通过诱导卖家争夺曝光以提取卖家剩余。最优设计可能因限制消费者搜索、将匹配产品与长尾未匹配产品混合推荐而社会无效率，表明零售平台上的赞助定向广告可能引入匹配低效。
-
-📚 MgmtSci · 2026 · 引用 1
-👤 T. Tony Ke, Song Lin, Michelle Y. Lu
-
-AI 分: 3.0 / 领域分: 4.0</description>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-      <category>推荐系统</category><category>营销</category><category>广告</category><category>消费者行为</category><category>推荐算法</category><category>算法决策</category>
     </item>
   </channel>
 </rss>
