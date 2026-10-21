@@ -6,9 +6,73 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 20 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>叙事的劳动：慢性疾病患者如何借助AI与社群实现叙事转译</title>
+      <link>https://ob-ai-papers.vercel.app/papers/82776</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82776</guid>
+      <description>📝 叙事的劳动：慢性疾病患者如何借助AI与社群实现叙事转译
+EN: The Labor of Storytelling: How People with Chronic Illnesses Leverage AI and Communities for Narrative Translation
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Drishti Goel, Koustuv Saha, Martez Mott, Denae Ford
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2610.28438v1</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>越强的人工智能突破越加速其自身的耗竭</title>
+      <link>https://ob-ai-papers.vercel.app/papers/82773</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82773</guid>
+      <description>📝 越强的人工智能突破越加速其自身的耗竭
+EN: Stronger artificial intelligence breakthroughs hasten their own exhaustion
+
+💡 基于36年计算机科学领域720万篇论文、7.3万份同行评审与370万研究者的数据，研究发现AI突破并非仅依赖投入规模或创意空间，更取决于多元注意力。Transformer后领域注意力急剧收窄，过半跨主题研究者涌入AI，评审信心显著下降。每一轮更大突破都更彻底占据注意力，耗尽后续突破可汲取的多样性。结构生物学在cryo-EM与AlphaFold后呈现同样规律，呼吁制度层面保护多元注意力。
+
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 Beichen Lu, Honglin Bao, Qi Huang, Qingguo Meng, James A. Evans
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2610.27296v1</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <category>创新</category><category>组织学习</category><category>知识管理</category><category>机器学习</category><category>LLM</category><category>AI 治理</category>
+    </item>    <item>
+      <title>合成多样性：种族表征如何影响消费者对AI生成广告模特的反应</title>
+      <link>https://ob-ai-papers.vercel.app/papers/82760</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82760</guid>
+      <description>📝 合成多样性：种族表征如何影响消费者对AI生成广告模特的反应
+EN: Synthetic diversity: Racial depictions influence consumer responses to
+                    &amp;lt;scp&amp;gt;AI&amp;lt;/scp&amp;gt;
+                    ‐generated models in advertising
+
+💡 品牌在广告中使用AI生成合成模特以提升种族代表性，但五项研究显示，披露AI生成身份会显著降低消费者对企业评价，且该效应仅在模特属于种族少数群体（黑人、拉丁裔、亚裔）时出现，白人模特则不受影响。机制在于降低了消费者对企业包容努力的真实性感知，进而引发操控意图推断。若告知企业由该种族群体成员拥有，可消除该负面效应。
+
+📚 JCP · 2026 · 引用 0
+👤 Rhonda Hadi, Esther Uduehi, Felipe Thomaz, Andrew Stephen
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <category>广告</category><category>偏见</category><category>消费者行为</category><category>品牌</category><category>图像生成</category><category>GenAI</category>
+    </item>    <item>
+      <title>人员选拔中候选人作文计算机评分的初步研究：对 Campion 等人 (2016) 的更正</title>
+      <link>https://ob-ai-papers.vercel.app/papers/82720</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82720</guid>
+      <description>📝 人员选拔中候选人作文计算机评分的初步研究：对 Campion 等人 (2016) 的更正
+EN: “Initial investigation into computer scoring of candidate essays for personnel selection”: Correction to Campion et al. (2016).
+
+💡 对 Campion 等人 (2016) 发表于 JAP 的论文进行勘误更正。原始研究探讨了计算机自动评分系统对求职候选人所撰写短文的打分在人员选拔中的效度与适用性，本更正针对原文中的统计、表述或数据呈现错误予以修正。
+
+📚 JAP · 2016 · 引用 1
+👤 Unknown
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <category>招聘</category><category>HR</category><category>算法决策</category><category>机器学习</category>
+    </item>    <item>
       <title>工作对机器人技术的暴露程度：职业、行业与地理维度的度量</title>
       <link>https://ob-ai-papers.vercel.app/papers/82696</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82696</guid>
@@ -243,10 +307,11 @@ AI 分: 5.0 / 领域分: 5.0</description>
       <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
       <category>组织变革</category><category>组织学习</category><category>算法管理</category><category>机器学习</category><category>算法管理</category>
     </item>    <item>
-      <title>Prevalence and Correlates of GenerativeAI Chatbot Use for Mental Health Concerns in Higher Education Students</title>
+      <title>大学生使用生成式人工智能聊天机器人应对心理健康问题的流行率及相关因素</title>
       <link>https://ob-ai-papers.vercel.app/papers/82309</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82309</guid>
-      <description>📝 Prevalence and Correlates of GenerativeAI Chatbot Use for Mental Health Concerns in Higher Education Students
+      <description>📝 大学生使用生成式人工智能聊天机器人应对心理健康问题的流行率及相关因素
+EN: Prevalence and Correlates of GenerativeAI Chatbot Use for Mental Health Concerns in Higher Education Students
 
 💡 调查大学生群体使用生成式AI聊天机器人处理心理健康问题的普遍率及相关因素。聚焦高等教育情境下学生借助ChatGPT等GenAI工具寻求心理支持的现象，分析使用率、相关人口学与心理变量，评估其在校园心理服务中的角色与潜在风险。
 
@@ -257,10 +322,11 @@ AI 分: 5.0 / 领域分: 4.0</description>
       <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
       <category>教育</category><category>心理健康</category><category>幸福感</category><category>GenAI</category><category>LLM</category><category>聊天机器人</category>
     </item>    <item>
-      <title>From pixels to perceptions: Predicting video game ratings through reviews and metadata</title>
+      <title>从像素到感知：通过评论和元数据预测电子游戏评级</title>
       <link>https://ob-ai-papers.vercel.app/papers/82297</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82297</guid>
-      <description>📝 From pixels to perceptions: Predicting video game ratings through reviews and metadata
+      <description>📝 从像素到感知：通过评论和元数据预测电子游戏评级
+EN: From pixels to perceptions: Predicting video game ratings through reviews and metadata
 
 💡 利用游戏评论文本与元数据预测电子游戏评级，整合玩家评价和游戏类型、平台等元数据信息，通过机器学习方法建立预测模型，帮助理解市场感知与游戏表现的关系。
 
@@ -271,10 +337,11 @@ AI 分: 3.0 / 领域分: 4.0</description>
       <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
       <category>营销</category><category>消费者行为</category><category>推荐系统</category><category>机器学习</category><category>NLP</category><category>推荐算法</category>
     </item>    <item>
-      <title>Efficacy of a context-aware mobile app with adaptive feedback for promoting behavioral change in problematic smartphone use: Evidence from a randomized controlled trial</title>
+      <title>面向问题性手机使用的情境感知移动应用自适应反馈干预效果：随机对照试验</title>
       <link>https://ob-ai-papers.vercel.app/papers/82296</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82296</guid>
-      <description>📝 Efficacy of a context-aware mobile app with adaptive feedback for promoting behavioral change in problematic smartphone use: Evidence from a randomized controlled trial
+      <description>📝 面向问题性手机使用的情境感知移动应用自适应反馈干预效果：随机对照试验
+EN: Efficacy of a context-aware mobile app with adaptive feedback for promoting behavioral change in problematic smartphone use: Evidence from a randomized controlled trial
 
 💡 一项随机对照试验，评估具备情境感知与自适应反馈功能的移动应用在减少问题性手机使用、促进行为改变方面的干预效果。该应用能根据用户所处情境提供个性化提醒，验证其对手机过度使用行为的改善作用。
 
@@ -411,74 +478,6 @@ EN: How dataveillance shapes user behavior: The role of perceived value in discl
 AI 分: 3.0 / 领域分: 4.0</description>
       <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
       <category>隐私</category><category>消费者行为</category><category>算法决策</category>
-    </item>    <item>
-      <title>创造性破坏：实验市场中的人机竞争</title>
-      <link>https://ob-ai-papers.vercel.app/papers/82048</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82048</guid>
-      <description>📝 创造性破坏：实验市场中的人机竞争
-EN: Creative destruction: Human-AI competition in an experimental market
-
-💡 通过三轮实验（N=1025），让参与者分别作为设计电脑游戏的制作方（可借助AI编程代理）和消费方，检验AI时代人类在生产中持久优势的两种假设——品味优势与消费者对人工产品的内在偏好。结果均不支持：AI独立设计的游戏反而优于业余和职业人类设计师；人类未预见此差距；披露人类设计信息并未提升消费者支付意愿。
-
-📚 arXiv:econ.GN · 2026 · 引用 0
-👤 John Conlon, Peter Schwardmann
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2610.18921v1</description>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-      <category>创意</category><category>人机协作</category><category>消费者行为</category><category>工作未来</category><category>人机协作</category><category>人机交互</category><category>GenAI</category>
-    </item>    <item>
-      <title>一思二省：反馈如何塑造人机协作</title>
-      <link>https://ob-ai-papers.vercel.app/papers/82047</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82047</guid>
-      <description>📝 一思二省：反馈如何塑造人机协作
-EN: Think Once, Reflect Twice: How Feedback Shapes Human-AI Collaboration
-
-💡 研究反馈干预如何影响人类与AI协作中的依赖行为。通过N=244行为实验，考察对AI建议覆盖行为的反馈如何塑造回顾性反思与即时反思。结果发现：单向反馈会削弱后续即时反思，并引发依赖行为的相反方向变化，使团队整体绩效不变；平衡反馈则能同时保留两种反思，为设计合理的AI依赖机制提供启示。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Joshua Holstein, Philipp Spitzer, Sebastian Schäfer, Maximilian Förster, Gerhard Satzger
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2610.19991v1</description>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>决策</category><category>信任</category><category>人机协作</category><category>人机交互</category><category>可解释 AI</category>
-    </item>    <item>
-      <title>当职业派生技能失效：技能增强型职业路径预测的局限</title>
-      <link>https://ob-ai-papers.vercel.app/papers/82040</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82040</guid>
-      <description>📝 当职业派生技能失效：技能增强型职业路径预测的局限
-EN: When Occupation-derived Skills Don't Help: On the Limits of Skill-Augmented Career Path Prediction
-
-💡 批判性检验技能表示在职业路径预测中的增量价值，在两个基准数据集上比较分数融合与神经网络等多策略与纯文本基线。结果出人意料，即使使用真实ESCO标注，技能增强模型也未带来实质性提升。归因于文本与技能表征高度冗余、ESCO分类区分力有限以及技能嵌入的表示坍缩，挑战了显式技能建模必然有益的假设。
-
-📚 arXiv:cs.CL · 2026 · 引用 0
-👤 Ege Süalp, Elena Senger, Toine Bogers, Barbara Plank
-
-AI 分: 3.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2610.20186v1</description>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-      <category>HR</category><category>招聘</category><category>机器学习</category><category>推荐算法</category>
-    </item>    <item>
-      <title>AI原生产品管理：一种愿景</title>
-      <link>https://ob-ai-papers.vercel.app/papers/82037</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82037</guid>
-      <description>📝 AI原生产品管理：一种愿景
-EN: AI-Native Product Management: A Vision
-
-💡 探讨AI原生研发条件下产品管理如何被重新构想。综合软件产品管理、产品学习、人机协作及PM与R&amp;amp;D边界等文献，提出AI作为产品工作持续参与者的愿景，涵盖感知、探索、决策、实现与学习五个环节，给出六项原则及由人类专业人士、AI角色、代理、技能与共享产品上下文构成的运营模型，主张AI原生产品管理与R&amp;amp;D可形成持续的产品学习闭环，并提出四个待实证的AI专项研究方向。
-
-📚 arXiv:cs.SE · 2026 · 引用 0
-👤 Ricardo Britto
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2610.14823v1</description>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>创新</category><category>知识管理</category><category>组织变革</category><category>GenAI</category><category>LLM</category><category>人机协作</category><category>人机交互</category>
     </item>
   </channel>
 </rss>
