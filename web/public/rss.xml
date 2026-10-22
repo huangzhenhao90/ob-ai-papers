@@ -6,14 +6,82 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 21 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>SOAR：融合社会与观点感知的推荐</title>
+      <link>https://ob-ai-papers.vercel.app/papers/82855</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82855</guid>
+      <description>📝 SOAR：融合社会与观点感知的推荐
+EN: SOAR: Social and Opinion-Aware Recommendations
+
+💡 研究在线平台兴趣点推荐问题，提出SOAR模型，将用户社交关系网络与文本评论（含情感分析）相融合，用于评估特定地点对用户的适配性。在真实数据集上的实验表明，将评论信息纳入推荐过程可有效提升推荐精度。
+
+📚 arXiv:cs.LG · 2026 · 引用 0
+👤 Giannis Christoforidis, Apostolos N. Papadopoulos
+
+AI 分: 4.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2610.29556v1</description>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <category>推荐系统</category><category>消费者行为</category><category>推荐算法</category><category>机器学习</category>
+    </item>    <item>
+      <title>相同概率，不同建议：得失框架效应对高风险LLM决策支持的影响</title>
+      <link>https://ob-ai-papers.vercel.app/papers/82851</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82851</guid>
+      <description>📝 相同概率，不同建议：得失框架效应对高风险LLM决策支持的影响
+EN: Same Probabilities, Different Advice: Gain-Loss Framing Effects in High-Stakes LLM Decision Support
+
+💡 探究大语言模型在高风险决策建议中是否对同一概率的获益与损失框架表述产生差异。构建FrameBench-HPS基准（含2880条提示，覆盖医疗、金融、教育与法律四领域），在7个LLM上测试发现获益—损失框架使32.4%的建议类别发生变化，概率规范化可显著降低框架敏感性。
+
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 Yuyao Zhang, Yakun Cui, Han Zhu, Jinsong Lu, Yike Guo
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2610.29294v1</description>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <category>决策</category><category>偏见</category><category>公平性</category><category>LLM</category><category>可解释AI</category><category>AI治理</category>
+    </item>    <item>
+      <title>从无AI到AI优先：印度工科生无AI规范下的学业与就业之路</title>
+      <link>https://ob-ai-papers.vercel.app/papers/82849</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82849</guid>
+      <description>📝 从无AI到AI优先：印度工科生无AI规范下的学业与就业之路
+EN: From AI-Free Gates to AI-First Work: How Engineering Students in India Navigate University Education and Campus Placements Without AI Guidelines
+
+💡 在生成式AI重塑技术行业的背景下，访谈23名印度工程专业学生与近期毕业生，考察其在课程作业、考试及校园招聘（禁止使用AI）中如何运用生成式AI及对入职准备度的自我评估。提炼AI优先职场与AI-free筛选并存等五大主题，借信号理论讨论AI时代成绩与筛选分数的认证意涵。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Samhitha Goutham, Ziwei Gu
+
+AI 分: 4.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2610.29140v1</description>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <category>教育</category><category>招聘</category><category>工作未来</category><category>组织变革</category><category>GenAI</category><category>人机协作</category>
+    </item>    <item>
+      <title>AI投资回报率（RoAI）：营销组织中AI投资评估框架</title>
+      <link>https://ob-ai-papers.vercel.app/papers/82840</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82840</guid>
+      <description>📝 AI投资回报率（RoAI）：营销组织中AI投资评估框架
+EN: Return on AI (RoAI): A framework for assessing AI investments in the marketing organization
+
+💡 基于营销问责制与资源基础观，构建评估营销组织AI投资回报的RoAI框架，从人员、流程与能力三维度衡量AI部署与治理的增量收益、价值留存、证据持久性与全周期成本。揭示"委托判断"机制——AI虽能提升当前绩效，却削弱营销人员通过实践积累评估与纠偏AI的判断能力，从而解释企业间与时间维度上AI回报的异质性，并提出七项可检验预测与未来研究议程。
+
+📚 JAMS · 2026 · 引用 0
+👤 Vamsi K. Kanuri, Adithya Pattabhiramaiah, Shrihari Sridhar
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <category>营销</category><category>绩效评估</category><category>战略</category><category>组织变革</category><category>AI治理</category><category>算法决策</category><category>人机协作</category>
+    </item>    <item>
       <title>叙事的劳动：慢性疾病患者如何借助AI与社群实现叙事转译</title>
       <link>https://ob-ai-papers.vercel.app/papers/82776</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82776</guid>
       <description>📝 叙事的劳动：慢性疾病患者如何借助AI与社群实现叙事转译
 EN: The Labor of Storytelling: How People with Chronic Illnesses Leverage AI and Communities for Narrative Translation
+
+💡 研究慢性病患者如何借助大语言模型与社群进行疾病叙事的转译，即把亲身病痛经历转化为面向不同受众的表达。通过21位患者的原型驱动半结构访谈，发现AI与社群承担互补角色：AI作为新的中介者参与叙事转译，信任建立于学习模型边界与感知理解程度之上。揭示了人机协同叙事支持的设计启示。
 
 📚 arXiv:cs.HC · 2026 · 引用 0
 👤 Drishti Goel, Koustuv Saha, Martez Mott, Denae Ford
@@ -22,7 +90,7 @@ AI 分: 5.0 / 领域分: 3.0
 
 📄 PDF: https://arxiv.org/pdf/2610.28438v1</description>
       <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-      
+      <category>人机协作</category><category>信任</category><category>人机交互</category><category>伦理</category><category>LLM</category><category>GenAI</category><category>人机交互</category>
     </item>    <item>
       <title>越强的人工智能突破越加速其自身的耗竭</title>
       <link>https://ob-ai-papers.vercel.app/papers/82773</link>
@@ -52,9 +120,11 @@ EN: Synthetic diversity: Racial depictions influence consumer responses to
 💡 品牌在广告中使用AI生成合成模特以提升种族代表性，但五项研究显示，披露AI生成身份会显著降低消费者对企业评价，且该效应仅在模特属于种族少数群体（黑人、拉丁裔、亚裔）时出现，白人模特则不受影响。机制在于降低了消费者对企业包容努力的真实性感知，进而引发操控意图推断。若告知企业由该种族群体成员拥有，可消除该负面效应。
 
 📚 JCP · 2026 · 引用 0
-👤 Rhonda Hadi, Esther Uduehi, Felipe Thomaz, Andrew Stephen
+👤 Rhonda Hadi, Esther Uduehi, Felipe Thomaz, Andrew STEPHEN
 
-AI 分: 5.0 / 领域分: 5.0</description>
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jcpy.70044</description>
       <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
       <category>广告</category><category>偏见</category><category>消费者行为</category><category>品牌</category><category>图像生成</category><category>GenAI</category>
     </item>    <item>
@@ -418,66 +488,6 @@ AI 分: 4.0 / 领域分: 5.0
 📄 PDF: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jcpy.70043</description>
       <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
       <category>营销</category><category>品牌</category><category>消费者行为</category><category>伦理</category><category>GenAI</category><category>LLM</category><category>多模态</category><category>AI治理</category>
-    </item>    <item>
-      <title>从上下文数据到报童决策：数据驱动算法的实际性能</title>
-      <link>https://ob-ai-papers.vercel.app/papers/82116</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82116</guid>
-      <description>📝 从上下文数据到报童决策：数据驱动算法的实际性能
-EN: From Contextual Data to Newsvendor Decisions: On the Actual Performance of Data-Driven Algorithms
-
-💡 研究情境型Newsvendor问题中，历史数据的相关性/质量与数量如何影响数据驱动决策性能。分析加权经验风险最小化（WERM）策略类（含ERM、k近邻、核方法），提出上下文相关的最坏期望遗憾度量，精确刻画任意WERM策略在给定上下文配置下的最坏遗憾，揭示了先前泛界未能呈现的底层结构与数据规模-质量-分布的内在关系。
-
-📚 MgmtSci · 2026 · 引用 1
-👤 Omar Besbes, Will Ma, Omar Mouchtaki
-
-AI 分: 4.0 / 领域分: 3.0</description>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-      <category>决策</category><category>机器学习</category>
-    </item>    <item>
-      <title>基于离线数据的在线定价：相变与平方反比定律</title>
-      <link>https://ob-ai-papers.vercel.app/papers/82115</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82115</guid>
-      <description>📝 基于离线数据的在线定价：相变与平方反比定律
-EN: Online Pricing with Offline Data: Phase Transition and Inverse Square Law
-
-💡 研究单产品动态定价中预存离线数据对在线学习后悔值的影响。需求服从线性模型且参数未知，基于OFU原则设计算法，联合刻画离线数据规模、位置与离散度对最优后悔的作用，发现相变现象与反平方律。算法在单/多历史价格设定下均达到近最优后悔界。
-
-📚 MgmtSci · 2022 · 引用 17
-👤 Jinzhi Bu, David Simchi-Levi, Yunzong Xu
-
-AI 分: 4.0 / 领域分: 3.0</description>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-      <category>决策</category><category>算法管理</category><category>机器学习</category><category>算法决策</category>
-    </item>    <item>
-      <title>AI助长思维懈怠，还是人类对获得肯定的偏好使之如此？</title>
-      <link>https://ob-ai-papers.vercel.app/papers/82069</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82069</guid>
-      <description>📝 AI助长思维懈怠，还是人类对获得肯定的偏好使之如此？
-EN: Does AI Encourage Lax Thinking, or Does the Human Preference for Validation Make It That Way?
-
-💡 探讨使用AI时人类思维是否会变得懒惰：究竟是AI本身助长了松懈思考，还是人类对确认与验证的偏好导致过度依赖AI。标题暗示需区分AI工具特性与用户心理动因，呼吁审视人机交互中认知投入与批判性思维的变化。
-
-📚 CHB · 2026 · 引用 0
-👤 Braden T. Hall, William Hart
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-      <category>决策</category><category>信任</category><category>人机协作</category><category>人机交互</category><category>AI治理</category>
-    </item>    <item>
-      <title>数据监控如何塑造用户行为：感知价值在披露与中止使用中的作用</title>
-      <link>https://ob-ai-papers.vercel.app/papers/82068</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82068</guid>
-      <description>📝 数据监控如何塑造用户行为：感知价值在披露与中止使用中的作用
-EN: How dataveillance shapes user behavior: The role of perceived value in disclosure and discontinuation
-
-💡 探讨数据监控（dataveillance）如何塑造用户行为，分析用户对数据收集的感知价值在信息披露意愿与平台中断使用决策中的中介作用，揭示数据监控情境下用户行为的形成机制。
-
-📚 CHB · 2025 · 引用 6
-👤 Jooyoung Kim, Hangjung Zo, Jongkun Jun
-
-AI 分: 3.0 / 领域分: 4.0</description>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-      <category>隐私</category><category>消费者行为</category><category>算法决策</category>
     </item>
   </channel>
 </rss>
