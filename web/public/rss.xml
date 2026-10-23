@@ -6,9 +6,124 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 22 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>测量本科生在问题解决过程中对生成式AI的依赖：量表开发与验证</title>
+      <link>https://ob-ai-papers.vercel.app/papers/82967</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82967</guid>
+      <description>📝 测量本科生在问题解决过程中对生成式AI的依赖：量表开发与验证
+EN: Measuring undergraduate students' reliance on generative AI during problem-solving: Scale development and validation
+
+💡 针对生成式AI在问题解决中难以用二元结果衡量依赖度的问题，开发并验证本科生依赖行为量表。基于800份样本探索性因子分析提取四个因子：反思性使用、谨慎使用、无思使用、协作使用；量表Cronbach's α为.84，两次CFA（730份与1173份）验证显示跨任务模型拟合良好，可用于不同人机协作问题解决情境，为高校整合生成式AI提供测量工具。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Chenyu Hou, Gaoxia Zhu, Vidya Sudarshan, Fun Siong Lim, Yew Soon Ong
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2610.30195v1</description>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      <category>教育</category><category>人机协作</category><category>培训</category><category>GenAI</category><category>LLM</category><category>ChatGPT</category><category>人机协作</category>
+    </item>    <item>
+      <title>超越更优构想：人机协作如何塑造科学创意与人类认知</title>
+      <link>https://ob-ai-papers.vercel.app/papers/82966</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82966</guid>
+      <description>📝 超越更优构想：人机协作如何塑造科学创意与人类认知
+EN: Beyond Better Ideas: How Human-AI Collaboration Shapes Scientific Ideas and Human Perceptions
+
+💡 研究人机协作对科学创意生成与评价的影响。通过人类-AI与人类-人类团队对比实验、LLM评估、协作溯源分析和参与者调查发现：AI协作未显著提升人类评价的创意质量；AI评估者偏好AI辅助方案但与人类判断不一致；人机与人类协作产出难以区分；亲身体验AI协作后人类会重新校准对有用性与效率的期望。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Qian Chen, Saatvik Pradhan, Janice Ahn, Berk Atil, Angkai Li
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2610.30568v1</description>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>创新</category><category>创意</category><category>团队</category><category>LLM</category><category>GenAI</category><category>人机协作</category>
+    </item>    <item>
+      <title>让生成式AI在工作中落地：肯尼亚与尼日利亚小微企业的问责、本地化与代表性</title>
+      <link>https://ob-ai-papers.vercel.app/papers/82965</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82965</guid>
+      <description>📝 让生成式AI在工作中落地：肯尼亚与尼日利亚小微企业的问责、本地化与代表性
+EN: Making Generative AI Workable at Work: Accountability, Localization, and Representation in Kenyan and Nigerian Small Businesses
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Najeeb Gambo Abdulhamid, Stephanie Nyairo, Liz Ankrah, Jacki O'Neill
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2610.31344v1</description>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      
+    </item>    <item>
+      <title>委派鸿沟：跨职业与国家的AI智能体可委派性开放指数</title>
+      <link>https://ob-ai-papers.vercel.app/papers/82961</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82961</guid>
+      <description>📝 委派鸿沟：跨职业与国家的AI智能体可委派性开放指数
+EN: The Delegation Divide: An Open Index of AI-Agent Delegability across Occupations and Countries
+
+💡 构建AI代理可委托性指数（ADI），由两个语言模型依据预注册标准对18,796个O*NET任务条目评分，映射至146国433个ISCO-08职业组并以ILOSTAT就业数据加权。结果显示2026年全球35.2%任务时间可部分委托，仅2.5%可完全委托；可委托就业随收入上升（低收入22.5%至高收入48.7%），物理障碍是关键；完全委托在约12分钟任务中达到峰值；委托性与实际AI使用高度相关（r=0.86）。
+
+📚 arXiv:econ.GN · 2026 · 引用 0
+👤 Cristian Espinal Maya, Santiago Jiménez Londoño
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2610.30752v1</description>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      <category>工作未来</category><category>HR</category><category>组织变革</category><category>LLM</category><category>算法管理</category><category>AI治理</category>
+    </item>    <item>
+      <title>贷款处理人员与核保人员能否识别AI编辑的陈述：一项实证研究</title>
+      <link>https://ob-ai-papers.vercel.app/papers/82956</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82956</guid>
+      <description>📝 贷款处理人员与核保人员能否识别AI编辑的陈述：一项实证研究
+EN: Can Loan Processors and Underwriters Spot AI-Edited Statements? An Empirical Study
+
+💡 研究贷款处理员与核保员能否在仅文档审查中识别AI编辑伪造的贷款文件。3名从业者各审核1份基于47份真实文件生成的134份伪造PDF之一，结果显示约10.6%的判断（14处）含编辑痕迹，全部涉及身份标识不一致；无一视觉线索发现实际编辑。强调需结合一致性核查与独立来源验证。
+
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 Simiao Ren, Xingyu Shen, Tommy Duong, Ankit Raj
+
+AI 分: 4.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2610.30758v1</description>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      <category>决策</category><category>伦理</category><category>信任</category><category>偏见</category><category>GenAI</category><category>算法管理</category><category>算法决策</category>
+    </item>    <item>
+      <title>数据治理中的可争议代理：在结构化与非结构化系统中记录AI生成元数据的人类监管</title>
+      <link>https://ob-ai-papers.vercel.app/papers/82955</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82955</guid>
+      <description>📝 数据治理中的可争议代理：在结构化与非结构化系统中记录AI生成元数据的人类监管
+EN: Contestable Agents for Data Governance: Recording Human Stewardship of AI-Generated Metadata Across Structured and Unstructured Systems
+
+💡 针对工业组织结构化与非结构化数据的元数据治理，提出"可争议治理"框架：基于LLM的智能体为争议元数据生成带评分与引用的论证，数据管理者可在提交前接受、拒绝、修改或补充，治理记录留存证据、干预与结果。配套版本化领域术语表与门槛控制先例沉淀，并以暖通空调的点分类与保修失效模式决策两案例加以说明。
+
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 Humza Akhtar, Brian Freeman
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2610.31553v1</description>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      <category>知识管理</category><category>组织学习</category><category>伦理</category><category>组织变革</category><category>LLM</category><category>AI治理</category><category>人机协作</category><category>人机交互</category>
+    </item>    <item>
+      <title>修复恋人：人机浪漫互动中的关系破裂与修复</title>
+      <link>https://ob-ai-papers.vercel.app/papers/82881</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82881</guid>
+      <description>📝 修复恋人：人机浪漫互动中的关系破裂与修复
+EN: Repairing the Lover: Relational Breakdown and Restoration in Human–AI Romantic Interaction
+
+💡 聚焦人机浪漫互动中的关系破裂与修复过程，探讨当用户与AI伴侣（如聊天型AI、虚拟恋人）发生情感冲突、误解或信任受损时，双方如何通过沟通策略、归因模式和再承诺等机制重建关系，分析影响关系修复成败的关键因素及其对用户持续使用与情感投入的启示。
+
+📚 CHB · 2026 · 引用 0
+👤 Yuqing Liu, Siyue Ren, Huizi Han, Yan Luximon
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>信任</category><category>消费者行为</category><category>LLM</category><category>ChatGPT</category><category>人机交互</category><category>GenAI</category>
+    </item>    <item>
       <title>SOAR：融合社会与观点感知的推荐</title>
       <link>https://ob-ai-papers.vercel.app/papers/82855</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82855</guid>
@@ -69,9 +184,11 @@ EN: Return on AI (RoAI): A framework for assessing AI investments in the marketi
 💡 基于营销问责制与资源基础观，构建评估营销组织AI投资回报的RoAI框架，从人员、流程与能力三维度衡量AI部署与治理的增量收益、价值留存、证据持久性与全周期成本。揭示"委托判断"机制——AI虽能提升当前绩效，却削弱营销人员通过实践积累评估与纠偏AI的判断能力，从而解释企业间与时间维度上AI回报的异质性，并提出七项可检验预测与未来研究议程。
 
 📚 JAMS · 2026 · 引用 0
-👤 Vamsi K. Kanuri, Adithya Pattabhiramaiah, Shrihari Sridhar
+👤 Vamsi Krishna Kanuri, Adithya Pattabhiramaiah, Shrihari Sridhar
 
-AI 分: 5.0 / 领域分: 5.0</description>
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://doi.org/10.1007/s11747-026-01217-6</description>
       <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
       <category>营销</category><category>绩效评估</category><category>战略</category><category>组织变革</category><category>AI治理</category><category>算法决策</category><category>人机协作</category>
     </item>    <item>
@@ -376,118 +493,6 @@ EN: Ghost in the Machine: On Organizational Theory in the Age of Machine Learnin
 AI 分: 5.0 / 领域分: 5.0</description>
       <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
       <category>组织变革</category><category>组织学习</category><category>算法管理</category><category>机器学习</category><category>算法管理</category>
-    </item>    <item>
-      <title>大学生使用生成式人工智能聊天机器人应对心理健康问题的流行率及相关因素</title>
-      <link>https://ob-ai-papers.vercel.app/papers/82309</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82309</guid>
-      <description>📝 大学生使用生成式人工智能聊天机器人应对心理健康问题的流行率及相关因素
-EN: Prevalence and Correlates of GenerativeAI Chatbot Use for Mental Health Concerns in Higher Education Students
-
-💡 调查大学生群体使用生成式AI聊天机器人处理心理健康问题的普遍率及相关因素。聚焦高等教育情境下学生借助ChatGPT等GenAI工具寻求心理支持的现象，分析使用率、相关人口学与心理变量，评估其在校园心理服务中的角色与潜在风险。
-
-📚 CHB · 2026 · 引用 0
-👤 Elyse J. Thulin
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-      <category>教育</category><category>心理健康</category><category>幸福感</category><category>GenAI</category><category>LLM</category><category>聊天机器人</category>
-    </item>    <item>
-      <title>从像素到感知：通过评论和元数据预测电子游戏评级</title>
-      <link>https://ob-ai-papers.vercel.app/papers/82297</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82297</guid>
-      <description>📝 从像素到感知：通过评论和元数据预测电子游戏评级
-EN: From pixels to perceptions: Predicting video game ratings through reviews and metadata
-
-💡 利用游戏评论文本与元数据预测电子游戏评级，整合玩家评价和游戏类型、平台等元数据信息，通过机器学习方法建立预测模型，帮助理解市场感知与游戏表现的关系。
-
-📚 CHB · 2026 · 引用 1
-👤 Yavuz Selim Balcioğlu, Erkut Altindağ
-
-AI 分: 3.0 / 领域分: 4.0</description>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-      <category>营销</category><category>消费者行为</category><category>推荐系统</category><category>机器学习</category><category>NLP</category><category>推荐算法</category>
-    </item>    <item>
-      <title>面向问题性手机使用的情境感知移动应用自适应反馈干预效果：随机对照试验</title>
-      <link>https://ob-ai-papers.vercel.app/papers/82296</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82296</guid>
-      <description>📝 面向问题性手机使用的情境感知移动应用自适应反馈干预效果：随机对照试验
-EN: Efficacy of a context-aware mobile app with adaptive feedback for promoting behavioral change in problematic smartphone use: Evidence from a randomized controlled trial
-
-💡 一项随机对照试验，评估具备情境感知与自适应反馈功能的移动应用在减少问题性手机使用、促进行为改变方面的干预效果。该应用能根据用户所处情境提供个性化提醒，验证其对手机过度使用行为的改善作用。
-
-📚 CHB · 2026 · 引用 1
-👤 Sandy C. Li, Stella Cheung, Ming Lui, Andrew K.F. Lui, Jackie W.W. Chan
-
-AI 分: 3.0 / 领域分: 4.0</description>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-      <category>健康行为</category><category>行为改变</category><category>消费者行为</category><category>人机交互</category><category>推荐算法</category><category>机器学习</category>
-    </item>    <item>
-      <title>基于在线自由文本的评估专业素养语义分析方法</title>
-      <link>https://ob-ai-papers.vercel.app/papers/82270</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82270</guid>
-      <description>📝 基于在线自由文本的评估专业素养语义分析方法
-EN: A semantic analysis approach for assessing professionalism using free-form text entered online
-
-💡 研究采用语义分析方法，对在线自由文本进行专业度评估。基于标题推断，论文提出一套基于NLP的文本分析框架，用以从用户在在线场景中输入的非结构化文本（如申请材料、帖子、评论等）里自动判别其专业素养水平，应用于招聘筛选或在线行为评估等情境。
-
-📚 CHB · 2011 · 引用 15
-👤 Roger Blake, Oscar Gutierrez
-
-AI 分: 4.0 / 领域分: 4.0</description>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-      <category>招聘</category><category>HR</category><category>机器学习</category>
-    </item>    <item>
-      <title>生成式人工智能中的竞争与多样性</title>
-      <link>https://ob-ai-papers.vercel.app/papers/82226</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82226</guid>
-      <description>📝 生成式人工智能中的竞争与多样性
-EN: Competition and Diversity in Generative AI
-
-💡 研究生成式AI市场中竞争对内容多样性的影响。通过博弈论模型与文本/图像生成实验发现，竞争性市场会筛选出差异化的AI模型，缓解内容同质化；在基准测试中表现优异的模型未必在竞争环境中创造价值，强调应从输出分布全貌评估生成式AI。
-
-📚 MgmtSci · 2026 · 引用 0
-👤 Manish Raghavan
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2412.08610</description>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-      <category>创新</category><category>创意</category><category>营销</category><category>决策</category><category>GenAI</category><category>LLM</category><category>图像生成</category><category>多模态</category>
-    </item>    <item>
-      <title>Agentic-Priors：利用大语言模型解决偏好获取中的冷启动问题</title>
-      <link>https://ob-ai-papers.vercel.app/papers/82157</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82157</guid>
-      <description>📝 Agentic-Priors：利用大语言模型解决偏好获取中的冷启动问题
-EN: Agentic-Priors: Using Large Language Models to Address the Cold Start Problem in Preference Elicitation
-
-💡 针对偏好获取中的冷启动难题，提出Agentic-Priors方法：让大语言模型以可解释方式陈述用户权衡（如支付意愿、时间价值），将其映射为多项Logit系数的先验，再由贝叶斯学习者随选择数据逐步更新。在7个选择数据集上，冷启动准确率较无信息先验提升5–40个百分点，多数场景优于AutoElicit与上下文学习，相当于省去6–40名用户调查的成本，价值集中在部署初期。
-
-📚 arXiv:cs.MA · 2026 · 引用 0
-👤 Bruno Arcanjo, Zhaoxing Li, Sebastian Stein
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2610.21938v1</description>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-      <category>决策</category><category>推荐系统</category><category>信任</category><category>LLM</category><category>推荐算法</category><category>人机协作</category>
-    </item>    <item>
-      <title>AI时代的营销虚假信息</title>
-      <link>https://ob-ai-papers.vercel.app/papers/82136</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82136</guid>
-      <description>📝 AI时代的营销虚假信息
-EN: Marketing misinformation in the age of
-                    &amp;lt;scp&amp;gt;AI&amp;lt;/scp&amp;gt;
-
-💡 聚焦AI时代营销误导信息问题，系统讨论由大语言模型生成的文本、音频、图像与视频如何被企业、竞争对手、消费者或第三方用于制造、混淆与传播虚假品牌和产品信息，分析其对品牌安全的风险及消费者识别能力不足的现状，并从信息生态中各方利益相关者角度提出预防与纠正框架及未来研究方向。
-
-📚 JCP · 2026 · 引用 0
-👤 Gita Venkataramani Johar, Amna Kirmani
-
-AI 分: 4.0 / 领域分: 5.0
-
-📄 PDF: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jcpy.70043</description>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-      <category>营销</category><category>品牌</category><category>消费者行为</category><category>伦理</category><category>GenAI</category><category>LLM</category><category>多模态</category><category>AI治理</category>
     </item>
   </channel>
 </rss>
