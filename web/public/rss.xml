@@ -6,9 +6,54 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 23 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>移动位置推荐系统与本地企业：来自餐饮业的证据</title>
+      <link>https://ob-ai-papers.vercel.app/papers/83029</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83029</guid>
+      <description>📝 移动位置推荐系统与本地企业：来自餐饮业的证据
+EN: Mobile Location-based Recommendation Systems and Local Businesses: Evidence from the Restaurant Industry
+
+💡 利用首尔16,720家餐厅数据及移动位置推荐系统上线的准实验变异，以两阶段最小二乘估计算法曝光效应。曝光每增1%，点击约增0.078%；对地理弱势餐厅的发现效应更大，丰富数字信息和口碑可促进线下转化，收入亦呈正相关。
+
+📚 ISR · 2026 · 引用 0
+👤 Jin Soo Han, Gunwoong Lee, Keongtae Kim
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+      <category>营销</category><category>消费者行为</category><category>推荐系统</category><category>平台经济</category><category>推荐算法</category><category>算法决策</category><category>机器学习</category>
+    </item>    <item>
+      <title>“Generate”引领AI时代未来职场：在线劳动力市场的实证证据</title>
+      <link>https://ob-ai-papers.vercel.app/papers/83027</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83027</guid>
+      <description>📝 “Generate”引领AI时代未来职场：在线劳动力市场的实证证据
+EN: “Generate” the Future of Work through AI: Empirical Evidence from Online Labor Markets
+
+💡 基于在线劳务平台的大规模数据，考察通用LLM对劳动力供需和职业结构的冲击。技能越接近LLM核心能力，细分市场收缩越明显；供需均降但供给降幅较小，自由职业者竞争加剧。ChatGPT降低编程门槛并诱导技能迁移，高技能从业者贡献最大。
+
+📚 ISR · 2026 · 引用 0
+👤 Jin Liu, Xingchen Xu, Xi Nan, Yongjun Li, Yong Tan
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+      <category>零工经济</category><category>工作未来</category><category>技能转型</category><category>劳动市场</category><category>GenAI</category><category>LLM</category><category>ChatGPT</category>
+    </item>    <item>
+      <title>正确与错误的技术依赖：基于专家系统的评估</title>
+      <link>https://ob-ai-papers.vercel.app/papers/82969</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82969</guid>
+      <description>📝 正确与错误的技术依赖：基于专家系统的评估
+EN: True and false dependence on technology: Evaluation with an expert system
+
+💡 聚焦技术依赖的“真”与“假”，以专家系统开展评价，区分个体对技术的真实依赖与虚假依赖，为判断技术使用是否健康、识别依赖偏差及设计针对性干预提供支持。
+
+📚 CHB · 1991 · 引用 27
+👤 Richard P. Will
+
+AI 分: 3.0 / 领域分: 4.0</description>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+      <category>技术依赖</category><category>人机交互</category><category>专家系统</category><category>专家系统</category><category>人机交互</category>
+    </item>    <item>
       <title>测量本科生在问题解决过程中对生成式AI的依赖：量表开发与验证</title>
       <link>https://ob-ai-papers.vercel.app/papers/82967</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82967</guid>
@@ -49,6 +94,8 @@ AI 分: 5.0 / 领域分: 3.0
       <description>📝 让生成式AI在工作中落地：肯尼亚与尼日利亚小微企业的问责、本地化与代表性
 EN: Making Generative AI Workable at Work: Accountability, Localization, and Representation in Kenyan and Nigerian Small Businesses
 
+💡 基于肯尼亚和尼日利亚21家中小企业27名员工的半结构访谈，发现生成式AI能否落地不只取决于可用性，更在于员工能否将草稿加工为可对客户负责的成果。五项实践包括草稿劳动、迭代引导、跨工具比较、发布核验与语境修复；本地语言、制度知识及非洲人物与地点代表性不足则造成持续失配。
+
 📚 arXiv:cs.HC · 2026 · 引用 0
 👤 Najeeb Gambo Abdulhamid, Stephanie Nyairo, Liz Ankrah, Jacki O'Neill
 
@@ -56,7 +103,7 @@ AI 分: 5.0 / 领域分: 4.0
 
 📄 PDF: https://arxiv.org/pdf/2610.31344v1</description>
       <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-      
+      <category>工作设计</category><category>信任</category><category>公平性</category><category>伦理</category><category>GenAI</category><category>人机协作</category><category>AI治理</category>
     </item>    <item>
       <title>委派鸿沟：跨职业与国家的AI智能体可委派性开放指数</title>
       <link>https://ob-ai-papers.vercel.app/papers/82961</link>
@@ -448,51 +495,6 @@ EN: Informative Role of Recommender Systems in Electronic Marketplaces: A Boon o
 AI 分: 3.0 / 领域分: 4.0</description>
       <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
       <category>推荐系统</category><category>营销</category><category>竞争</category><category>战略</category><category>推荐算法</category><category>算法决策</category>
-    </item>    <item>
-      <title>基于新型可解释机器学习模型的购物中心营销活动效果评估</title>
-      <link>https://ob-ai-papers.vercel.app/papers/82396</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82396</guid>
-      <description>📝 基于新型可解释机器学习模型的购物中心营销活动效果评估
-EN: Evaluating the Effectiveness of Marketing Campaigns for Malls Using a Novel Interpretable Machine Learning Model
-
-💡 研究开发可解释机器学习模型GANNM,利用新数据评估购物中心不同类型营销活动及预算分配对客流的影响。发现销售激励、体验激励等不同类别活动在高峰、非高峰与线上促销期的响应曲线差异显著;基于优化预算分配可带来11.2%的客流提升。建议增加对曾被忽视领域的营销投入,避免在高竞争期过度投放,并验证线上促销对线下客流的带动作用。
-
-📚 ISR · 2022 · 引用 26
-👤 Tong Wang, Cheng He, Fujie Jin, Yu Jeffrey Hu
-
-AI 分: 4.0 / 领域分: 5.0</description>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-      <category>营销</category><category>广告</category><category>消费者行为</category><category>决策</category><category>机器学习</category><category>可解释AI</category>
-    </item>    <item>
-      <title>基于在线学习的库存平衡</title>
-      <link>https://ob-ai-papers.vercel.app/papers/82391</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82391</guid>
-      <description>📝 基于在线学习的库存平衡
-EN: Inventory Balancing with Online Learning
-
-💡 研究在模型不确定条件下向异质客户随时间分配有限资源的通用问题。通过整合库存平衡(基于竞争比)与在线学习(基于遗憾分析)两类算法框架,构造辅助问题统一两类性能保证,并提出新UCB变体lazyUCB以在资源稀缺下减少探索、强化利用。借助信息论反例族证明集成框架达到(近)最优性能。
-
-📚 MgmtSci · 2022 · 引用 19
-👤 Wang Chi Cheung, Will Ma, David Simchi-Levi, Xinshang Wang
-
-AI 分: 3.0 / 领域分: 4.0</description>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-      <category>决策</category><category>战略</category><category>机器学习</category><category>算法决策</category>
-    </item>    <item>
-      <title>机器中的幽灵：论机器学习时代的组织理论</title>
-      <link>https://ob-ai-papers.vercel.app/papers/82328</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82328</guid>
-      <description>📝 机器中的幽灵：论机器学习时代的组织理论
-EN: Ghost in the Machine: On Organizational Theory in the Age of Machine Learning
-
-💡 探讨机器学习时代组织理论的演进与挑战,反思算法决策、数据驱动与自动化如何重塑组织的结构、流程及理论建构,呼吁发展契合智能时代的新型组织理论。
-
-📚 AMR · 2021 · 引用 91
-👤 Keith Leavitt, Kira Schabram, Prashanth Hariharan, Christopher M. Barnes
-
-AI 分: 5.0 / 领域分: 5.0</description>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-      <category>组织变革</category><category>组织学习</category><category>算法管理</category><category>机器学习</category><category>算法管理</category>
     </item>
   </channel>
 </rss>
