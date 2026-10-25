@@ -6,9 +6,24 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 24 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>算法成为犯罪同谋：伦理设计的一课</title>
+      <link>https://ob-ai-papers.vercel.app/papers/83073</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83073</guid>
+      <description>📝 算法成为犯罪同谋：伦理设计的一课
+EN: Algorithms as partners in crime: A lesson in ethics by design
+
+💡 聚焦算法如何由中性工具转变为犯罪协作者，通过伦理设计视角审视算法开发、部署中的风险与责任。核心启示是，应将价值约束和社会责任前置嵌入系统设计，而非在危害发生后追责。
+
+📚 CHB · 2023 · 引用 26
+👤 Sebastian Krügel, Andreas Ostermaier, Matthias Uhl
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+      <category>AI治理</category><category>伦理</category><category>算法管理</category><category>人机协作</category><category>算法决策</category><category>AI治理</category>
+    </item>    <item>
       <title>移动位置推荐系统与本地企业：来自餐饮业的证据</title>
       <link>https://ob-ai-papers.vercel.app/papers/83029</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83029</guid>
@@ -480,21 +495,6 @@ EN: How Do Recommender Systems Benefit Online Retailers in the Long Run? Evidenc
 AI 分: 4.0 / 领域分: 4.0</description>
       <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
       <category>推荐系统</category><category>消费者行为</category><category>营销</category><category>推荐算法</category><category>机器学习</category>
-    </item>    <item>
-      <title>电子市场中推荐系统的信息角色：竞争卖家的福音抑或祸根？</title>
-      <link>https://ob-ai-papers.vercel.app/papers/82621</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82621</guid>
-      <description>📝 电子市场中推荐系统的信息角色：竞争卖家的福音抑或祸根？
-EN: Informative Role of Recommender Systems in Electronic Marketplaces: A Boon or a Bane for Competing Sellers
-
-💡 研究电子市场中推荐系统对竞争卖家的信息性作用。推荐系统同时产生广告效应与竞争效应：前者使卖家减少自身广告投放，后者加剧价格竞争，且二者交互使广告强度与定价策略从战略替代转变为战略互补。看似'免费'的推荐曝光实际让卖家以更激烈的价格战为代价，揭示推荐系统未必对竞争卖家有利，挑战了推荐系统对卖家双赢的传统认知。
-
-📚 MISQ · 2020 · 引用 39
-👤 Lusi Li, Jianqing Chen, Srinivasan Raghunathan
-
-AI 分: 3.0 / 领域分: 4.0</description>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-      <category>推荐系统</category><category>营销</category><category>竞争</category><category>战略</category><category>推荐算法</category><category>算法决策</category>
     </item>
   </channel>
 </rss>
