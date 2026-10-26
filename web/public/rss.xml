@@ -6,9 +6,60 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 25 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>我应何时信任它：面向LLM聊天机器人的事实性指标设计与评估</title>
+      <link>https://ob-ai-papers.vercel.app/papers/83141</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83141</guid>
+      <description>📝 我应何时信任它：面向LLM聊天机器人的事实性指标设计与评估
+EN: When Should I Trust This? Designing and Evaluating Factuality Indicators for LLM-based Chatbots
+
+💡 混合方法考察普通人如何评估LLM聊天机器人对园艺、数学和医疗问题的回答：访谈8人、调查1000人并开展5151人实验。用户会按情境选择性核验答案；置信度与来源提示能短期改变信任和准确性感知，但在得知答案对错后影响消失，医疗场景始终更审慎。设计应提升置信度可理解性并整合来源信息，以促成校准信任。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Greta Warren, Jessica Heal, Sila Eser, Denise M. Leto, Christine M. Lehane
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2610.32883v1</description>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <category>信任</category><category>信息检索</category><category>人机交互</category><category>决策</category><category>LLM</category><category>GenAI</category><category>可解释 AI</category><category>人机交互</category>
+    </item>    <item>
+      <title>DealsFlow：用于风险投资交易初筛的证据门控智能体框架</title>
+      <link>https://ob-ai-papers.vercel.app/papers/83139</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83139</guid>
+      <description>📝 DealsFlow：用于风险投资交易初筛的证据门控智能体框架
+EN: DealsFlow: An Evidence-Gated Agentic Harness for Venture Capital Deal Triage
+
+💡 针对LLM风投筛选易出现分数虚高、波动和不可审计理由，构建证据门控的人机协同流程：预取证据、分项评分、设置证据上限，并由“怀疑者”仅下调分数。243笔投资中，以142笔已成熟案例评估，完整流程与总价值倍数相关性ρ=.45、识别核销AUC=.71，略优于无约束LLM；收益主要来自下调机制，但结果可能高估筛选能力。
+
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 Ming Ze Tang, David Cutting, Boyd Carson, Vasiliki Carson
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2610.32380v1</description>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <category>创业</category><category>风险投资</category><category>决策</category><category>人机协作</category><category>LLM</category><category>AI 智能体</category><category>人机协作</category><category>AI 治理</category>
+    </item>    <item>
+      <title>SWE-Clar：编码智能体能否澄清不完整的客户需求并交付全新软件？</title>
+      <link>https://ob-ai-papers.vercel.app/papers/83138</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83138</guid>
+      <description>📝 SWE-Clar：编码智能体能否澄清不完整的客户需求并交付全新软件？
+EN: SWE-Clar: Can Coding Agents Clarify Incomplete Client Requirements and Deliver Greenfield Software?
+
+💡 面向自由职业软件开发中客户需求不完整的场景，构建SWE-Clar基准：基于Upwork真实高价值任务设置100项任务，让编码智能体先与客户代理多轮澄清，再独立实现代码，并用512道需求理解题和验收测试分别评估。九个前沿模型实验表明，即便最佳模型GPT-6 Astra也暴露出需求理解与可靠交付局限；先澄清再编码并单独测试理解，有助于诊断智能体能力。
+
+📚 arXiv:cs.SE · 2026 · 引用 0
+👤 Jialei Li, Dingxian Wang, Xiaoyan Zhao, Yimeng Bai, Xuanyi Zhu
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2610.31854v1</description>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <category>需求工程</category><category>软件开发</category><category>自由职业</category><category>人机协作</category><category>LLM</category><category>代码生成</category><category>AI 智能体</category><category>人机交互</category>
+    </item>    <item>
       <title>算法成为犯罪同谋：伦理设计的一课</title>
       <link>https://ob-ai-papers.vercel.app/papers/83073</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83073</guid>
@@ -449,52 +500,6 @@ EN: Intelligent Approach to Discovering a New Functional Model Quantifying the L
 AI 分: 3.0 / 领域分: 3.0</description>
       <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
       <category>营销</category><category>推荐系统</category><category>消费者行为</category><category>机器学习</category><category>可解释 AI</category>
-    </item>    <item>
-      <title>从独白到对话：借助"名人即服务"重塑公共服务传播</title>
-      <link>https://ob-ai-papers.vercel.app/papers/82633</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82633</guid>
-      <description>📝 从独白到对话：借助"名人即服务"重塑公共服务传播
-EN: From Monologue to Dialogue: Remaking Public Service Communication with
-                    &amp;lt;i&amp;gt;Celebrity-as-a-Service&amp;lt;/i&amp;gt;
-
-💡 研究AI驱动的'名人即服务'数字人在公益传播中的效果。通过在线实验比较数字名人与非名人数字人在公益广告（单向传播）与一对一互动（双向交流）两种形式下传递皮肤癌防治信息的效果，发现名人效应与互动性均可提升受众的信任感与愉悦感，进而增强对公益信息的遵从意愿和分享意愿，验证了AI数字名人使名人参与大规模一对一公益互动成为可能。
-
-📚 MISQ · 2026 · 引用 0
-👤 Antino Kim, Lingyao (Ivy) Yuan, Mike Seymour, Alan R. Dennis
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-      <category>营销</category><category>广告</category><category>消费者行为</category><category>信任</category><category>人机交互</category><category>GenAI</category>
-    </item>    <item>
-      <title>重结果轻过程：通过机器学习辅助推广提升众筹公平性与绩效</title>
-      <link>https://ob-ai-papers.vercel.app/papers/82631</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82631</guid>
-      <description>📝 重结果轻过程：通过机器学习辅助推广提升众筹公平性与绩效
-EN: Outcome Over Process: Advancing Both Fairness and Performance in Crowdfunding Through ML-Assisted Promotion
-
-💡 研究众筹平台推广政策中的公平性与绩效权衡。基于118,780个Kickstarter项目，比较三种机器学习问题框架（复现历史员工决策的流程框架、预测项目能否达成的成功框架、预测吸引大量支持者的支持者框架）对推广效果的影响。结果发现，成功框架在公平性和商业绩效上均最优，因其对相似项目决策更一致，表明ML问题的精心设计可使公平与绩效对齐。
-
-📚 MISQ · 2026 · 引用 0
-👤 Lauren Rhue, Jessica Clark
-
-AI 分: 4.0 / 领域分: 4.0</description>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-      <category>公平性</category><category>决策</category><category>算法管理</category><category>营销</category><category>机器学习</category><category>算法决策</category>
-    </item>    <item>
-      <title>推荐系统如何长期惠及在线零售商？来自一项实地实验的证据</title>
-      <link>https://ob-ai-papers.vercel.app/papers/82623</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82623</guid>
-      <description>📝 推荐系统如何长期惠及在线零售商？来自一项实地实验的证据
-EN: How Do Recommender Systems Benefit Online Retailers in the Long Run? Evidence from a Field Experiment1
-
-💡 基于在线零售商的随机田野实验，探究协同过滤推荐系统对消费者忠诚度与长期销售的影响。短期内推荐系统虽增加推荐品销量、减少非推荐品销量，总销量未必提升，但通过'偏好效应'引导消费者聚焦推荐品，提升购物体验与回访频率，从而增强客户忠诚度。推荐一旦关闭，忠诚客户流失导致长期销售显著下降，揭示了推荐系统的长期战略价值。
-
-📚 MISQ · 2026 · 引用 0
-👤 Luping Sun, Yuxin Chen, Xiaona Zheng, Meng Su, Xiaoquan (Michael) Zhang
-
-AI 分: 4.0 / 领域分: 4.0</description>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-      <category>推荐系统</category><category>消费者行为</category><category>营销</category><category>推荐算法</category><category>机器学习</category>
     </item>
   </channel>
 </rss>
