@@ -6,9 +6,103 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 27 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>熟能生巧：隐性知识、生成式AI与教育年限和经验回报</title>
+      <link>https://ob-ai-papers.vercel.app/papers/83352</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83352</guid>
+      <description>📝 熟能生巧：隐性知识、生成式AI与教育年限和经验回报
+EN: Practice Makes Perfect: Tacit Knowledge, Generative AI, and Returns to Schooling and Experience
+
+💡 考察生成式AI对人力资本工资回报的影响。基于美国当前人口调查数据比较高、低AI暴露职业，发现ChatGPT发布后高暴露职业的学历回报下降0.55个对数点，早期经验回报上升，并在潜在经验约18.1年后转为下降。
+
+📚 arXiv:econ.GN · 2026 · 引用 0
+👤 Eduardo Levy Yeyati, Darío Judzik, Juan Ignacio Barbiero
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2610.36008v1</description>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <category>人力资本</category><category>技能溢价</category><category>劳动力市场</category><category>工作未来</category><category>GenAI</category><category>ChatGPT</category>
+    </item>    <item>
+      <title>WorkFactory：将专业意图转化为可执行任务，支撑可扩展智能体训练</title>
+      <link>https://ob-ai-papers.vercel.app/papers/83347</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83347</guid>
+      <description>📝 WorkFactory：将专业意图转化为可执行任务，支撑可扩展智能体训练
+EN: WorkFactory: Turning Professional Intents into Executable Work for Scalable Agent Training
+
+💡 针对专业任务信息缺失或不一致导致智能体监督训练质量下降的问题，构建WorkFactory：以信息支持图规划任务，并通过探针执行诊断、修复环境缺陷。基于112,686个任务微调不同规模Qwen模型，专业基准均提升，表明规划与修复可减少任务缺陷并改善模型表现。
+
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 Ziyang Zeng, Tingyang Chen, Jia Deng, Qiyao Wang, Shuo Tang
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2610.37161v1</description>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>工作设计</category><category>知识管理</category><category>LLM</category><category>智能体</category><category>监督学习</category>
+    </item>    <item>
+      <title>用于因果推断的机器学习工具变量</title>
+      <link>https://ob-ai-papers.vercel.app/papers/83331</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83331</guid>
+      <description>📝 用于因果推断的机器学习工具变量
+EN: Machine Learning Instrument Variables for Causal Inference
+
+💡 针对弱外生数据难以形成强工具变量的问题，提出机器学习工具变量框架，在半参数效率下构造有效工具变量，并用于广告与需求估计，为因果识别和营销决策提供更可靠的估计基础。
+
+📚 MktSci · 2026 · 引用 0
+👤 Amandeep Singh, Kartik Hosanagar, Amit Gandhi
+
+AI 分: 3.0 / 领域分: 4.0</description>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <category>营销</category><category>广告</category><category>决策</category><category>机器学习</category><category>因果推断</category>
+    </item>    <item>
+      <title>分布式规则学习的计算研究</title>
+      <link>https://ob-ai-papers.vercel.app/papers/83315</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83315</guid>
+      <description>📝 分布式规则学习的计算研究
+EN: A Computational Study of Distributed Rule Learning
+
+💡 评估分布式规则学习系统DLS的计算性能，并识别群体问题求解策略的关键参数。计算结果证实DLS在规则学习方面的优势；参数分析揭示影响学习效果的关键设计，为将群体问题求解用作通用规则学习策略提供依据。
+
+📚 ISR · 1996 · 引用 14
+👤 Riyaz Sikora, Michael J. Shaw
+
+AI 分: 5.0 / 领域分: 3.0</description>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <category>知识管理</category><category>组织学习</category><category>群体问题求解</category><category>规则学习</category><category>分布式学习</category><category>机器学习</category>
+    </item>    <item>
+      <title>灵活自动电子通信的基础</title>
+      <link>https://ob-ai-papers.vercel.app/papers/83314</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83314</guid>
+      <description>📝 灵活自动电子通信的基础
+EN: A Foundation for Flexible Automated Electronic Communication
+
+💡 建立基于语言学的自然语言通信形式体系，以通用消息类型界定预期效果，并配置内容无关的标准自动回复及复杂对话机制。模块化、可复用的消息解释器支持各类应用，使通信系统更易修改、扩展和自动化。
+
+📚 ISR · 2001 · 引用 28
+👤 Scott A. Moore
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <category>电子通信</category><category>通信自动化</category><category>模块化系统</category><category>自然语言处理</category><category>人机交互</category>
+    </item>    <item>
+      <title>应对复杂数据环境：数据外推技术对知识生产的影响</title>
+      <link>https://ob-ai-papers.vercel.app/papers/83311</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83311</guid>
+      <description>📝 应对复杂数据环境：数据外推技术对知识生产的影响
+EN: Navigating the Rugged Data Landscape: The Impact of Data-Extrapolation Technologies on Knowledge Production
+
+💡 考察数据外推技术如何影响跨领域知识生产：以结构生物学中先验数据可获得性的差异，识别工具可用与不可用研究区域。结果显示，技术增加数据丰富领域的研究数量，但新增产出生物学洞见有限，方法严谨性较高并促进后续研究。
+
+📚 MgmtSci · 2026 · 引用 0
+👤 Soomi Kim
+
+AI 分: 4.0 / 领域分: 5.0</description>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <category>知识管理</category><category>创新</category><category>组织学习</category><category>机器学习</category><category>数据外推</category>
+    </item>    <item>
       <title>能力转移：代际逆转、编码化专长与AI转型的适应性负担</title>
       <link>https://ob-ai-papers.vercel.app/papers/83253</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83253</guid>
@@ -203,7 +297,7 @@ EN: Qualitative Research in the Age of AI: Considerations, Critiques, and Craft
 💡 从研究考量、主要批评与方法实践三方面讨论AI时代的定性研究，审视研究设计与分析在AI环境下面临的挑战及应对方向。
 
 📚 OrgSci · 2026 · 引用 0
-👤 Andrew Nelson, Anne-Laure Fayard, Alex Murray
+👤 Andrew J. Nelson, Anne‐Laure Fayard, Alex Michael Murray
 
 AI 分: 5.0 / 领域分: 5.0</description>
       <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
@@ -398,106 +492,6 @@ AI 分: 5.0 / 领域分: 3.0
 📄 PDF: https://arxiv.org/pdf/2610.30568v1</description>
       <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
       <category>人机协作</category><category>创新</category><category>创意</category><category>团队</category><category>LLM</category><category>GenAI</category><category>人机协作</category>
-    </item>    <item>
-      <title>让生成式AI在工作中落地：肯尼亚与尼日利亚小微企业的问责、本地化与代表性</title>
-      <link>https://ob-ai-papers.vercel.app/papers/82965</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82965</guid>
-      <description>📝 让生成式AI在工作中落地：肯尼亚与尼日利亚小微企业的问责、本地化与代表性
-EN: Making Generative AI Workable at Work: Accountability, Localization, and Representation in Kenyan and Nigerian Small Businesses
-
-💡 基于肯尼亚和尼日利亚21家中小企业27名员工的半结构访谈，发现生成式AI能否落地不只取决于可用性，更在于员工能否将草稿加工为可对客户负责的成果。五项实践包括草稿劳动、迭代引导、跨工具比较、发布核验与语境修复；本地语言、制度知识及非洲人物与地点代表性不足则造成持续失配。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Najeeb Gambo Abdulhamid, Stephanie Nyairo, Liz Ankrah, Jacki O'Neill
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2610.31344v1</description>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-      <category>工作设计</category><category>信任</category><category>公平性</category><category>伦理</category><category>GenAI</category><category>人机协作</category><category>AI治理</category>
-    </item>    <item>
-      <title>委派鸿沟：跨职业与国家的AI智能体可委派性开放指数</title>
-      <link>https://ob-ai-papers.vercel.app/papers/82961</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82961</guid>
-      <description>📝 委派鸿沟：跨职业与国家的AI智能体可委派性开放指数
-EN: The Delegation Divide: An Open Index of AI-Agent Delegability across Occupations and Countries
-
-💡 构建AI代理可委托性指数（ADI），由两个语言模型依据预注册标准对18,796个O*NET任务条目评分，映射至146国433个ISCO-08职业组并以ILOSTAT就业数据加权。结果显示2026年全球35.2%任务时间可部分委托，仅2.5%可完全委托；可委托就业随收入上升（低收入22.5%至高收入48.7%），物理障碍是关键；完全委托在约12分钟任务中达到峰值；委托性与实际AI使用高度相关（r=0.86）。
-
-📚 arXiv:econ.GN · 2026 · 引用 0
-👤 Cristian Espinal Maya, Santiago Jiménez Londoño
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2610.30752v1</description>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-      <category>工作未来</category><category>HR</category><category>组织变革</category><category>LLM</category><category>算法管理</category><category>AI治理</category>
-    </item>    <item>
-      <title>贷款处理人员与核保人员能否识别AI编辑的陈述：一项实证研究</title>
-      <link>https://ob-ai-papers.vercel.app/papers/82956</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82956</guid>
-      <description>📝 贷款处理人员与核保人员能否识别AI编辑的陈述：一项实证研究
-EN: Can Loan Processors and Underwriters Spot AI-Edited Statements? An Empirical Study
-
-💡 研究贷款处理员与核保员能否在仅文档审查中识别AI编辑伪造的贷款文件。3名从业者各审核1份基于47份真实文件生成的134份伪造PDF之一，结果显示约10.6%的判断（14处）含编辑痕迹，全部涉及身份标识不一致；无一视觉线索发现实际编辑。强调需结合一致性核查与独立来源验证。
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Simiao Ren, Xingyu Shen, Tommy Duong, Ankit Raj
-
-AI 分: 4.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2610.30758v1</description>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-      <category>决策</category><category>伦理</category><category>信任</category><category>偏见</category><category>GenAI</category><category>算法管理</category><category>算法决策</category>
-    </item>    <item>
-      <title>数据治理中的可争议代理：在结构化与非结构化系统中记录AI生成元数据的人类监管</title>
-      <link>https://ob-ai-papers.vercel.app/papers/82955</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82955</guid>
-      <description>📝 数据治理中的可争议代理：在结构化与非结构化系统中记录AI生成元数据的人类监管
-EN: Contestable Agents for Data Governance: Recording Human Stewardship of AI-Generated Metadata Across Structured and Unstructured Systems
-
-💡 针对工业组织结构化与非结构化数据的元数据治理，提出"可争议治理"框架：基于LLM的智能体为争议元数据生成带评分与引用的论证，数据管理者可在提交前接受、拒绝、修改或补充，治理记录留存证据、干预与结果。配套版本化领域术语表与门槛控制先例沉淀，并以暖通空调的点分类与保修失效模式决策两案例加以说明。
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Humza Akhtar, Brian Freeman
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2610.31553v1</description>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-      <category>知识管理</category><category>组织学习</category><category>伦理</category><category>组织变革</category><category>LLM</category><category>AI治理</category><category>人机协作</category><category>人机交互</category>
-    </item>    <item>
-      <title>修复恋人：人机浪漫互动中的关系破裂与修复</title>
-      <link>https://ob-ai-papers.vercel.app/papers/82881</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82881</guid>
-      <description>📝 修复恋人：人机浪漫互动中的关系破裂与修复
-EN: Repairing the Lover: Relational Breakdown and Restoration in Human–AI Romantic Interaction
-
-💡 聚焦人机浪漫互动中的关系破裂与修复过程，探讨当用户与AI伴侣（如聊天型AI、虚拟恋人）发生情感冲突、误解或信任受损时，双方如何通过沟通策略、归因模式和再承诺等机制重建关系，分析影响关系修复成败的关键因素及其对用户持续使用与情感投入的启示。
-
-📚 CHB · 2026 · 引用 0
-👤 Yuqing Liu, Siyue Ren, Huizi Han, Yan Luximon
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>信任</category><category>消费者行为</category><category>LLM</category><category>ChatGPT</category><category>人机交互</category><category>GenAI</category>
-    </item>    <item>
-      <title>SOAR：融合社会与观点感知的推荐</title>
-      <link>https://ob-ai-papers.vercel.app/papers/82855</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82855</guid>
-      <description>📝 SOAR：融合社会与观点感知的推荐
-EN: SOAR: Social and Opinion-Aware Recommendations
-
-💡 研究在线平台兴趣点推荐问题，提出SOAR模型，将用户社交关系网络与文本评论（含情感分析）相融合，用于评估特定地点对用户的适配性。在真实数据集上的实验表明，将评论信息纳入推荐过程可有效提升推荐精度。
-
-📚 arXiv:cs.LG · 2026 · 引用 0
-👤 Giannis Christoforidis, Apostolos N. Papadopoulos
-
-AI 分: 4.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2610.29556v1</description>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-      <category>推荐系统</category><category>消费者行为</category><category>推荐算法</category><category>机器学习</category>
     </item>
   </channel>
 </rss>
