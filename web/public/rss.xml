@@ -6,9 +6,39 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 28 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>具有共情能力的机器人：客服中对情感感知AI智能体的逆反心理</title>
+      <link>https://ob-ai-papers.vercel.app/papers/83395</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83395</guid>
+      <description>📝 具有共情能力的机器人：客服中对情感感知AI智能体的逆反心理
+EN: Bots with Empathy: Reactance Against Emotion-Aware AI Agents in Customer Service
+
+💡 通过三项实验室实验检验服务失败后情感型聊天机器人的影响。发现机器人的同理表达会激发顾客心理抗拒，降低其对机器人能力与温暖度的感知，进而损害服务评价。
+
+📚 MISQ · 2026 · 引用 0
+👤 Elizabeth Han, Dezhi Yin, Han Zhang
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <category>消费者行为</category><category>客服服务</category><category>心理抗拒</category><category>信任</category><category>AI客服</category><category>聊天机器人</category><category>情感计算</category><category>人机交互</category>
+    </item>    <item>
+      <title>当人们认为AI能提供共情时，便会卸下共情责任</title>
+      <link>https://ob-ai-papers.vercel.app/papers/83367</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83367</guid>
+      <description>📝 当人们认为AI能提供共情时，便会卸下共情责任
+EN: People Offload Empathy When They Think AI Can Give It Instead
+
+💡 考察人们认为AI能提供同理心时，是否会把同理心责任转交给AI，从而减少对他人的情感投入。仅据标题无法确定具体方法；核心命题是AI被视为同理心来源会促成人际同理心转移。
+
+📚 CHB · 2026 · 引用 0
+👤 Madhulika Shastry, Kurt Gray
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>情绪劳动</category><category>人际关系</category><category>情感AI</category><category>人机交互</category>
+    </item>    <item>
       <title>熟能生巧：隐性知识、生成式AI与教育年限和经验回报</title>
       <link>https://ob-ai-papers.vercel.app/papers/83352</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83352</guid>
@@ -267,9 +297,11 @@ EN: The Efficiency Trap of Agentic
 💡 以Weick松耦合理论审视智能体AI在人力资源管理中的应用，论证自主执行虽能提高即时一致性，却因算法紧耦合、消除战略余量而削弱组织韧性。治理框架强调保留一线管理者的感知与裁量空间，以兼顾执行效率和长期适应性。
 
 📚 HRM · 2026 · 引用 0
-👤 Miles M. Yang
+👤 Miles Min-Huei Yang
 
-AI 分: 5.0 / 领域分: 5.0</description>
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/hrm.70106</description>
       <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
       <category>人力资源管理</category><category>组织韧性</category><category>组织变革</category><category>AI治理</category><category>智能体AI</category><category>算法管理</category><category>人机协作</category><category>AI治理</category>
     </item>    <item>
@@ -458,40 +490,6 @@ EN: True and false dependence on technology: Evaluation with an expert system
 AI 分: 3.0 / 领域分: 4.0</description>
       <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
       <category>技术依赖</category><category>人机交互</category><category>专家系统</category><category>专家系统</category><category>人机交互</category>
-    </item>    <item>
-      <title>测量本科生在问题解决过程中对生成式AI的依赖：量表开发与验证</title>
-      <link>https://ob-ai-papers.vercel.app/papers/82967</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82967</guid>
-      <description>📝 测量本科生在问题解决过程中对生成式AI的依赖：量表开发与验证
-EN: Measuring undergraduate students' reliance on generative AI during problem-solving: Scale development and validation
-
-💡 针对生成式AI在问题解决中难以用二元结果衡量依赖度的问题，开发并验证本科生依赖行为量表。基于800份样本探索性因子分析提取四个因子：反思性使用、谨慎使用、无思使用、协作使用；量表Cronbach's α为.84，两次CFA（730份与1173份）验证显示跨任务模型拟合良好，可用于不同人机协作问题解决情境，为高校整合生成式AI提供测量工具。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Chenyu Hou, Gaoxia Zhu, Vidya Sudarshan, Fun Siong Lim, Yew Soon Ong
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2610.30195v1</description>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-      <category>教育</category><category>人机协作</category><category>培训</category><category>GenAI</category><category>LLM</category><category>ChatGPT</category><category>人机协作</category>
-    </item>    <item>
-      <title>超越更优构想：人机协作如何塑造科学创意与人类认知</title>
-      <link>https://ob-ai-papers.vercel.app/papers/82966</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82966</guid>
-      <description>📝 超越更优构想：人机协作如何塑造科学创意与人类认知
-EN: Beyond Better Ideas: How Human-AI Collaboration Shapes Scientific Ideas and Human Perceptions
-
-💡 研究人机协作对科学创意生成与评价的影响。通过人类-AI与人类-人类团队对比实验、LLM评估、协作溯源分析和参与者调查发现：AI协作未显著提升人类评价的创意质量；AI评估者偏好AI辅助方案但与人类判断不一致；人机与人类协作产出难以区分；亲身体验AI协作后人类会重新校准对有用性与效率的期望。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Qian Chen, Saatvik Pradhan, Janice Ahn, Berk Atil, Angkai Li
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2610.30568v1</description>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>创新</category><category>创意</category><category>团队</category><category>LLM</category><category>GenAI</category><category>人机协作</category>
     </item>
   </channel>
 </rss>
