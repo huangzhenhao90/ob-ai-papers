@@ -6,9 +6,156 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 29 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>通过容差感知推荐与自适应多样化逆转极化</title>
+      <link>https://ob-ai-papers.vercel.app/papers/83497</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83497</guid>
+      <description>📝 通过容差感知推荐与自适应多样化逆转极化
+EN: Reversing Polarization through Tolerance-Aware Recommendation and Adaptive Diversification
+
+💡 针对个性化推荐可能加剧人群极化的问题，构建容忍度感知推荐与自适应多样化机制。基于意见动力学模型、智能体实验及LLM代理模拟，发现容忍度管理主要减缓极化，组合策略在一定条件下可逆转极化、恢复共识，并增强对极端影响者和“沉默螺旋”的韧性。
+
+📚 arXiv:cs.SI · 2026 · 引用 0
+👤 Zhanzhan Zhao, Shuqi Zhao, Zichen Fan, Dana Randall
+
+AI 分: 4.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2610.40289v1</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <category>推荐系统</category><category>社会极化</category><category>信息多样性</category><category>算法治理</category><category>推荐算法</category><category>LLM</category><category>智能体模拟</category>
+    </item>    <item>
+      <title>顾问、副驾驶还是守护者：自动车辆接管中的AI角色框定与人类决策行为</title>
+      <link>https://ob-ai-papers.vercel.app/papers/83495</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83495</guid>
+      <description>📝 顾问、副驾驶还是守护者：自动车辆接管中的AI角色框定与人类决策行为
+EN: Advisor, Co-pilot, or Guardian? AI Role Framing and Human Decision Behavior in Automated Vehicle Takeovers
+
+💡 在L3级自动驾驶接管模拟实验（24名参与者）中比较顾问、共同驾驶员和守护者三种AI角色。顾问决策最快，顾问与守护者准确率和满意度更高，守护者工作负荷最低；解释类型效应依角色而异，同侧语义能缩短决策时间。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Wei-Hsiang Lo, Jingyi Xie, Gaojian Huang
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2610.37892v1</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>人机交互</category><category>决策</category><category>自动驾驶</category><category>可解释 AI</category><category>人机协作</category>
+    </item>    <item>
+      <title>人在创意写作中扮演什么角色：人机协作中的创造性与多样性</title>
+      <link>https://ob-ai-papers.vercel.app/papers/83494</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83494</guid>
+      <description>📝 人在创意写作中扮演什么角色：人机协作中的创造性与多样性
+EN: What Is the Role for Humans in Creative Writing? Creativity and Diversity in Human-AI Collaboration
+
+💡 以计划—写作—审查—修订的传递链比较人类、AI及混合写作链（333人、427篇故事）。全AI链创造力更高但多样性较低；仅在计划阶段引入人类，可在保留AI创造力的同时提升并延续多样性，且维持写作愉悦感。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Chenyi Li, Haoyu Hu, Raja Marjieh, Katherine M Collins, Max Kreminski
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2610.37916v1</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <category>创意</category><category>人机协作</category><category>创新</category><category>GenAI</category><category>人机协作</category>
+    </item>    <item>
+      <title>基础设施及其不满：加拿大AI治理框架中的权力争议</title>
+      <link>https://ob-ai-papers.vercel.app/papers/83493</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83493</guid>
+      <description>📝 基础设施及其不满：加拿大AI治理框架中的权力争议
+EN: Infrastructure and its Discontents: Contestations of Power in Canada's AI Governance Scaffold
+
+💡 研究加拿大AI治理中知识权威、技术不透明与问责机制所形成的权力张力。深度访谈官僚、民间社会、学者和产业界人士并进行归纳式主题分析，指出治理应转向关怀、参与式民主、维护责任与适应性设计。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Christelle Tessono, Nusrat Jahan Mim, Shion Guha
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2610.38077v1</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <category>AI治理</category><category>公平性</category><category>技术权力</category><category>问责制</category><category>AI治理</category>
+    </item>    <item>
+      <title>面向大规模广告的可靠、可扩展且价值对齐的生成式推荐</title>
+      <link>https://ob-ai-papers.vercel.app/papers/83492</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83492</guid>
+      <description>📝 面向大规模广告的可靠、可扩展且价值对齐的生成式推荐
+EN: Towards Reliable, Scalable, and Value-Aligned Generative Recommendation for Large-Scale Advertising
+
+💡 针对快手广告生成式推荐中的语义标识不稳定、骨干扩容收益递减及中间决策信用分配不足，GR4AD-X采用多路径标识分配、多维容量扩展与统一价值引导生成，兼顾推荐可靠性、服务效率和广告商业价值；大规模在线A/B测试验证了效果。
+
+📚 arXiv:cs.IR · 2026 · 引用 0
+👤 Yatong Xiao, Yibo Sheng, Lixiang Wang, Mingjie Sun, Yunhao Sha
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2610.38378v1</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <category>推荐系统</category><category>广告</category><category>营销</category><category>GenAI</category><category>推荐算法</category><category>机器学习</category>
+    </item>    <item>
+      <title>Bank-World：评估智能体执行银行工作流的基准</title>
+      <link>https://ob-ai-papers.vercel.app/papers/83480</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83480</guid>
+      <description>📝 Bank-World：评估智能体执行银行工作流的基准
+EN: Bank-World: A Benchmark for Evaluating Agents on Banking Workflows
+
+💡 面向银行工作流构建包含50项任务和两家模拟机构的智能体评测基准，结合可执行检查与模型评判，考察核对记录、获取授权、交易执行及动态指令下的一致性。1600次尝试显示，模型常能作出正确决策却无法完整交付任务，不同模型在单轮和多轮任务上各有优势。
+
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 Daniel Rupawalla
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2610.39733v1</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <category>金融科技</category><category>工作流程</category><category>人机协作</category><category>AI评测</category><category>LLM</category><category>AI智能体</category><category>人机交互</category>
+    </item>    <item>
+      <title>竞赛还是合同：评估在线劳动市场中竞赛的有效性</title>
+      <link>https://ob-ai-papers.vercel.app/papers/83456</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83456</guid>
+      <description>📝 竞赛还是合同：评估在线劳动市场中竞赛的有效性
+EN: Contest or Contract: Assessing the Effectiveness of Contests in Online Labor Markets
+
+💡 基于领先在线劳务平台的大样本数据，结合多种实证方法、机器学习与文本挖掘，比较固定预算下竞赛制与合同制对高不确定性创意任务质量的影响。结果表明合同制表现更优；公开竞争促使劳动者模仿并随竞争加剧降低努力，其负面激励超过竞赛的潜在收益。
+
+📚 MgmtSci · 2026 · 引用 0
+👤 Jason Chan, Jiahui Mo, Tingting Nian, Nila Zhang
+
+AI 分: 3.0 / 领域分: 4.0</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <category>零工经济</category><category>工作设计</category><category>创新</category><category>激励机制</category><category>机器学习</category><category>文本挖掘</category>
+    </item>    <item>
+      <title>生成式人工智能的使用与不当育儿行为：全国性调查发现</title>
+      <link>https://ob-ai-papers.vercel.app/papers/83424</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83424</guid>
+      <description>📝 生成式人工智能的使用与不当育儿行为：全国性调查发现
+EN: Generative Artificial Intelligence Use and Inappropriate Parenting Behaviors: Findings From a Nationwide Survey
+
+💡 通过全国调查考察生成式AI使用与不当养育行为之间的关系及其群体差异。仅据标题无法确认关联方向、显著程度或因果关系，家庭AI使用规范与儿童照护风险仍需验证。
+
+📚 CHB · 2026 · 引用 0
+👤 Yousuke Imanishi, Sinchul Jwa, Masahiko Sakamoto, Takahiro Tabuchi
+
+AI 分: 4.0 / 领域分: 3.0</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <category>家庭育儿</category><category>儿童照护</category><category>AI伦理</category><category>GenAI</category>
+    </item>    <item>
+      <title>儿童与机器人辅导者互动中的障碍：一项纵向研究</title>
+      <link>https://ob-ai-papers.vercel.app/papers/83416</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83416</guid>
+      <description>📝 儿童与机器人辅导者互动中的障碍：一项纵向研究
+EN: Breakdowns in children's interactions with a robotic tutor: A longitudinal study
+
+💡 纵向追踪儿童与机器人导师互动中的故障，考察互动破裂的类型、演变及其对学习参与的影响。仅据标题无法确定具体故障机制、影响方向或因果关系。
+
+📚 CHB · 2018 · 引用 74
+👤 Sofia Serholt
+
+AI 分: 3.0 / 领域分: 3.0</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <category>教育</category><category>儿童学习</category><category>机器人辅导</category><category>机器人</category><category>人机交互</category>
+    </item>    <item>
       <title>具有共情能力的机器人：客服中对情感感知AI智能体的逆反心理</title>
       <link>https://ob-ai-papers.vercel.app/papers/83395</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83395</guid>
@@ -349,147 +496,6 @@ EN: Training and oversight of algorithms in social decision-making: Algorithms w
 AI 分: 5.0 / 领域分: 3.0</description>
       <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
       <category>决策</category><category>人机协作</category><category>算法管理</category><category>伦理</category><category>算法决策</category><category>人机交互</category><category>AI治理</category>
-    </item>    <item>
-      <title>理解并预测客户使用智能手机在线游戏的意愿：基于深度学习的双阶段建模分析</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83156</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83156</guid>
-      <description>📝 理解并预测客户使用智能手机在线游戏的意愿：基于深度学习的双阶段建模分析
-EN: Understanding and predicting customers’ intentions to use smartphone-based online games: A deep-learning-based dual-stage modelling analysis
-
-💡 聚焦客户采用智能手机网络游戏的使用意向，构建深度学习双阶段模型，识别意向形成的关键因素并预测参与倾向，为移动游戏营销与用户接纳研究提供方法依据。
-
-📚 CHB · 2024 · 引用 7
-👤 Muhammad Sabbir Rahman, Surajit Bag, Farhana Habib Zinnia, Nripendra P. Rana, Mohammad Osman Gani
-
-AI 分: 4.0 / 领域分: 4.0</description>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-      <category>消费者行为</category><category>技术采纳</category><category>移动游戏</category><category>深度学习</category><category>机器学习</category>
-    </item>    <item>
-      <title>利己与利他动机：如何促使用户愿意帮助不完美AI</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83151</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83151</guid>
-      <description>📝 利己与利他动机：如何促使用户愿意帮助不完美AI
-EN: Egoistic and altruistic motivation: How to induce users’ willingness to help for imperfect AI
-
-💡 考察利己与利他动机如何影响用户帮助不完美AI的意愿，比较不同动机诉求下用户纠正、补充或支持AI的参与倾向，为设计有效激励与互动机制提供依据。
-
-📚 CHB · 2019 · 引用 46
-👤 Yeonjoo Lee, Miyeon Ha, Sujeong Kwon, Yealin Shim, Jinwoo Kim
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>用户参与</category><category>信任</category><category>人机协作</category><category>人机交互</category>
-    </item>    <item>
-      <title>我应何时信任它：面向LLM聊天机器人的事实性指标设计与评估</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83141</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83141</guid>
-      <description>📝 我应何时信任它：面向LLM聊天机器人的事实性指标设计与评估
-EN: When Should I Trust This? Designing and Evaluating Factuality Indicators for LLM-based Chatbots
-
-💡 混合方法考察普通人如何评估LLM聊天机器人对园艺、数学和医疗问题的回答：访谈8人、调查1000人并开展5151人实验。用户会按情境选择性核验答案；置信度与来源提示能短期改变信任和准确性感知，但在得知答案对错后影响消失，医疗场景始终更审慎。设计应提升置信度可理解性并整合来源信息，以促成校准信任。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Greta Warren, Jessica Heal, Sila Eser, Denise M. Leto, Christine M. Lehane
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2610.32883v1</description>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-      <category>信任</category><category>信息检索</category><category>人机交互</category><category>决策</category><category>LLM</category><category>GenAI</category><category>可解释 AI</category><category>人机交互</category>
-    </item>    <item>
-      <title>DealsFlow：用于风险投资交易初筛的证据门控智能体框架</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83139</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83139</guid>
-      <description>📝 DealsFlow：用于风险投资交易初筛的证据门控智能体框架
-EN: DealsFlow: An Evidence-Gated Agentic Harness for Venture Capital Deal Triage
-
-💡 针对LLM风投筛选易出现分数虚高、波动和不可审计理由，构建证据门控的人机协同流程：预取证据、分项评分、设置证据上限，并由“怀疑者”仅下调分数。243笔投资中，以142笔已成熟案例评估，完整流程与总价值倍数相关性ρ=.45、识别核销AUC=.71，略优于无约束LLM；收益主要来自下调机制，但结果可能高估筛选能力。
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Ming Ze Tang, David Cutting, Boyd Carson, Vasiliki Carson
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2610.32380v1</description>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-      <category>创业</category><category>风险投资</category><category>决策</category><category>人机协作</category><category>LLM</category><category>AI 智能体</category><category>人机协作</category><category>AI 治理</category>
-    </item>    <item>
-      <title>SWE-Clar：编码智能体能否澄清不完整的客户需求并交付全新软件？</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83138</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83138</guid>
-      <description>📝 SWE-Clar：编码智能体能否澄清不完整的客户需求并交付全新软件？
-EN: SWE-Clar: Can Coding Agents Clarify Incomplete Client Requirements and Deliver Greenfield Software?
-
-💡 面向自由职业软件开发中客户需求不完整的场景，构建SWE-Clar基准：基于Upwork真实高价值任务设置100项任务，让编码智能体先与客户代理多轮澄清，再独立实现代码，并用512道需求理解题和验收测试分别评估。九个前沿模型实验表明，即便最佳模型GPT-6 Astra也暴露出需求理解与可靠交付局限；先澄清再编码并单独测试理解，有助于诊断智能体能力。
-
-📚 arXiv:cs.SE · 2026 · 引用 0
-👤 Jialei Li, Dingxian Wang, Xiaoyan Zhao, Yimeng Bai, Xuanyi Zhu
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2610.31854v1</description>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-      <category>需求工程</category><category>软件开发</category><category>自由职业</category><category>人机协作</category><category>LLM</category><category>代码生成</category><category>AI 智能体</category><category>人机交互</category>
-    </item>    <item>
-      <title>算法成为犯罪同谋：伦理设计的一课</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83073</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83073</guid>
-      <description>📝 算法成为犯罪同谋：伦理设计的一课
-EN: Algorithms as partners in crime: A lesson in ethics by design
-
-💡 聚焦算法如何由中性工具转变为犯罪协作者，通过伦理设计视角审视算法开发、部署中的风险与责任。核心启示是，应将价值约束和社会责任前置嵌入系统设计，而非在危害发生后追责。
-
-📚 CHB · 2023 · 引用 26
-👤 Sebastian Krügel, Andreas Ostermaier, Matthias Uhl
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
-      <category>AI治理</category><category>伦理</category><category>算法管理</category><category>人机协作</category><category>算法决策</category><category>AI治理</category>
-    </item>    <item>
-      <title>移动位置推荐系统与本地企业：来自餐饮业的证据</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83029</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83029</guid>
-      <description>📝 移动位置推荐系统与本地企业：来自餐饮业的证据
-EN: Mobile Location-based Recommendation Systems and Local Businesses: Evidence from the Restaurant Industry
-
-💡 利用首尔16,720家餐厅数据及移动位置推荐系统上线的准实验变异，以两阶段最小二乘估计算法曝光效应。曝光每增1%，点击约增0.078%；对地理弱势餐厅的发现效应更大，丰富数字信息和口碑可促进线下转化，收入亦呈正相关。
-
-📚 ISR · 2026 · 引用 0
-👤 Jin Soo Han, Gunwoong Lee, Keongtae Kim
-
-AI 分: 5.0 / 领域分: 5.0</description>
-      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-      <category>营销</category><category>消费者行为</category><category>推荐系统</category><category>平台经济</category><category>推荐算法</category><category>算法决策</category><category>机器学习</category>
-    </item>    <item>
-      <title>“Generate”引领AI时代未来职场：在线劳动力市场的实证证据</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83027</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83027</guid>
-      <description>📝 “Generate”引领AI时代未来职场：在线劳动力市场的实证证据
-EN: “Generate” the Future of Work through AI: Empirical Evidence from Online Labor Markets
-
-💡 基于在线劳务平台的大规模数据，考察通用LLM对劳动力供需和职业结构的冲击。技能越接近LLM核心能力，细分市场收缩越明显；供需均降但供给降幅较小，自由职业者竞争加剧。ChatGPT降低编程门槛并诱导技能迁移，高技能从业者贡献最大。
-
-📚 ISR · 2026 · 引用 0
-👤 Jin Liu, Xingchen Xu, Xi Nan, Yongjun Li, Yong Tan
-
-AI 分: 5.0 / 领域分: 5.0</description>
-      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-      <category>零工经济</category><category>工作未来</category><category>技能转型</category><category>劳动市场</category><category>GenAI</category><category>LLM</category><category>ChatGPT</category>
-    </item>    <item>
-      <title>正确与错误的技术依赖：基于专家系统的评估</title>
-      <link>https://ob-ai-papers.vercel.app/papers/82969</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/82969</guid>
-      <description>📝 正确与错误的技术依赖：基于专家系统的评估
-EN: True and false dependence on technology: Evaluation with an expert system
-
-💡 聚焦技术依赖的“真”与“假”，以专家系统开展评价，区分个体对技术的真实依赖与虚假依赖，为判断技术使用是否健康、识别依赖偏差及设计针对性干预提供支持。
-
-📚 CHB · 1991 · 引用 27
-👤 Richard P. Will
-
-AI 分: 3.0 / 领域分: 4.0</description>
-      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-      <category>技术依赖</category><category>人机交互</category><category>专家系统</category><category>专家系统</category><category>人机交互</category>
     </item>
   </channel>
 </rss>
