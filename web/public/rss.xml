@@ -6,9 +6,69 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 30 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>Frontiers：缩小LLMs与人类的差距：最优LLM样本校准</title>
+      <link>https://ob-ai-papers.vercel.app/papers/83559</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83559</guid>
+      <description>📝 Frontiers：缩小LLMs与人类的差距：最优LLM样本校准
+EN: Frontiers: Reducing Disparity Between LLMs and Humans: Optimal LLM Sample Calibration
+
+💡 针对大语言模型输出与人类偏好不一致的问题，提出人类模仿校准方法，利用人类基准数据整合不同提示词、角色和模型版本的输出；交易与民意调查结果显示，该方法能提高一致性，且权重可跨时间、地域和行业迁移。
+
+📚 MktSci · 2026 · 引用 0
+👤 Yan Leng, Yunxin Sang, Ashish Agarwal
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+      <category>消费者偏好</category><category>民意测量</category><category>人机差异</category><category>模型校准</category><category>LLM</category><category>算法校准</category>
+    </item>    <item>
+      <title>数据隐私法规对推荐系统性能的影响</title>
+      <link>https://ob-ai-papers.vercel.app/papers/83546</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83546</guid>
+      <description>📝 数据隐私法规对推荐系统性能的影响
+EN: Impact of Data Privacy Regulations on Recommender Systems Performance
+
+💡 采用真实数据播种的模拟框架，比较不同推荐算法、数据隐私实践及用户偏好稳定性下的推荐表现。结果显示，隐私实践对推荐效果存在稳健影响，且稳定偏好与动态偏好的结论明显不同，据此提出可调参数化的隐私实践设计。
+
+📚 ISR · 2026 · 引用 0
+👤 Liben Chen, Meizi Zhou, Yicheng Song, Gediminas Adomavicius
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+      <category>隐私</category><category>推荐系统</category><category>个性化</category><category>消费者行为</category><category>推荐算法</category><category>机器学习</category><category>AI治理</category>
+    </item>    <item>
+      <title>数字社交媒介上的算法同质匹配</title>
+      <link>https://ob-ai-papers.vercel.app/papers/83545</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83545</guid>
+      <description>📝 数字社交媒介上的算法同质匹配
+EN: Algorithmic Assortative Matching on a Digital Social Medium
+
+💡 通过六周移动社交游戏现场实验及模型分析，考察算法同质匹配对线上关系与平台公平的影响。结果显示，该机制通过增加私信提升参与度和变现，却使低活跃、弱连接用户及边缘社群进一步被隔离，凸显利润与社会公平的冲突。
+
+📚 ISR · 2022 · 引用 22
+👤 Kristian López Vargas, Julian Runge, Ruizhi Zhang
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+      <category>推荐系统</category><category>算法管理</category><category>公平性</category><category>平台治理</category><category>推荐算法</category><category>算法决策</category><category>机器学习</category>
+    </item>    <item>
+      <title>了解GenAI尚不足：学习中的知识类型如何塑造提示完整性与AI响应质量</title>
+      <link>https://ob-ai-papers.vercel.app/papers/83509</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83509</guid>
+      <description>📝 了解GenAI尚不足：学习中的知识类型如何塑造提示完整性与AI响应质量
+EN: Knowing about GenAI is not enough: How knowledge type in learning shapes prompt completeness and AI response quality
+
+💡 仅了解生成式AI不足以保证高质量使用，学习中的知识类型会影响提示词完整性与AI回答质量；有效应用GenAI不仅需要工具认知，还需与知识结构相匹配地组织提示。
+
+📚 CHB · 2026 · 引用 0
+👤 DongA Jeong, Sang Woo Lee
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+      <category>教育</category><category>培训</category><category>人机协作</category><category>知识管理</category><category>GenAI</category><category>提示工程</category><category>人机交互</category>
+    </item>    <item>
       <title>通过容差感知推荐与自适应多样化逆转极化</title>
       <link>https://ob-ai-papers.vercel.app/papers/83497</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83497</guid>
@@ -125,6 +185,21 @@ EN: Contest or Contract: Assessing the Effectiveness of Contests in Online Labor
 AI 分: 3.0 / 领域分: 4.0</description>
       <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
       <category>零工经济</category><category>工作设计</category><category>创新</category><category>激励机制</category><category>机器学习</category><category>文本挖掘</category>
+    </item>    <item>
+      <title>观察性研究中检测异质性处理效应的工具变量森林方法</title>
+      <link>https://ob-ai-papers.vercel.app/papers/83454</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83454</guid>
+      <description>📝 观察性研究中检测异质性处理效应的工具变量森林方法
+EN: An Instrumental Variable Forest Approach for Detecting Heterogeneous Treatment Effects in Observational Studies
+
+💡 针对观察性数据中高维和内生性妨碍异质性处理效应识别的问题，将工具变量法嵌入因果树并构建工具变量森林。模拟与医疗实证表明，该方法可改善估计覆盖率、降低误差，并更准确识别教学医院对不同患者群体的影响。
+
+📚 MgmtSci · 2022 · 引用 28
+👤 Guihua Wang, Jun Li, Wallace J. Hopp
+
+AI 分: 3.0 / 领域分: 5.0</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <category>因果推断</category><category>精准医疗</category><category>个性化营销</category><category>教育</category><category>机器学习</category><category>因果推断</category><category>异质性处理效应</category>
     </item>    <item>
       <title>生成式人工智能的使用与不当育儿行为：全国性调查发现</title>
       <link>https://ob-ai-papers.vercel.app/papers/83424</link>
@@ -415,87 +490,6 @@ AI 分: 5.0 / 领域分: 3.0
 📄 PDF: https://arxiv.org/pdf/2610.33605v1</description>
       <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
       <category>AI治理</category><category>隐私</category><category>信任</category><category>伦理</category><category>GenAI</category><category>LLM</category><category>AI治理</category><category>多智能体系统</category>
-    </item>    <item>
-      <title>AI时代学术投入与招聘的博弈论</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83235</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83235</guid>
-      <description>📝 AI时代学术投入与招聘的博弈论
-EN: Game theory of academic effort and hiring in the age of AI
-
-💡 围绕AI时代学术努力与招聘的双边策略困境，构建博弈模型并通过学习模拟识别均衡。结果表明，AI降低了论文产出的成本，削弱其作为学术理解能力的信号，促使求职者、招聘者重新设计深耕、产出与能力识别策略。
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Saptarshi Pal, Peter S. Park
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2610.35802v1</description>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-      <category>学术招聘</category><category>职业信号</category><category>学术努力</category><category>博弈论</category><category>生成式AI</category><category>AI与就业</category><category>人机协作</category>
-    </item>    <item>
-      <title>人力资源管理中Agentic AI的效率陷阱</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83234</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83234</guid>
-      <description>📝 人力资源管理中Agentic AI的效率陷阱
-EN: The Efficiency Trap of Agentic
-                    &amp;lt;scp&amp;gt;AI&amp;lt;/scp&amp;gt;
-                    in Human Resource Management
-
-💡 以Weick松耦合理论审视智能体AI在人力资源管理中的应用，论证自主执行虽能提高即时一致性，却因算法紧耦合、消除战略余量而削弱组织韧性。治理框架强调保留一线管理者的感知与裁量空间，以兼顾执行效率和长期适应性。
-
-📚 HRM · 2026 · 引用 0
-👤 Miles Min-Huei Yang
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/hrm.70106</description>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-      <category>人力资源管理</category><category>组织韧性</category><category>组织变革</category><category>AI治理</category><category>智能体AI</category><category>算法管理</category><category>人机协作</category><category>AI治理</category>
-    </item>    <item>
-      <title>实现在线体重管理从零到卓越的转变：多维度连续时间评估</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83193</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83193</guid>
-      <description>📝 实现在线体重管理从零到卓越的转变：多维度连续时间评估
-EN: Turn Your Online Weight Management from Zero to Hero: A Multidimensional, Continuous-Time Evaluation
-
-💡 针对在线体重管理社区中自我调节焦点及其作用机制，采用多维连续时间隐马尔可夫模型分析行为动态。社交活动后，用户更常记录饮食日志而减少称重，表明其关注点由体重结果转向行为习惯。
-
-📚 MgmtSci · 2022 · 引用 15
-👤 Tongxin Zhou, Lu (Lucy) Yan, Yingfei Wang, Yong Tan
-
-AI 分: 3.0 / 领域分: 4.0</description>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-      <category>健康行为</category><category>自我调节</category><category>在线社区</category><category>机器学习</category><category>隐马尔可夫模型</category>
-    </item>    <item>
-      <title>AI时代的定性研究：考量、批判与方法技艺</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83176</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83176</guid>
-      <description>📝 AI时代的定性研究：考量、批判与方法技艺
-EN: Qualitative Research in the Age of AI: Considerations, Critiques, and Craft
-
-💡 从研究考量、主要批评与方法实践三方面讨论AI时代的定性研究，审视研究设计与分析在AI环境下面临的挑战及应对方向。
-
-📚 OrgSci · 2026 · 引用 0
-👤 Andrew J. Nelson, Anne‐Laure Fayard, Alex Michael Murray
-
-AI 分: 5.0 / 领域分: 5.0</description>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-      <category>定性研究</category><category>研究方法</category><category>组织研究</category><category>AI研究方法</category>
-    </item>    <item>
-      <title>社会决策中算法的训练与监督：预设利己默认值的算法催生利己决策</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83160</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83160</guid>
-      <description>📝 社会决策中算法的训练与监督：预设利己默认值的算法催生利己决策
-EN: Training and oversight of algorithms in social decision-making: Algorithms with prescribed selfish defaults breed selfish decisions
-
-💡 以社会决策实验考察算法训练与监督，检验预设利己默认值的算法是否诱导更利己的决策。结果提示，算法默认值会塑造使用者判断，设计、引导和监督应避免将利己倾向固化于社会决策系统。
-
-📚 CHB · 2026 · 引用 3
-👤 Terence D. Dores Cruz, Mateus A.M. de Lucena
-
-AI 分: 5.0 / 领域分: 3.0</description>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-      <category>决策</category><category>人机协作</category><category>算法管理</category><category>伦理</category><category>算法决策</category><category>人机交互</category><category>AI治理</category>
     </item>
   </channel>
 </rss>
