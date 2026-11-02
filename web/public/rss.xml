@@ -6,9 +6,75 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 01 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>AutoAnalysis：人类与AI协作的自动化自我更新元分析</title>
+      <link>https://ob-ai-papers.vercel.app/papers/83626</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83626</guid>
+      <description>📝 AutoAnalysis：人类与AI协作的自动化自我更新元分析
+EN: AutoAnalysis: An automated, self-updating meta-analysis of human-AI collaboration
+
+💡 人何时应与生成式AI协作，何时应单独完成任务？自动更新的元分析整合420篇论文、1,955个效应量后发现，人机组合平均优于人类单独作业，却落后于人类与AI中表现更优的一方。因此，判断协作价值应同时比较人和AI的单独表现，而非仅以人机组合是否优于人为标准。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Michelle Vaccaro, Abdullah Almaatouq, Thomas W. Malone
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2610.42001v1</description>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>工作设计</category><category>绩效评估</category><category>GenAI</category><category>人机协作</category><category>人机交互</category>
+    </item>    <item>
+      <title>合成HR/ERP图中的薪资欺诈检测：规则、路径特征与图神经网络的归纳式比较</title>
+      <link>https://ob-ai-papers.vercel.app/papers/83625</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83625</guid>
+      <description>📝 合成HR/ERP图中的薪资欺诈检测：规则、路径特征与图神经网络的归纳式比较
+EN: Payroll Fraud Detection in Synthetic HR/ERP Graphs: An Inductive Comparison of Rules, Path Features, and Graph Neural Networks
+
+💡 在合成HR/ERP图谱上，以未见组织为归纳场景，比较规则、路径特征、梯度提升与GNN的薪资欺诈检测效果。链式连接特征模型总体最优，表明多跳优势并非GNN特有；连接失败时实体GNN略优，匹配孪生审计还揭示了数据生成器的结构捷径。
+
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 Xiaobo Chen, Genliang Zhu, Ziyuan Wang, Chu Wang
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2610.41085v1</description>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <category>HR</category><category>欺诈检测</category><category>知识图谱</category><category>算法决策</category><category>图神经网络</category><category>机器学习</category><category>链接预测</category><category>异常检测</category>
+    </item>    <item>
+      <title>AI评估者偏好特定AI模型撰写的求职申请，与候选人质量无关</title>
+      <link>https://ob-ai-papers.vercel.app/papers/83623</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83623</guid>
+      <description>📝 AI评估者偏好特定AI模型撰写的求职申请，与候选人质量无关
+EN: AI evaluators favor job applications written by certain AI models, independent of candidate quality
+
+💡 在求职申请由AI撰写、AI筛选的条件下，模型选择会否在候选人质量之外影响录用？多模型审计将11个LLM写作者与9个API评审者跨10类职位配对，发现评审者对写作模型存在稳定偏好：本地部署模型系统吃亏，评审者偏好自身输出；最不利配对会仅因模型错配淘汰25名合格者中的约2名，根源是对文体线索的共同奖惩。
+
+📚 arXiv:cs.CY · 2026 · 引用 0
+👤 Nicolò Pagan, Michael Andreas Ebling, Stefania Ionescu, Anikó Hannák
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2610.41866v1</description>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <category>招聘</category><category>HR</category><category>公平性</category><category>偏见</category><category>LLM</category><category>AI招聘</category><category>算法决策</category>
+    </item>    <item>
+      <title>跨越设计—使用鸿沟：组织如何选择采纳的创新</title>
+      <link>https://ob-ai-papers.vercel.app/papers/83610</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83610</guid>
+      <description>📝 跨越设计—使用鸿沟：组织如何选择采纳的创新
+EN: Crossing the Design–Use Divide: How Organizations Select Innovations to Adopt
+
+💡 组织如何筛选并采用创新？两年民族志显示，潜在采用组织的委员会会通过缩窄试点、控制讨论和目标宣称操纵创新选择。支持者主导的试点多只测试基础功能以确保成功，却在后續实施中遭遇更强阻力，说明创新及其采用结果由组织内部的选择过程共同塑造。
+
+📚 ASQ · 2026 · 引用 0
+👤 Rebecca Karp
+
+AI 分: 4.0 / 领域分: 5.0</description>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <category>创新</category><category>组织变革</category><category>决策</category><category>组织学习</category><category>AI治理</category>
+    </item>    <item>
       <title>重构数据驱动的人类行为预测：心理学赋能的可解释神经网络</title>
       <link>https://ob-ai-papers.vercel.app/papers/83582</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83582</guid>
@@ -420,74 +486,6 @@ AI 分: 5.0 / 领域分: 3.0
 📄 PDF: https://arxiv.org/pdf/2610.34459v1</description>
       <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
       <category>保险定价</category><category>算法决策</category><category>可解释AI</category><category>信任</category><category>机器学习</category><category>可解释AI</category><category>算法决策</category><category>共形预测</category>
-    </item>    <item>
-      <title>受访者稀缺时：LLM语义先验在贝叶斯验证性因子分析中的应用</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83247</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83247</guid>
-      <description>📝 受访者稀缺时：LLM语义先验在贝叶斯验证性因子分析中的应用
-EN: When Respondents Are Scarce: LLM-Derived Semantic Priors for Bayesian Confirmatory Factor Analysis
-
-💡 针对小样本下潜变量测量难题，将大语言模型的改写与语义嵌入转化为贝叶斯验证性因子分析的预设先验。三项调查结果显示，50名受访者的估计精度可媲美传统方法所需70—82人，并改善载荷误差与可信区间覆盖。
-
-📚 arXiv:cs.LG · 2026 · 引用 0
-👤 Shaohuai Feng, Mohd Wira Mohd Shafiei, Mohd Sukri Shafie, Siyang Tian
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2610.34843v1</description>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-      <category>心理测量</category><category>因子分析</category><category>小样本推断</category><category>研究方法</category><category>LLM</category><category>语义嵌入</category><category>贝叶斯推断</category>
-    </item>    <item>
-      <title>隐式信念作为战略说服的可扩展过程奖励</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83245</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83245</guid>
-      <description>📝 隐式信念作为战略说服的可扩展过程奖励
-EN: Implicit Beliefs as Scalable Process Rewards for Strategic Persuasion
-
-💡 针对多轮策略说服中仿真不真实与奖励稀疏，构建PersuArena及在线信念探测强化学习框架Probe-RPO，从冻结被说服者模型的logits提取过程奖励；跨医疗、金融等五类场景，接受率达52.5%，优于GRPO与现成LLM。
-
-📚 arXiv:cs.LG · 2026 · 引用 0
-👤 Minqian Liu, Yuexi Shen, Heajun An, Qi Zhang, Pamela J. Wisniewski
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2610.33527v1</description>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-      <category>策略说服</category><category>人机交互</category><category>心理机制</category><category>LLM</category><category>强化学习</category><category>信念建模</category>
-    </item>    <item>
-      <title>问题何以引发好奇：人—LLM交互中的模型好奇心测量</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83242</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83242</guid>
-      <description>📝 问题何以引发好奇：人—LLM交互中的模型好奇心测量
-EN: What Makes a Question Curious? Measuring Model Curiosity in Human-LLM Interactions
-
-💡 提出理论驱动的好奇心提问分类体系，并在四个对话数据集和人类实验中考察模型好奇心。结果显示，好奇型问题仅占17%—28%，但能促进更具探索性和知识丰富性的后续回应，在建议、创意与研究情境中尤其有益。
-
-📚 arXiv:cs.CL · 2026 · 引用 0
-👤 Angana Borah, Rachana Ramchandar, Inderjeet Nair, Rada Mihalcea
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2610.33950v1</description>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>知识探索</category><category>好奇心</category><category>创意</category><category>LLM</category><category>人机交互</category><category>问题生成</category>
-    </item>    <item>
-      <title>开发者任务向LLMs的委托与信任因素：一项混合方法研究</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83241</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83241</guid>
-      <description>📝 开发者任务向LLMs的委托与信任因素：一项混合方法研究
-EN: Developer Task Delegation to LLMs and the Trust Factor: A Mixed Methods Study
-
-💡 通过22次访谈和160名开发者调查，归纳出全权委托、部分委托、自我委托和任务规避四种模式；任务难度、风险与动机影响委托选择，开发者信任是显著关联因素。
-
-📚 arXiv:cs.SE · 2026 · 引用 0
-👤 Samuel Ferino, Rashina Hoda, John Grundy, Christoph Treude, Hashini Gunatilake
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2610.34317v1</description>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>工作设计</category><category>信任</category><category>软件开发</category><category>LLM</category><category>GenAI</category><category>人机协作</category>
     </item>
   </channel>
 </rss>
