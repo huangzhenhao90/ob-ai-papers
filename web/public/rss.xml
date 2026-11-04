@@ -6,9 +6,109 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 03 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>奖励、共同风险与前沿 AI 的推进速度</title>
+      <link>https://ob-ai-papers.vercel.app/papers/83805</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83805</guid>
+      <description>📝 奖励、共同风险与前沿 AI 的推进速度
+EN: Prizes, Shared Hazard, and the Speed of Frontier AI
+
+💡 考察前沿AI实验室竞速造成的灾难风险外溢。以校准的起飞模型比较竞赛、共同研究份额规则与开放共享，发现竞赛激励主导竞速；共同规则显著降速，理想开源可促成协调节奏，但单方克制和仅审计机制均难以限制速度。
+
+📚 arXiv:econ.GN · 2026 · 引用 0
+👤 Li Gan
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2611.04266v1</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <category>创新</category><category>战略</category><category>风险治理</category><category>AI治理</category><category>前沿AI</category>
+    </item>    <item>
+      <title>经实验验证的数字孪生：大数据时代劳动力培训项目评估</title>
+      <link>https://ob-ai-papers.vercel.app/papers/83804</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83804</guid>
+      <description>📝 经实验验证的数字孪生：大数据时代劳动力培训项目评估
+EN: Experimentally Validated Digital Twins: Evaluating Workforce Training Programs in the Age of Big Data
+
+💡 利用1999—2025年全美匿名个税记录和机器学习预测反事实，将职业培训对收入的影响估计与37项随机对照试验比较；模型RMSE与RCT相当，并较既有参数估计低60%。结果表明项目收益存在显著地域和年份异质性，进入目标行业者收益最高且更持久。
+
+📚 arXiv:econ.GN · 2026 · 引用 0
+👤 Raj Chetty, Jamie Fogel, Lawrence F. Katz, Kadeem Noray, Sonya Porter
+
+AI 分: 4.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2611.03938v1</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <category>培训</category><category>绩效评估</category><category>劳动力市场</category><category>决策</category><category>机器学习</category><category>数字孪生</category><category>因果推断</category>
+    </item>    <item>
+      <title>美国联邦 AI 清单中的层累式问责</title>
+      <link>https://ob-ai-papers.vercel.app/papers/83802</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83802</guid>
+      <description>📝 美国联邦 AI 清单中的层累式问责
+EN: Palimpsestic Accountability in the US Federal AI Inventories
+
+💡 追踪美国联邦AI使用案例清单2023—2025年的三次版本，分析问责记录随时间的变化。双重演绎—归纳分析显示，清单扩容虽减少漏答，却通过重设问题、机构分类门控和覆盖旧答重写问责边界；建议版本留痕、公开重分类理由并记录人工监督。
+
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 Dipto Das, Syed Ishtiaque Ahmed, Aditya Vashistha, Shion Guha
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2611.04153v1</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <category>AI治理</category><category>公共部门</category><category>组织问责</category><category>透明度</category><category>AI治理</category><category>算法管理</category>
+    </item>    <item>
+      <title>快速、低成本与公平？对决策模型的评估</title>
+      <link>https://ob-ai-papers.vercel.app/papers/83801</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83801</guid>
+      <description>📝 快速、低成本与公平？对决策模型的评估
+EN: Fast, Cheap, and Fair? Evaluating Decision Models
+
+💡 系统审计紧凑型System 1招聘决策模型的公平性。以姓名替换和排版变化构造噪声基准，检验人口属性及候选人隐性线索对评分、排序和入围结果的影响，并评估输出效度、延迟与成本；公开反事实简历数据和代码以支持复现。
+
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 Muhammad Uzair Ul Haq, Davide Rigoni, Alessandro Sperduti, Flavia Fabris
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2611.04510v1</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <category>招聘</category><category>公平性</category><category>偏见</category><category>HR</category><category>AI招聘</category><category>算法决策</category><category>机器学习</category>
+    </item>    <item>
+      <title>角色并非人：身份是状态而非属性</title>
+      <link>https://ob-ai-papers.vercel.app/papers/83800</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83800</guid>
+      <description>📝 角色并非人：身份是状态而非属性
+EN: Personas Are Not People: Identity as State, Not Attribute
+
+💡 针对以固定人格档案模拟人群的做法，结合身份经济学与人格研究证明：个体行为随情境变化的幅度往往大于人与人之间的差异，固定人格无法再现情境特异行为。进一步提出“情境中的人”设计与评估标准，并用 Reddit 数据及临床试验招募调查检验其可行性。
+
+📚 arXiv:cs.CL · 2026 · 引用 0
+👤 Tamunotonye Harry, Yuanyuan Feng
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2611.05292v1</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <category>人机交互</category><category>社会心理学</category><category>算法评估</category><category>LLM</category><category>合成人群</category><category>AI代理</category>
+    </item>    <item>
+      <title>超越好奇心：习惯与组织学习能力作为影子AI的预测因素</title>
+      <link>https://ob-ai-papers.vercel.app/papers/83758</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83758</guid>
+      <description>📝 超越好奇心：习惯与组织学习能力作为影子AI的预测因素
+EN: Beyond Curiosity: Habit and Organizational Learning Capability as Predictors of Shadow AI
+
+💡 聚焦员工使用未经组织许可的“影子AI”，检验日常习惯与组织学习能力对其使用行为的预测作用，超越仅由好奇心解释的视角，为治理员工AI使用及设计组织学习干预提供依据。
+
+📚 CHB · 2026 · 引用 0
+👤 Nolan Lovett, Mohan Yang
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <category>组织学习</category><category>员工幸福感</category><category>AI治理</category><category>知识管理</category><category>影子AI</category><category>AI治理</category>
+    </item>    <item>
       <title>通过模型了解市场：来自 AI 招聘平台的证据</title>
       <link>https://ob-ai-papers.vercel.app/papers/83738</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83738</guid>
@@ -77,6 +177,23 @@ AI 分: 5.0 / 领域分: 3.0
       <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
       <category>工作设计</category><category>人机协作</category><category>工作未来</category><category>创新</category><category>LLM</category><category>AI智能体</category><category>AI编程助手</category><category>人机交互</category>
     </item>    <item>
+      <title>文本缄默时：证据不足下记忆捷径与LLM标注效度</title>
+      <link>https://ob-ai-papers.vercel.app/papers/83726</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83726</guid>
+      <description>📝 文本缄默时：证据不足下记忆捷径与LLM标注效度
+EN: When the Text Is Silent: Memory Shortcuts and the Validity of LLM Annotation under Evidence Insufficiency
+
+💡 用995名知名人物及匹配对照构造证据与既有知识冲突的反事实文本，对三种商业LLM开展大规模标注实验。发现模型在证据缺失时会凭记忆补全人物属性，产生文本不支持但事实正确的标签；评估威胁与奖励会加剧该捷径，姓名遮蔽或提醒可缓解，但存在性别标注代价。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Wenchang Wang, Yue Song
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2611.02273v1</description>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <category>偏见</category><category>信任</category><category>内容审核</category><category>研究方法</category><category>LLM</category><category>文本标注</category><category>算法偏见</category>
+    </item>    <item>
       <title>从语言到国别再到效价：LLMs刻板印象偏见的多语言审计</title>
       <link>https://ob-ai-papers.vercel.app/papers/83725</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83725</guid>
@@ -128,6 +245,23 @@ AI 分: 5.0 / 领域分: 4.0
       <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
       <category>决策</category><category>伦理</category><category>人机协作</category><category>审计</category><category>LLM</category><category>AI智能体</category><category>算法决策</category><category>AI治理</category>
     </item>    <item>
+      <title>职业安全与健康的三层综合技术风险模型</title>
+      <link>https://ob-ai-papers.vercel.app/papers/83721</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83721</guid>
+      <description>📝 职业安全与健康的三层综合技术风险模型
+EN: The 3-Tier Integrated Technology Risk Model for Occupational Safety and Health
+
+💡 构建三层整合技术风险模型，将作业安全分析、领先与滞后指标动态评估及大语言模型预测分析结合，推动职业安全管理由静态响应转向数据驱动的预判式风险缓解，并支持即时培训。
+
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 Ramiro Pesina, Ashish Madkaikar
+
+AI 分: 4.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2611.02257v1</description>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <category>职业安全健康</category><category>风险评估</category><category>培训</category><category>LLM</category><category>预测分析</category>
+    </item>    <item>
       <title>DrawOffer：面向职业支持的循证纵向用户状态建模</title>
       <link>https://ob-ai-papers.vercel.app/papers/83719</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83719</guid>
@@ -178,6 +312,23 @@ AI 分: 5.0 / 领域分: 3.0
 📄 PDF: https://arxiv.org/pdf/2611.00762v1</description>
       <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
       <category>知识管理</category><category>信息检索</category><category>人机协作</category><category>科研工作流</category><category>人机协作</category><category>人机交互</category><category>AI辅助科研</category>
+    </item>    <item>
+      <title>智能体工作流中基于原理的人机协作</title>
+      <link>https://ob-ai-papers.vercel.app/papers/83715</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83715</guid>
+      <description>📝 智能体工作流中基于原理的人机协作
+EN: Principled Human-AI Collaboration in Agentic Workflows
+
+💡 提出专家与黑盒生成—验证流程间的任务委派框架，利用专家评价校准阈值，在控制发布错误率的同时最大化自动化；金融问答实验中，自动化率由2.50%升至24.17%，错误率约1.20%。
+
+📚 arXiv:stat.ML · 2026 · 引用 0
+👤 Young Hyun Cho, Will Wei Sun
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2611.01566v1</description>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>决策</category><category>质量控制</category><category>工作设计</category><category>GenAI</category><category>智能体</category><category>算法决策</category>
     </item>    <item>
       <title>EEFA：AI智能体伦理评估框架</title>
       <link>https://ob-ai-papers.vercel.app/papers/83714</link>
@@ -357,153 +508,6 @@ AI 分: 5.0 / 领域分: 4.0
 📄 PDF: https://doi.org/10.2139/ssrn.4802019</description>
       <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
       <category>消费者偏好</category><category>民意测量</category><category>人机差异</category><category>模型校准</category><category>LLM</category><category>算法校准</category>
-    </item>    <item>
-      <title>数据隐私法规对推荐系统性能的影响</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83546</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83546</guid>
-      <description>📝 数据隐私法规对推荐系统性能的影响
-EN: Impact of Data Privacy Regulations on Recommender Systems Performance
-
-💡 采用真实数据播种的模拟框架，比较不同推荐算法、数据隐私实践及用户偏好稳定性下的推荐表现。结果显示，隐私实践对推荐效果存在稳健影响，且稳定偏好与动态偏好的结论明显不同，据此提出可调参数化的隐私实践设计。
-
-📚 ISR · 2026 · 引用 0
-👤 Liben Chen, Meizi Zhou, Yicheng Song, Gediminas Adomavičius
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-      <category>隐私</category><category>推荐系统</category><category>个性化</category><category>消费者行为</category><category>推荐算法</category><category>机器学习</category><category>AI治理</category>
-    </item>    <item>
-      <title>数字社交媒介上的算法同质匹配</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83545</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83545</guid>
-      <description>📝 数字社交媒介上的算法同质匹配
-EN: Algorithmic Assortative Matching on a Digital Social Medium
-
-💡 通过六周移动社交游戏现场实验及模型分析，考察算法同质匹配对线上关系与平台公平的影响。结果显示，该机制通过增加私信提升参与度和变现，却使低活跃、弱连接用户及边缘社群进一步被隔离，凸显利润与社会公平的冲突。
-
-📚 ISR · 2022 · 引用 22
-👤 Kristian López Vargas, Julian Runge, Ruizhi Zhang
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-      <category>推荐系统</category><category>算法管理</category><category>公平性</category><category>平台治理</category><category>推荐算法</category><category>算法决策</category><category>机器学习</category>
-    </item>    <item>
-      <title>了解GenAI尚不足：学习中的知识类型如何塑造提示完整性与AI响应质量</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83509</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83509</guid>
-      <description>📝 了解GenAI尚不足：学习中的知识类型如何塑造提示完整性与AI响应质量
-EN: Knowing about GenAI is not enough: How knowledge type in learning shapes prompt completeness and AI response quality
-
-💡 仅了解生成式AI不足以保证高质量使用，学习中的知识类型会影响提示词完整性与AI回答质量；有效应用GenAI不仅需要工具认知，还需与知识结构相匹配地组织提示。
-
-📚 CHB · 2026 · 引用 0
-👤 DongA Jeong, Sang Woo Lee
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-      <category>教育</category><category>培训</category><category>人机协作</category><category>知识管理</category><category>GenAI</category><category>提示工程</category><category>人机交互</category>
-    </item>    <item>
-      <title>通过容差感知推荐与自适应多样化逆转极化</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83497</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83497</guid>
-      <description>📝 通过容差感知推荐与自适应多样化逆转极化
-EN: Reversing Polarization through Tolerance-Aware Recommendation and Adaptive Diversification
-
-💡 针对个性化推荐可能加剧人群极化的问题，构建容忍度感知推荐与自适应多样化机制。基于意见动力学模型、智能体实验及LLM代理模拟，发现容忍度管理主要减缓极化，组合策略在一定条件下可逆转极化、恢复共识，并增强对极端影响者和“沉默螺旋”的韧性。
-
-📚 arXiv:cs.SI · 2026 · 引用 0
-👤 Zhanzhan Zhao, Shuqi Zhao, Zichen Fan, Dana Randall
-
-AI 分: 4.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2610.40289v1</description>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-      <category>推荐系统</category><category>社会极化</category><category>信息多样性</category><category>算法治理</category><category>推荐算法</category><category>LLM</category><category>智能体模拟</category>
-    </item>    <item>
-      <title>顾问、副驾驶还是守护者：自动车辆接管中的AI角色框定与人类决策行为</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83495</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83495</guid>
-      <description>📝 顾问、副驾驶还是守护者：自动车辆接管中的AI角色框定与人类决策行为
-EN: Advisor, Co-pilot, or Guardian? AI Role Framing and Human Decision Behavior in Automated Vehicle Takeovers
-
-💡 在L3级自动驾驶接管模拟实验（24名参与者）中比较顾问、共同驾驶员和守护者三种AI角色。顾问决策最快，顾问与守护者准确率和满意度更高，守护者工作负荷最低；解释类型效应依角色而异，同侧语义能缩短决策时间。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Wei-Hsiang Lo, Jingyi Xie, Gaojian Huang
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2610.37892v1</description>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>人机交互</category><category>决策</category><category>自动驾驶</category><category>可解释 AI</category><category>人机协作</category>
-    </item>    <item>
-      <title>人在创意写作中扮演什么角色：人机协作中的创造性与多样性</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83494</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83494</guid>
-      <description>📝 人在创意写作中扮演什么角色：人机协作中的创造性与多样性
-EN: What Is the Role for Humans in Creative Writing? Creativity and Diversity in Human-AI Collaboration
-
-💡 以计划—写作—审查—修订的传递链比较人类、AI及混合写作链（333人、427篇故事）。全AI链创造力更高但多样性较低；仅在计划阶段引入人类，可在保留AI创造力的同时提升并延续多样性，且维持写作愉悦感。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Chenyi Li, Haoyu Hu, Raja Marjieh, Katherine M Collins, Max Kreminski
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2610.37916v1</description>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-      <category>创意</category><category>人机协作</category><category>创新</category><category>GenAI</category><category>人机协作</category>
-    </item>    <item>
-      <title>基础设施及其不满：加拿大AI治理框架中的权力争议</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83493</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83493</guid>
-      <description>📝 基础设施及其不满：加拿大AI治理框架中的权力争议
-EN: Infrastructure and its Discontents: Contestations of Power in Canada's AI Governance Scaffold
-
-💡 研究加拿大AI治理中知识权威、技术不透明与问责机制所形成的权力张力。深度访谈官僚、民间社会、学者和产业界人士并进行归纳式主题分析，指出治理应转向关怀、参与式民主、维护责任与适应性设计。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Christelle Tessono, Nusrat Jahan Mim, Shion Guha
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2610.38077v1</description>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-      <category>AI治理</category><category>公平性</category><category>技术权力</category><category>问责制</category><category>AI治理</category>
-    </item>    <item>
-      <title>面向大规模广告的可靠、可扩展且价值对齐的生成式推荐</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83492</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83492</guid>
-      <description>📝 面向大规模广告的可靠、可扩展且价值对齐的生成式推荐
-EN: Towards Reliable, Scalable, and Value-Aligned Generative Recommendation for Large-Scale Advertising
-
-💡 针对快手广告生成式推荐中的语义标识不稳定、骨干扩容收益递减及中间决策信用分配不足，GR4AD-X采用多路径标识分配、多维容量扩展与统一价值引导生成，兼顾推荐可靠性、服务效率和广告商业价值；大规模在线A/B测试验证了效果。
-
-📚 arXiv:cs.IR · 2026 · 引用 0
-👤 Yatong Xiao, Yibo Sheng, Lixiang Wang, Mingjie Sun, Yunhao Sha
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2610.38378v1</description>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-      <category>推荐系统</category><category>广告</category><category>营销</category><category>GenAI</category><category>推荐算法</category><category>机器学习</category>
-    </item>    <item>
-      <title>Bank-World：评估智能体执行银行工作流的基准</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83480</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83480</guid>
-      <description>📝 Bank-World：评估智能体执行银行工作流的基准
-EN: Bank-World: A Benchmark for Evaluating Agents on Banking Workflows
-
-💡 面向银行工作流构建包含50项任务和两家模拟机构的智能体评测基准，结合可执行检查与模型评判，考察核对记录、获取授权、交易执行及动态指令下的一致性。1600次尝试显示，模型常能作出正确决策却无法完整交付任务，不同模型在单轮和多轮任务上各有优势。
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Daniel Rupawalla
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2610.39733v1</description>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-      <category>金融科技</category><category>工作流程</category><category>人机协作</category><category>AI评测</category><category>LLM</category><category>AI智能体</category><category>人机交互</category>
     </item>
   </channel>
 </rss>
