@@ -6,9 +6,191 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 04 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>超越准确率：公共服务中AI保障需确立的内容</title>
+      <link>https://ob-ai-papers.vercel.app/papers/83881</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83881</guid>
+      <description>📝 超越准确率：公共服务中AI保障需确立的内容
+EN: Beyond accuracy: what AI assurance needs to establish in public services
+
+💡 针对公共机构如何判断AI证据是否可信，结合测量理论与管理监管分析8种GPT-4o配置对1,200条英国首相问答的分类，并与人工编码、重复运行及37份英欧政策文件比较。准确率虽相近，24.3%问题的标签会变化，配置间一致也不代表正确；人工复核触发率差异大，现有治理报告对稳定性、共享错误和复核路由覆盖不足。
+
+📚 arXiv:cs.CY · 2026 · 引用 0
+👤 Louise Yorke
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2611.06655v1</description>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <category>AI治理</category><category>公共管理</category><category>决策</category><category>信任</category><category>GPT-4o</category><category>LLM</category><category>算法决策</category><category>AI治理</category>
+    </item>    <item>
+      <title>究竟是谁的透明度：理解各利益相关者对生成式AI透明度的需求与差距</title>
+      <link>https://ob-ai-papers.vercel.app/papers/83879</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83879</guid>
+      <description>📝 究竟是谁的透明度：理解各利益相关者对生成式AI透明度的需求与差距
+EN: Whose Transparency is it Anyway? Understanding Generative AI Transparency Needs and Gaps Across Stakeholders
+
+💡 基于社会技术建构论，调查400名终端用户、AI开发者与政策制定者，并以终端用户焦点小组补充分析。三类群体都将透明度与准确性、隐私相联，但开发者更可能主导产品设计；仅28%的终端用户认为现有实践很好满足需求，低于开发者的53%和政策制定者的49%，且透明度优先级随情境变化。
+
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 Genevieve Smith, Sahiba Chopra, Natalia Luka, Min Kyung Lee
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2611.05549v1</description>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <category>AI治理</category><category>信任</category><category>隐私</category><category>公平性</category><category>GenAI</category><category>可解释AI</category><category>AI治理</category>
+    </item>    <item>
+      <title>PAYWORTHY: Can LLMs Predict Which Freelance Jobs an AI Agent Will Complete?</title>
+      <link>https://ob-ai-papers.vercel.app/papers/83878</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83878</guid>
+      <description>📝 PAYWORTHY: Can LLMs Predict Which Freelance Jobs an AI Agent Will Complete?
+
+💡 基于1,494个真实自由职业岗位，比较18个模型在AI智能体接单前预测任务完成可能性的能力。明确描述智能体能力边界时，AUC达0.66—0.86；仅描述浏览器和代码执行功能时，表现接近随机，且结论可跨模型家族复现。
+
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 Mohammad Reza Rezaei, Dingxian Wang, Brett Levert, Celeste Fejzo, Andrew Rabinovich
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2611.05759v1</description>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <category>零工经济</category><category>决策</category><category>人机协作</category><category>绩效评估</category><category>LLM</category><category>AI智能体</category><category>算法决策</category>
+    </item>    <item>
+      <title>超越原则—实践鸿沟：将负责任AI视为情境化的认识论与伦理实践</title>
+      <link>https://ob-ai-papers.vercel.app/papers/83877</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83877</guid>
+      <description>📝 超越原则—实践鸿沟：将负责任AI视为情境化的认识论与伦理实践
+EN: Beyond the principle-practice gap: Responsible AI as situated epistemic and ethical practice
+
+💡 通过14次半结构化访谈考察反贩运AI的设计与治理，解释伦理原则为何未落实。研究提出情境化机制：问题经感知、判断、行动和社会技术物化进入制品与治理安排；行动者的伦理承诺受职业规范、角色经验及制度逻辑约束，导致部分关切被落实、缩窄、推迟或忽略。
+
+📚 arXiv:cs.CY · 2026 · 引用 0
+👤 Thao Do Ngoc, Emma Carmel
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2611.06709v1</description>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <category>AI治理</category><category>伦理</category><category>职业伦理</category><category>制度分析</category><category>AI治理</category><category>负责任AI</category>
+    </item>    <item>
+      <title>Decision Models as Scalable Economic Surrogates that Capture Human Variation</title>
+      <link>https://ob-ai-papers.vercel.app/papers/83876</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83876</guid>
+      <description>📝 Decision Models as Scalable Economic Surrogates that Capture Human Variation
+
+💡 在消费支出调查、经典经济博弈和劳动力市场实验中，对比10个决策模型与8个LLM作为人类行为替代者的效果。领先决策模型能更准确捕捉个体差异，速度约快10倍、成本最高低百倍以上，适合大规模经济模拟与调查。
+
+📚 arXiv:econ.GN · 2026 · 引用 0
+👤 Maxime Saxena, Fabio Caccioli, R. Maria del Rio-Chanona
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2611.05553v1</description>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <category>决策</category><category>经济行为模拟</category><category>消费者行为</category><category>劳动力市场</category><category>LLM</category><category>决策模型</category><category>人类行为模拟</category>
+    </item>    <item>
+      <title>枯燥、肮脏、危险：工作条件与职业场景中AI暴露的限度</title>
+      <link>https://ob-ai-papers.vercel.app/papers/83875</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83875</guid>
+      <description>📝 枯燥、肮脏、危险：工作条件与职业场景中AI暴露的限度
+EN: Dull, Dirty, Dangerous? Working Conditions and the Limits of Occupational AI Exposure
+
+💡 基于美国754个职业的21项O*NET指标，比较大语言模型与AI职业暴露指标对“枯燥、肮脏、危险”工作的测量。AI暴露总体与较差工作条件相关，但控制体力要求、教育培训、经验与工资后关联明显减弱，LLM估计不再显著；指标分组和职业特征会改变结论，不能据暴露度推断自动化确能改善工作。
+
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 Siyi Yu
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2611.06888v1</description>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <category>工作设计</category><category>工作未来</category><category>职业安全</category><category>员工幸福感</category><category>LLM</category><category>机器学习</category><category>AI职业暴露</category>
+    </item>    <item>
+      <title>SlackBench: Benchmarking Agents on Collaborative Projects Grounded in Real Code Repositories</title>
+      <link>https://ob-ai-papers.vercel.app/papers/83874</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83874</guid>
+      <description>📝 SlackBench: Benchmarking Agents on Collaborative Projects Grounded in Real Code Repositories
+
+💡 SlackBench以真实学术项目为隐私保护基础，构建含多人对话、代码仓库和在线文档的协作任务集，覆盖140个查询，评测智能体跨来源检索、摘要、情境推断及对不可答问题的拒答能力，突破静态语料问答局限。
+
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 Mingxuan Li, Huanzhi Mao, Ruitao Zheng, Jarod Stanbury James, Yunze Li
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2611.05512v1</description>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>知识管理</category><category>组织学习</category><category>工作未来</category><category>AI智能体</category><category>代码智能体</category><category>人机交互</category>
+    </item>    <item>
+      <title>事实为据：与AI对话如何降低阴谋论信念</title>
+      <link>https://ob-ai-papers.vercel.app/papers/83873</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83873</guid>
+      <description>📝 事实为据：与AI对话如何降低阴谋论信念
+EN: Just the Facts: How Dialogues with AI Reduce Conspiracy Beliefs
+
+💡 通过两项美国在线实验（N=2193）及内容分析考察AI对话削弱阴谋信念的机制。结果表明，效果主要来自相关且论证充分的反证据，而非建立关系、讲故事或诉诸共情；仅让AI在缺乏事实证据时说服会削弱纠偏效果。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Thomas H. Costello, Gordon Pennycook, David G. Rand
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2611.05572v1</description>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <category>错误信息</category><category>说服</category><category>信任</category><category>阴谋信念</category><category>LLM</category><category>生成式AI</category><category>人机交互</category>
+    </item>    <item>
+      <title>今日工作，明日劳动力：AI辅助工作场景中的学习激励</title>
+      <link>https://ob-ai-papers.vercel.app/papers/83872</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83872</guid>
+      <description>📝 今日工作，明日劳动力：AI辅助工作场景中的学习激励
+EN: Today's Work, Tomorrow's Workforce: Incentivizing Learning in AI-Assisted Work
+
+💡 扩展“接受或独立完成”模型，考察技能随连续任务演化，比较短视与前瞻员工，并设计奖励独立正确作答的激励。研究发现，AI可在高准确率下使新手陷入低技能陷阱、专家技能退化；前瞻员工会为未来技能放弃更准的AI，且技能达到阈值后，独立作答可自我维持。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Moritz Diener, Daniel Hendriks, Philipp Spitzer, Gerhard Satzger, Joshua Holstein
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2611.06346v1</description>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <category>组织学习</category><category>培训</category><category>工作未来</category><category>人机协作</category><category>人机协作</category>
+    </item>    <item>
+      <title>LifeVal：评估AI模型在个性化智能体消费任务中的性能</title>
+      <link>https://ob-ai-papers.vercel.app/papers/83871</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83871</guid>
+      <description>📝 LifeVal：评估AI模型在个性化智能体消费任务中的性能
+EN: LifeVal: Evaluating AI Model Performance on Personalized Agentic Consumer Tasks
+
+💡 针对个性化数字助理能否高质量完成高价值生活任务，构建LifeVal基准：以3,800余名消费者支付意愿调查和时间利用数据校准148类活动分布，再由专家依据真实ChatGPT对话、记忆、文件及个人情境制题，并经多轮人工质控，形成金融、搬家、求职、育儿等任务的统一评测集。
+
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 Jenny Yang, Elizabeth Proehl, Anjan Bharadwaj, Emily Fan, Charlotte Cole
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2611.06687v1</description>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <category>消费者行为</category><category>营销</category><category>人机交互</category><category>LLM</category><category>ChatGPT</category><category>智能体</category><category>人机交互</category>
+    </item>    <item>
+      <title>面向决策的二元结果模型主动学习</title>
+      <link>https://ob-ai-papers.vercel.app/papers/83852</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83852</guid>
+      <description>📝 面向决策的二元结果模型主动学习
+EN: Decision-Centric Active Learning of Binary-Outcome Models
+
+💡 面向企业预测建模成本与决策效果不一致的问题，提出以决策影响为导向的主动数据获取方法。直邮数据比较显示，降低统计误差的策略可能浪费资源，而聚焦决策效用的方法能显著改善营销定向，且对效用估计质量下降和不同采集成本具有稳健性。
+
+📚 ISR · 2007 · 引用 54
+👤 Maytal Saar-Tsechansky, Foster Provost
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <category>决策</category><category>营销</category><category>消费者行为</category><category>主动学习</category><category>机器学习</category><category>预测模型</category><category>算法决策</category>
+    </item>    <item>
       <title>奖励、共同风险与前沿 AI 的推进速度</title>
       <link>https://ob-ai-papers.vercel.app/papers/83805</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83805</guid>
@@ -329,185 +511,6 @@ AI 分: 5.0 / 领域分: 5.0
 📄 PDF: https://arxiv.org/pdf/2611.01566v1</description>
       <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
       <category>人机协作</category><category>决策</category><category>质量控制</category><category>工作设计</category><category>GenAI</category><category>智能体</category><category>算法决策</category>
-    </item>    <item>
-      <title>EEFA：AI智能体伦理评估框架</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83714</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83714</guid>
-      <description>📝 EEFA：AI智能体伦理评估框架
-EN: EEFA: A Framework for the Ethical Evaluation of AI Agents
-
-💡 面向医疗、法律、金融和企业工作流中的自主AI代理，现有评测偏重能力而忽略部署伦理。综述12项基准后，构建涵盖自主权保护、伤害规避、透明与不欺骗、隐私合规、问责与可追溯性的EEFA，并给出可复现应用协议及五维测试场景。
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Swathi Pallikala, Yashas Hariprasad
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2611.02561v1</description>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <category>伦理</category><category>透明度</category><category>隐私</category><category>问责</category><category>AI治理</category><category>自主代理</category><category>可解释 AI</category>
-    </item>    <item>
-      <title>CoworkOS：规模化智能体协作者，实现现实世界自动化</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83713</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83713</guid>
-      <description>📝 CoworkOS：规模化智能体协作者，实现现实世界自动化
-EN: CoworkOS:Scaling Agent Coworkers for Real-world Automation
-
-💡 针对智能体在复杂长期任务中难以兼顾交付质量与持续监控的问题，CoworkOS以分层运行时分离策略决策和执行管理，支持子智能体同步或异步委派、共享工作区及持久语义记忆。在12项基准和6类应用中，其表现与Codex、DeepSeek Harness等前沿系统相当。
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Jiajie Jin, Guanting Dong, Chengjun Pan, Xin Deng, Zhuohui Sheng
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2611.03178v1</description>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>工作未来</category><category>知识管理</category><category>LLM</category><category>智能体</category><category>多智能体系统</category><category>人机交互</category>
-    </item>    <item>
-      <title>VIAS：用于组织多价值对齐与合规的价值隔离式激活引导</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83710</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83710</guid>
-      <description>📝 VIAS：用于组织多价值对齐与合规的价值隔离式激活引导
-EN: VIAS: Value-Isolating Activation Steering for Multi-Value Alignment and Compliance for Organisations
-
-💡 针对组织部署LLM智能体时多价值合规难以独立控制的问题，VIAS通过对比含全部价值与缺少目标价值的成对提示，学习更可分离的激活引导向量。在PROTECT数据集上，其结合提示可覆盖约七成场景的多价值合规，但尚不能完全独立调节各价值。
-
-📚 arXiv:cs.CL · 2026 · 引用 0
-👤 Avni Mittal, Avinash Anand, Dikshant Kukreja, Erik Cambria, Rajiv Ratn Shah
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2611.03518v1</description>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <category>伦理</category><category>组织治理</category><category>信任</category><category>LLM</category><category>激活引导</category><category>AI治理</category>
-    </item>    <item>
-      <title>医疗文本记录的匿名化与共享</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83683</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83683</guid>
-      <description>📝 医疗文本记录的匿名化与共享
-EN: Anonymizing and Sharing Medical Text Records
-
-💡 针对医疗自由文本共享中的隐私泄露与效用损失问题，提出融合数据隐私和健康信息学的匿名化流程：提取文本、按健康信息相似度递归聚类，并通过价值枚举移除潜在身份信息。真实医疗文档实验显示，该方法能有效保护隐私并保持数据质量。
-
-📚 ISR · 2017 · 引用 66
-👤 Xiao-Bai Li, Jialun Qin
-
-AI 分: 3.0 / 领域分: 3.0</description>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <category>隐私</category><category>数据共享</category><category>医疗信息管理</category><category>健康信息学</category><category>自然语言处理</category><category>数据匿名化</category><category>隐私保护</category>
-    </item>    <item>
-      <title>机器学习识别老年人互联网使用纵向一致且稳健的预测因子</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83641</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83641</guid>
-      <description>📝 机器学习识别老年人互联网使用纵向一致且稳健的预测因子
-EN: Consistent and robust predictors of Internet Use among older adults over time identified by machine learning
-
-💡 聚焦老年人互联网使用的纵向变化，利用机器学习从连续观测数据中识别一致且稳健的预测因素。结果表明，机器学习可筛选跨时间稳定的互联网使用预测变量，为理解老年数字参与及数字鸿沟提供依据。
-
-📚 CHB · 2022 · 引用 14
-👤 Xiaoqing Wan, Nichole R. Lighthall, Rui Xie
-
-AI 分: 3.0 / 领域分: 3.0</description>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <category>数字鸿沟</category><category>技术接受</category><category>老年研究</category><category>行为预测</category><category>机器学习</category>
-    </item>    <item>
-      <title>AutoAnalysis：人类与AI协作的自动化自我更新元分析</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83626</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83626</guid>
-      <description>📝 AutoAnalysis：人类与AI协作的自动化自我更新元分析
-EN: AutoAnalysis: An automated, self-updating meta-analysis of human-AI collaboration
-
-💡 人何时应与生成式AI协作，何时应单独完成任务？自动更新的元分析整合420篇论文、1,955个效应量后发现，人机组合平均优于人类单独作业，却落后于人类与AI中表现更优的一方。因此，判断协作价值应同时比较人和AI的单独表现，而非仅以人机组合是否优于人为标准。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Michelle Vaccaro, Abdullah Almaatouq, Thomas W. Malone
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2610.42001v1</description>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>工作设计</category><category>绩效评估</category><category>GenAI</category><category>人机协作</category><category>人机交互</category>
-    </item>    <item>
-      <title>合成HR/ERP图中的薪资欺诈检测：规则、路径特征与图神经网络的归纳式比较</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83625</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83625</guid>
-      <description>📝 合成HR/ERP图中的薪资欺诈检测：规则、路径特征与图神经网络的归纳式比较
-EN: Payroll Fraud Detection in Synthetic HR/ERP Graphs: An Inductive Comparison of Rules, Path Features, and Graph Neural Networks
-
-💡 在合成HR/ERP图谱上，以未见组织为归纳场景，比较规则、路径特征、梯度提升与GNN的薪资欺诈检测效果。链式连接特征模型总体最优，表明多跳优势并非GNN特有；连接失败时实体GNN略优，匹配孪生审计还揭示了数据生成器的结构捷径。
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Xiaobo Chen, Genliang Zhu, Ziyuan Wang, Chu Wang
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2610.41085v1</description>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-      <category>HR</category><category>欺诈检测</category><category>知识图谱</category><category>算法决策</category><category>图神经网络</category><category>机器学习</category><category>链接预测</category><category>异常检测</category>
-    </item>    <item>
-      <title>AI评估者偏好特定AI模型撰写的求职申请，与候选人质量无关</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83623</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83623</guid>
-      <description>📝 AI评估者偏好特定AI模型撰写的求职申请，与候选人质量无关
-EN: AI evaluators favor job applications written by certain AI models, independent of candidate quality
-
-💡 在求职申请由AI撰写、AI筛选的条件下，模型选择会否在候选人质量之外影响录用？多模型审计将11个LLM写作者与9个API评审者跨10类职位配对，发现评审者对写作模型存在稳定偏好：本地部署模型系统吃亏，评审者偏好自身输出；最不利配对会仅因模型错配淘汰25名合格者中的约2名，根源是对文体线索的共同奖惩。
-
-📚 arXiv:cs.CY · 2026 · 引用 0
-👤 Nicolò Pagan, Michael Andreas Ebling, Stefania Ionescu, Anikó Hannák
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2610.41866v1</description>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-      <category>招聘</category><category>HR</category><category>公平性</category><category>偏见</category><category>LLM</category><category>AI招聘</category><category>算法决策</category>
-    </item>    <item>
-      <title>跨越设计—使用鸿沟：组织如何选择采纳的创新</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83610</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83610</guid>
-      <description>📝 跨越设计—使用鸿沟：组织如何选择采纳的创新
-EN: Crossing the Design–Use Divide: How Organizations Select Innovations to Adopt
-
-💡 组织如何筛选并采用创新？两年民族志显示，潜在采用组织的委员会会通过缩窄试点、控制讨论和目标宣称操纵创新选择。支持者主导的试点多只测试基础功能以确保成功，却在后續实施中遭遇更强阻力，说明创新及其采用结果由组织内部的选择过程共同塑造。
-
-📚 ASQ · 2026 · 引用 0
-👤 Rebecca Karp
-
-AI 分: 4.0 / 领域分: 5.0</description>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-      <category>创新</category><category>组织变革</category><category>决策</category><category>组织学习</category><category>AI治理</category>
-    </item>    <item>
-      <title>重构数据驱动的人类行为预测：心理学赋能的可解释神经网络</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83582</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83582</guid>
-      <description>📝 重构数据驱动的人类行为预测：心理学赋能的可解释神经网络
-EN: Rethink data-driven human behavior prediction: A Psychology-powered Explainable Neural Network
-
-💡 据标题推断，关注数据驱动人类行为预测的可解释性与心理学基础，拟将心理学机制融入可解释神经网络，超越单纯的数据拟合，提升模型对人类行为的解释与预测能力。
-
-📚 CHB · 2024 · 引用 8
-👤 Jiyao Wang, Chunxi Huang, Weiyin Xie, Dengbo He, Ran Tu
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <category>心理学</category><category>行为预测</category><category>可解释性</category><category>可解释AI</category><category>神经网络</category><category>机器学习</category>
-    </item>    <item>
-      <title>Frontiers：缩小LLMs与人类的差距：最优LLM样本校准</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83559</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83559</guid>
-      <description>📝 Frontiers：缩小LLMs与人类的差距：最优LLM样本校准
-EN: Frontiers: Reducing Disparity Between LLMs and Humans: Optimal LLM Sample Calibration
-
-💡 针对大语言模型输出与人类偏好不一致的问题，提出人类模仿校准方法，利用人类基准数据整合不同提示词、角色和模型版本的输出；交易与民意调查结果显示，该方法能提高一致性，且权重可跨时间、地域和行业迁移。
-
-📚 MktSci · 2026 · 引用 3
-👤 Yan Leng, Yunxin Sang, Ashish Agarwal
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://doi.org/10.2139/ssrn.4802019</description>
-      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-      <category>消费者偏好</category><category>民意测量</category><category>人机差异</category><category>模型校准</category><category>LLM</category><category>算法校准</category>
     </item>
   </channel>
 </rss>
