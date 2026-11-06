@@ -6,9 +6,92 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 05 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>基于代理指标衡量文本到图像生成器中的种族差异</title>
+      <link>https://ob-ai-papers.vercel.app/papers/83977</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83977</guid>
+      <description>📝 基于代理指标衡量文本到图像生成器中的种族差异
+EN: A Proxy-Based Method for Measuring Racial Disparities in~Text-to-Image~Generators
+
+💡 以人口统计基准及地理、职业、姓氏代理变量审计文本生成图像中的种族表征偏差，并结合肤色和图像相似度比较三种模型；不同模型偏差差异显著，部分模型过度呈现白人且肤色更浅。
+
+📚 arXiv:cs.CV · 2026 · 引用 0
+👤 Nia Mucher, Ngan Pham, Jason Chin, Aaron Brown, David Evans
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2611.07132v1</description>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+      <category>公平性</category><category>偏见</category><category>伦理</category><category>GenAI</category><category>图像生成</category><category>AI 治理</category><category>偏差审计</category>
+    </item>    <item>
+      <title>Agent-R^2：通过真实来源数据合成扩展智能体以提升真实工作生产力</title>
+      <link>https://ob-ai-papers.vercel.app/papers/83974</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83974</guid>
+      <description>📝 Agent-R^2：通过真实来源数据合成扩展智能体以提升真实工作生产力
+EN: Agent-R$^2$: Scaling Agents for Realistic Productivity Work via Real-Source Data Synthesis
+
+💡 针对智能体难以完成长流程生产力任务及真实训练数据稀缺的问题，构建基于职业任务、语料工作流和真实网页文件的数据合成框架，生成4000个含多格式附件与细粒度评分的任务。经监督微调和评分强化学习训练后，4B模型在GDPval与OfficeQA上超过235B模型。
+
+📚 arXiv:cs.CL · 2026 · 引用 0
+👤 Teng Pan, Zixuan Wang, Yuchen Yan, Qifei Wu, Yao Chen
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2611.08219v1</description>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+      <category>工作未来</category><category>知识管理</category><category>创新</category><category>LLM</category><category>AI智能体</category><category>监督微调</category><category>强化学习</category>
+    </item>    <item>
+      <title>学习用于重症监护医疗系统仿真的患者世界模型</title>
+      <link>https://ob-ai-papers.vercel.app/papers/83973</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83973</guid>
+      <description>📝 学习用于重症监护医疗系统仿真的患者世界模型
+EN: Learning a patient world model for health system simulation in intensive care
+
+💡 基于纵向电子病历训练可按时间查询的神经网络患者世界模型，并与ICU日历、资源和队列耦合，用于床位、调度及转出容量模拟。模型达到马尔可夫基线的总体表现，复现历史策略收益，并能识别不同既往轨迹造成的24小时恢复差异。
+
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 Yingtai Li, Ruoyan Wang, Yu Li, Shaohua Kevin Zhou
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2611.08392v1</description>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+      <category>决策</category><category>医疗管理</category><category>运营管理</category><category>机器学习</category><category>神经网络</category><category>世界模型</category><category>模拟仿真</category>
+    </item>    <item>
+      <title>武装冲突期间负责任的 GenAI 使用：来自苏丹应急响应室的证据</title>
+      <link>https://ob-ai-papers.vercel.app/papers/83971</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83971</guid>
+      <description>📝 武装冲突期间负责任的 GenAI 使用：来自苏丹应急响应室的证据
+EN: Responsible GenAI Use During Active Armed Conflict: Evidence from Sudan's Emergency Response Rooms
+
+💡 对苏丹紧急响应室的89名受访者和15名用户、非用户开展调查与访谈，发现冲突中GenAI虽能在专家难以安全触及时提供帮助，但本地变化难核验，手机和联网可能危及志愿者，共享敏感信息可能伤害受益者，AI辅助报告还可能损害组织公信力。
+
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 Dalia Ali, Yearin Lee, Cheng Yu, Ro Encarnación, Alsanosi Adam
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2611.07874v1</description>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+      <category>伦理</category><category>信任</category><category>隐私</category><category>人机协作</category><category>GenAI</category><category>AI治理</category><category>人机协作</category>
+    </item>    <item>
+      <title>人员选拔用自然语言处理词字典：被动评分申请叙述信息，实现可解释、可泛化与增量预测</title>
+      <link>https://ob-ai-papers.vercel.app/papers/83925</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83925</guid>
+      <description>📝 人员选拔用自然语言处理词字典：被动评分申请叙述信息，实现可解释、可泛化与增量预测
+EN: Natural language processing word dictionaries for personnel selection: Achieving explainable, generalizable, and incremental prediction with low impact when passively scoring narrative application information.
+
+💡 聚焦人员选拔中对叙述式申请材料的被动评分，利用自然语言处理词字典提取文本信号，以实现可解释、可泛化且具有增量预测价值的筛选，并降低算法评分对个体的不利影响。
+
+📚 JAP · 2026 · 引用 0
+👤 Emily D. Campion, Michael A. Campion
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+      <category>招聘</category><category>HR</category><category>公平性</category><category>决策</category><category>NLP</category><category>AI 招聘</category><category>可解释 AI</category><category>算法决策</category>
+    </item>    <item>
       <title>超越准确率：公共服务中AI保障需确立的内容</title>
       <link>https://ob-ai-papers.vercel.app/papers/83881</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83881</guid>
@@ -43,10 +126,11 @@ AI 分: 5.0 / 领域分: 3.0
       <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
       <category>AI治理</category><category>信任</category><category>隐私</category><category>公平性</category><category>GenAI</category><category>可解释AI</category><category>AI治理</category>
     </item>    <item>
-      <title>PAYWORTHY: Can LLMs Predict Which Freelance Jobs an AI Agent Will Complete?</title>
+      <title>PAYWORTHY：LLM能否预测AI智能体将完成哪些自由职业任务？</title>
       <link>https://ob-ai-papers.vercel.app/papers/83878</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83878</guid>
-      <description>📝 PAYWORTHY: Can LLMs Predict Which Freelance Jobs an AI Agent Will Complete?
+      <description>📝 PAYWORTHY：LLM能否预测AI智能体将完成哪些自由职业任务？
+EN: PAYWORTHY: Can LLMs Predict Which Freelance Jobs an AI Agent Will Complete?
 
 💡 基于1,494个真实自由职业岗位，比较18个模型在AI智能体接单前预测任务完成可能性的能力。明确描述智能体能力边界时，AUC达0.66—0.86；仅描述浏览器和代码执行功能时，表现接近随机，且结论可跨模型家族复现。
 
@@ -76,10 +160,11 @@ AI 分: 5.0 / 领域分: 4.0
       <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
       <category>AI治理</category><category>伦理</category><category>职业伦理</category><category>制度分析</category><category>AI治理</category><category>负责任AI</category>
     </item>    <item>
-      <title>Decision Models as Scalable Economic Surrogates that Capture Human Variation</title>
+      <title>可扩展经济代理模型：捕捉人类差异的决策模型</title>
       <link>https://ob-ai-papers.vercel.app/papers/83876</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83876</guid>
-      <description>📝 Decision Models as Scalable Economic Surrogates that Capture Human Variation
+      <description>📝 可扩展经济代理模型：捕捉人类差异的决策模型
+EN: Decision Models as Scalable Economic Surrogates that Capture Human Variation
 
 💡 在消费支出调查、经典经济博弈和劳动力市场实验中，对比10个决策模型与8个LLM作为人类行为替代者的效果。领先决策模型能更准确捕捉个体差异，速度约快10倍、成本最高低百倍以上，适合大规模经济模拟与调查。
 
@@ -109,10 +194,11 @@ AI 分: 5.0 / 领域分: 5.0
       <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
       <category>工作设计</category><category>工作未来</category><category>职业安全</category><category>员工幸福感</category><category>LLM</category><category>机器学习</category><category>AI职业暴露</category>
     </item>    <item>
-      <title>SlackBench: Benchmarking Agents on Collaborative Projects Grounded in Real Code Repositories</title>
+      <title>SlackBench：基于真实代码仓库协作项目的智能体基准评测</title>
       <link>https://ob-ai-papers.vercel.app/papers/83874</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83874</guid>
-      <description>📝 SlackBench: Benchmarking Agents on Collaborative Projects Grounded in Real Code Repositories
+      <description>📝 SlackBench：基于真实代码仓库协作项目的智能体基准评测
+EN: SlackBench: Benchmarking Agents on Collaborative Projects Grounded in Real Code Repositories
 
 💡 SlackBench以真实学术项目为隐私保护基础，构建含多人对话、代码仓库和在线文档的协作任务集，覆盖140个查询，评测智能体跨来源检索、摘要、情境推断及对不可答问题的拒答能力，突破静态语料问答局限。
 
@@ -426,91 +512,6 @@ AI 分: 5.0 / 领域分: 4.0
 📄 PDF: https://arxiv.org/pdf/2611.00508v1</description>
       <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
       <category>决策</category><category>伦理</category><category>人机协作</category><category>审计</category><category>LLM</category><category>AI智能体</category><category>算法决策</category><category>AI治理</category>
-    </item>    <item>
-      <title>职业安全与健康的三层综合技术风险模型</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83721</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83721</guid>
-      <description>📝 职业安全与健康的三层综合技术风险模型
-EN: The 3-Tier Integrated Technology Risk Model for Occupational Safety and Health
-
-💡 构建三层整合技术风险模型，将作业安全分析、领先与滞后指标动态评估及大语言模型预测分析结合，推动职业安全管理由静态响应转向数据驱动的预判式风险缓解，并支持即时培训。
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Ramiro Pesina, Ashish Madkaikar
-
-AI 分: 4.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2611.02257v1</description>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <category>职业安全健康</category><category>风险评估</category><category>培训</category><category>LLM</category><category>预测分析</category>
-    </item>    <item>
-      <title>DrawOffer：面向职业支持的循证纵向用户状态建模</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83719</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83719</guid>
-      <description>📝 DrawOffer：面向职业支持的循证纵向用户状态建模
-EN: DrawOffer: Evidence-Grounded Longitudinal User-State Modeling for Career Support
-
-💡 考察职业支持助手能否区分用户自述与能力证据，并在证据不足时避免武断。DrawOffer将LLM观察抽取与基于可溯源记录的确定性推断分离，以102个角色、580个检查点及对照数据集评测；37个测试角色通过169/210项检查，证据门槛提高问题识别精确率，但泛化与复现仍受限。
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Lele Xu, Yuning Bian, Yifan Yuan
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2611.02793v1</description>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <category>职业发展</category><category>决策</category><category>知识管理</category><category>LLM</category><category>人机协作</category><category>可解释 AI</category>
-    </item>    <item>
-      <title>OmniMechanism：面向易受影响心智的人机协作设计</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83717</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83717</guid>
-      <description>📝 OmniMechanism：面向易受影响心智的人机协作设计
-EN: OmniMechanism Design for Human-AI Collaboration with Impressionable Minds
-
-💡 针对高风险场景中人类判断易受AI呈现方式影响、且部署环境与训练环境不一致的问题，构建人机协作全机制设计框架。以提升算法为基础的上下文赌博机变体刻画结果不可区分性，并将其化归为加权校准，兼顾人类判断、征询成本与在线适应。
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Tianwei Gao, Yifei Pang, Lunjia Hu, Kate Donahue, Lihua Lei
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2611.00441v1</description>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>决策</category><category>算法管理</category><category>人机交互</category><category>人机协作</category><category>上下文赌博机</category><category>机器学习</category><category>算法决策</category>
-    </item>    <item>
-      <title>HiPaper：用于学术文献甄选与意义构建的人机协同系统</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83716</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83716</guid>
-      <description>📝 HiPaper：用于学术文献甄选与意义构建的人机协同系统
-EN: HiPaper: A Human-AI Collaborative System for Academic Literature Triage and Scholarly Sensemaking
-
-💡 面向学术文献筛选与意义建构中现有工具支持局部、黑箱式“提交—等待”流程的问题，基于专家形成性研究与14名博士生用户研究，设计检索、收集、综合三阶段人机协同系统HiPaper。结果表明，分阶段暴露并允许干预中间生成内容，可提升跨熟悉与陌生领域的文献理解效率。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Ye Jia, Pangjing Wu, Hayley Y. W. Gu, Zhuohang Jiang, Xu Yuan
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2611.00762v1</description>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <category>知识管理</category><category>信息检索</category><category>人机协作</category><category>科研工作流</category><category>人机协作</category><category>人机交互</category><category>AI辅助科研</category>
-    </item>    <item>
-      <title>智能体工作流中基于原理的人机协作</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83715</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83715</guid>
-      <description>📝 智能体工作流中基于原理的人机协作
-EN: Principled Human-AI Collaboration in Agentic Workflows
-
-💡 提出专家与黑盒生成—验证流程间的任务委派框架，利用专家评价校准阈值，在控制发布错误率的同时最大化自动化；金融问答实验中，自动化率由2.50%升至24.17%，错误率约1.20%。
-
-📚 arXiv:stat.ML · 2026 · 引用 0
-👤 Young Hyun Cho, Will Wei Sun
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2611.01566v1</description>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>决策</category><category>质量控制</category><category>工作设计</category><category>GenAI</category><category>智能体</category><category>算法决策</category>
     </item>
   </channel>
 </rss>
