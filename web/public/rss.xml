@@ -6,9 +6,39 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 06 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>生成式人工智能与销售生产力：在线零售领域的实地实验</title>
+      <link>https://ob-ai-papers.vercel.app/papers/84021</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84021</guid>
+      <description>📝 生成式人工智能与销售生产力：在线零售领域的实地实验
+EN: Generative Artificial Intelligence and Sales Productivity: Field Experiments in Online Retail
+
+💡 在跨境电商平台对数百万用户和商品开展七类工作流的随机现场实验。生成式AI多数工作流可提升销售，最高16.3%，年增量价值约每名消费者5美元；效果主要来自转化率上升而非客单价增加，且未恶化退货与评分，低经验消费者获益更大。
+
+📚 MgmtSci · 2026 · 引用 0
+👤 Lu Fang, Zhe Yuan, Kaifu Zhang, Dante Donati, Miklos Sarvary
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
+      <category>营销</category><category>消费者行为</category><category>销售绩效</category><category>个性化</category><category>GenAI</category><category>人机协作</category>
+    </item>    <item>
+      <title>线性模型与人类评判者在组合预测中的相对重要性</title>
+      <link>https://ob-ai-papers.vercel.app/papers/84007</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84007</guid>
+      <description>📝 线性模型与人类评判者在组合预测中的相对重要性
+EN: On the relative importance of linear model and human judge(s) in combined forecasting
+
+💡 比较线性模型、人类评委及其组合在预测中的相对重要性，考察统计模型与人工判断的互补价值，为组合预测及人机协同决策提供依据；因无摘要，具体结论无法确认。
+
+📚 OBHDP · 2013 · 引用 18
+👤 Matthias Seifert, Allègre L. Hadida
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
+      <category>预测</category><category>决策</category><category>人机协作</category><category>机器学习</category><category>人机协作</category>
+    </item>    <item>
       <title>基于代理指标衡量文本到图像生成器中的种族差异</title>
       <link>https://ob-ai-papers.vercel.app/papers/83977</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83977</guid>
@@ -478,40 +508,6 @@ AI 分: 5.0 / 领域分: 3.0
 📄 PDF: https://arxiv.org/pdf/2611.02585v1</description>
       <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
       <category>偏见</category><category>公平性</category><category>伦理</category><category>LLM</category><category>算法决策</category>
-    </item>    <item>
-      <title>学习竞价与捆绑：面向在线零售的后验采样智能体</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83724</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83724</guid>
-      <description>📝 学习竞价与捆绑：面向在线零售的后验采样智能体
-EN: Learning to bid and bundle: a posterior-sampling agent for online retail
-
-💡 针对在线零售商在需求响应与市场强度未知、决策造成数据删失条件下学习竞价和捆绑折扣的问题，设计精确后验抽样智能体，并在模拟花店中比较后悔值与学习速度。该方法平均后悔最低，能在约3个季节内发现竞价收益，明显优于每季仅抽样一次及依赖点估计的规划者。
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Hadi Mohammadi
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2611.00165v1</description>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <category>营销</category><category>定价决策</category><category>在线零售</category><category>消费者行为</category><category>机器学习</category><category>强化学习</category><category>贝叶斯决策</category><category>算法决策</category>
-    </item>    <item>
-      <title>社会影响压力能否推动 LLM 智能体：委托审计判断的证据</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83723</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83723</guid>
-      <description>📝 社会影响压力能否推动 LLM 智能体：委托审计判断的证据
-EN: Do Social Influence Pressures Move LLM Agents? Evidence from Delegated Audit Judgment
-
-💡 通过12种模型情境实验，测试审计LLM代理在同事、跨所复核者及客户CFO无新证据施压，并含职业诱导时如何调整估计。代理会屈从于合伙人、同事和外部复核者，但通常不屈从客户CFO；职业诱导反而减少修正，部分模型仅向保守方向调整，响应模式不同于人类审计师。
-
-📚 arXiv:cs.CY · 2026 · 引用 0
-👤 Richard Zhe Wang
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2611.00508v1</description>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <category>决策</category><category>伦理</category><category>人机协作</category><category>审计</category><category>LLM</category><category>AI智能体</category><category>算法决策</category><category>AI治理</category>
     </item>
   </channel>
 </rss>
