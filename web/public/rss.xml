@@ -6,9 +6,24 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 07 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>虚幻之忆：深度伪造面孔的记忆成本</title>
+      <link>https://ob-ai-papers.vercel.app/papers/84057</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84057</guid>
+      <description>📝 虚幻之忆：深度伪造面孔的记忆成本
+EN: Remembering the Unreal: The memory cost of deepfake faces
+
+💡 仅据标题推断，聚焦深伪人脸带来的记忆成本：通过与真实人脸进行记忆任务对照，考察其是否削弱身份、细节及真实性记忆。结果可能表明，视觉逼真的深伪面孔仍会引发记忆偏差或错误表征。
+
+📚 CHB · 2027 · 引用 0
+👤 Alessandro Santirocchi, Pietro Spataro, Neil W. Mulligan, Aicia Naser, Roberto Atzeni
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
+      <category>记忆</category><category>虚假信息</category><category>人脸识别</category><category>认知偏差</category><category>深度伪造</category><category>图像生成</category><category>人脸识别</category>
+    </item>    <item>
       <title>生成式人工智能与销售生产力：在线零售领域的实地实验</title>
       <link>https://ob-ai-papers.vercel.app/papers/84021</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84021</guid>
@@ -17,10 +32,12 @@ EN: Generative Artificial Intelligence and Sales Productivity: Field Experiments
 
 💡 在跨境电商平台对数百万用户和商品开展七类工作流的随机现场实验。生成式AI多数工作流可提升销售，最高16.3%，年增量价值约每名消费者5美元；效果主要来自转化率上升而非客单价增加，且未恶化退货与评分，低经验消费者获益更大。
 
-📚 MgmtSci · 2026 · 引用 0
-👤 Lu Fang, Zhe Yuan, Kaifu Zhang, Dante Donati, Miklos Sarvary
+📚 MgmtSci · 2026 · 引用 1
+👤 Lu Fang, Zhe Yuan, Kaifu Zhang, Dante Donati, Miklós Sárváry
 
-AI 分: 5.0 / 领域分: 5.0</description>
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://doi.org/10.2139/ssrn.5637573</description>
       <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
       <category>营销</category><category>消费者行为</category><category>销售绩效</category><category>个性化</category><category>GenAI</category><category>人机协作</category>
     </item>    <item>
@@ -491,23 +508,6 @@ AI 分: 5.0 / 领域分: 3.0
 📄 PDF: https://arxiv.org/pdf/2611.02273v1</description>
       <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
       <category>偏见</category><category>信任</category><category>内容审核</category><category>研究方法</category><category>LLM</category><category>文本标注</category><category>算法偏见</category>
-    </item>    <item>
-      <title>从语言到国别再到效价：LLMs刻板印象偏见的多语言审计</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83725</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83725</guid>
-      <description>📝 从语言到国别再到效价：LLMs刻板印象偏见的多语言审计
-EN: From Language to Country to Valence: A Multilingual Audit of Stereotype Bias Across LLMs
-
-💡 针对英语中心、仅测负面刻板印象的评测缺口，以英、西、法、德语1.2万条本地Reddit帖子审计6个LLM的性别、种族和宗教偏差。宗教在所有模型—语言组合中失衡最高，差异随语言和效价变化，API模型得分整体低于开放权重模型；结果仅反映选择集中度，不等同于刻板印象认同。
-
-📚 arXiv:cs.CL · 2026 · 引用 0
-👤 Zihao Sun
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2611.02585v1</description>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <category>偏见</category><category>公平性</category><category>伦理</category><category>LLM</category><category>算法决策</category>
     </item>
   </channel>
 </rss>
