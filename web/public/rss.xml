@@ -6,9 +6,128 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 08 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>职位发布中的AI暴露与职责变迁</title>
+      <link>https://ob-ai-papers.vercel.app/papers/84212</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84212</guid>
+      <description>📝 职位发布中的AI暴露与职责变迁
+EN: AI Exposure and the Changing Responsibilities in Job Postings
+
+💡 以Copilot和Claude使用数据衡量岗位活动的AI暴露度，提取并按O*NET分类映射5万份、33家企业2023—2025年招聘信息。AI提及增长66%，多集中于非实际工作内容；高暴露活动在职责中的占比仅小幅下降，同时更常伴随AI相关职责，表明企业转向招募能借助AI完成工作的人。
+
+📚 arXiv:cs.CY · 2026 · 引用 0
+👤 Dora Zhao, Lin Ai, Pranav Khadpe, Siddharth Suri, Scott Counts
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2611.09870v1</description>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <category>招聘</category><category>工作设计</category><category>工作未来</category><category>GenAI</category><category>LLM</category><category>人机协作</category>
+    </item>    <item>
+      <title>独特性感知特征工程：算法决策中的人类表征</title>
+      <link>https://ob-ai-papers.vercel.app/papers/84211</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84211</guid>
+      <description>📝 独特性感知特征工程：算法决策中的人类表征
+EN: Uniqueness-Aware Feature Engineering for Representing Humans in Algorithmic Decision Making
+
+💡 针对公平审计忽视个体特征代表性差异的问题，将特征工程建模为从群体特征池中随机选择的过程，以多元超几何模型识别代表不足，并用集合相似度平衡表征适配与预测准确率，形成六步管线、适配报告和个人透明度机制。
+
+📚 arXiv:cs.CY · 2026 · 引用 0
+👤 Theresa Elstner, Martin Potthast
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2611.09403v1</description>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <category>公平性</category><category>伦理</category><category>决策</category><category>信任</category><category>算法决策</category><category>机器学习</category><category>可解释 AI</category>
+    </item>    <item>
+      <title>分类体系驱动的合成数据集：招聘检索有效性与公平性评估</title>
+      <link>https://ob-ai-papers.vercel.app/papers/84210</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84210</guid>
+      <description>📝 分类体系驱动的合成数据集：招聘检索有效性与公平性评估
+EN: A Taxonomy-Driven Synthetic Dataset for Retrieval Effectiveness and Fairness Evaluation in Hiring
+
+💡 为解决招聘AI因隐私和商业敏感而难以公开评测的问题，构建基于66万份真实自由职业者画像的分类法驱动全合成多语HR数据集与基准。审计发现嵌入模型表现偏离通用MTEB，且在语法有性别差异的语言中存在公平差距，表明招聘评测需采用兼顾语义准确与公平的定制基准。
+
+📚 arXiv:cs.LG · 2026 · 引用 0
+👤 Warren Jouanneau, Morgane Hoffmann, Emma Jouffroy, Marc Palyart
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2611.09178v1</description>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <category>招聘</category><category>HR</category><category>公平性</category><category>隐私</category><category>AI 招聘</category><category>机器学习</category><category>自然语言处理</category>
+    </item>    <item>
+      <title>从用户解读方式中学习：个性化推荐解释顺序</title>
+      <link>https://ob-ai-papers.vercel.app/papers/84209</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84209</guid>
+      <description>📝 从用户解读方式中学习：个性化推荐解释顺序
+EN: Learning from How Users Interpret: Personalizing Recommendation Explanation Order
+
+💡 122人受试者内实验比较依据用户既往文本解释构建的个性化档案对推荐解释排序的影响。个人档案条件的理解正确率最高（86.5%），优于捐赠者、总体人群及LLM档案条件；但各条件对推荐接受度无可靠总体差异，说明个性化排序主要提升理解。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Deo Munduku, Elsa Negre
+
+AI 分: 3.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2611.08785v1</description>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <category>推荐系统</category><category>个性化</category><category>消费者行为</category><category>可解释性</category><category>推荐算法</category><category>LLM</category><category>可解释AI</category>
+    </item>    <item>
+      <title>目标作为人机协作的表征层</title>
+      <link>https://ob-ai-papers.vercel.app/papers/84207</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84207</guid>
+      <description>📝 目标作为人机协作的表征层
+EN: Goals as a Representational Layer for Human-AI Collaboration
+
+💡 探讨如何将目标建成连接个人任务、AI与组织结果的可更新表征层。整合人类表述与证据推断，以改善情境组织、反思协调及AI训练对齐，并指出目标推断、隐私、对齐与治理挑战。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Gaia Molinaro, Lev Tankelevitch, Sean Rintel, Scott Counts
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2611.08757v1</description>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>工作设计</category><category>知识管理</category><category>组织变革</category><category>GenAI</category><category>人机协作</category><category>可解释 AI</category><category>AI治理</category>
+    </item>    <item>
+      <title>CID：通过语义状态变化测量认知工作</title>
+      <link>https://ob-ai-papers.vercel.app/papers/84205</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84205</guid>
+      <description>📝 CID：通过语义状态变化测量认知工作
+EN: CID: Measuring Cognitive Work Through Semantic State Change
+
+💡 将大语言模型嵌入空间中的信息表征定义为语义状态，并以协方差感知的马氏距离构建CID指标，量化语义位移与认知工作量。该框架可跨人类和人工系统测量学习、推理、知识生成及人机协作中的语义变化。
+
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 Ron Fulbright
+
+AI 分: 4.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2611.09542v1</description>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <category>认知测量</category><category>语义分析</category><category>知识生成</category><category>人机协作</category><category>LLM</category><category>语义嵌入</category><category>自然语言处理</category>
+    </item>    <item>
+      <title>何者委派，何者保留：日常与工作中人类对Agentic AI的偏好</title>
+      <link>https://ob-ai-papers.vercel.app/papers/84204</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84204</guid>
+      <description>📝 何者委派，何者保留：日常与工作中人类对Agentic AI的偏好
+EN: What to Delegate, What to Preserve: Human Preferences for Agentic AI Across Everyday Life and Work
+
+💡 基于289名有AI使用经验的美国成年人、覆盖9个领域的45个情境，考察用户委托多步AI任务的边界。信任、偏好AI领导、既往使用和预期节省提高自动化意愿，成就感担忧则降低意愿；用户总体支持由AI执行但保留人工参与、监督或最终决策的有限自治。
+
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 Sarah Wheeler, Veronica Rammouz, Yaoyao Qian, Zexuan Liu, Mengyi Wei
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2611.09730v1</description>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>信任</category><category>工作设计</category><category>委托决策</category><category>AI智能体</category><category>人机交互</category><category>AI治理</category>
+    </item>    <item>
       <title>虚幻之忆：深度伪造面孔的记忆成本</title>
       <link>https://ob-ai-papers.vercel.app/papers/84057</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84057</guid>
@@ -391,123 +510,6 @@ AI 分: 5.0 / 领域分: 4.0
 📄 PDF: https://arxiv.org/pdf/2611.04510v1</description>
       <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
       <category>招聘</category><category>公平性</category><category>偏见</category><category>HR</category><category>AI招聘</category><category>算法决策</category><category>机器学习</category>
-    </item>    <item>
-      <title>角色并非人：身份是状态而非属性</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83800</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83800</guid>
-      <description>📝 角色并非人：身份是状态而非属性
-EN: Personas Are Not People: Identity as State, Not Attribute
-
-💡 针对以固定人格档案模拟人群的做法，结合身份经济学与人格研究证明：个体行为随情境变化的幅度往往大于人与人之间的差异，固定人格无法再现情境特异行为。进一步提出“情境中的人”设计与评估标准，并用 Reddit 数据及临床试验招募调查检验其可行性。
-
-📚 arXiv:cs.CL · 2026 · 引用 0
-👤 Tamunotonye Harry, Yuanyuan Feng
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2611.05292v1</description>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-      <category>人机交互</category><category>社会心理学</category><category>算法评估</category><category>LLM</category><category>合成人群</category><category>AI代理</category>
-    </item>    <item>
-      <title>超越好奇心：习惯与组织学习能力作为影子AI的预测因素</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83758</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83758</guid>
-      <description>📝 超越好奇心：习惯与组织学习能力作为影子AI的预测因素
-EN: Beyond Curiosity: Habit and Organizational Learning Capability as Predictors of Shadow AI
-
-💡 聚焦员工使用未经组织许可的“影子AI”，检验日常习惯与组织学习能力对其使用行为的预测作用，超越仅由好奇心解释的视角，为治理员工AI使用及设计组织学习干预提供依据。
-
-📚 CHB · 2026 · 引用 0
-👤 Nolan Lovett, Mohan Yang
-
-AI 分: 5.0 / 领域分: 5.0</description>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-      <category>组织学习</category><category>员工幸福感</category><category>AI治理</category><category>知识管理</category><category>影子AI</category><category>AI治理</category>
-    </item>    <item>
-      <title>通过模型了解市场：来自 AI 招聘平台的证据</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83738</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83738</guid>
-      <description>📝 通过模型了解市场：来自 AI 招聘平台的证据
-EN: Learning about Markets from Models: Evidence from an AI Hiring Platform
-
-💡 利用低技能岗位AI招聘平台的企业留任模型，考察跨情境汇总数据能否改善决策及平台如何传递市场信息。企业模型仅对自身申请有效，跨企业预测近乎随机；交叉评分显示，换岗带来的留任收益高度异质，且企业对边际特征的价值判断明显分歧，表明差异化模型可揭示竞争定位与干预对象。
-
-📚 arXiv:econ.GN · 2026 · 引用 0
-👤 Hossein Alidaee, Tarun Khanna, Rembrand Koning
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2611.01226v1</description>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <category>招聘</category><category>HR</category><category>决策</category><category>市场学习</category><category>AI招聘</category><category>机器学习</category><category>算法决策</category>
-    </item>    <item>
-      <title>通过 AI 实践提升创业技能</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83737</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83737</guid>
-      <description>📝 通过 AI 实践提升创业技能
-EN: Improving Entrepreneurial Skills by Practicing with AI
-
-💡 为检验AI能否提升创业能力，研究者将Vantage改造为包含逼真商业情境和编排式AI同伴的互动练习环境，并在NFTE暑期创业项目中开展随机对照试验。使用该平台的学生在顶点商业计划评分上显著优于仅使用标准AI工具的对照组，显示出短期促进作用。
-
-📚 arXiv:cs.CY · 2026 · 引用 0
-👤 Amir Globerson, Anisha Choudhury, Anna Iurchenko, Avinatan Hassidim, Cathy Cheung
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2611.02016v1</description>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <category>创业</category><category>教育</category><category>培训</category><category>创新</category><category>GenAI</category><category>LLM</category><category>智能体</category><category>人机交互</category>
-    </item>    <item>
-      <title>基于评估的 AI 治理之潜力与局限：专家访谈证据</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83736</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83736</guid>
-      <description>📝 基于评估的 AI 治理之潜力与局限：专家访谈证据
-EN: The Promises and Limitations of Evaluation-Based AI Governance: Evidence from Expert Interviews
-
-💡 基于对37名专家的半结构访谈与主题分析，考察前沿AI评估如何降低社会层面风险。评估可具体化风险、支持治理承诺与监管、改善企业风险文化，但依赖多项可疑假设；模型进步导致信息性下降、测量局限及结果缺乏行动保障，构成根本性治理缺口。
-
-📚 arXiv:cs.CY · 2026 · 引用 0
-👤 Lily Stelling, Jacob Charnock, Kevin L. Wei, David Krueger
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2611.00465v1</description>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <category>AI治理</category><category>伦理</category><category>风险监管</category><category>负责任AI</category><category>AI治理</category><category>模型评估</category><category>前沿AI</category>
-    </item>    <item>
-      <title>氛围编程悖论：EEG 揭示的大脑活动</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83734</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83734</guid>
-      <description>📝 氛围编程悖论：EEG 揭示的大脑活动
-EN: The Vibe Paradox: What EEG Reveals About Your Brain When Vibe Coding
-
-💡 考察代理式AI编码是否让开发者更投入并减轻认知负担。11名开发者完成22次被试内交叉实验，结合EEG、屏幕活动与提示词，比较代理式与非代理式AI及自有和遗留代码库。代理式AI反而提高认知负荷、削弱任务结果投入；互动由追问和核查代码转向描述行为并测试运行结果。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Olivia Schutz, Rudrajit Choudhuri, Yunhan Qiao, Fatima A. Moussaoui, Julia Russo
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2611.02087v1</description>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <category>工作设计</category><category>人机协作</category><category>工作未来</category><category>创新</category><category>LLM</category><category>AI智能体</category><category>AI编程助手</category><category>人机交互</category>
-    </item>    <item>
-      <title>文本缄默时：证据不足下记忆捷径与LLM标注效度</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83726</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83726</guid>
-      <description>📝 文本缄默时：证据不足下记忆捷径与LLM标注效度
-EN: When the Text Is Silent: Memory Shortcuts and the Validity of LLM Annotation under Evidence Insufficiency
-
-💡 用995名知名人物及匹配对照构造证据与既有知识冲突的反事实文本，对三种商业LLM开展大规模标注实验。发现模型在证据缺失时会凭记忆补全人物属性，产生文本不支持但事实正确的标签；评估威胁与奖励会加剧该捷径，姓名遮蔽或提醒可缓解，但存在性别标注代价。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Wenchang Wang, Yue Song
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2611.02273v1</description>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <category>偏见</category><category>信任</category><category>内容审核</category><category>研究方法</category><category>LLM</category><category>文本标注</category><category>算法偏见</category>
     </item>
   </channel>
 </rss>
