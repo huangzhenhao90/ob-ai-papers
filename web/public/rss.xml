@@ -6,9 +6,139 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 09 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>2026年前沿AI安全与治理：风险理解与协同治理</title>
+      <link>https://ob-ai-papers.vercel.app/papers/84280</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84280</guid>
+      <description>📝 2026年前沿AI安全与治理：风险理解与协同治理
+EN: Frontier AI Safety and Governance 2026: Risk Understanding and Coordinated Governance
+
+💡 面向前沿AI能力演进带来的新型风险，报告通过梳理全球治理实践并评估治理准备度，识别关键风险、治理缺口及薄弱环节，提出国际协同响应方向与务实机制，提升前沿AI安全、可靠和负责任发展的集体应对能力。
+
+📚 arXiv:cs.CY · 2026 · 引用 0
+👤 Zeng Yi, Seán Ó hÉigeartaigh, Cao Gongce, Lu Enmeng, Chen Yu
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2611.12434v1</description>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <category>AI治理</category><category>风险治理</category><category>国际治理</category><category>伦理</category><category>前沿AI</category><category>AI治理</category><category>风险评估</category>
+    </item>    <item>
+      <title>面向大语言模型推荐器的保形公平解码</title>
+      <link>https://ob-ai-papers.vercel.app/papers/84272</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84272</guid>
+      <description>📝 面向大语言模型推荐器的保形公平解码
+EN: Conformal Fair Decoding for Large Language Model Recommenders
+
+💡 针对LLM推荐在无法访问模型权重和完整词表概率时难以控制公平性的问题，Fair-Rec以离线校准的语义差异阈值进行候选解码，并设计自适应软惩罚机制；实验显示，该方法可降低反事实差异，同时保持有竞争力的HR@10与NDCG@10。
+
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 Ziwei Wu, Jingrui He
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2611.10285v1</description>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <category>推荐系统</category><category>公平性</category><category>算法决策</category><category>LLM</category><category>推荐算法</category><category>生成式推荐</category>
+    </item>    <item>
+      <title>感觉更轻松，工作却更费力：AI辅助代码理解中的认知负荷</title>
+      <link>https://ob-ai-papers.vercel.app/papers/84268</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84268</guid>
+      <description>📝 感觉更轻松，工作却更费力：AI辅助代码理解中的认知负荷
+EN: Feeling Easier, Working Harder: Cognitive Load in AI-Assisted Code Comprehension
+
+💡 研究生成式AI辅助代码阅读是否减轻认知负荷。20名计算机新手参与3×2被试内实验，结合tDRT、NASA-TLX和理解测验发现：AI使客观负荷反应时上升11.2%，主观负荷不变；所测难度下未提升理解成绩，复杂代码时仍会核验AI输出。
+
+📚 arXiv:cs.SE · 2026 · 引用 0
+👤 Maryangela White, Maximilian Rose, Matthew Buckman, Amy McDonnell, Francisco Ortega
+
+AI 分: 4.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2611.12019v1</description>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>认知负荷</category><category>代码理解</category><category>信任</category><category>GenAI</category><category>AI编程</category><category>人机协作</category>
+    </item>    <item>
+      <title>编程预见性：人类构建预测型机器人所面临的问题</title>
+      <link>https://ob-ai-papers.vercel.app/papers/84267</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84267</guid>
+      <description>📝 编程预见性：人类构建预测型机器人所面临的问题
+EN: Programming Prescience: Issues in Human Construction of Forecasting Bots
+
+💡 对15名AI预测竞赛获胜者进行访谈，梳理人类构建预测机器人的三类工作：获取事实研究资料、设计连贯推理及判断实际表现。发现构建者常引入无收益复杂度，并以机会式、零散方式测试，凸显流程、工具和人机协作创新的改进方向。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Priya Dhawka, Benjamin Wilson, Andrew Head
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2611.12834v1</description>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <category>AI预测</category><category>人机协作</category><category>模型评估</category><category>创新</category><category>AI预测</category><category>推理模型</category><category>人机协作</category><category>AI评估</category>
+    </item>    <item>
+      <title>AutoBuddy：模拟职场中主动型常驻智能体的任务发现与执行评估</title>
+      <link>https://ob-ai-papers.vercel.app/papers/84264</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84264</guid>
+      <description>📝 AutoBuddy：模拟职场中主动型常驻智能体的任务发现与执行评估
+EN: AutoBuddy: Evaluating Proactive, Always-On Agents on Task Discovery and Execution in a Simulated Workplace
+
+💡 面向知识工作中的主动型LLM助理，构建AutoBuddy-Bench：以时间图模拟员工、项目、业务系统和事件，将待办义务嵌入邮件、聊天与文档，并按工作区状态变化评估执行效果；配套可替换骨干模型的AutoBuddy代理，将评价范围由给定任务扩展至任务发现与执行。
+
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 Shiqi Chen, Daniel Madrigal Diaz, Wei-Ning Chen, Gbola Afonja, Fangkai Yang
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2611.12393v1</description>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>知识管理</category><category>工作未来</category><category>LLM</category><category>自主AI代理</category><category>人机交互</category>
+    </item>    <item>
+      <title>基于辅助信息的学习偏好</title>
+      <link>https://ob-ai-papers.vercel.app/papers/84240</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84240</guid>
+      <description>📝 基于辅助信息的学习偏好
+EN: Learning Preferences with Side Information
+
+💡 针对电商交易数据不足下的个性化偏好学习，将问题形式化为带侧信息的大规模矩阵与张量切片恢复，定义广义低秩结构并给出高效算法及近最优恢复保证；音乐流媒体实验显示其可扩展性并优于现有方法。
+
+📚 MgmtSci · 2019 · 引用 58
+👤 Vivek F. Farias, Andrew A. Li
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <category>推荐系统</category><category>个性化</category><category>电商</category><category>机器学习</category><category>推荐算法</category><category>机器学习</category><category>张量分解</category>
+    </item>    <item>
+      <title>面向老年人的人本生成式AI设计：跨交互情境下的个性化与可信度理解</title>
+      <link>https://ob-ai-papers.vercel.app/papers/84223</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84223</guid>
+      <description>📝 面向老年人的人本生成式AI设计：跨交互情境下的个性化与可信度理解
+EN: Designing Human-Centered Generative AI for Older Adults: Understanding Personalization and Credibility Across Interaction Contexts
+
+💡 聚焦老年人使用生成式AI时的个性化与可信度，比较不同交互情境下的体验差异，提示设计应兼顾个体需求、内容可信度与沟通适配，以维护老年用户信任和接受度。
+
+📚 CHB · 2026 · 引用 0
+👤 Mingxi Sun, Jingxi Chen
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <category>人机交互</category><category>信任</category><category>个性化</category><category>数字包容</category><category>GenAI</category><category>人机交互</category>
+    </item>    <item>
+      <title>有福还是无福：智能养老服务机器人角色影响中国家庭照护者福祉的双路径机制</title>
+      <link>https://ob-ai-papers.vercel.app/papers/84222</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84222</guid>
+      <description>📝 有福还是无福：智能养老服务机器人角色影响中国家庭照护者福祉的双路径机制
+EN: Blessed or not? The dual-path influence mechanism of intelligent elderly care service robots' roles on Chinese family caregivers' well-being
+
+💡 以中国家庭照护者为对象，考察智能养老服务机器人承担不同角色时对幸福感的影响，并检验其促进与抑制幸福感的双路径机制；标题未披露具体效应方向。
+
+📚 CHB · 2026 · 引用 1
+👤 Caihua Yu, Siwen Xu, Tonghui Lian
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <category>老年照护</category><category>家庭照护者</category><category>幸福感</category><category>人机协作</category><category>服务机器人</category><category>人机交互</category><category>人机协作</category>
+    </item>    <item>
       <title>职位发布中的AI暴露与职责变迁</title>
       <link>https://ob-ai-papers.vercel.app/papers/84212</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84212</guid>
@@ -376,140 +506,6 @@ AI 分: 5.0 / 领域分: 3.0
 📄 PDF: https://arxiv.org/pdf/2611.05512v1</description>
       <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
       <category>人机协作</category><category>知识管理</category><category>组织学习</category><category>工作未来</category><category>AI智能体</category><category>代码智能体</category><category>人机交互</category>
-    </item>    <item>
-      <title>事实为据：与AI对话如何降低阴谋论信念</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83873</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83873</guid>
-      <description>📝 事实为据：与AI对话如何降低阴谋论信念
-EN: Just the Facts: How Dialogues with AI Reduce Conspiracy Beliefs
-
-💡 通过两项美国在线实验（N=2193）及内容分析考察AI对话削弱阴谋信念的机制。结果表明，效果主要来自相关且论证充分的反证据，而非建立关系、讲故事或诉诸共情；仅让AI在缺乏事实证据时说服会削弱纠偏效果。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Thomas H. Costello, Gordon Pennycook, David G. Rand
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2611.05572v1</description>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-      <category>错误信息</category><category>说服</category><category>信任</category><category>阴谋信念</category><category>LLM</category><category>生成式AI</category><category>人机交互</category>
-    </item>    <item>
-      <title>今日工作，明日劳动力：AI辅助工作场景中的学习激励</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83872</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83872</guid>
-      <description>📝 今日工作，明日劳动力：AI辅助工作场景中的学习激励
-EN: Today's Work, Tomorrow's Workforce: Incentivizing Learning in AI-Assisted Work
-
-💡 扩展“接受或独立完成”模型，考察技能随连续任务演化，比较短视与前瞻员工，并设计奖励独立正确作答的激励。研究发现，AI可在高准确率下使新手陷入低技能陷阱、专家技能退化；前瞻员工会为未来技能放弃更准的AI，且技能达到阈值后，独立作答可自我维持。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Moritz Diener, Daniel Hendriks, Philipp Spitzer, Gerhard Satzger, Joshua Holstein
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2611.06346v1</description>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-      <category>组织学习</category><category>培训</category><category>工作未来</category><category>人机协作</category><category>人机协作</category>
-    </item>    <item>
-      <title>LifeVal：评估AI模型在个性化智能体消费任务中的性能</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83871</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83871</guid>
-      <description>📝 LifeVal：评估AI模型在个性化智能体消费任务中的性能
-EN: LifeVal: Evaluating AI Model Performance on Personalized Agentic Consumer Tasks
-
-💡 针对个性化数字助理能否高质量完成高价值生活任务，构建LifeVal基准：以3,800余名消费者支付意愿调查和时间利用数据校准148类活动分布，再由专家依据真实ChatGPT对话、记忆、文件及个人情境制题，并经多轮人工质控，形成金融、搬家、求职、育儿等任务的统一评测集。
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Jenny Yang, Elizabeth Proehl, Anjan Bharadwaj, Emily Fan, Charlotte Cole
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2611.06687v1</description>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-      <category>消费者行为</category><category>营销</category><category>人机交互</category><category>LLM</category><category>ChatGPT</category><category>智能体</category><category>人机交互</category>
-    </item>    <item>
-      <title>面向决策的二元结果模型主动学习</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83852</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83852</guid>
-      <description>📝 面向决策的二元结果模型主动学习
-EN: Decision-Centric Active Learning of Binary-Outcome Models
-
-💡 面向企业预测建模成本与决策效果不一致的问题，提出以决策影响为导向的主动数据获取方法。直邮数据比较显示，降低统计误差的策略可能浪费资源，而聚焦决策效用的方法能显著改善营销定向，且对效用估计质量下降和不同采集成本具有稳健性。
-
-📚 ISR · 2007 · 引用 54
-👤 Maytal Saar-Tsechansky, Foster Provost
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-      <category>决策</category><category>营销</category><category>消费者行为</category><category>主动学习</category><category>机器学习</category><category>预测模型</category><category>算法决策</category>
-    </item>    <item>
-      <title>奖励、共同风险与前沿 AI 的推进速度</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83805</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83805</guid>
-      <description>📝 奖励、共同风险与前沿 AI 的推进速度
-EN: Prizes, Shared Hazard, and the Speed of Frontier AI
-
-💡 考察前沿AI实验室竞速造成的灾难风险外溢。以校准的起飞模型比较竞赛、共同研究份额规则与开放共享，发现竞赛激励主导竞速；共同规则显著降速，理想开源可促成协调节奏，但单方克制和仅审计机制均难以限制速度。
-
-📚 arXiv:econ.GN · 2026 · 引用 0
-👤 Li Gan
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2611.04266v1</description>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-      <category>创新</category><category>战略</category><category>风险治理</category><category>AI治理</category><category>前沿AI</category>
-    </item>    <item>
-      <title>经实验验证的数字孪生：大数据时代劳动力培训项目评估</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83804</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83804</guid>
-      <description>📝 经实验验证的数字孪生：大数据时代劳动力培训项目评估
-EN: Experimentally Validated Digital Twins: Evaluating Workforce Training Programs in the Age of Big Data
-
-💡 利用1999—2025年全美匿名个税记录和机器学习预测反事实，将职业培训对收入的影响估计与37项随机对照试验比较；模型RMSE与RCT相当，并较既有参数估计低60%。结果表明项目收益存在显著地域和年份异质性，进入目标行业者收益最高且更持久。
-
-📚 arXiv:econ.GN · 2026 · 引用 0
-👤 Raj Chetty, Jamie Fogel, Lawrence F. Katz, Kadeem Noray, Sonya Porter
-
-AI 分: 4.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2611.03938v1</description>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-      <category>培训</category><category>绩效评估</category><category>劳动力市场</category><category>决策</category><category>机器学习</category><category>数字孪生</category><category>因果推断</category>
-    </item>    <item>
-      <title>美国联邦 AI 清单中的层累式问责</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83802</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83802</guid>
-      <description>📝 美国联邦 AI 清单中的层累式问责
-EN: Palimpsestic Accountability in the US Federal AI Inventories
-
-💡 追踪美国联邦AI使用案例清单2023—2025年的三次版本，分析问责记录随时间的变化。双重演绎—归纳分析显示，清单扩容虽减少漏答，却通过重设问题、机构分类门控和覆盖旧答重写问责边界；建议版本留痕、公开重分类理由并记录人工监督。
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Dipto Das, Syed Ishtiaque Ahmed, Aditya Vashistha, Shion Guha
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2611.04153v1</description>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-      <category>AI治理</category><category>公共部门</category><category>组织问责</category><category>透明度</category><category>AI治理</category><category>算法管理</category>
-    </item>    <item>
-      <title>快速、低成本与公平？对决策模型的评估</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83801</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83801</guid>
-      <description>📝 快速、低成本与公平？对决策模型的评估
-EN: Fast, Cheap, and Fair? Evaluating Decision Models
-
-💡 系统审计紧凑型System 1招聘决策模型的公平性。以姓名替换和排版变化构造噪声基准，检验人口属性及候选人隐性线索对评分、排序和入围结果的影响，并评估输出效度、延迟与成本；公开反事实简历数据和代码以支持复现。
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Muhammad Uzair Ul Haq, Davide Rigoni, Alessandro Sperduti, Flavia Fabris
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2611.04510v1</description>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-      <category>招聘</category><category>公平性</category><category>偏见</category><category>HR</category><category>AI招聘</category><category>算法决策</category><category>机器学习</category>
     </item>
   </channel>
 </rss>
