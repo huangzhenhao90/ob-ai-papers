@@ -6,9 +6,150 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 10 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>使用 GenAI 设计 UI：提示词驱动设计生成器的用途、优势与局限</title>
+      <link>https://ob-ai-papers.vercel.app/papers/84360</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84360</guid>
+      <description>📝 使用 GenAI 设计 UI：提示词驱动设计生成器的用途、优势与局限
+EN: Designing UIs with GenAI: Understanding the Use, Benefits, and Limitations of Prompt-to-Design Generators
+
+💡 对17名UI设计师进行半结构式访谈，考察提示词生成界面工具的日常使用。设计师主要将其用于构思加速而非端到端设计，并采用个人与协作式提示策略；工具提升效率和灵感，却可能削弱个人创意与设计质量，组织内也在形成差异化治理实践。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Jingzhou Ye, Yao Li, Xueqiang Wang
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2611.13211v1</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>创意</category><category>工作设计</category><category>组织变革</category><category>GenAI</category><category>人机交互</category><category>人机协作</category>
+    </item>    <item>
+      <title>AI治理应优先控制与知识边界，而非限制智能</title>
+      <link>https://ob-ai-papers.vercel.app/papers/84355</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84355</guid>
+      <description>📝 AI治理应优先控制与知识边界，而非限制智能
+EN: AI Governance Should Prioritize Control and Knowledge Boundaries Over Limiting Intelligence
+
+💡 自主智能体快速升级是否主要由智能水平驱动？将现实影响拆为智能中介发现、程序性知识与直接控制三条路径，并以“智能起飞”争论为压力测试，结合NK景观随机仿真推导充分条件与速度上限。结果显示，多数灾难性快速起飞依赖知识快速获取或控制获取，制度审批节点可显著拖慢超级智能体。
+
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 Hendrik Luuk
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2611.12941v1</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <category>AI治理</category><category>决策</category><category>战略</category><category>知识管理</category><category>自主智能体</category><category>AI治理</category><category>机器学习</category><category>仿真建模</category>
+    </item>    <item>
+      <title>公正AI治理与禁止边界原则</title>
+      <link>https://ob-ai-papers.vercel.app/papers/84354</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84354</guid>
+      <description>📝 公正AI治理与禁止边界原则
+EN: Just AI Governance and the Forbidden-Boundary Principle
+
+💡 面向高后果AI决策中“预测准确不等于正当授权”的问题，整合多元正义理论、技术社会公平研究与治理标准，构建规范—数据—模型—治理四层框架。通过六项正义要求和两阶段规则排除侵犯最低权利的用途，并以独立政策监控、执行闸门、安全状态控制、审计追踪及人类恢复授权落实“禁越界原则”。
+
+📚 arXiv:cs.SE · 2026 · 引用 0
+👤 Na Young Ahn
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2611.13007v1</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <category>伦理</category><category>公平性</category><category>决策</category><category>AI治理</category><category>AI治理</category><category>算法决策</category><category>自主智能体</category><category>人机协作</category>
+    </item>    <item>
+      <title>CEO环境沟通、言语行为与企业价值</title>
+      <link>https://ob-ai-papers.vercel.app/papers/84338</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84338</guid>
+      <description>📝 CEO环境沟通、言语行为与企业价值
+EN: CEO environmental communication, speech acts, and firm value
+
+💡 基于14,523次财报电话会问答，结合MSCI环境评分、Compustat数据与微调DeBERTa，检验CEO环境沟通意图及企业价值关系。环境参与更强的企业反而沟通更少；断言式、指令式沟通与价值正相关，表达式、承诺式则负相关。
+
+📚 JAMS · 2026 · 引用 0
+👤 Hai-Anh Tran, Stephan Ludwig, Bach Nguyen, Charles H. Noble, Dhruv Grewal
+
+AI 分: 3.0 / 领域分: 5.0</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <category>企业环境责任</category><category>高管沟通</category><category>公司价值</category><category>信号理论</category><category>自然语言处理</category><category>机器学习</category><category>DeBERTa</category>
+    </item>    <item>
+      <title>我们信任定价吗？动态定价中消费者对AI与人类定价者的反应</title>
+      <link>https://ob-ai-papers.vercel.app/papers/84337</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84337</guid>
+      <description>📝 我们信任定价吗？动态定价中消费者对AI与人类定价者的反应
+EN: In pricing we trust? Consumer responses to AI and human price setters in dynamic pricing
+
+💡 基于标题推测，研究通过AI与人工定价者的对照设计，考察动态定价中“由谁定价”如何影响消费者信任、价格接受与购买意愿；核心关注消费者是否更信任AI定价者，标题未提供明确结果方向。
+
+📚 JAMS · 2026 · 引用 0
+👤 Begum Kaplan, Elizabeth A. Minton, Cait Lamberton
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <category>消费者行为</category><category>动态定价</category><category>信任</category><category>营销</category><category>算法决策</category><category>人机交互</category>
+    </item>    <item>
+      <title>算法驱动短视频平台中的网红组合设计：组合聚焦度与规模的作用</title>
+      <link>https://ob-ai-papers.vercel.app/papers/84336</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84336</guid>
+      <description>📝 算法驱动短视频平台中的网红组合设计：组合聚焦度与规模的作用
+EN: Designing influencer portfolios in algorithm-driven short-video platforms: The role of portfolio focus and portfolio size
+
+💡 基于标题推测，考察算法驱动短视频平台中网红组合的内容聚焦度与规模如何影响用户互动和平台表现，为优化创作者组合、内容配置及平台分发提供启示。
+
+📚 JAMS · 2026 · 引用 0
+👤 Xuebing Dong, Li Chen
+
+AI 分: 3.0 / 领域分: 5.0</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <category>网红营销</category><category>内容策略</category><category>平台生态</category><category>算法管理</category><category>推荐算法</category><category>算法管理</category>
+    </item>    <item>
+      <title>隐私保护下的推荐系统</title>
+      <link>https://ob-ai-papers.vercel.app/papers/84320</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84320</guid>
+      <description>📝 隐私保护下的推荐系统
+EN: Recommender Systems Under Privacy Protection
+
+💡 分析利润驱动平台在不同隐私保护制度下设计推荐政策。研究发现，选择退出机制与无保护在功能上等价；允许消费者误报数据会扭曲推荐，纯信息型推荐可能失去个性化，兼具产品分配功能时则会产生算法歧视，限制弱势群体的机会。
+
+📚 MgmtSci · 2026 · 引用 0
+👤 Can Küçükgül, Özalp Özer, Shouqiang Wang
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <category>推荐系统</category><category>隐私</category><category>公平性</category><category>算法管理</category><category>推荐算法</category><category>算法决策</category>
+    </item>    <item>
+      <title>众筹市场中的创业学习与负向激励</title>
+      <link>https://ob-ai-papers.vercel.app/papers/84318</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84318</guid>
+      <description>📝 众筹市场中的创业学习与负向激励
+EN: Entrepreneurial Learning and Disincentives in Crowdfunding Markets
+
+💡 考察奖励型众筹的高失败率是否源于创业者对消费者产品评价的信息扭曲。基于Kickstarter数字游戏类别的结构化与非结构化数据，以监督学习分类属性并联合估计众筹需求与产品推出决策。销售反馈显著影响管理资本较低或初次进入平台者的推出决策；模拟显示，规范超额融资项目可使推出失败率下降约13%。
+
+📚 MgmtSci · 2022 · 引用 39
+👤 Yan Xu, Jian Ni
+
+AI 分: 3.0 / 领域分: 5.0</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <category>创业</category><category>营销</category><category>消费者行为</category><category>信息不对称</category><category>监督学习</category><category>机器学习</category>
+    </item>    <item>
+      <title>早期机器学习企业的成长路径：技术配置与竞争优势演进</title>
+      <link>https://ob-ai-papers.vercel.app/papers/84299</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84299</guid>
+      <description>📝 早期机器学习企业的成长路径：技术配置与竞争优势演进
+EN: Growth Paths in Early Machine Learning Ventures: Technical Configuration and Competitive Advantage Over Time
+
+💡 通过对加速器中6家早期机器学习创业公司的纵向多案例研究，追踪其专业化与探索阶段，发现训练数据、学习范式和模型输出相互依赖并随应用演化；早期技术优势会形成路径依赖，既扩大战略选项，也可能限制后续增长。
+
+📚 OrgSci · 2026 · 引用 0
+👤 Jack Fraser, Pinar Ozcan
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <category>创业</category><category>战略</category><category>创新</category><category>竞争优势</category><category>机器学习</category>
+    </item>    <item>
       <title>2026年前沿AI安全与治理：风险理解与协同治理</title>
       <link>https://ob-ai-papers.vercel.app/papers/84280</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84280</guid>
@@ -355,157 +496,6 @@ AI 分: 5.0 / 领域分: 4.0
 📄 PDF: https://arxiv.org/pdf/2611.08392v1</description>
       <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
       <category>决策</category><category>医疗管理</category><category>运营管理</category><category>机器学习</category><category>神经网络</category><category>世界模型</category><category>模拟仿真</category>
-    </item>    <item>
-      <title>武装冲突期间负责任的 GenAI 使用：来自苏丹应急响应室的证据</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83971</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83971</guid>
-      <description>📝 武装冲突期间负责任的 GenAI 使用：来自苏丹应急响应室的证据
-EN: Responsible GenAI Use During Active Armed Conflict: Evidence from Sudan's Emergency Response Rooms
-
-💡 对苏丹紧急响应室的89名受访者和15名用户、非用户开展调查与访谈，发现冲突中GenAI虽能在专家难以安全触及时提供帮助，但本地变化难核验，手机和联网可能危及志愿者，共享敏感信息可能伤害受益者，AI辅助报告还可能损害组织公信力。
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Dalia Ali, Yearin Lee, Cheng Yu, Ro Encarnación, Alsanosi Adam
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2611.07874v1</description>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-      <category>伦理</category><category>信任</category><category>隐私</category><category>人机协作</category><category>GenAI</category><category>AI治理</category><category>人机协作</category>
-    </item>    <item>
-      <title>人员选拔用自然语言处理词字典：被动评分申请叙述信息，实现可解释、可泛化与增量预测</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83925</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83925</guid>
-      <description>📝 人员选拔用自然语言处理词字典：被动评分申请叙述信息，实现可解释、可泛化与增量预测
-EN: Natural language processing word dictionaries for personnel selection: Achieving explainable, generalizable, and incremental prediction with low impact when passively scoring narrative application information.
-
-💡 聚焦人员选拔中对叙述式申请材料的被动评分，利用自然语言处理词字典提取文本信号，以实现可解释、可泛化且具有增量预测价值的筛选，并降低算法评分对个体的不利影响。
-
-📚 JAP · 2026 · 引用 0
-👤 Emily D. Campion, Michael A. Campion
-
-AI 分: 5.0 / 领域分: 5.0</description>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-      <category>招聘</category><category>HR</category><category>公平性</category><category>决策</category><category>NLP</category><category>AI 招聘</category><category>可解释 AI</category><category>算法决策</category>
-    </item>    <item>
-      <title>超越准确率：公共服务中AI保障需确立的内容</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83881</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83881</guid>
-      <description>📝 超越准确率：公共服务中AI保障需确立的内容
-EN: Beyond accuracy: what AI assurance needs to establish in public services
-
-💡 针对公共机构如何判断AI证据是否可信，结合测量理论与管理监管分析8种GPT-4o配置对1,200条英国首相问答的分类，并与人工编码、重复运行及37份英欧政策文件比较。准确率虽相近，24.3%问题的标签会变化，配置间一致也不代表正确；人工复核触发率差异大，现有治理报告对稳定性、共享错误和复核路由覆盖不足。
-
-📚 arXiv:cs.CY · 2026 · 引用 0
-👤 Louise Yorke
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2611.06655v1</description>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-      <category>AI治理</category><category>公共管理</category><category>决策</category><category>信任</category><category>GPT-4o</category><category>LLM</category><category>算法决策</category><category>AI治理</category>
-    </item>    <item>
-      <title>究竟是谁的透明度：理解各利益相关者对生成式AI透明度的需求与差距</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83879</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83879</guid>
-      <description>📝 究竟是谁的透明度：理解各利益相关者对生成式AI透明度的需求与差距
-EN: Whose Transparency is it Anyway? Understanding Generative AI Transparency Needs and Gaps Across Stakeholders
-
-💡 基于社会技术建构论，调查400名终端用户、AI开发者与政策制定者，并以终端用户焦点小组补充分析。三类群体都将透明度与准确性、隐私相联，但开发者更可能主导产品设计；仅28%的终端用户认为现有实践很好满足需求，低于开发者的53%和政策制定者的49%，且透明度优先级随情境变化。
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Genevieve Smith, Sahiba Chopra, Natalia Luka, Min Kyung Lee
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2611.05549v1</description>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-      <category>AI治理</category><category>信任</category><category>隐私</category><category>公平性</category><category>GenAI</category><category>可解释AI</category><category>AI治理</category>
-    </item>    <item>
-      <title>PAYWORTHY：LLM能否预测AI智能体将完成哪些自由职业任务？</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83878</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83878</guid>
-      <description>📝 PAYWORTHY：LLM能否预测AI智能体将完成哪些自由职业任务？
-EN: PAYWORTHY: Can LLMs Predict Which Freelance Jobs an AI Agent Will Complete?
-
-💡 基于1,494个真实自由职业岗位，比较18个模型在AI智能体接单前预测任务完成可能性的能力。明确描述智能体能力边界时，AUC达0.66—0.86；仅描述浏览器和代码执行功能时，表现接近随机，且结论可跨模型家族复现。
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Mohammad Reza Rezaei, Dingxian Wang, Brett Levert, Celeste Fejzo, Andrew Rabinovich
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2611.05759v1</description>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-      <category>零工经济</category><category>决策</category><category>人机协作</category><category>绩效评估</category><category>LLM</category><category>AI智能体</category><category>算法决策</category>
-    </item>    <item>
-      <title>超越原则—实践鸿沟：将负责任AI视为情境化的认识论与伦理实践</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83877</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83877</guid>
-      <description>📝 超越原则—实践鸿沟：将负责任AI视为情境化的认识论与伦理实践
-EN: Beyond the principle-practice gap: Responsible AI as situated epistemic and ethical practice
-
-💡 通过14次半结构化访谈考察反贩运AI的设计与治理，解释伦理原则为何未落实。研究提出情境化机制：问题经感知、判断、行动和社会技术物化进入制品与治理安排；行动者的伦理承诺受职业规范、角色经验及制度逻辑约束，导致部分关切被落实、缩窄、推迟或忽略。
-
-📚 arXiv:cs.CY · 2026 · 引用 0
-👤 Thao Do Ngoc, Emma Carmel
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2611.06709v1</description>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-      <category>AI治理</category><category>伦理</category><category>职业伦理</category><category>制度分析</category><category>AI治理</category><category>负责任AI</category>
-    </item>    <item>
-      <title>可扩展经济代理模型：捕捉人类差异的决策模型</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83876</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83876</guid>
-      <description>📝 可扩展经济代理模型：捕捉人类差异的决策模型
-EN: Decision Models as Scalable Economic Surrogates that Capture Human Variation
-
-💡 在消费支出调查、经典经济博弈和劳动力市场实验中，对比10个决策模型与8个LLM作为人类行为替代者的效果。领先决策模型能更准确捕捉个体差异，速度约快10倍、成本最高低百倍以上，适合大规模经济模拟与调查。
-
-📚 arXiv:econ.GN · 2026 · 引用 0
-👤 Maxime Saxena, Fabio Caccioli, R. Maria del Rio-Chanona
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2611.05553v1</description>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-      <category>决策</category><category>经济行为模拟</category><category>消费者行为</category><category>劳动力市场</category><category>LLM</category><category>决策模型</category><category>人类行为模拟</category>
-    </item>    <item>
-      <title>枯燥、肮脏、危险：工作条件与职业场景中AI暴露的限度</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83875</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83875</guid>
-      <description>📝 枯燥、肮脏、危险：工作条件与职业场景中AI暴露的限度
-EN: Dull, Dirty, Dangerous? Working Conditions and the Limits of Occupational AI Exposure
-
-💡 基于美国754个职业的21项O*NET指标，比较大语言模型与AI职业暴露指标对“枯燥、肮脏、危险”工作的测量。AI暴露总体与较差工作条件相关，但控制体力要求、教育培训、经验与工资后关联明显减弱，LLM估计不再显著；指标分组和职业特征会改变结论，不能据暴露度推断自动化确能改善工作。
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Siyi Yu
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2611.06888v1</description>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-      <category>工作设计</category><category>工作未来</category><category>职业安全</category><category>员工幸福感</category><category>LLM</category><category>机器学习</category><category>AI职业暴露</category>
-    </item>    <item>
-      <title>SlackBench：基于真实代码仓库协作项目的智能体基准评测</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83874</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83874</guid>
-      <description>📝 SlackBench：基于真实代码仓库协作项目的智能体基准评测
-EN: SlackBench: Benchmarking Agents on Collaborative Projects Grounded in Real Code Repositories
-
-💡 SlackBench以真实学术项目为隐私保护基础，构建含多人对话、代码仓库和在线文档的协作任务集，覆盖140个查询，评测智能体跨来源检索、摘要、情境推断及对不可答问题的拒答能力，突破静态语料问答局限。
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Mingxuan Li, Huanzhi Mao, Ruitao Zheng, Jarod Stanbury James, Yunze Li
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2611.05512v1</description>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>知识管理</category><category>组织学习</category><category>工作未来</category><category>AI智能体</category><category>代码智能体</category><category>人机交互</category>
     </item>
   </channel>
 </rss>
