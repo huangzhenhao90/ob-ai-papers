@@ -6,9 +6,41 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 11 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>AI时代的代码行数？工程师词元开销衡量内容的案例研究</title>
+      <link>https://ob-ai-papers.vercel.app/papers/84407</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84407</guid>
+      <description>📝 AI时代的代码行数？工程师词元开销衡量内容的案例研究
+EN: The AI Era's Lines of Code? A Case Study on What an Engineer's Token Spend Measures
+
+💡 基于404名工程师五周的编码智能体用量、提交记录及412人调查，检验令牌消耗能否代表产出。消耗主要用于反映智能体采用范围而非工作价值；用量翻倍仅关联提交数增加约10%，因此宜用于资源核算而非绩效评价。
+
+📚 arXiv:cs.SE · 2026 · 引用 0
+👤 Shyam Agarwal, Olga Lvova, Agnia Sergeyuk, Anastasiia Serova, Timofey Bryksin
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2611.13396v1</description>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>绩效评估</category><category>工作未来</category><category>人机协作</category><category>LLM</category><category>AI编程智能体</category><category>人机协作</category>
+    </item>    <item>
+      <title>EXPRESS：因果对齐：以A/B测试增强语言模型</title>
+      <link>https://ob-ai-papers.vercel.app/papers/84390</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84390</guid>
+      <description>📝 EXPRESS：因果对齐：以A/B测试增强语言模型
+EN: EXPRESS: Causal Alignment: Augmenting Language Models with A/B Tests
+
+💡 利用A/B测试中的因果比较信号微调语言模型，使其把低绩效营销内容改写为更优版本。36场邮件营销活动、2.83亿次曝光显示，优化后的主题行点击率比无辅助专家高32%，且效果优于规模大30倍的通用模型。
+
+📚 JMR · 2026 · 引用 0
+👤 Panagiotis Angelopoulos, Kevin Lee, Sanjog Misra
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>营销</category><category>广告</category><category>决策</category><category>LLM</category><category>GenAI</category><category>算法决策</category>
+    </item>    <item>
       <title>使用 GenAI 设计 UI：提示词驱动设计生成器的用途、优势与局限</title>
       <link>https://ob-ai-papers.vercel.app/papers/84360</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84360</guid>
@@ -84,7 +116,7 @@ EN: In pricing we trust? Consumer responses to AI and human price setters in dyn
 💡 基于标题推测，研究通过AI与人工定价者的对照设计，考察动态定价中“由谁定价”如何影响消费者信任、价格接受与购买意愿；核心关注消费者是否更信任AI定价者，标题未提供明确结果方向。
 
 📚 JAMS · 2026 · 引用 0
-👤 Begum Kaplan, Elizabeth A. Minton, Cait Lamberton
+👤 Begum Kaplan, Elizabeth A. Minton, Cait Poynor Lamberton
 
 AI 分: 5.0 / 领域分: 5.0</description>
       <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
@@ -144,7 +176,7 @@ EN: Growth Paths in Early Machine Learning Ventures: Technical Configuration and
 💡 通过对加速器中6家早期机器学习创业公司的纵向多案例研究，追踪其专业化与探索阶段，发现训练数据、学习范式和模型输出相互依赖并随应用演化；早期技术优势会形成路径依赖，既扩大战略选项，也可能限制后续增长。
 
 📚 OrgSci · 2026 · 引用 0
-👤 Jack Fraser, Pinar Ozcan
+👤 Jack Lewis Fraser, Pınar Özcan
 
 AI 分: 5.0 / 领域分: 5.0</description>
       <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
@@ -462,40 +494,6 @@ AI 分: 5.0 / 领域分: 3.0
 📄 PDF: https://arxiv.org/pdf/2611.07132v1</description>
       <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
       <category>公平性</category><category>偏见</category><category>伦理</category><category>GenAI</category><category>图像生成</category><category>AI 治理</category><category>偏差审计</category>
-    </item>    <item>
-      <title>Agent-R^2：通过真实来源数据合成扩展智能体以提升真实工作生产力</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83974</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83974</guid>
-      <description>📝 Agent-R^2：通过真实来源数据合成扩展智能体以提升真实工作生产力
-EN: Agent-R$^2$: Scaling Agents for Realistic Productivity Work via Real-Source Data Synthesis
-
-💡 针对智能体难以完成长流程生产力任务及真实训练数据稀缺的问题，构建基于职业任务、语料工作流和真实网页文件的数据合成框架，生成4000个含多格式附件与细粒度评分的任务。经监督微调和评分强化学习训练后，4B模型在GDPval与OfficeQA上超过235B模型。
-
-📚 arXiv:cs.CL · 2026 · 引用 0
-👤 Teng Pan, Zixuan Wang, Yuchen Yan, Qifei Wu, Yao Chen
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2611.08219v1</description>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-      <category>工作未来</category><category>知识管理</category><category>创新</category><category>LLM</category><category>AI智能体</category><category>监督微调</category><category>强化学习</category>
-    </item>    <item>
-      <title>学习用于重症监护医疗系统仿真的患者世界模型</title>
-      <link>https://ob-ai-papers.vercel.app/papers/83973</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/83973</guid>
-      <description>📝 学习用于重症监护医疗系统仿真的患者世界模型
-EN: Learning a patient world model for health system simulation in intensive care
-
-💡 基于纵向电子病历训练可按时间查询的神经网络患者世界模型，并与ICU日历、资源和队列耦合，用于床位、调度及转出容量模拟。模型达到马尔可夫基线的总体表现，复现历史策略收益，并能识别不同既往轨迹造成的24小时恢复差异。
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Yingtai Li, Ruoyan Wang, Yu Li, Shaohua Kevin Zhou
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2611.08392v1</description>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-      <category>决策</category><category>医疗管理</category><category>运营管理</category><category>机器学习</category><category>神经网络</category><category>世界模型</category><category>模拟仿真</category>
     </item>
   </channel>
 </rss>
