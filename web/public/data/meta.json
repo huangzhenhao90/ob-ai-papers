@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-13T09:07:38.398960Z",
+  "generated_at": "2026-11-14T08:36:54.317689Z",
   "totals": {
-    "papers_indexed": 65037,
-    "papers_scored": 30145,
-    "papers_ai_relevant": 2839
+    "papers_indexed": 65165,
+    "papers_scored": 30333,
+    "papers_ai_relevant": 2847
   },
   "journals": [
     {
@@ -19,8 +19,8 @@
       ],
       "lang": "en",
       "publisher_toc": "https://www.sciencedirect.com/journal/computers-in-human-behavior",
-      "papers_indexed": 6486,
-      "papers_ai_relevant": 477
+      "papers_indexed": 6498,
+      "papers_ai_relevant": 482
     },
     {
       "abbr": "AMJ",
@@ -34,7 +34,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.aom.org/loi/amj",
-      "papers_indexed": 3056,
+      "papers_indexed": 3058,
       "papers_ai_relevant": 13
     },
     {
@@ -49,7 +49,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.aom.org/loi/amr",
-      "papers_indexed": 2137,
+      "papers_indexed": 2138,
       "papers_ai_relevant": 33
     },
     {
@@ -79,7 +79,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://psycnet.apa.org/PsycARTICLES/journal/apl",
-      "papers_indexed": 4363,
+      "papers_indexed": 4397,
       "papers_ai_relevant": 33
     },
     {
@@ -94,7 +94,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/orsc",
-      "papers_indexed": 2254,
+      "papers_indexed": 2259,
       "papers_ai_relevant": 24
     },
     {
@@ -109,7 +109,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/17446570",
-      "papers_indexed": 1186,
+      "papers_indexed": 1201,
       "papers_ai_relevant": 17
     },
     {
@@ -123,7 +123,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://www.sciencedirect.com/journal/organizational-behavior-and-human-decision-processes",
-      "papers_indexed": 1632,
+      "papers_indexed": 1639,
       "papers_ai_relevant": 7
     },
     {
@@ -137,7 +137,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/10991379",
-      "papers_indexed": 2086,
+      "papers_indexed": 2088,
       "papers_ai_relevant": 18
     },
     {
@@ -152,7 +152,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/jom",
-      "papers_indexed": 2247,
+      "papers_indexed": 2248,
       "papers_ai_relevant": 7
     },
     {
@@ -166,7 +166,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/10970266",
-      "papers_indexed": 3256,
+      "papers_indexed": 3258,
       "papers_ai_relevant": 36
     },
     {
@@ -180,7 +180,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/mnsc",
-      "papers_indexed": 7847,
+      "papers_indexed": 7863,
       "papers_ai_relevant": 239
     },
     {
@@ -195,7 +195,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://misq.umn.edu/",
-      "papers_indexed": 1591,
+      "papers_indexed": 1592,
       "papers_ai_relevant": 91
     },
     {
@@ -210,8 +210,8 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/isre",
-      "papers_indexed": 1495,
-      "papers_ai_relevant": 162
+      "papers_indexed": 1498,
+      "papers_ai_relevant": 163
     },
     {
       "abbr": "AOM-Annals",
@@ -240,7 +240,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.aom.org/loi/amd",
-      "papers_indexed": 302,
+      "papers_indexed": 303,
       "papers_ai_relevant": 17
     },
     {
@@ -255,7 +255,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://academic.oup.com/jcr",
-      "papers_indexed": 2515,
+      "papers_indexed": 2516,
       "papers_ai_relevant": 20
     },
     {
@@ -269,8 +269,8 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/jmx",
-      "papers_indexed": 2309,
-      "papers_ai_relevant": 35
+      "papers_indexed": 2310,
+      "papers_ai_relevant": 36
     },
     {
       "abbr": "JMR",
@@ -283,8 +283,8 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/mrj",
-      "papers_indexed": 2459,
-      "papers_ai_relevant": 38
+      "papers_indexed": 2463,
+      "papers_ai_relevant": 39
     },
     {
       "abbr": "MktSci",
@@ -297,7 +297,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://pubsonline.informs.org/loi/mksc",
-      "papers_indexed": 1562,
+      "papers_indexed": 1564,
       "papers_ai_relevant": 73
     },
     {
@@ -313,7 +313,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/15327663",
-      "papers_indexed": 1156,
+      "papers_indexed": 1159,
       "papers_ai_relevant": 25
     },
     {
@@ -327,7 +327,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://link.springer.com/journal/11747",
-      "papers_indexed": 1621,
+      "papers_indexed": 1623,
       "papers_ai_relevant": 49
     },
     {
@@ -342,7 +342,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://www.sciencedirect.com/journal/the-leadership-quarterly",
-      "papers_indexed": 1333,
+      "papers_indexed": 1335,
       "papers_ai_relevant": 12
     },
     {
@@ -356,7 +356,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://journals.sagepub.com/loi/hum",
-      "papers_indexed": 2390,
+      "papers_indexed": 2392,
       "papers_ai_relevant": 12
     },
     {
@@ -371,7 +371,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/14676486",
-      "papers_indexed": 2343,
+      "papers_indexed": 2346,
       "papers_ai_relevant": 37
     },
     {
@@ -400,7 +400,7 @@
       ],
       "lang": "en",
       "publisher_toc": "https://onlinelibrary.wiley.com/journal/1099050X",
-      "papers_indexed": 1319,
+      "papers_indexed": 1325,
       "papers_ai_relevant": 34
     },
     {
@@ -523,23 +523,23 @@
       "2016": 11,
       "2017": 6,
       "2018": 13,
-      "2019": 33,
+      "2019": 40,
       "2020": 73,
       "2021": 134,
       "2022": 155,
       "2023": 351,
       "2024": 409,
       "2025": 683,
-      "2026": 936,
+      "2026": 937,
       "2027": 4
     },
     "journals": {
-      "CHB": 477,
+      "CHB": 482,
       "arXiv:cs.HC": 283,
       "arXiv:cs.AI": 271,
       "arXiv:cs.CY": 256,
       "MgmtSci": 239,
-      "ISR": 162,
+      "ISR": 163,
       "arXiv:cs.CL": 150,
       "arXiv:cs.LG": 102,
       "MISQ": 91,
@@ -547,10 +547,10 @@
       "arXiv:econ.GN": 72,
       "arXiv:cs.IR": 68,
       "JAMS": 49,
-      "JMR": 38,
+      "JMR": 39,
       "JMS": 37,
+      "JM": 36,
       "SMJ": 36,
-      "JM": 35,
       "HRM": 34,
       "AMR": 33,
       "JAP": 33,
@@ -595,36 +595,36 @@
       "arXiv:math.OC": 1
     },
     "topic_tags": {
-      "人机协作": 880,
-      "消费者行为": 576,
+      "人机协作": 882,
+      "消费者行为": 580,
       "决策": 527,
-      "信任": 440,
+      "信任": 443,
       "伦理": 419,
-      "算法管理": 396,
-      "营销": 334,
-      "公平性": 309,
+      "算法管理": 398,
+      "营销": 337,
+      "公平性": 310,
       "组织变革": 296,
       "推荐系统": 277,
       "创新": 259,
-      "人机交互": 258,
+      "人机交互": 259,
       "教育": 231,
       "偏见": 211,
-      "招聘": 207,
+      "招聘": 208,
       "AI治理": 195,
-      "知识管理": 175,
-      "工作未来": 174,
+      "知识管理": 176,
+      "工作未来": 175,
       "算法决策": 174,
       "工作设计": 166,
       "组织学习": 164,
-      "HR": 147,
+      "HR": 148,
       "绩效评估": 123,
       "战略": 122,
       "培训": 116,
       "隐私": 102,
       "机器学习": 89,
       "创意": 84,
+      "广告": 81,
       "员工幸福感": 81,
-      "广告": 80,
       "团队": 78,
       "零工经济": 60,
       "领导力": 53,
@@ -632,51 +632,51 @@
       "品牌": 41,
       "可解释AI": 32,
       "劳动力市场": 31,
+      "社交媒体": 25,
       "组织行为": 25,
-      "社交媒体": 24,
       "研究方法": 23,
       "平台经济": 21,
       "AI招聘": 19,
       "个性化": 18,
       "金融": 18,
       "算法治理": 16,
+      "文本分析": 15,
       "因果推断": 14,
       "机器人": 14,
       "风险管理": 13,
-      "文本分析": 13,
-      "心理健康": 12
+      "心理健康": 13
     },
     "ai_type_tags": {
-      "机器学习": 953,
+      "机器学习": 956,
       "LLM": 846,
-      "算法决策": 656,
-      "人机交互": 581,
-      "GenAI": 574,
+      "算法决策": 659,
+      "人机交互": 585,
+      "GenAI": 575,
       "人机协作": 413,
       "AI治理": 374,
       "推荐算法": 293,
-      "算法管理": 254,
+      "算法管理": 255,
       "ChatGPT": 153,
       "多模态": 153,
       "可解释AI": 144,
       "机器人": 137,
-      "可解释 AI": 98,
-      "深度学习": 71,
-      "自然语言处理": 69,
+      "可解释 AI": 100,
+      "深度学习": 72,
+      "自然语言处理": 71,
       "图像生成": 64,
       "AI招聘": 61,
       "AI客服": 43,
       "AI": 39,
       "生成式AI": 39,
-      "AI 治理": 37,
+      "AI 治理": 38,
       "强化学习": 35,
-      "聊天机器人": 25,
+      "聊天机器人": 26,
       "AI 客服": 19,
       "多智能体": 19,
       "AI决策": 18,
+      "人工智能": 17,
       "计算机视觉": 16,
-      "人工智能": 16,
-      "AI 招聘": 14
+      "AI 招聘": 15
     }
   }
 }

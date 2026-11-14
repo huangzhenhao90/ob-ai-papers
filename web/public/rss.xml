@@ -6,9 +6,24 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 13 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>职场 GenAI 使用鸿沟：遗传学视角下的认知与元认知解释</title>
+      <link>https://ob-ai-papers.vercel.app/papers/84583</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84583</guid>
+      <description>📝 职场 GenAI 使用鸿沟：遗传学视角下的认知与元认知解释
+EN: The Workplace GenAI Usage Divide: A Genetics-Informed Cognitive and Metacognitive Account
+
+💡 问题：为何同等权限下员工使用生成式AI的频率仍持续不同？方法：以受教育程度多基因评分构建认知—元认知双路径模型并检验。发现：PGS通过正式教育、AI可信度认知，以及策略性心态和专业知识位置判断，解释使用差异。
+
+📚 ISR · 2026 · 引用 0
+👤 Shuhua Sun, Shiyang Gong, Yinliang (Ricky) Tan
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>工作未来</category><category>信任</category><category>知识管理</category><category>GenAI</category><category>人机交互</category>
+    </item>    <item>
       <title>“我们就是脏手”：携手专业照护者重塑环境智能照护系统</title>
       <link>https://ob-ai-papers.vercel.app/papers/84480</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84480</guid>
@@ -483,23 +498,6 @@ AI 分: 5.0 / 领域分: 5.0
 📄 PDF: https://arxiv.org/pdf/2611.09870v1</description>
       <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
       <category>招聘</category><category>工作设计</category><category>工作未来</category><category>GenAI</category><category>LLM</category><category>人机协作</category>
-    </item>    <item>
-      <title>独特性感知特征工程：算法决策中的人类表征</title>
-      <link>https://ob-ai-papers.vercel.app/papers/84211</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84211</guid>
-      <description>📝 独特性感知特征工程：算法决策中的人类表征
-EN: Uniqueness-Aware Feature Engineering for Representing Humans in Algorithmic Decision Making
-
-💡 针对公平审计忽视个体特征代表性差异的问题，将特征工程建模为从群体特征池中随机选择的过程，以多元超几何模型识别代表不足，并用集合相似度平衡表征适配与预测准确率，形成六步管线、适配报告和个人透明度机制。
-
-📚 arXiv:cs.CY · 2026 · 引用 0
-👤 Theresa Elstner, Martin Potthast
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2611.09403v1</description>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-      <category>公平性</category><category>伦理</category><category>决策</category><category>信任</category><category>算法决策</category><category>机器学习</category><category>可解释 AI</category>
     </item>
   </channel>
 </rss>
