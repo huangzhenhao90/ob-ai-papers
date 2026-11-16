@@ -6,9 +6,138 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 14 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>AI与就业的两端：为何岗位削减先于岗位创造</title>
+      <link>https://ob-ai-papers.vercel.app/papers/84781</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84781</guid>
+      <description>📝 AI与就业的两端：为何岗位削减先于岗位创造
+EN: AI and the Two Margins of Work: Why Job Losses Show Up Before Job Creation
+
+💡 构建“岗位替代—岗位创造”双边际模型，解释自动化为何常先减少既有岗位、后催生新岗位，以及薪资统计因记录时滞而高估替代。数据显示，自动化高暴露行业在位企业先收缩、新进入企业后累积；语言模型暴露与近期企业岗位流动无明显梯度，创始任务暴露则使企业进入上升10%—20%。
+
+📚 arXiv:econ.GN · 2026 · 引用 0
+👤 Mark Esposito, Liu Zhang
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2611.17530v1</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <category>劳动力市场</category><category>工作未来</category><category>创业</category><category>技术变迁</category><category>机器学习</category><category>LLM</category><category>自动化</category>
+    </item>    <item>
+      <title>Algorithmic Opacity as a Principal-Agent Problem</title>
+      <link>https://ob-ai-papers.vercel.app/papers/84780</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84780</guid>
+      <description>📝 Algorithmic Opacity as a Principal-Agent Problem
+
+💡 将算法不透明性建模为委托—代理问题：即使存在博弈和商业秘密风险，只要错误率或群体结果分布显示偏误、低效或机会主义，也应触发进一步披露的推定。公平指标由此成为算法问责与可解释治理的入口，并可延伸至生成式和智能体系统。
+
+📚 arXiv:cs.CY · 2026 · 引用 0
+👤 Ignacio Cofone, Katherine J. Strandburg
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2611.17980v1</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <category>算法管理</category><category>公平性</category><category>伦理</category><category>信任</category><category>算法决策</category><category>AI治理</category><category>可解释AI</category>
+    </item>    <item>
+      <title>Evaluating Human Sensitivity to Gender Biased AI-Generated Content through Human Assessment of Google's Autocomplete Function</title>
+      <link>https://ob-ai-papers.vercel.app/papers/84779</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84779</guid>
+      <description>📝 Evaluating Human Sensitivity to Gender Biased AI-Generated Content through Human Assessment of Google's Autocomplete Function
+
+💡 让西班牙语参与者评价谷歌自动补全中的性别偏见内容，并操纵其是否知道内容由AI生成。结果显示，AI来源提示既未改变反应时，也未改变认同判断，表明AI生成内容未必自动引发可信度疑虑，用户可能审查不足。
+
+📚 arXiv:cs.CL · 2026 · 引用 0
+👤 Tamara Serrano, Nikoleta Pantelidou, Raquel Montero, Natalia Moskvina, Paolo Morosi
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2611.18371v1</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <category>偏见</category><category>信任</category><category>消费者行为</category><category>LLM</category><category>GenAI</category><category>推荐算法</category>
+    </item>    <item>
+      <title>From AI-Enabled Remote Patient Monitoring Toward Agentic Robotics: Embodiment, Governance, and Care Integration</title>
+      <link>https://ob-ai-papers.vercel.app/papers/84778</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84778</guid>
+      <description>📝 From AI-Enabled Remote Patient Monitoring Toward Agentic Robotics: Embodiment, Governance, and Care Integration
+
+💡 结构化范围综述发现，远程患者监测正由被动采集走向能解释状态、协调照护和采取行动的智能体系统，但成熟方案尚未出现，多数仍由人主导，具身决策多停留在原型。安全推进需依托可互操作、可审计、可中断且保留人工监督的临床工作流与明确治理。
+
+📚 arXiv:cs.RO · 2026 · 引用 0
+👤 Ivana Ragusa, Lorenzo Guiducci, Filippo Cavallo
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2611.18484v1</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <category>医疗健康</category><category>人机协作</category><category>AI治理</category><category>工作未来</category><category>智能体AI</category><category>机器人</category><category>AI治理</category><category>人机交互</category>
+    </item>    <item>
+      <title>AI-Voyager：用于人机公民推理以质疑并塑造AI治理规则的公益系统</title>
+      <link>https://ob-ai-papers.vercel.app/papers/84777</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84777</guid>
+      <description>📝 AI-Voyager：用于人机公民推理以质疑并塑造AI治理规则的公益系统
+EN: AI-Voyager: A Public-Interest System for Human-AI Civic Reasoning to Contest and Shape the Rules That Govern AI
+
+💡 推出面向公众的人机协作治理系统AI-Voyager，将3,653份政府AI文件切分为保留来源与版本的段落，并通过有界智能体检索核验回答。系统在360个新问题上的宏召回率达83.0%；24名参与者借助可核验引用和条款起草参与规则修订，显示来源绑定能支持公众理解和监督AI规则。
+
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 Snehalkumar `Neil' S. Gaikwad, Dhruv Dixit, Bryen Alvarez, Pratik Patekar, Anika Sharma
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2611.17564v1</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <category>AI治理</category><category>人机协作</category><category>公共政策</category><category>可解释AI</category><category>LLM</category><category>智能体</category><category>检索增强生成</category><category>人机交互</category>
+    </item>    <item>
+      <title>义务与证据之间：将EU AI Act转化为技术要求的参与式研究</title>
+      <link>https://ob-ai-papers.vercel.app/papers/84773</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84773</guid>
+      <description>📝 义务与证据之间：将EU AI Act转化为技术要求的参与式研究
+EN: Between Obligations and Evidence: A Participatory Study of Translating the EU AI Act into Technical Requirements
+
+💡 通过32名研究者、政策制定者和实践者参与的工作坊，结合医疗、招聘和公共交通情境，剖析《欧盟人工智能法》义务如何转化为可测技术要求。研究发现，公平指标、有效人工监督与合规证据会随运行情境和使用变化而失效，持续合规须联动技术、组织与持续监测。
+
+📚 arXiv:cs.CY · 2026 · 引用 0
+👤 Helma Torkamaan, Masoud Mansoury, Yanan Xin, Oscar Oviedo Trespalacios, Roberta Savella
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2611.18439v1</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <category>AI治理</category><category>公平性</category><category>合规</category><category>人机协作</category><category>AI治理</category><category>算法决策</category><category>人机协作</category>
+    </item>    <item>
+      <title>基于推断客户相似性的产品购买预测：自逻辑模型方法</title>
+      <link>https://ob-ai-papers.vercel.app/papers/84757</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84757</guid>
+      <description>📝 基于推断客户相似性的产品购买预测：自逻辑模型方法
+EN: Predicting Product Purchase from Inferred Customer Similarity: An Autologistic Model Approach
+
+💡 针对客户购买预测，构建融合联合空间映射与空间选择模型的推荐方法，依据历史购买行为推断顾客偏好相似性；在保险公司数据上的预测表现优于基准模型。
+
+📚 MgmtSci · 2008 · 引用 75
+👤 Sangkil Moon, Gary J. Russell
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <category>推荐系统</category><category>营销</category><category>消费者行为</category><category>推荐算法</category><category>机器学习</category>
+    </item>    <item>
+      <title>苏格拉底式AI：道德提升的苦口良药</title>
+      <link>https://ob-ai-papers.vercel.app/papers/84748</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84748</guid>
+      <description>📝 苏格拉底式AI：道德提升的苦口良药
+EN: Socratic AI: A bitter but effective pill for moral enhancement
+
+💡 据标题推断，尝试以苏格拉底式提问和对话引导AI使用者反思道德判断、识别认知盲点并提升道德素养；这种促进成长的过程可能令人不适，但更具纠偏效果。
+
+📚 CHB · 2026 · 引用 0
+👤 Sebastian Krügel, Matthias Uhl
+
+AI 分: 5.0 / 领域分: 3.0</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <category>伦理</category><category>道德教育</category><category>人机交互</category><category>伦理AI</category><category>人机交互</category>
+    </item>    <item>
       <title>职场 GenAI 使用鸿沟：遗传学视角下的认知与元认知解释</title>
       <link>https://ob-ai-papers.vercel.app/papers/84583</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84583</guid>
@@ -368,136 +497,6 @@ AI 分: 5.0 / 领域分: 3.0
 📄 PDF: https://arxiv.org/pdf/2611.12434v1</description>
       <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
       <category>AI治理</category><category>风险治理</category><category>国际治理</category><category>伦理</category><category>前沿AI</category><category>AI治理</category><category>风险评估</category>
-    </item>    <item>
-      <title>面向大语言模型推荐器的保形公平解码</title>
-      <link>https://ob-ai-papers.vercel.app/papers/84272</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84272</guid>
-      <description>📝 面向大语言模型推荐器的保形公平解码
-EN: Conformal Fair Decoding for Large Language Model Recommenders
-
-💡 针对LLM推荐在无法访问模型权重和完整词表概率时难以控制公平性的问题，Fair-Rec以离线校准的语义差异阈值进行候选解码，并设计自适应软惩罚机制；实验显示，该方法可降低反事实差异，同时保持有竞争力的HR@10与NDCG@10。
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Ziwei Wu, Jingrui He
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2611.10285v1</description>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <category>推荐系统</category><category>公平性</category><category>算法决策</category><category>LLM</category><category>推荐算法</category><category>生成式推荐</category>
-    </item>    <item>
-      <title>感觉更轻松，工作却更费力：AI辅助代码理解中的认知负荷</title>
-      <link>https://ob-ai-papers.vercel.app/papers/84268</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84268</guid>
-      <description>📝 感觉更轻松，工作却更费力：AI辅助代码理解中的认知负荷
-EN: Feeling Easier, Working Harder: Cognitive Load in AI-Assisted Code Comprehension
-
-💡 研究生成式AI辅助代码阅读是否减轻认知负荷。20名计算机新手参与3×2被试内实验，结合tDRT、NASA-TLX和理解测验发现：AI使客观负荷反应时上升11.2%，主观负荷不变；所测难度下未提升理解成绩，复杂代码时仍会核验AI输出。
-
-📚 arXiv:cs.SE · 2026 · 引用 0
-👤 Maryangela White, Maximilian Rose, Matthew Buckman, Amy McDonnell, Francisco Ortega
-
-AI 分: 4.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2611.12019v1</description>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>认知负荷</category><category>代码理解</category><category>信任</category><category>GenAI</category><category>AI编程</category><category>人机协作</category>
-    </item>    <item>
-      <title>编程预见性：人类构建预测型机器人所面临的问题</title>
-      <link>https://ob-ai-papers.vercel.app/papers/84267</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84267</guid>
-      <description>📝 编程预见性：人类构建预测型机器人所面临的问题
-EN: Programming Prescience: Issues in Human Construction of Forecasting Bots
-
-💡 对15名AI预测竞赛获胜者进行访谈，梳理人类构建预测机器人的三类工作：获取事实研究资料、设计连贯推理及判断实际表现。发现构建者常引入无收益复杂度，并以机会式、零散方式测试，凸显流程、工具和人机协作创新的改进方向。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Priya Dhawka, Benjamin Wilson, Andrew Head
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2611.12834v1</description>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <category>AI预测</category><category>人机协作</category><category>模型评估</category><category>创新</category><category>AI预测</category><category>推理模型</category><category>人机协作</category><category>AI评估</category>
-    </item>    <item>
-      <title>AutoBuddy：模拟职场中主动型常驻智能体的任务发现与执行评估</title>
-      <link>https://ob-ai-papers.vercel.app/papers/84264</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84264</guid>
-      <description>📝 AutoBuddy：模拟职场中主动型常驻智能体的任务发现与执行评估
-EN: AutoBuddy: Evaluating Proactive, Always-On Agents on Task Discovery and Execution in a Simulated Workplace
-
-💡 面向知识工作中的主动型LLM助理，构建AutoBuddy-Bench：以时间图模拟员工、项目、业务系统和事件，将待办义务嵌入邮件、聊天与文档，并按工作区状态变化评估执行效果；配套可替换骨干模型的AutoBuddy代理，将评价范围由给定任务扩展至任务发现与执行。
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Shiqi Chen, Daniel Madrigal Diaz, Wei-Ning Chen, Gbola Afonja, Fangkai Yang
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2611.12393v1</description>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>知识管理</category><category>工作未来</category><category>LLM</category><category>自主AI代理</category><category>人机交互</category>
-    </item>    <item>
-      <title>基于辅助信息的学习偏好</title>
-      <link>https://ob-ai-papers.vercel.app/papers/84240</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84240</guid>
-      <description>📝 基于辅助信息的学习偏好
-EN: Learning Preferences with Side Information
-
-💡 针对电商交易数据不足下的个性化偏好学习，将问题形式化为带侧信息的大规模矩阵与张量切片恢复，定义广义低秩结构并给出高效算法及近最优恢复保证；音乐流媒体实验显示其可扩展性并优于现有方法。
-
-📚 MgmtSci · 2019 · 引用 58
-👤 Vivek F. Farias, Andrew A. Li
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <category>推荐系统</category><category>个性化</category><category>电商</category><category>机器学习</category><category>推荐算法</category><category>机器学习</category><category>张量分解</category>
-    </item>    <item>
-      <title>面向老年人的人本生成式AI设计：跨交互情境下的个性化与可信度理解</title>
-      <link>https://ob-ai-papers.vercel.app/papers/84223</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84223</guid>
-      <description>📝 面向老年人的人本生成式AI设计：跨交互情境下的个性化与可信度理解
-EN: Designing Human-Centered Generative AI for Older Adults: Understanding Personalization and Credibility Across Interaction Contexts
-
-💡 聚焦老年人使用生成式AI时的个性化与可信度，比较不同交互情境下的体验差异，提示设计应兼顾个体需求、内容可信度与沟通适配，以维护老年用户信任和接受度。
-
-📚 CHB · 2026 · 引用 0
-👤 Mingxi Sun, Jingxi Chen
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <category>人机交互</category><category>信任</category><category>个性化</category><category>数字包容</category><category>GenAI</category><category>人机交互</category>
-    </item>    <item>
-      <title>有福还是无福：智能养老服务机器人角色影响中国家庭照护者福祉的双路径机制</title>
-      <link>https://ob-ai-papers.vercel.app/papers/84222</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84222</guid>
-      <description>📝 有福还是无福：智能养老服务机器人角色影响中国家庭照护者福祉的双路径机制
-EN: Blessed or not? The dual-path influence mechanism of intelligent elderly care service robots' roles on Chinese family caregivers' well-being
-
-💡 以中国家庭照护者为对象，考察智能养老服务机器人承担不同角色时对幸福感的影响，并检验其促进与抑制幸福感的双路径机制；标题未披露具体效应方向。
-
-📚 CHB · 2026 · 引用 1
-👤 Caihua Yu, Siwen Xu, Tonghui Lian
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <category>老年照护</category><category>家庭照护者</category><category>幸福感</category><category>人机协作</category><category>服务机器人</category><category>人机交互</category><category>人机协作</category>
-    </item>    <item>
-      <title>职位发布中的AI暴露与职责变迁</title>
-      <link>https://ob-ai-papers.vercel.app/papers/84212</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84212</guid>
-      <description>📝 职位发布中的AI暴露与职责变迁
-EN: AI Exposure and the Changing Responsibilities in Job Postings
-
-💡 以Copilot和Claude使用数据衡量岗位活动的AI暴露度，提取并按O*NET分类映射5万份、33家企业2023—2025年招聘信息。AI提及增长66%，多集中于非实际工作内容；高暴露活动在职责中的占比仅小幅下降，同时更常伴随AI相关职责，表明企业转向招募能借助AI完成工作的人。
-
-📚 arXiv:cs.CY · 2026 · 引用 0
-👤 Dora Zhao, Lin Ai, Pranav Khadpe, Siddharth Suri, Scott Counts
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2611.09870v1</description>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-      <category>招聘</category><category>工作设计</category><category>工作未来</category><category>GenAI</category><category>LLM</category><category>人机协作</category>
     </item>
   </channel>
 </rss>
