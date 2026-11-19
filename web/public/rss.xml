@@ -6,9 +6,43 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 18 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>预测过程级行为：一项基准研究</title>
+      <link>https://ob-ai-papers.vercel.app/papers/85040</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/85040</guid>
+      <description>📝 预测过程级行为：一项基准研究
+EN: Predicting Process-Level Behavior: A Benchmarking Study
+
+💡 针对现有预测性流程监控能否支持流程级管理决策，比较并发轨迹与平均周期时长预测；综合统计、机器学习、基础模型、流程模拟及轨迹级方法，发现直接聚合轨迹级预测会累积误差，流程级预测需独立建模。
+
+📚 arXiv:cs.LG · 2026 · 引用 0
+👤 Michael Grohs, Lukas Kirchdorfer, Jana-Rebecca Rehse
+
+AI 分: 4.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2611.24425v1</description>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <category>业务流程管理</category><category>预测分析</category><category>管理决策</category><category>机器学习</category><category>基础模型</category><category>流程挖掘</category>
+    </item>    <item>
+      <title>高风险AI应用中利益相关方控制与问责的协商：ALIGN方法开发与评估</title>
+      <link>https://ob-ai-papers.vercel.app/papers/85036</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/85036</guid>
+      <description>📝 高风险AI应用中利益相关方控制与问责的协商：ALIGN方法开发与评估
+EN: Negotiating Control and Accountability among Stakeholders in High-Risk AI Use Cases: Development and Evaluation of the Method ALIGN
+
+💡 聚焦高风险AI中人类控制受限与责任错配，结合人因研究、专家访谈和参与观察开发ALIGN方法。该方法可识别并评估利益相关者的控制—责任对齐，辅助风险缓解及全生命周期治理设计。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Lena Schneider, Daniel Boos, Gudela Grote
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2611.24609v1</description>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <category>AI治理</category><category>风险与责任</category><category>利益相关者参与</category><category>人机协作</category><category>AI治理</category><category>人机交互</category>
+    </item>    <item>
       <title>ATLAS-Finance：真实银行环境中的 AI 智能体基准评测</title>
       <link>https://ob-ai-papers.vercel.app/papers/84963</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84963</guid>
@@ -472,40 +506,6 @@ AI 分: 3.0 / 领域分: 4.0
 📄 PDF: https://arxiv.org/pdf/2611.16198v1</description>
       <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
       <category>伦理</category><category>工作设计</category><category>老年照护</category><category>技术采纳</category><category>环境智能</category><category>传感器</category><category>人机交互</category><category>AI伦理</category>
-    </item>    <item>
-      <title>超越好奇心：习惯与组织学习能力作为影子AI的预测因子</title>
-      <link>https://ob-ai-papers.vercel.app/papers/84479</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84479</guid>
-      <description>📝 超越好奇心：习惯与组织学习能力作为影子AI的预测因子
-EN: Beyond Curiosity: Habit and Organizational Learning Capability as Predictors of Shadow AI
-
-💡 基于510名跨国雇员的生成式AI使用调查，比较好奇心、习惯、技术接受和组织学习能力对未授权且隐瞒使用的预测。习惯解释28.3%的变异并完全压倒好奇心，支持性学习环境另贡献24.1%，表明影子AI主要由惯性与组织条件驱动。
-
-📚 arXiv:cs.CY · 2026 · 引用 0
-👤 Nolan Lovett, Mohan Yang
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2611.16931v1</description>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-      <category>组织学习</category><category>技术采纳</category><category>员工行为</category><category>AI治理</category><category>GenAI</category><category>AI治理</category>
-    </item>    <item>
-      <title>推荐何时激发好奇心：理论、测量与实地证据</title>
-      <link>https://ob-ai-papers.vercel.app/papers/84477</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84477</guid>
-      <description>📝 推荐何时激发好奇心：理论、测量与实地证据
-EN: When Does a Recommendation Spark Curiosity? Theory, Measurement, and Field Evidence
-
-💡 将信息差距理论形式化为五项好奇心公理，构建量化推荐内容所激发好奇心的指标；该指标经问卷验证且优于既有代理指标。嵌入推荐系统效用函数后，在三个真实数据集及亚洲大型视频平台在线实验中均显著超过现有方法，并提升点击率、播放量和使用时长。
-
-📚 arXiv:econ.GN · 2026 · 引用 0
-👤 Pan Li, Alexander Tuzhilin
-
-AI 分: 3.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2611.14938v1</description>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-      <category>推荐系统</category><category>消费者行为</category><category>营销</category><category>信息心理</category><category>推荐算法</category><category>机器学习</category>
     </item>
   </channel>
 </rss>
