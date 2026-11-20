@@ -6,9 +6,111 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 19 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>谁的安全：AI安全时代下反黑人性的应对</title>
+      <link>https://ob-ai-papers.vercel.app/papers/85142</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/85142</guid>
+      <description>📝 谁的安全：AI安全时代下反黑人性的应对
+EN: Whose Safety? Addressing Anti-Blackness in the Age of AI Safety
+
+💡 基于反黑人化理论，对2020—2025年10个机器学习、自然语言处理与AI伦理会议的69,290篇论文开展语言模型辅助分析。安全论文占比由0.5%升至6.4%并超过伦理，但94%依赖自动指标，仅11%讨论直接社会危害；2,182篇安全论文中仅8篇提及种族且无一以黑人问题为核心，显示AI安全议程边缘化现实与种族伤害。
+
+📚 arXiv:cs.CY · 2026 · 引用 0
+👤 Mírian Silva, Serena Oduro
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2611.25302v1</description>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <category>伦理</category><category>公平性</category><category>偏见</category><category>种族正义</category><category>LLM</category><category>自然语言处理</category><category>AI 治理</category>
+    </item>    <item>
+      <title>AI驱动数字平台工作转型：任务模型测量劳动扰动与脆弱性——肯尼亚自由职业初步证据</title>
+      <link>https://ob-ai-papers.vercel.app/papers/85141</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/85141</guid>
+      <description>📝 AI驱动数字平台工作转型：任务模型测量劳动扰动与脆弱性——肯尼亚自由职业初步证据
+EN: AI-Driven Transformation of Digital Platform Work: A Task-Based Model for Measuring Labour Disruption and Vulnerability, with Early Evidence from Online Freelancing in Kenya
+
+💡 针对传统职业分类掩盖平台职业内部任务差异的问题，构建区分“工作方式改变”与“生计脆弱性”的任务模型，并结合52名肯尼亚自由职业者问卷和20次访谈评估写作、虚拟助理、转录及网络开发。四类工作均面临高AI扰动，但生计风险较低且因职业而异；免费任务提效部分抵消工资冲击，竞争加剧与技能调整并存。
+
+📚 arXiv:cs.CY · 2026 · 引用 0
+👤 Farhan Latif
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2611.25585v1</description>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <category>零工经济</category><category>工作设计</category><category>工作未来</category><category>算法管理</category><category>机器学习</category><category>自动化</category><category>人机协作</category>
+    </item>    <item>
+      <title>关节处的危机治理：危机管理技术的伦理与社会版图：人机蜂群协作案例</title>
+      <link>https://ob-ai-papers.vercel.app/papers/85140</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/85140</guid>
+      <description>📝 关节处的危机治理：危机管理技术的伦理与社会版图：人机蜂群协作案例
+EN: Crisis Governance at the Joints. Mapping the Ethical and Societal Territory of Crisis Management Technologies: The Case of Human-Swarm Teaming
+
+💡 以无人机群体与人类操作员协作为案例，通过技术哲学、伦理与灾害治理文献的批判性综述，构建“界面—基础设施—想象”三层框架，分析责任缺口、人类控制、监控及合法性问题，强调治理须处理各层衔接及其转化过程。
+
+📚 arXiv:cs.CY · 2026 · 引用 0
+👤 Anthony Longo
+
+AI 分: 4.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2611.25202v1</description>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <category>伦理</category><category>危机治理</category><category>人机协作</category><category>AI治理</category><category>机器人</category><category>群体智能</category><category>人机协作</category><category>AI治理</category>
+    </item>    <item>
+      <title>AI引发的社会侵蚀：使用LLMs处理工作任务会降低向同事求助的意愿</title>
+      <link>https://ob-ai-papers.vercel.app/papers/85138</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/85138</guid>
+      <description>📝 AI引发的社会侵蚀：使用LLMs处理工作任务会降低向同事求助的意愿
+EN: AI-Induced Social Erosion: Using LLMs for Work Tasks Reduces Help-Seeking Intentions Towards Colleagues
+
+💡 基于248名知识工作者的在线情境实验和线性混合效应模型，发现生成式AI参与工作会降低向同事求助的意愿；公开使用AI反而提高求助意愿，且个体贡献者比管理者更易受损，需通过工作制度保护同事互动。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Kevin Chow, Sophia Deng, Bowen He, Hanyi Min, Qiaosi Wang
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2611.25269v1</description>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>同事关系</category><category>知识工作</category><category>工作未来</category><category>GenAI</category><category>LLM</category><category>人机协作</category>
+    </item>    <item>
+      <title>检测内部威胁的语言模型解释有多可靠？</title>
+      <link>https://ob-ai-papers.vercel.app/papers/85136</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/85136</guid>
+      <description>📝 检测内部威胁的语言模型解释有多可靠？
+EN: How Reliable Are Explanations of Language Models That Detect Insider Threats?
+
+💡 以CERT模拟职场日志审计7个语言模型内部威胁检测器的特征归因，通过特征移除、对照扰动及“临界半径”检验解释对指标选择的敏感性。33/34次运行中，指标小幅偏移即可消除至少58%的差异或反转结论；开放模型预注册复现为13/14，表明现有解释高度脆弱、可靠性有限。
+
+📚 arXiv:cs.LG · 2026 · 引用 0
+👤 Suramya R. Angdembay
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2611.25796v1</description>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <category>内部威胁检测</category><category>员工监控</category><category>组织安全</category><category>算法决策</category><category>LLM</category><category>可解释 AI</category><category>算法决策</category>
+    </item>    <item>
+      <title>HireWatch：情境压力下LLM对美国就业法律的合规性评估</title>
+      <link>https://ob-ai-papers.vercel.app/papers/85135</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/85135</guid>
+      <description>📝 HireWatch：情境压力下LLM对美国就业法律的合规性评估
+EN: HireWatch: Evaluating LLM Compliance with U.S. Employment Law Under Contextual Pressure
+
+💡 构建含200道合法与违法面试题的HireWatch评测，在约10万次试验中检验18个闭源及开放权重LLM。结果显示，低压力下违法问题较少，但情境压力升高时违规骤增；守法提示可改善合规，却无法彻底消除违法。
+
+📚 arXiv:cs.CL · 2026 · 引用 0
+👤 Huy Nghiem, Maria Kostylew, Noam Kolt
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2611.24970v1</description>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <category>AI招聘</category><category>招聘</category><category>伦理</category><category>法律合规</category><category>LLM</category><category>AI招聘</category><category>AI治理</category>
+    </item>    <item>
       <title>预测过程级行为：一项基准研究</title>
       <link>https://ob-ai-papers.vercel.app/papers/85040</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/85040</guid>
@@ -410,102 +512,6 @@ AI 分: 5.0 / 领域分: 3.0
 📄 PDF: https://arxiv.org/pdf/2611.18484v1</description>
       <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
       <category>医疗健康</category><category>人机协作</category><category>AI治理</category><category>工作未来</category><category>智能体AI</category><category>机器人</category><category>AI治理</category><category>人机交互</category>
-    </item>    <item>
-      <title>AI-Voyager：用于人机公民推理以质疑并塑造AI治理规则的公益系统</title>
-      <link>https://ob-ai-papers.vercel.app/papers/84777</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84777</guid>
-      <description>📝 AI-Voyager：用于人机公民推理以质疑并塑造AI治理规则的公益系统
-EN: AI-Voyager: A Public-Interest System for Human-AI Civic Reasoning to Contest and Shape the Rules That Govern AI
-
-💡 推出面向公众的人机协作治理系统AI-Voyager，将3,653份政府AI文件切分为保留来源与版本的段落，并通过有界智能体检索核验回答。系统在360个新问题上的宏召回率达83.0%；24名参与者借助可核验引用和条款起草参与规则修订，显示来源绑定能支持公众理解和监督AI规则。
-
-📚 arXiv:cs.AI · 2026 · 引用 0
-👤 Snehalkumar `Neil' S. Gaikwad, Dhruv Dixit, Bryen Alvarez, Pratik Patekar, Anika Sharma
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2611.17564v1</description>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-      <category>AI治理</category><category>人机协作</category><category>公共政策</category><category>可解释AI</category><category>LLM</category><category>智能体</category><category>检索增强生成</category><category>人机交互</category>
-    </item>    <item>
-      <title>义务与证据之间：将EU AI Act转化为技术要求的参与式研究</title>
-      <link>https://ob-ai-papers.vercel.app/papers/84773</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84773</guid>
-      <description>📝 义务与证据之间：将EU AI Act转化为技术要求的参与式研究
-EN: Between Obligations and Evidence: A Participatory Study of Translating the EU AI Act into Technical Requirements
-
-💡 通过32名研究者、政策制定者和实践者参与的工作坊，结合医疗、招聘和公共交通情境，剖析《欧盟人工智能法》义务如何转化为可测技术要求。研究发现，公平指标、有效人工监督与合规证据会随运行情境和使用变化而失效，持续合规须联动技术、组织与持续监测。
-
-📚 arXiv:cs.CY · 2026 · 引用 0
-👤 Helma Torkamaan, Masoud Mansoury, Yanan Xin, Oscar Oviedo Trespalacios, Roberta Savella
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2611.18439v1</description>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-      <category>AI治理</category><category>公平性</category><category>合规</category><category>人机协作</category><category>AI治理</category><category>算法决策</category><category>人机协作</category>
-    </item>    <item>
-      <title>基于推断客户相似性的产品购买预测：自逻辑模型方法</title>
-      <link>https://ob-ai-papers.vercel.app/papers/84757</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84757</guid>
-      <description>📝 基于推断客户相似性的产品购买预测：自逻辑模型方法
-EN: Predicting Product Purchase from Inferred Customer Similarity: An Autologistic Model Approach
-
-💡 针对客户购买预测，构建融合联合空间映射与空间选择模型的推荐方法，依据历史购买行为推断顾客偏好相似性；在保险公司数据上的预测表现优于基准模型。
-
-📚 MgmtSci · 2008 · 引用 75
-👤 Sangkil Moon, Gary J. Russell
-
-AI 分: 5.0 / 领域分: 5.0</description>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-      <category>推荐系统</category><category>营销</category><category>消费者行为</category><category>推荐算法</category><category>机器学习</category>
-    </item>    <item>
-      <title>苏格拉底式AI：道德提升的苦口良药</title>
-      <link>https://ob-ai-papers.vercel.app/papers/84748</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84748</guid>
-      <description>📝 苏格拉底式AI：道德提升的苦口良药
-EN: Socratic AI: A bitter but effective pill for moral enhancement
-
-💡 据标题推断，尝试以苏格拉底式提问和对话引导AI使用者反思道德判断、识别认知盲点并提升道德素养；这种促进成长的过程可能令人不适，但更具纠偏效果。
-
-📚 CHB · 2026 · 引用 0
-👤 Sebastian Krügel, Matthias Uhl
-
-AI 分: 5.0 / 领域分: 3.0</description>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-      <category>伦理</category><category>道德教育</category><category>人机交互</category><category>伦理AI</category><category>人机交互</category>
-    </item>    <item>
-      <title>职场 GenAI 使用鸿沟：遗传学视角下的认知与元认知解释</title>
-      <link>https://ob-ai-papers.vercel.app/papers/84583</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84583</guid>
-      <description>📝 职场 GenAI 使用鸿沟：遗传学视角下的认知与元认知解释
-EN: The Workplace GenAI Usage Divide: A Genetics-Informed Cognitive and Metacognitive Account
-
-💡 问题：为何同等权限下员工使用生成式AI的频率仍持续不同？方法：以受教育程度多基因评分构建认知—元认知双路径模型并检验。发现：PGS通过正式教育、AI可信度认知，以及策略性心态和专业知识位置判断，解释使用差异。
-
-📚 ISR · 2026 · 引用 0
-👤 Shuhua Sun, Shiyang Gong, Yinliang Tan
-
-AI 分: 5.0 / 领域分: 5.0</description>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>工作未来</category><category>信任</category><category>知识管理</category><category>GenAI</category><category>人机交互</category>
-    </item>    <item>
-      <title>“我们就是脏手”：携手专业照护者重塑环境智能照护系统</title>
-      <link>https://ob-ai-papers.vercel.app/papers/84480</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84480</guid>
-      <description>📝 “我们就是脏手”：携手专业照护者重塑环境智能照护系统
-EN: "We Are the Dirty Hands": Reimagining an Ambient Intelligence Care System with Professional Caregivers
-
-💡 面向居家养老的环境智能照护系统常忽视专业照护者。通过24名护理员参与的集体推测工作坊，识别出技术学习、额外工作及行为误读等价值张力，并提出情境感知等系统设计建议。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Andrea Green, Jane L. E, Sneha Jain, Parker Ruth, Matthew Jörke
-
-AI 分: 3.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2611.16198v1</description>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-      <category>伦理</category><category>工作设计</category><category>老年照护</category><category>技术采纳</category><category>环境智能</category><category>传感器</category><category>人机交互</category><category>AI伦理</category>
     </item>
   </channel>
 </rss>
