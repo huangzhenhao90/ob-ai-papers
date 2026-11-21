@@ -6,9 +6,54 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 20 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>移动应用推荐策略的异质性需求效应：计量模型与机器学习工具证据</title>
+      <link>https://ob-ai-papers.vercel.app/papers/85197</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/85197</guid>
+      <description>📝 移动应用推荐策略的异质性需求效应：计量模型与机器学习工具证据
+EN: Heterogeneous Demand Effects of Recommendation Strategies in a Mobile Application: Evidence From Econometric Models And Machine-Learning Instruments
+
+💡 结合计量模型与机器学习工具，检验移动端推荐策略对消费者效用和需求的影响。嵌入社会证明的推荐效果最佳，配合时间多样性带来的认知提升后作用更强，且效应随商品、用户和情境而异。
+
+📚 MISQ · 2022 · 引用 19
+👤 Panagiotis Adamopoulos, Anindya Ghose, Alexander Tuzhilin
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+      <category>推荐系统</category><category>营销</category><category>消费者行为</category><category>广告</category><category>推荐算法</category><category>机器学习</category><category>深度学习</category><category>自然语言处理</category>
+    </item>    <item>
+      <title>人工智能时代的组织目标层级：动态行为视角</title>
+      <link>https://ob-ai-papers.vercel.app/papers/85153</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/85153</guid>
+      <description>📝 人工智能时代的组织目标层级：动态行为视角
+EN: Organizational Goal Hierarchies in the Age of Artificial Intelligence: A Dynamic Behavioral Perspective
+
+💡 聚焦AI时代组织目标层级如何适应技术与环境变化，从动态行为视角分析个人、团队与组织目标的互动，指出目标权重及调整机制需随情境持续演化。
+
+📚 AMR · 2026 · 引用 0
+👤 David Diwei Lv, SAKU Mantere
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+      <category>组织变革</category><category>决策</category><category>团队</category><category>战略</category><category>AI</category><category>人机协作</category>
+    </item>    <item>
+      <title>人机交互中信任的心理中介作用：跨学科视角与最新发现（编者综述）</title>
+      <link>https://ob-ai-papers.vercel.app/papers/85149</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/85149</guid>
+      <description>📝 人机交互中信任的心理中介作用：跨学科视角与最新发现（编者综述）
+EN: Interdisciplinary perspectives and current findings on the role of trust as a psychological mediator in human interaction with artificial intelligence: Editorial overview
+
+💡 以跨学科编辑综述整合AI交互研究，考察信任在人与AI互动中的心理中介作用，梳理信任如何连接AI特征与用户态度、接受及行为结果。
+
+📚 CHB · 2026 · 引用 2
+👤 Irene Valori, Johannes Kraus, Merle T. Fairhurst
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+      <category>信任</category><category>人机协作</category><category>消费者行为</category><category>伦理</category><category>人机交互</category><category>AI治理</category>
+    </item>    <item>
       <title>谁的安全：AI安全时代下反黑人性的应对</title>
       <link>https://ob-ai-papers.vercel.app/papers/85142</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/85142</guid>
@@ -461,57 +506,6 @@ AI 分: 5.0 / 领域分: 5.0
 📄 PDF: https://arxiv.org/pdf/2611.17530v1</description>
       <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
       <category>劳动力市场</category><category>工作未来</category><category>创业</category><category>技术变迁</category><category>机器学习</category><category>LLM</category><category>自动化</category>
-    </item>    <item>
-      <title>算法不透明性作为委托—代理问题</title>
-      <link>https://ob-ai-papers.vercel.app/papers/84780</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84780</guid>
-      <description>📝 算法不透明性作为委托—代理问题
-EN: Algorithmic Opacity as a Principal-Agent Problem
-
-💡 将算法不透明性建模为委托—代理问题：即使存在博弈和商业秘密风险，只要错误率或群体结果分布显示偏误、低效或机会主义，也应触发进一步披露的推定。公平指标由此成为算法问责与可解释治理的入口，并可延伸至生成式和智能体系统。
-
-📚 arXiv:cs.CY · 2026 · 引用 0
-👤 Ignacio Cofone, Katherine J. Strandburg
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2611.17980v1</description>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-      <category>算法管理</category><category>公平性</category><category>伦理</category><category>信任</category><category>算法决策</category><category>AI治理</category><category>可解释AI</category>
-    </item>    <item>
-      <title>人工评估 Google 的自动补全功能：人类对性别偏见 AI 生成内容的敏感性</title>
-      <link>https://ob-ai-papers.vercel.app/papers/84779</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84779</guid>
-      <description>📝 人工评估 Google 的自动补全功能：人类对性别偏见 AI 生成内容的敏感性
-EN: Evaluating Human Sensitivity to Gender Biased AI-Generated Content through Human Assessment of Google's Autocomplete Function
-
-💡 让西班牙语参与者评价谷歌自动补全中的性别偏见内容，并操纵其是否知道内容由AI生成。结果显示，AI来源提示既未改变反应时，也未改变认同判断，表明AI生成内容未必自动引发可信度疑虑，用户可能审查不足。
-
-📚 arXiv:cs.CL · 2026 · 引用 0
-👤 Tamara Serrano, Nikoleta Pantelidou, Raquel Montero, Natalia Moskvina, Paolo Morosi
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2611.18371v1</description>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-      <category>偏见</category><category>信任</category><category>消费者行为</category><category>LLM</category><category>GenAI</category><category>推荐算法</category>
-    </item>    <item>
-      <title>从 AI 赋能的远程患者监测迈向智能体机器人：具身、治理与照护整合</title>
-      <link>https://ob-ai-papers.vercel.app/papers/84778</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84778</guid>
-      <description>📝 从 AI 赋能的远程患者监测迈向智能体机器人：具身、治理与照护整合
-EN: From AI-Enabled Remote Patient Monitoring Toward Agentic Robotics: Embodiment, Governance, and Care Integration
-
-💡 结构化范围综述发现，远程患者监测正由被动采集走向能解释状态、协调照护和采取行动的智能体系统，但成熟方案尚未出现，多数仍由人主导，具身决策多停留在原型。安全推进需依托可互操作、可审计、可中断且保留人工监督的临床工作流与明确治理。
-
-📚 arXiv:cs.RO · 2026 · 引用 0
-👤 Ivana Ragusa, Lorenzo Guiducci, Filippo Cavallo
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2611.18484v1</description>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-      <category>医疗健康</category><category>人机协作</category><category>AI治理</category><category>工作未来</category><category>智能体AI</category><category>机器人</category><category>AI治理</category><category>人机交互</category>
     </item>
   </channel>
 </rss>
