@@ -6,9 +6,84 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 21 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>人工智能时代的技能培育</title>
+      <link>https://ob-ai-papers.vercel.app/papers/85281</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/85281</guid>
+      <description>📝 人工智能时代的技能培育
+EN: Skilling in the age of artificial intelligence
+
+💡 聚焦人工智能时代员工技能形成与能力提升，探讨培训、实践及岗位适应如何因AI而重构；仅据标题推断，重点在于组织帮助劳动者应对技术变化并提升人机协作，具体方法、对象与结果尚无法确认。
+
+📚 ROB · 2026 · 引用 0
+👤 Arvind Karunakaran, Pragnya Ramjee, Devesh Narayanan
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <category>培训</category><category>组织学习</category><category>工作设计</category><category>工作未来</category><category>人工智能</category><category>人机协作</category>
+    </item>    <item>
+      <title>面向新手用户的线性关键词与受限自然语言数据库界面比较</title>
+      <link>https://ob-ai-papers.vercel.app/papers/85270</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/85270</guid>
+      <description>📝 面向新手用户的线性关键词与受限自然语言数据库界面比较
+EN: A Comparison of Linear Keyword and Restricted Natural Language Data Base Interfaces for Novice Users
+
+💡 通过分裂绘图析因实验比较新手使用线性关键词与受限自然语言数据库界面的效果；后者显著提高查询正确率并缩短查询编写时间。
+
+📚 ISR · 1992 · 引用 27
+👤 Kil Soo Suh, A. Milton Jenkins
+
+AI 分: 3.0 / 领域分: 4.0</description>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <category>信息检索</category><category>人机交互</category><category>用户体验</category><category>自然语言处理</category><category>人机交互</category>
+    </item>    <item>
+      <title>认知双栖能力：AI赋能决策系统中算法效率与情境判断的平衡</title>
+      <link>https://ob-ai-papers.vercel.app/papers/85257</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/85257</guid>
+      <description>📝 认知双栖能力：AI赋能决策系统中算法效率与情境判断的平衡
+EN: Cognitive Ambidexterity: Balancing Algorithmic Efficiency and Contextual Judgement in AI-Enabled Decision Systems
+
+💡 采用探索性序列混合方法，结合英国五个采购与基础设施组织案例及管理者情境实验，检验领导者如何平衡算法效率与情境判断。发现四项机制：将AI输出视为解释线索、校准模糊环境中的信任、适时放缓决策、建立可质疑算法的组织支持。
+
+📚 JOM · 2026 · 引用 0
+👤 Tahir Abbas Syed
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <category>领导力</category><category>决策</category><category>信任</category><category>人机协作</category><category>算法决策</category><category>算法管理</category><category>人机协作</category>
+    </item>    <item>
+      <title>提示词占卜：LLM介导的中国社交媒体玄学</title>
+      <link>https://ob-ai-papers.vercel.app/papers/85228</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/85228</guid>
+      <description>📝 提示词占卜：LLM介导的中国社交媒体玄学
+EN: Divination by Prompt: LLM-Mediated Xuanxue on Chinese Social Media
+
+💡 以中国社交媒体中的LLM中介玄学为对象，考察提示词驱动的占卜互动及其对用户判断与文化参与的影响；仅据标题推断，传统术数正被转化为可提示、可互动的数字体验，具体方法与实证结果待验证。
+
+📚 CHB · 2026 · 引用 0
+👤 Chu’ang Li, Lixuan Wang, Yuqi Chen, Ze Hong
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <category>人机交互</category><category>消费者行为</category><category>传统文化</category><category>数字占卜</category><category>LLM</category><category>生成式AI</category><category>人机交互</category><category>提示工程</category>
+    </item>    <item>
+      <title>基于社会互动分析的辅助照护机器人</title>
+      <link>https://ob-ai-papers.vercel.app/papers/85226</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/85226</guid>
+      <description>📝 基于社会互动分析的辅助照护机器人
+EN: Assisted-care robot based on sociological interaction analysis
+
+💡 以社会互动分析为基础设计辅助照护机器人，关注机器人与照护者、被照护者之间的社会性互动，旨在提升人机协同照护的适配性。
+
+📚 CHB · 2011 · 引用 13
+👤 Wenxing Quan, Hitoshi Niwa, Naoto Ishikawa, Yoshinori Kobayashi, Yoshinori Kuno
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <category>人机交互</category><category>健康照护</category><category>社会互动</category><category>机器人</category><category>人机交互</category>
+    </item>    <item>
       <title>移动应用推荐策略的异质性需求效应：计量模型与机器学习工具证据</title>
       <link>https://ob-ai-papers.vercel.app/papers/85197</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/85197</guid>
@@ -423,89 +498,6 @@ AI 分: 5.0 / 领域分: 4.0
 📄 PDF: https://arxiv.org/pdf/2611.20218v1</description>
       <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
       <category>人机协作</category><category>知识管理</category><category>工作设计</category><category>创新</category><category>AI代理</category><category>LLM</category><category>人机协作</category>
-    </item>    <item>
-      <title>审计流动目标：证据锚定与提供商语言模型公平性审计的时效性</title>
-      <link>https://ob-ai-papers.vercel.app/papers/84866</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84866</guid>
-      <description>📝 审计流动目标：证据锚定与提供商语言模型公平性审计的时效性
-EN: Auditing a Moving Target: Evidence Anchoring and the Expiry of Fairness Audits of Provider-Served Language Models
-
-💡 对5家供应商的LLM创业投资模型在13个月内重复审计248,400次，比较创始人性别、来源和大学差异下的偏差。结果显示，同一模型的偏差会显著变化，模型继任者延续偏差但形式与幅度不同；偏差源于模型类别而非行业。建议审计模型类别、记录版本并在变更时复审。
-
-📚 arXiv:cs.CY · 2026 · 引用 0
-👤 Mika Facchini
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2611.20901v1</description>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-      <category>公平性</category><category>偏见</category><category>模型审计</category><category>LLM</category><category>算法决策</category><category>AI治理</category>
-    </item>    <item>
-      <title>工作场所 AI 中的专业知识捕获</title>
-      <link>https://ob-ai-papers.vercel.app/papers/84864</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84864</guid>
-      <description>📝 工作场所 AI 中的专业知识捕获
-EN: Expertise capture in workplace AI
-
-💡 知识工作者使用AI助手时，提示词、示例、记忆和交互记录会将专业判断吸收到组织或平台控制的资源中，形成“专长捕获”。框架区分贡献形态、存放位置和转换层级，指出员工离职后组织仍保留其判断形成的能，而员工失去访问权，并提出写入时溯源、可分离贡献提取及退出程序。
-
-📚 arXiv:cs.CR · 2026 · 引用 0
-👤 Andreas Ekelhart, Ahmad Mohsin, Iqbal H. Sarker, Helge Janicke
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2611.21456v1</description>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-      <category>知识管理</category><category>组织学习</category><category>隐私</category><category>工作未来</category><category>LLM</category><category>人机协作</category><category>AI治理</category>
-    </item>    <item>
-      <title>职场中的智力韧性：生成式AI暴露与职业人格要求的经济回报</title>
-      <link>https://ob-ai-papers.vercel.app/papers/84839</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84839</guid>
-      <description>📝 职场中的智力韧性：生成式AI暴露与职业人格要求的经济回报
-EN: Intellectual Tenacity at Work: Generative AI Exposure and the Economic Returns to Occupational Personality Requirements
-
-💡 考察生成式AI职业暴露与职业人格要求经济回报的关系，重点关注智力坚韧性；标题暗示将比较不同AI暴露条件下岗位对人格特质的经济定价变化。研究指向AI时代的人力资本配置与员工能力管理，具体结果无法仅据标题判断。
-
-📚 AOM-Discoveries · 2026 · 引用 1
-👤 Christos Andreas Makridis, Louis Hickman
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://doi.org/10.2139/ssrn.4365176</description>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-      <category>工作未来</category><category>人力资本</category><category>职业人格</category><category>GenAI</category>
-    </item>    <item>
-      <title>动态社交场景中的情绪识别：由具备视频能力的多模态生成式AI进行社会认知识别</title>
-      <link>https://ob-ai-papers.vercel.app/papers/84790</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84790</guid>
-      <description>📝 动态社交场景中的情绪识别：由具备视频能力的多模态生成式AI进行社会认知识别
-EN: Reading emotions in dynamic social scenes: social-cognitive recognition by video-capable multimodal generative artificial intelligence (AI)
-
-💡 考察具备视频理解能力的生成式多模态AI如何运用社会认知机制，识别动态社会场景中的情绪，拓展多模态模型对复杂人际与社会情绪线索的理解。
-
-📚 CHB · 2026 · 引用 0
-👤 Gunther Meinlschmidt, Andrii Boiko, Gilles von Steiger, Rainer Schaefert, Hadar Dery
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-      <category>情绪识别</category><category>社会认知</category><category>人机交互</category><category>多模态</category><category>GenAI</category><category>视频理解</category>
-    </item>    <item>
-      <title>AI与就业的两端：为何岗位削减先于岗位创造</title>
-      <link>https://ob-ai-papers.vercel.app/papers/84781</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84781</guid>
-      <description>📝 AI与就业的两端：为何岗位削减先于岗位创造
-EN: AI and the Two Margins of Work: Why Job Losses Show Up Before Job Creation
-
-💡 构建“岗位替代—岗位创造”双边际模型，解释自动化为何常先减少既有岗位、后催生新岗位，以及薪资统计因记录时滞而高估替代。数据显示，自动化高暴露行业在位企业先收缩、新进入企业后累积；语言模型暴露与近期企业岗位流动无明显梯度，创始任务暴露则使企业进入上升10%—20%。
-
-📚 arXiv:econ.GN · 2026 · 引用 0
-👤 Mark Esposito, Liu Zhang
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2611.17530v1</description>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-      <category>劳动力市场</category><category>工作未来</category><category>创业</category><category>技术变迁</category><category>机器学习</category><category>LLM</category><category>自动化</category>
     </item>
   </channel>
 </rss>
