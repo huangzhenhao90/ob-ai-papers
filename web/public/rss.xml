@@ -6,9 +6,94 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 22 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>智能体的崛起与人类劳动力市场</title>
+      <link>https://ob-ai-papers.vercel.app/papers/85339</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/85339</guid>
+      <description>📝 智能体的崛起与人类劳动力市场
+EN: The Rise of Agents and the Human Labor Market
+
+💡 基于逾两万亿Token消费数据与3480万条职位发布，测算企业对智能体AI的暴露度。暴露度每升高一个标准差，未来6—9个月职位发布增速下降2.11%—3.20%，影响集中于非资深岗位；控制智能体暴露后，广义AI消费与招聘增长无显著关系。
+
+📚 arXiv:econ.GN · 2026 · 引用 0
+👤 Nicola Borri, Anton Cheremukhin, Yukun Liu, Aleh Tsyvinski
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2611.27210v1</description>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <category>工作未来</category><category>招聘</category><category>人机协作</category><category>劳动力市场</category><category>AI智能体</category><category>大语言模型（LLM）</category>
+    </item>    <item>
+      <title>Leader Finding：社区问答中专家发现的新变体</title>
+      <link>https://ob-ai-papers.vercel.app/papers/85338</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/85338</guid>
+      <description>📝 Leader Finding：社区问答中专家发现的新变体
+EN: Leader Finding: A New Variation of Expert Finding in Community Question Answering
+
+💡 针对社区问答中的领导者识别，构建融合技术匹配、管理知识及团队沟通能力的概率排序模型，并分别设计评价指标。基于Stack Overflow数据，最佳配置的NDCG@10较最强基线翻倍，表明仅凭专业相关性难以有效识别领导者。
+
+📚 arXiv:cs.IR · 2026 · 引用 0
+👤 Sepideh Entezari Maleki, Mahmood Neshati
+
+AI 分: 4.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2611.26921v1</description>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <category>领导力</category><category>人才选拔</category><category>知识管理</category><category>推荐系统</category><category>机器学习</category><category>推荐算法</category>
+    </item>    <item>
+      <title>人类-AI团队中的共享理解：演变工作中的协调连续性</title>
+      <link>https://ob-ai-papers.vercel.app/papers/85333</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/85333</guid>
+      <description>📝 人类-AI团队中的共享理解：演变工作中的协调连续性
+EN: Shared Understanding in Human-AI Teams: Coordination Continuity in Evolving Work
+
+💡 针对人机团队异步、演化工作提出“协调连续性”框架，通过两项定性团队研究及案例反思，归纳持久表征、相对协调属性和交互机制三要素，并以“构建—行动—偏移—重建”启发式识别协作基础需重建的时点，进一步提出协作式AI基础设施设计启示。
+
+📚 arXiv:cs.HC · 2026 · 引用 0
+👤 Siân Lindley, Britta Burlin, Christian Poelitz, Lev Tankelevitch, Richard Banks
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2611.27746v1</description>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>团队</category><category>工作设计</category><category>组织学习</category><category>AI智能体</category><category>人机交互</category>
+    </item>    <item>
+      <title>高级智能体是否履行职责：LLM智能体使用下属材料时的角色操守评估</title>
+      <link>https://ob-ai-papers.vercel.app/papers/85331</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/85331</guid>
+      <description>📝 高级智能体是否履行职责：LLM智能体使用下属材料时的角色操守评估
+EN: Do Senior Agents Do Their Job? Measuring Role Integrity in How LLM Agents Use Subordinate Material
+
+💡 RI-Bench通过操控下级代理材料并检验输出变化，评估高级代理是否履行权衡、核实和转述职责。跨8种LLM、逾1.2万次代理测试发现，高级代理很少采纳植入的程序错误，却常跟随泛化评审的多数意见，并忽略证人陈述的局限。
+
+📚 arXiv:cs.CL · 2026 · 引用 0
+👤 Jinxiang Xie, Xinyi Zhang, Changjiang Jiang, Kexu Liu, Qi Yang
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2611.27139v1</description>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <category>团队</category><category>决策</category><category>组织治理</category><category>LLM</category><category>多智能体</category><category>AI评测</category>
+    </item>    <item>
+      <title>高风险AI招聘中使用LLM的挑战：面向AI Act法律合规的引导问题</title>
+      <link>https://ob-ai-papers.vercel.app/papers/85330</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/85330</guid>
+      <description>📝 高风险AI招聘中使用LLM的挑战：面向AI Act法律合规的引导问题
+EN: On the Challenges of Using LLMs in High-Risk AI Recruitment: Guiding Questions for Legal Conformity with the AI Act
+
+💡 针对接入第三方GPAI模型的高风险招聘系统，将《欧盟AI法案》第9—15条及附件IV要求转化为技术规范问题与合规工具包，涵盖简历解析、申请人评分和候选名单生成。上游与下游模型商的信息依赖可能造成合规信息缺口，妨碍责任证明与市场部署。
+
+📚 arXiv:cs.CY · 2026 · 引用 0
+👤 Clara Punzi, Stefano Tramacere, Andrea Fedele, Sezer Kutluk, Roberto Pellungrini
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2611.27462v1</description>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <category>招聘</category><category>HR</category><category>AI治理</category><category>合规</category><category>LLM</category><category>AI招聘</category><category>算法决策</category><category>AI治理</category>
+    </item>    <item>
       <title>人工智能时代的技能培育</title>
       <link>https://ob-ai-papers.vercel.app/papers/85281</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/85281</guid>
@@ -413,91 +498,6 @@ AI 分: 5.0 / 领域分: 3.0
 📄 PDF: https://arxiv.org/pdf/2611.18996v1</description>
       <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
       <category>偏见</category><category>公平性</category><category>伦理</category><category>LLM</category><category>可解释 AI</category><category>机器学习</category>
-    </item>    <item>
-      <title>超越职位名称：利用稀疏自编码器与语义聚类解析初级职位广告</title>
-      <link>https://ob-ai-papers.vercel.app/papers/84874</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84874</guid>
-      <description>📝 超越职位名称：利用稀疏自编码器与语义聚类解析初级职位广告
-EN: Beyond Job Titles: Interpreting Early-Career Job Advertisements with Sparse Autoencoders and Semantic Clustering
-
-💡 为区分早期职业岗位的任务与行业场景，基于36,081份LinkedIn招聘广告，用GPT-6分类、语义嵌入与聚类、MMD及稀疏自编码器提取并验证特征。数据科学家侧重模型开发，分析师侧重业务绩效报告，机器学习工程师侧重模型应用。
-
-📚 arXiv:cs.CL · 2026 · 引用 0
-👤 Yisong Cao, Leah Kim, Brian Wright, Ali Rivera
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2611.21586v1</description>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-      <category>招聘</category><category>HR</category><category>工作设计</category><category>劳动力市场</category><category>LLM</category><category>自然语言处理</category><category>机器学习</category><category>可解释 AI</category>
-    </item>    <item>
-      <title>LLM驱动智能体隐性偏差的众包审计图谱</title>
-      <link>https://ob-ai-papers.vercel.app/papers/84873</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84873</guid>
-      <description>📝 LLM驱动智能体隐性偏差的众包审计图谱
-EN: A Crowd-Audited Atlas of Implicit Bias in LLM-Powered Agents
-
-💡 为考察LLM代理在日常决策中的隐性偏见，基于美国时间使用调查构建17个领域、506个情境，以不同人口特征角色模拟决策；500名参与者完成8,010次审查选择。结果显示，广泛相关性、高风险及群体一致偏差更受重视，差异幅度影响较弱。
-
-📚 arXiv:cs.CY · 2026 · 引用 0
-👤 Jason Alexander, Yuxuan Li, Michael Licamele, Wesley Hanwen Deng, Sauvik Das
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2611.21376v1</description>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-      <category>偏见</category><category>公平性</category><category>算法决策</category><category>AI治理</category><category>LLM</category><category>算法决策</category><category>AI治理</category>
-    </item>    <item>
-      <title>构建企业 AI 基础设施：AI 治理委员会与首席伦理官角色的演变</title>
-      <link>https://ob-ai-papers.vercel.app/papers/84869</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84869</guid>
-      <description>📝 构建企业 AI 基础设施：AI 治理委员会与首席伦理官角色的演变
-EN: Architecting the Corporate AI Infrastructure: The Evolving Roles of AI Governance Committees and Chief Ethics Officers
-
-💡 企业AI原则与实际治理机制存在落地缺口。综合同行评议治理文献、欧盟《人工智能法案》和行业实践，构建以首席隐私官、首席伦理官负责问责，以跨职能AI治理委员会审批项目为核心的企业AI治理架构，并配套风险分级、问责政策和上线决策流程。
-
-📚 arXiv:cs.CY · 2026 · 引用 0
-👤 David Hason Rudd, Dennis Singh, Cesar Sanin, Bryn James
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2611.19670v1</description>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-      <category>AI治理</category><category>公司治理</category><category>伦理</category><category>隐私</category><category>AI治理</category><category>AI伦理</category><category>隐私</category>
-    </item>    <item>
-      <title>AI会评判你吗：LLM辅助招聘系统部署就绪度的实证审查</title>
-      <link>https://ob-ai-papers.vercel.app/papers/84868</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84868</guid>
-      <description>📝 AI会评判你吗：LLM辅助招聘系统部署就绪度的实证审查
-EN: Can AI Judge You? An Empirical Audit of Deployment Readiness in LLM-assisted Hiring Systems
-
-💡 构建分离候选人证据、评价、权限与审计记录的系统，在210份简历、14个岗位和6种界面上测试4种LLM，并审计越权请求及简历内嵌指令。连续评分较能识别资质变化，但比较判断受顺序影响；权限隔离可减少违规服从，模型决策与理由亦常不一致。
-
-📚 arXiv:cs.CY · 2026 · 引用 0
-👤 Spandan Roy, Subhabrata Majumdar, Soudeep Deb
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2611.20140v1</description>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-      <category>AI招聘</category><category>算法决策</category><category>公平性</category><category>组织治理</category><category>LLM</category><category>AI招聘</category><category>AI治理</category><category>可解释 AI</category>
-    </item>    <item>
-      <title>SWE-CoWork：组织中作为数字员工的编码智能体基准评测</title>
-      <link>https://ob-ai-papers.vercel.app/papers/84867</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/84867</guid>
-      <description>📝 SWE-CoWork：组织中作为数字员工的编码智能体基准评测
-EN: SWE-CoWork: Benchmarking Coding Agents as Digital Employees in Organizations
-
-💡 推出SWE-CoWork基准，以101个真实仓库任务模拟编码智能体与26名同事协作。11个模型中，头部模型通过约63%的失效转通过测试，却仅完成不足8%的任务；提前提供完整需求可提高测试通过率，却未提升完整交付率，表明编码能力不等于可靠的“数字员工”能力。
-
-📚 arXiv:cs.SE · 2026 · 引用 0
-👤 Xinping Lei, Minghao Liu, Ruijie Zhu, Xiaohui Hu, Xingqiao Li
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2611.20218v1</description>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>知识管理</category><category>工作设计</category><category>创新</category><category>AI代理</category><category>LLM</category><category>人机协作</category>
     </item>
   </channel>
 </rss>
