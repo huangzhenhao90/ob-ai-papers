@@ -6,9 +6,145 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 24 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>焚毁桥梁：智能体化与国内增加值</title>
+      <link>https://ob-ai-papers.vercel.app/papers/85557</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/85557</guid>
+      <description>📝 焚毁桥梁：智能体化与国内增加值
+EN: Burning the Bridge: Agentification and Domestic Value Added
+
+💡 构建小型开放经济模型，比较出口商与本地服务采用外国AI智能体的收入效应：本地服务在工资达到保留水平后虽提高生产率，却会压低国内收入与增加值；出口商可通过扩张获取外汇抵消冲击。供应商议价权决定结果，巴西模型下两类行业的临界份额约为0.15和0.66。
+
+📚 arXiv:econ.GN · 2026 · 引用 0
+👤 Eduardo Levy Yeyati
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2611.31518v1</description>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <category>工作未来</category><category>收入分配</category><category>国际贸易</category><category>全球生产网络</category><category>AI智能体</category><category>自动化</category>
+    </item>    <item>
+      <title>AI、偏见与包容：人工智能性别偏见、认知与信任的两阶段混合方法研究</title>
+      <link>https://ob-ai-papers.vercel.app/papers/85556</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/85556</guid>
+      <description>📝 AI、偏见与包容：人工智能性别偏见、认知与信任的两阶段混合方法研究
+EN: AI, Bias, and Inclusion: A Two-Phase Mixed-Methods Study of Gender Bias, Awareness, and Trust in Artificial Intelligence
+
+💡 采用两阶段混合方法，先分析ChatGPT在四国以中性提示生成的360篇职业叙事，再考察学生对AI偏见的识别、决策信任及其与EDI和伦理的关系。结果显示职业叙事存在跨地域的性别刻板关联，凸显仅靠技术修补不足以实现公平。
+
+📚 arXiv:cs.CY · 2026 · 引用 0
+👤 MD Junayed Talukdar, Khosro Salmani
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2611.32869v1</description>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <category>公平性</category><category>偏见</category><category>伦理</category><category>信任</category><category>LLM</category><category>ChatGPT</category><category>算法决策</category><category>AI治理</category>
+    </item>    <item>
+      <title>Avalon-M1：基于集体奖励的强化学习</title>
+      <link>https://ob-ai-papers.vercel.app/papers/85553</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/85553</guid>
+      <description>📝 Avalon-M1：基于集体奖励的强化学习
+EN: Avalon-M1: Reinforcement Learning from Collective Rewards
+
+💡 采用集体奖励强化学习，在延迟约束下以共同结果优势联合训练CEO与专家智能体；120B模型在147个环境中形成层级分工和同行评审，八智能体数学基准得分由23.8%升至39.0%，同等表现所需延迟更低，但监督场景中的外部报告减少。
+
+📚 arXiv:cs.CL · 2026 · 引用 0
+👤 Iliyan Zarov, Henry Course, Anthony Hartshorn, Ran Achiron, Louis Roche
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2611.32539v1</description>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <category>团队</category><category>组织变革</category><category>决策</category><category>算法管理</category><category>LLM</category><category>强化学习</category><category>多智能体系统</category><category>组织型智能体</category>
+    </item>    <item>
+      <title>基于检索增强生成的自动职业编码</title>
+      <link>https://ob-ai-papers.vercel.app/papers/85552</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/85552</guid>
+      <description>📝 基于检索增强生成的自动职业编码
+EN: Automatic Occupational Coding through Retrieval-Augmented Generation
+
+💡 针对职业暴露评估中人工编码缓慢、可靠性低且难适配不同分类体系的问题，构建检索增强生成框架OPERAG，将编码索引与大语言模型分类结合，无需专家标注即可将自由文本职位描述归入任意职业分类，并在36,062条真实描述上验证。
+
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 Mathijs A. Langezaal, Egon L. van den Broek, Lukas P. A. Arts, Marcel Goldberg, Grégoire Rey
+
+AI 分: 5.0 / 领域分: 4.0
+
+📄 PDF: https://arxiv.org/pdf/2611.31051v1</description>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <category>HR</category><category>职业健康</category><category>职业分类</category><category>自然语言处理</category><category>LLM</category><category>检索增强生成</category><category>文本分类</category>
+    </item>    <item>
+      <title>AdProducer：迈向智能体式广告视频生成</title>
+      <link>https://ob-ai-papers.vercel.app/papers/85551</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/85551</guid>
+      <description>📝 AdProducer：迈向智能体式广告视频生成
+EN: AdProducer: Towards Agentic Advertising Video Generation
+
+💡 面向广告视频生成中产品理解不足、分镜与创意策略脱节的问题，AdProducer以多模态智能体自主检索产品资料，将卖点转化为分镜并指导视频生成器；通过监督微调和分镜—视频联合奖励强化学习训练，并建立覆盖8领域305个创意简报的评估基准。
+
+📚 arXiv:cs.CV · 2026 · 引用 0
+👤 Kunyang Li, Chaoyang Wang, Mubarak Shah, Yuzhang Shang
+
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://arxiv.org/pdf/2611.31466v1</description>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <category>广告</category><category>营销</category><category>创意</category><category>内容生成</category><category>GenAI</category><category>多模态</category><category>视频生成</category><category>AI智能体</category>
+    </item>    <item>
+      <title>统一伙伴与环境多样性以提升人机协作</title>
+      <link>https://ob-ai-papers.vercel.app/papers/85549</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/85549</guid>
+      <description>📝 统一伙伴与环境多样性以提升人机协作
+EN: Unifying Partner and Environment Diversity to Improve Human-AI Coordination
+
+💡 面向陌生伙伴与陌生环境同时出现的情形，构建跨环境协同训练框架：在程序生成的多环境中训练自博弈智能体群，再训练协作者，并加入下一状态预测以联合表征伙伴行为与任务结构。在合作觅食和Overcooked测试中，该框架提升了零样本协调与泛化能力。
+
+📚 arXiv:cs.MA · 2026 · 引用 0
+👤 Patrick Q. Zhang, Yancheng Liang, Adrienne Fairhall, Natasha Jaques
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2611.32031v1</description>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>团队</category><category>决策</category><category>机器学习</category><category>强化学习</category><category>多智能体系统</category><category>零样本协调</category>
+    </item>    <item>
+      <title>在 DolphinBench 上评估面向 AI Agents 的 Memanto</title>
+      <link>https://ob-ai-papers.vercel.app/papers/85548</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/85548</guid>
+      <description>📝 在 DolphinBench 上评估面向 AI Agents 的 Memanto
+EN: Evaluating Memanto on DolphinBench for AI Agents
+
+💡 以DolphinBench的600项模拟职场任务评测Memanto，比较任务完成率、成本与延迟。Memanto在GPT-6-Luna、最多6轮交互下完成503项（83.83%），高于对比系统Mem0的70.67%，且总成本最低（10.86美元）、中位延迟最短（15.32秒），表明记忆系统显著影响智能体任务成效与经济性。
+
+📚 arXiv:cs.IR · 2026 · 引用 0
+👤 Suleman Khan, Rasa Rahnema, Tara Khani, Majid Fekri, Fattane Zarrinkalam
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2611.28231v1</description>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <category>知识管理</category><category>人机协作</category><category>工作设计</category><category>组织协作</category><category>LLM</category><category>AI智能体</category><category>记忆增强</category><category>工具调用</category>
+    </item>    <item>
+      <title>TamperCert：检测学位证书文本篡改的基准</title>
+      <link>https://ob-ai-papers.vercel.app/papers/85547</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/85547</guid>
+      <description>📝 TamperCert：检测学位证书文本篡改的基准
+EN: TamperCert: A Benchmark for Detecting Text Tampering in Degree Certificates
+
+💡 针对学历证书篡改难以可靠识别的问题，构建包含400张真证书、逾2万张伪造样本的TamperCert基准，评测13种检测器及商用多模态大模型。检测器对不同篡改方式鲁棒性不足，通用生成式伪造多被漏检，缩放或翻拍等后处理会显著降低识别率。
+
+📚 arXiv:cs.AI · 2026 · 引用 0
+👤 ChiFung Kwan, Kangzhong Wang, Youqian Zhang, Weijie Chen, Jiaqi Gao
+
+AI 分: 5.0 / 领域分: 3.0
+
+📄 PDF: https://arxiv.org/pdf/2611.30419v1</description>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <category>文档欺诈</category><category>图像取证</category><category>深度伪造</category><category>教育认证</category><category>多模态</category><category>大语言模型</category><category>机器学习</category><category>图像篡改检测</category>
+    </item>    <item>
       <title>前沿开放权重AI风险管理框架</title>
       <link>https://ob-ai-papers.vercel.app/papers/85449</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/85449</guid>
@@ -360,142 +496,6 @@ EN: Interdisciplinary perspectives and current findings on the role of trust as 
 AI 分: 5.0 / 领域分: 4.0</description>
       <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
       <category>信任</category><category>人机协作</category><category>消费者行为</category><category>伦理</category><category>人机交互</category><category>AI治理</category>
-    </item>    <item>
-      <title>谁的安全：AI安全时代下反黑人性的应对</title>
-      <link>https://ob-ai-papers.vercel.app/papers/85142</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/85142</guid>
-      <description>📝 谁的安全：AI安全时代下反黑人性的应对
-EN: Whose Safety? Addressing Anti-Blackness in the Age of AI Safety
-
-💡 基于反黑人化理论，对2020—2025年10个机器学习、自然语言处理与AI伦理会议的69,290篇论文开展语言模型辅助分析。安全论文占比由0.5%升至6.4%并超过伦理，但94%依赖自动指标，仅11%讨论直接社会危害；2,182篇安全论文中仅8篇提及种族且无一以黑人问题为核心，显示AI安全议程边缘化现实与种族伤害。
-
-📚 arXiv:cs.CY · 2026 · 引用 0
-👤 Mírian Silva, Serena Oduro
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2611.25302v1</description>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <category>伦理</category><category>公平性</category><category>偏见</category><category>种族正义</category><category>LLM</category><category>自然语言处理</category><category>AI 治理</category>
-    </item>    <item>
-      <title>AI驱动数字平台工作转型：任务模型测量劳动扰动与脆弱性——肯尼亚自由职业初步证据</title>
-      <link>https://ob-ai-papers.vercel.app/papers/85141</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/85141</guid>
-      <description>📝 AI驱动数字平台工作转型：任务模型测量劳动扰动与脆弱性——肯尼亚自由职业初步证据
-EN: AI-Driven Transformation of Digital Platform Work: A Task-Based Model for Measuring Labour Disruption and Vulnerability, with Early Evidence from Online Freelancing in Kenya
-
-💡 针对传统职业分类掩盖平台职业内部任务差异的问题，构建区分“工作方式改变”与“生计脆弱性”的任务模型，并结合52名肯尼亚自由职业者问卷和20次访谈评估写作、虚拟助理、转录及网络开发。四类工作均面临高AI扰动，但生计风险较低且因职业而异；免费任务提效部分抵消工资冲击，竞争加剧与技能调整并存。
-
-📚 arXiv:cs.CY · 2026 · 引用 0
-👤 Farhan Latif
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2611.25585v1</description>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <category>零工经济</category><category>工作设计</category><category>工作未来</category><category>算法管理</category><category>机器学习</category><category>自动化</category><category>人机协作</category>
-    </item>    <item>
-      <title>关节处的危机治理：危机管理技术的伦理与社会版图：人机蜂群协作案例</title>
-      <link>https://ob-ai-papers.vercel.app/papers/85140</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/85140</guid>
-      <description>📝 关节处的危机治理：危机管理技术的伦理与社会版图：人机蜂群协作案例
-EN: Crisis Governance at the Joints. Mapping the Ethical and Societal Territory of Crisis Management Technologies: The Case of Human-Swarm Teaming
-
-💡 以无人机群体与人类操作员协作为案例，通过技术哲学、伦理与灾害治理文献的批判性综述，构建“界面—基础设施—想象”三层框架，分析责任缺口、人类控制、监控及合法性问题，强调治理须处理各层衔接及其转化过程。
-
-📚 arXiv:cs.CY · 2026 · 引用 0
-👤 Anthony Longo
-
-AI 分: 4.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2611.25202v1</description>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <category>伦理</category><category>危机治理</category><category>人机协作</category><category>AI治理</category><category>机器人</category><category>群体智能</category><category>人机协作</category><category>AI治理</category>
-    </item>    <item>
-      <title>AI引发的社会侵蚀：使用LLMs处理工作任务会降低向同事求助的意愿</title>
-      <link>https://ob-ai-papers.vercel.app/papers/85138</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/85138</guid>
-      <description>📝 AI引发的社会侵蚀：使用LLMs处理工作任务会降低向同事求助的意愿
-EN: AI-Induced Social Erosion: Using LLMs for Work Tasks Reduces Help-Seeking Intentions Towards Colleagues
-
-💡 基于248名知识工作者的在线情境实验和线性混合效应模型，发现生成式AI参与工作会降低向同事求助的意愿；公开使用AI反而提高求助意愿，且个体贡献者比管理者更易受损，需通过工作制度保护同事互动。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Kevin Chow, Sophia Deng, Bowen He, Hanyi Min, Qiaosi Wang
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2611.25269v1</description>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>同事关系</category><category>知识工作</category><category>工作未来</category><category>GenAI</category><category>LLM</category><category>人机协作</category>
-    </item>    <item>
-      <title>检测内部威胁的语言模型解释有多可靠？</title>
-      <link>https://ob-ai-papers.vercel.app/papers/85136</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/85136</guid>
-      <description>📝 检测内部威胁的语言模型解释有多可靠？
-EN: How Reliable Are Explanations of Language Models That Detect Insider Threats?
-
-💡 以CERT模拟职场日志审计7个语言模型内部威胁检测器的特征归因，通过特征移除、对照扰动及“临界半径”检验解释对指标选择的敏感性。33/34次运行中，指标小幅偏移即可消除至少58%的差异或反转结论；开放模型预注册复现为13/14，表明现有解释高度脆弱、可靠性有限。
-
-📚 arXiv:cs.LG · 2026 · 引用 0
-👤 Suramya R. Angdembay
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2611.25796v1</description>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <category>内部威胁检测</category><category>员工监控</category><category>组织安全</category><category>算法决策</category><category>LLM</category><category>可解释 AI</category><category>算法决策</category>
-    </item>    <item>
-      <title>HireWatch：情境压力下LLM对美国就业法律的合规性评估</title>
-      <link>https://ob-ai-papers.vercel.app/papers/85135</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/85135</guid>
-      <description>📝 HireWatch：情境压力下LLM对美国就业法律的合规性评估
-EN: HireWatch: Evaluating LLM Compliance with U.S. Employment Law Under Contextual Pressure
-
-💡 构建含200道合法与违法面试题的HireWatch评测，在约10万次试验中检验18个闭源及开放权重LLM。结果显示，低压力下违法问题较少，但情境压力升高时违规骤增；守法提示可改善合规，却无法彻底消除违法。
-
-📚 arXiv:cs.CL · 2026 · 引用 0
-👤 Huy Nghiem, Maria Kostylew, Noam Kolt
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2611.24970v1</description>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <category>AI招聘</category><category>招聘</category><category>伦理</category><category>法律合规</category><category>LLM</category><category>AI招聘</category><category>AI治理</category>
-    </item>    <item>
-      <title>预测过程级行为：一项基准研究</title>
-      <link>https://ob-ai-papers.vercel.app/papers/85040</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/85040</guid>
-      <description>📝 预测过程级行为：一项基准研究
-EN: Predicting Process-Level Behavior: A Benchmarking Study
-
-💡 针对现有预测性流程监控能否支持流程级管理决策，比较并发轨迹与平均周期时长预测；综合统计、机器学习、基础模型、流程模拟及轨迹级方法，发现直接聚合轨迹级预测会累积误差，流程级预测需独立建模。
-
-📚 arXiv:cs.LG · 2026 · 引用 0
-👤 Michael Grohs, Lukas Kirchdorfer, Jana-Rebecca Rehse
-
-AI 分: 4.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2611.24425v1</description>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <category>业务流程管理</category><category>预测分析</category><category>管理决策</category><category>机器学习</category><category>基础模型</category><category>流程挖掘</category>
-    </item>    <item>
-      <title>高风险AI应用中利益相关方控制与问责的协商：ALIGN方法开发与评估</title>
-      <link>https://ob-ai-papers.vercel.app/papers/85036</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/85036</guid>
-      <description>📝 高风险AI应用中利益相关方控制与问责的协商：ALIGN方法开发与评估
-EN: Negotiating Control and Accountability among Stakeholders in High-Risk AI Use Cases: Development and Evaluation of the Method ALIGN
-
-💡 聚焦高风险AI中人类控制受限与责任错配，结合人因研究、专家访谈和参与观察开发ALIGN方法。该方法可识别并评估利益相关者的控制—责任对齐，辅助风险缓解及全生命周期治理设计。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Lena Schneider, Daniel Boos, Gudela Grote
-
-AI 分: 5.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2611.24609v1</description>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <category>AI治理</category><category>风险与责任</category><category>利益相关者参与</category><category>人机协作</category><category>AI治理</category><category>人机交互</category>
     </item>
   </channel>
 </rss>
