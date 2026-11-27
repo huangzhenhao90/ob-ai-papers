@@ -6,9 +6,54 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 26 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>利用BERT和部分线性回归校正未观测的文本混杂因素</title>
+      <link>https://ob-ai-papers.vercel.app/papers/85677</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/85677</guid>
+      <description>📝 利用BERT和部分线性回归校正未观测的文本混杂因素
+EN: Correcting the Unobserved Textual Confounding Factors in Regression by BERT and Partially Linear Regression
+
+💡 针对文本挖掘中控制变量遗漏引发内生性与遗漏变量偏误，结合BERT文本嵌入和部分线性回归构建半参数模型，在缺乏有效识别策略时自动生成文本控制变量，并保留关键自变量的线性效应。
+
+📚 MgmtSci · 2026 · 引用 0
+👤 Mengke Qiao, Ke‐Wei Huang
+
+AI 分: 4.0 / 领域分: 4.0</description>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <category>文本挖掘</category><category>因果推断</category><category>回归分析</category><category>管理研究方法</category><category>BERT</category><category>自然语言处理</category><category>机器学习</category>
+    </item>    <item>
+      <title>机器的伦理精神？人工伦理精神与信任之探究</title>
+      <link>https://ob-ai-papers.vercel.app/papers/85654</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/85654</guid>
+      <description>📝 机器的伦理精神？人工伦理精神与信任之探究
+EN: A Machine's ethos? An inquiry into artificial ethos and trust
+
+💡 聚焦机器能否呈现“人工 ethos（价值立场）”，以及这种拟人化价值表达如何塑造人的信任。仅据题名可判断，论文以机器 ethos 与信任的关系为核心问题；具体研究对象、理论与方法仍待摘要确认。
+
+📚 CHB · 2024 · 引用 11
+👤 Henrik Skaug Sætra
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <category>信任</category><category>伦理</category><category>人机交互</category><category>人工智能伦理</category><category>AI伦理</category><category>人机交互</category><category>智能体</category>
+    </item>    <item>
+      <title>儿童对诡异人形虚拟角色的感知</title>
+      <link>https://ob-ai-papers.vercel.app/papers/85643</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/85643</guid>
+      <description>📝 儿童对诡异人形虚拟角色的感知
+EN: Children’s perception of uncanny human-like virtual characters
+
+💡 聚焦儿童如何看待具有人类特征却仍显得“诡异”的虚拟角色，考察拟人化外观引发的认知与情感反应。仅据题名可推断，研究关注儿童对这类角色产生好感、信任或不适的可能性，具体设计与结论尚无法确定。
+
+📚 CHB · 2014 · 引用 31
+👤 Angela Tinwell, Robin J.S. Sloan
+
+AI 分: 3.0 / 领域分: 3.0</description>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <category>人机交互</category><category>儿童</category><category>用户体验</category><category>信任</category><category>虚拟智能体</category><category>人机交互</category><category>拟人化人工智能</category>
+    </item>    <item>
       <title>How AI Is Reconfiguring Work in India: A Task-Based Framework for Understanding Augmentation, Displacement, New Roles and the Changing Structure of Jobs</title>
       <link>https://ob-ai-papers.vercel.app/papers/85635</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/85635</guid>
@@ -129,10 +174,12 @@ EN: When GenAI Increases Inequality: Evidence from a University Debating Competi
 
 💡 通过大学辩论竞赛随机实验发现，生成式AI总体扩大能力与绩效差距：高能力者在判断密集型环节收益更大，低能力者仅在可替代的专业程度较低环节获得提升。
 
-📚 MgmtSci · 2026 · 引用 0
+📚 MgmtSci · 2026 · 引用 12
 👤 Antonio Roldán-Monés
 
-AI 分: 5.0 / 领域分: 5.0</description>
+AI 分: 5.0 / 领域分: 5.0
+
+📄 PDF: https://doi.org/10.2139/ssrn.7112578</description>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
       <category>公平性</category><category>教育</category><category>人机协作</category><category>GenAI</category>
     </item>    <item>
@@ -450,57 +497,6 @@ AI 分: 5.0 / 领域分: 5.0
 📄 PDF: https://arxiv.org/pdf/2611.27210v1</description>
       <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
       <category>工作未来</category><category>招聘</category><category>人机协作</category><category>劳动力市场</category><category>AI智能体</category><category>大语言模型（LLM）</category>
-    </item>    <item>
-      <title>Leader Finding：社区问答中专家发现的新变体</title>
-      <link>https://ob-ai-papers.vercel.app/papers/85338</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/85338</guid>
-      <description>📝 Leader Finding：社区问答中专家发现的新变体
-EN: Leader Finding: A New Variation of Expert Finding in Community Question Answering
-
-💡 针对社区问答中的领导者识别，构建融合技术匹配、管理知识及团队沟通能力的概率排序模型，并分别设计评价指标。基于Stack Overflow数据，最佳配置的NDCG@10较最强基线翻倍，表明仅凭专业相关性难以有效识别领导者。
-
-📚 arXiv:cs.IR · 2026 · 引用 0
-👤 Sepideh Entezari Maleki, Mahmood Neshati
-
-AI 分: 4.0 / 领域分: 4.0
-
-📄 PDF: https://arxiv.org/pdf/2611.26921v1</description>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
-      <category>领导力</category><category>人才选拔</category><category>知识管理</category><category>推荐系统</category><category>机器学习</category><category>推荐算法</category>
-    </item>    <item>
-      <title>人类-AI团队中的共享理解：演变工作中的协调连续性</title>
-      <link>https://ob-ai-papers.vercel.app/papers/85333</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/85333</guid>
-      <description>📝 人类-AI团队中的共享理解：演变工作中的协调连续性
-EN: Shared Understanding in Human-AI Teams: Coordination Continuity in Evolving Work
-
-💡 针对人机团队异步、演化工作提出“协调连续性”框架，通过两项定性团队研究及案例反思，归纳持久表征、相对协调属性和交互机制三要素，并以“构建—行动—偏移—重建”启发式识别协作基础需重建的时点，进一步提出协作式AI基础设施设计启示。
-
-📚 arXiv:cs.HC · 2026 · 引用 0
-👤 Siân Lindley, Britta Burlin, Christian Poelitz, Lev Tankelevitch, Richard Banks
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2611.27746v1</description>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
-      <category>人机协作</category><category>团队</category><category>工作设计</category><category>组织学习</category><category>AI智能体</category><category>人机交互</category>
-    </item>    <item>
-      <title>高级智能体是否履行职责：LLM智能体使用下属材料时的角色操守评估</title>
-      <link>https://ob-ai-papers.vercel.app/papers/85331</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/85331</guid>
-      <description>📝 高级智能体是否履行职责：LLM智能体使用下属材料时的角色操守评估
-EN: Do Senior Agents Do Their Job? Measuring Role Integrity in How LLM Agents Use Subordinate Material
-
-💡 RI-Bench通过操控下级代理材料并检验输出变化，评估高级代理是否履行权衡、核实和转述职责。跨8种LLM、逾1.2万次代理测试发现，高级代理很少采纳植入的程序错误，却常跟随泛化评审的多数意见，并忽略证人陈述的局限。
-
-📚 arXiv:cs.CL · 2026 · 引用 0
-👤 Jinxiang Xie, Xinyi Zhang, Changjiang Jiang, Kexu Liu, Qi Yang
-
-AI 分: 5.0 / 领域分: 3.0
-
-📄 PDF: https://arxiv.org/pdf/2611.27139v1</description>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
-      <category>团队</category><category>决策</category><category>组织治理</category><category>LLM</category><category>多智能体</category><category>AI评测</category>
     </item>
   </channel>
 </rss>
