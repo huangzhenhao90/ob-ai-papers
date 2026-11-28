@@ -6,9 +6,66 @@
     <atom:link href="https://ob-ai-papers.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
     <description>组织行为学 / 营销学 / 管理学领域 AI 论文索引 — 双 LLM 打分 + 中文标题 + TL;DR</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 27 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 00:00:00 +0000</lastBuildDate>
     <generator>ob-ai-papers export pipeline</generator>
     <item>
+      <title>Complex analyses for complex problems: Beyond the pathologization of Generative AI and the stigmatization of its use</title>
+      <link>https://ob-ai-papers.vercel.app/papers/85751</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/85751</guid>
+      <description>📝 Complex analyses for complex problems: Beyond the pathologization of Generative AI and the stigmatization of its use
+
+💡 反驳大语言模型必然损害管理知识的观点：知识退化并非源于个体误用，而更多受既有制度缺陷和筛选机制制约；仅关注强化回路还会忽视生产性使用、稀缺溢价及把关收紧等二阶效应，主张治理系统性问题而非污名化LLM。
+
+📚 HR · 2026 · 引用 1
+👤 Stratos Ramoglou, Matthew A. Cronin
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
+      <category>知识管理</category><category>组织学习</category><category>AI治理</category><category>GenAI</category><category>LLM</category><category>AI治理</category>
+    </item>    <item>
+      <title>More than a ‘tool’: A systems-theory perspective on how large language models endogenously transform management knowledge (for the worse)</title>
+      <link>https://ob-ai-papers.vercel.app/papers/85750</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/85750</guid>
+      <description>📝 More than a ‘tool’: A systems-theory perspective on how large language models endogenously transform management knowledge (for the worse)
+
+💡 以发展系统理论审视LLM作为认识技术如何内生改变管理知识生产：通过认知替代与反馈回路模型，揭示其如何压缩真理和可能知识的范围，并使围绕工作的社会关系知识失真；该模型既用于诊断负向循环，也提示单独归咎LLM不足以逆转问题。
+
+📚 HR · 2026 · 引用 0
+👤 Eimear Nolan, Dirk Lindebaum, Mehreen Ashraf
+
+AI 分: 5.0 / 领域分: 5.0</description>
+      <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
+      <category>知识管理</category><category>组织学习</category><category>人机协作</category><category>GenAI</category><category>LLM</category><category>人机协作</category>
+    </item>    <item>
+      <title>After AI Checks, Who Consolidates? Responsibility Allocation in Human–GenAI Inquiry</title>
+      <link>https://ob-ai-papers.vercel.app/papers/85717</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/85717</guid>
+      <description>📝 After AI Checks, Who Consolidates? Responsibility Allocation in Human–GenAI Inquiry
+
+💡 根据标题推测，关注人—生成式AI协作查证后由谁整合证据并承担责任，比较AI检查与人类判断的责任边界，避免AI参与后出现责任悬空。因摘要缺失，具体方法、结论及适用情境仍待核验。
+
+📚 CHB · 2026 · 引用 0
+👤 Chia-Mei Lu, Shu Ching Yang
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
+      <category>人机协作</category><category>信任</category><category>伦理</category><category>责任分配</category><category>GenAI</category><category>人机交互</category><category>AI治理</category>
+    </item>    <item>
+      <title>从社会信任到AI技术接受：新加坡AI驱动自动驾驶汽车采纳的面板研究</title>
+      <link>https://ob-ai-papers.vercel.app/papers/85716</link>
+      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/85716</guid>
+      <description>📝 从社会信任到AI技术接受：新加坡AI驱动自动驾驶汽车采纳的面板研究
+EN: From social trust to AI technology acceptance: A panel study of AI-Powered autonomous vehicle adoption in Singapore
+
+💡 基于新加坡面板数据，分析社会信任对AI驱动自动驾驶汽车接受与采用的影响。结果指向社会信任是促成技术接受与采用的重要前置因素；因缺少摘要，具体机制与效应大小尚无法判断。
+
+📚 CHB · 2026 · 引用 1
+👤 Hongjie Tang, Shirley S. Ho, Liang Chen
+
+AI 分: 5.0 / 领域分: 4.0</description>
+      <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
+      <category>信任</category><category>消费者行为</category><category>技术接受</category><category>自动驾驶</category><category>人机交互</category>
+    </item>    <item>
       <title>利用BERT和部分线性回归校正未观测的文本混杂因素</title>
       <link>https://ob-ai-papers.vercel.app/papers/85677</link>
       <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/85677</guid>
@@ -435,68 +492,6 @@ AI 分: 5.0 / 领域分: 5.0
 📄 PDF: https://arxiv.org/pdf/2611.31095v1</description>
       <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
       <category>工作设计</category><category>员工幸福感</category><category>人机协作</category><category>决策</category><category>LLM</category><category>算法决策</category><category>人机协作</category>
-    </item>    <item>
-      <title>理解思维链提示对人类与生成式AI协作的影响</title>
-      <link>https://ob-ai-papers.vercel.app/papers/85399</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/85399</guid>
-      <description>📝 理解思维链提示对人类与生成式AI协作的影响
-EN: Understanding the Prompting Effects of Chain-of-Thought on Human Collaboration with Generative AI
-
-💡 基于启发式—系统式模型并开展多项在线实验，检验思维链提示如何影响用户对生成式AI的能力信任。高质量思维链在各任务难度下均提升信任，主要通过透明度、诊断性与有益认知负荷发挥作用；低质量思维链在高难度任务中反而可能因透明度而放大错误信任。
-
-📚 ISR · 2026 · 引用 0
-👤 Xusen Cheng, Lu Gao, Qiguang Yang, Xin Robert Luo
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-      <category>信任</category><category>人机协作</category><category>认知机制</category><category>GenAI</category><category>思维链提示</category><category>可解释 AI</category><category>人机交互</category>
-    </item>    <item>
-      <title>从有偏样本中学习</title>
-      <link>https://ob-ai-papers.vercel.app/papers/85392</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/85392</guid>
-      <description>📝 从有偏样本中学习
-EN: Learning from a Biased Sample
-
-💡 针对训练样本中群体过度或不足代表总体所导致的部署失效，构建条件采样偏差模型，以分布鲁棒优化学习最坏情形风险规则，并借助筛法获得统计保证及深度学习实现。
-
-📚 MgmtSci · 2026 · 引用 0
-👤 Roshni Sahoo, Lihua Lei, Stefan Wager
-
-AI 分: 5.0 / 领域分: 5.0</description>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-      <category>决策</category><category>偏见</category><category>公平性</category><category>算法管理</category><category>机器学习</category><category>深度学习</category><category>算法决策</category><category>分布鲁棒优化</category>
-    </item>    <item>
-      <title>深度伪造过去：被复活历史人物的记忆与感知真实性</title>
-      <link>https://ob-ai-papers.vercel.app/papers/85348</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/85348</guid>
-      <description>📝 深度伪造过去：被复活历史人物的记忆与感知真实性
-EN: Deepfaking the past: Memory and perceived truth of resurrected historical figures
-
-💡 仅据标题推断，研究关注利用深度伪造“复活”历史人物后，受众的历史记忆与感知真实性如何变化，考察逼真数字再现对事实认知的潜在影响。未提供摘要，无法确认具体实验设计或方向性结果。
-
-📚 CHB · 2026 · 引用 2
-👤 María T. Soto-Sanfiel, Gina Junhan Fu
-
-AI 分: 5.0 / 领域分: 4.0</description>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-      <category>记忆</category><category>感知真实性</category><category>媒体效应</category><category>伦理</category><category>深度伪造</category><category>生成式AI</category>
-    </item>    <item>
-      <title>智能体的崛起与人类劳动力市场</title>
-      <link>https://ob-ai-papers.vercel.app/papers/85339</link>
-      <guid isPermaLink="true">https://ob-ai-papers.vercel.app/papers/85339</guid>
-      <description>📝 智能体的崛起与人类劳动力市场
-EN: The Rise of Agents and the Human Labor Market
-
-💡 基于逾两万亿Token消费数据与3480万条职位发布，测算企业对智能体AI的暴露度。暴露度每升高一个标准差，未来6—9个月职位发布增速下降2.11%—3.20%，影响集中于非资深岗位；控制智能体暴露后，广义AI消费与招聘增长无显著关系。
-
-📚 arXiv:econ.GN · 2026 · 引用 0
-👤 Nicola Borri, Anton Cheremukhin, Yukun Liu, Aleh Tsyvinski
-
-AI 分: 5.0 / 领域分: 5.0
-
-📄 PDF: https://arxiv.org/pdf/2611.27210v1</description>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
-      <category>工作未来</category><category>招聘</category><category>人机协作</category><category>劳动力市场</category><category>AI智能体</category><category>大语言模型（LLM）</category>
     </item>
   </channel>
 </rss>
